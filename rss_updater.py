@@ -1,35 +1,40 @@
 import os
+from pathlib import Path
 
 import pandas as pd
 import feedparser
 
-
-# https://refurb-tracker.com/feeds/es_in_ipad_iphone_ipod_homepod_imac_imacpro_macpro_macstudio_mini_macbookpro_macbookair_watch_atv_acc.xml
-
-
-url = "https://refurb-tracker.com/feeds/es_in_all.xml"
-feed = feedparser.parse(url)
-
-# for entry in feed.entries:
-#     print("Entry Id:", entry.id)
-#     print("Entry Title:", entry.title)
-#     print("Entry Date:", entry.updated)
-#     print("Entry Link:", entry.link)
-#     print("\n")
-
-# print(feed.entries)
+from config import BASE_URL, BASE_DIR, COUNTRIES, PRODUCTS
 
 
-# Use pd.json_normalize to convert the JSON to a DataFrame
-df = pd.json_normalize(feed.entries)
-# Select the main columns
-df = df[["updated", "title", "link"]]
+def process_feed(country, product, base_dir, base_url):
+    dir = Path(base_dir) / country
+    url = f"{base_url}/{country}_in_{product}.xml"
+    target_csv = dir / f"refurb_tracker_{product}.csv"
 
-# Rename the columns for clarity
-df.columns = ["Date", "Title", "Link"]
+    feed = feedparser.parse(url)
 
-# Display the DataFrame
-# print(df)
+    # Read the rss feed
+    df_new = pd.json_normalize(feed.entries)
 
-# Store dataframe in csv file
-df.to_csv("data/es/refurb_tracker_all.csv", index=False)
+    # Select and rename columns if dataframe is not empty
+    if not df_new.empty:
+        df_new = df_new[["updated", "title", "link"]]
+        # Rename columns
+        df_new.columns = ["Date", "Title", "Link"]
+
+        # If there is already a csv file in the target location, insert new.
+        if target_csv.exists():
+            df_old = pd.read_csv(target_csv)
+            df = pd.concat([df_old, df_new]).drop_duplicates()
+        else:
+            df = df_new
+
+        # Store to target csv
+        df.to_csv(target_csv, index=False)
+
+
+# Iterate through countries and products
+for country in COUNTRIES:
+    for product in PRODUCTS:
+        process_feed(country, product, BASE_DIR, BASE_URL)
