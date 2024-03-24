@@ -51,3 +51,10 @@ PRODUCTS: Final = [
     "atv",
     "acc",
 ]
+
+
+def logMessage(message: str, file: str = None):
+    print(message)
+    if file:
+        with open(file, "a+") as outfile:
+            outfile.write(f"{message}\n")
