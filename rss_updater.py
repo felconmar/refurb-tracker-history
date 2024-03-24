@@ -44,7 +44,7 @@ def main():
     log_file_name = "ReadPathFile-{date:%Y%m%d_%H%M%S}.log".format(
         date=datetime.datetime.now()
     )
-    log_file = f"logs\\{log_file_name}"
+    log_file = Path("logs") / f"{log_file_name}"
     # Iterate through countries and products
     for country in COUNTRIES:
         for product in PRODUCTS:
