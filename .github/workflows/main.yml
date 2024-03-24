@@ -1,10 +1,9 @@
 name: Update RSS Data
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Run the workflow daily
 
-# on:
-#  schedule:
-#    - cron: '0 0 * * *'  # Run the workflow daily
-
-on: [workflow_dispatch]
+# on: [workflow_dispatch]
 
 jobs:
   update-data:
