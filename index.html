@@ -101,7 +101,8 @@
         function updateCsvPath() {
             var country = document.getElementById("countrySelector").value;
             var product = document.getElementById("productSelector").value;
-            var csvPath = "data\\" + country + "\\refurb_tracker_" + product + ".csv";
+            var csvPath = "data/" + country + "/refurb_tracker_" + product + ".csv";
+            console.log("CSV Path:", csvPath); // Check the constructed CSV path in the console
             CsvToHtmlTable.update({
                 csv_path: csvPath
             });
