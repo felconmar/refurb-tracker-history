@@ -21,6 +21,55 @@
             <div class="col">
                 <h1>Refurb Tracker Historic Data</h1>
 
+                <!-- Selector for country -->
+                <label for="countrySelector">Select Country:</label>
+                <select id="countrySelector" onchange="updateCsvPath()">
+                    <option value="au">Australia</option>
+                    <option value="bx">Belgium</option>
+                    <option value="be">Belize</option>
+                    <option value="ca">Canada</option>
+                    <option value="xf">Country X</option>
+                    <option value="cn">China</option>
+                    <option value="de">Germany</option>
+                    <option value="es">Spain</option>
+                    <option value="fr">France</option>
+                    <option value="hk">Hong Kong</option>
+                    <option value="ie">Ireland</option>
+                    <option value="it">Italy</option>
+                    <option value="jp">Japan</option>
+                    <option value="nl">Netherlands</option>
+                    <option value="nz">New Zealand</option>
+                    <option value="at">Austria</option>
+                    <option value="pl">Poland</option>
+                    <option value="sg">Singapore</option>
+                    <option value="kr">South Korea</option>
+                    <option value="cx">Country X</option>
+                    <option value="ch">Switzerland</option>
+                    <option value="tw">Taiwan</option>
+                    <option value="uk">United Kingdom</option>
+                    <option value="us">United States</option>
+                </select>
+
+                <!-- Selector for product -->
+                <label for="productSelector">Select Product:</label>
+                <select id="productSelector" onchange="updateCsvPath()">
+                    <option value="all">All</option>
+                    <option value="ipad">iPad</option>
+                    <option value="iphone">iPhone</option>
+                    <option value="ipod">iPod</option>
+                    <option value="homepod">HomePod</option>
+                    <option value="imac">iMac</option>
+                    <option value="imacpro">iMac Pro</option>
+                    <option value="macpro">Mac Pro</option>
+                    <option value="macstudio">Mac Studio</option>
+                    <option value="mini">Mac Mini</option>
+                    <option value="macbookpro">MacBook Pro</option>
+                    <option value="macbookair">MacBook Air</option>
+                    <option value="watch">Apple Watch</option>
+                    <option value="atv">Apple TV</option>
+                    <option value="acc">Accessories</option>
+                </select>
+
                 <div id="table-container"></div>
             </div>
         </main>
@@ -48,8 +97,18 @@
             else return "";
         }
 
+        // Function to update CSV path based on selectors
+        function updateCsvPath() {
+            var country = document.getElementById("countrySelector").value;
+            var product = document.getElementById("productSelector").value;
+            var csvPath = "data\\" + country + "\\refurb_tracker_" + product + ".csv";
+            CsvToHtmlTable.update({
+                csv_path: csvPath
+            });
+        }
+
         CsvToHtmlTable.init({
-            csv_path: "data\\es\\refurb_tracker_all.csv",
+            csv_path: "data\\es\\refurb_tracker_iphone.csv",
             element: "table-container",
             allow_download: true,
             csv_options: {
