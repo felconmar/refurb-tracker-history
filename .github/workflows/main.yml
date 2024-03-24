@@ -1,0 +1,25 @@
+name: Update RSS Data
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Run the workflow daily
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Run Update Script
+        run: |
+          python rss_updater.py
+
+      - name: Commit Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Update data from RSS feed"
+          git push
