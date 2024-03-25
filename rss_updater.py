@@ -41,7 +41,7 @@ def process_feed(country, product, base_dir, base_url, log_file):
 
 def main():
     # Log file creation
-    log_file_name = "ReadPathFile-{date:%Y%m%d_%H%M%S}.log".format(
+    log_file_name = "RSSUpdaterRun-{date:%Y%m%d_%H%M%S}.log".format(
         date=datetime.datetime.now()
     )
     log_file = Path("logs") / f"{log_file_name}"
