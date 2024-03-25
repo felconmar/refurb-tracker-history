@@ -27,14 +27,16 @@ def process_feed(country, product, base_dir, base_url, log_file):
         if target_csv.exists():
             df_old = pd.read_csv(target_csv)
             df = pd.concat([df_old, df_new]).drop_duplicates()
+            new_items = len(df.index) - len(df_old.index)
         else:
             df = df_new
+            new_items = len(df.index)
 
         # Store to target csv
         df.to_csv(target_csv, index=False)
 
         # Log new inserts
-        new_items = len(df.index) - len(df_old.index)
+        
         msg = f"Country: {country}, product: {product} --> new items: {new_items}"
         logMessage(msg, log_file)
 
