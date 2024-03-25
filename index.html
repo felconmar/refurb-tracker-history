@@ -23,7 +23,7 @@
 
                 <!-- Selector for country -->
                 <label for="countrySelector">Select Country:</label>
-                <select id="countrySelector" onchange="updateCsvPath()">
+                <select id="countrySelector">
                     <option value="au">Australia</option>
                     <option value="bx">Belgium</option>
                     <option value="be">Belize</option>
@@ -52,8 +52,7 @@
 
                 <!-- Selector for product -->
                 <label for="productSelector">Select Product:</label>
-                <select id="productSelector" onchange="updateCsvPath()">
-                    <option value="all">All</option>
+                <select id="productSelector">
                     <option value="ipad">iPad</option>
                     <option value="iphone">iPhone</option>
                     <option value="ipod">iPod</option>
@@ -69,6 +68,8 @@
                     <option value="atv">Apple TV</option>
                     <option value="acc">Accessories</option>
                 </select>
+
+                <button onclick="updateCsvPath()">Refresh Table</button> <!-- Button to refresh table -->
 
                 <div id="table-container"></div>
             </div>
@@ -102,14 +103,13 @@
             var country = document.getElementById("countrySelector").value;
             var product = document.getElementById("productSelector").value;
             var csvPath = "data/" + country + "/refurb_tracker_" + product + ".csv";
-            console.log("CSV Path:", csvPath); // Check the constructed CSV path in the console
             CsvToHtmlTable.update({
                 csv_path: csvPath
             });
         }
 
         CsvToHtmlTable.init({
-            csv_path: "data\\es\\refurb_tracker_iphone.csv",
+            csv_path: "data/es/refurb_tracker_iphone.csv",
             element: "table-container",
             allow_download: true,
             csv_options: {

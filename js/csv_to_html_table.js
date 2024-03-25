@@ -16,45 +16,48 @@ CsvToHtmlTable = {
             customTemplates[colIdx] = func;
         });
 
-        var $table = $("<table class='table table-striped table-condensed' id='" + el + "-table'></table>");
-        var $containerElement = $("#" + el);
-        $containerElement.empty().append($table);
-
-        $.when($.get(csv_path)).then(
-            function (data) {
+        this.loadTable = function (csvPath) {
+            $.get(csvPath).then(function (data) {
                 var csvData = $.csv.toArrays(data, csv_options);
-                var $tableHead = $("<thead></thead>");
-                var csvHeaderRow = csvData[0];
-                var $tableHeadRow = $("<tr></tr>");
-                for (var headerIdx = 0; headerIdx < csvHeaderRow.length; headerIdx++) {
-                    $tableHeadRow.append($("<th></th>").text(csvHeaderRow[headerIdx]));
-                }
-                $tableHead.append($tableHeadRow);
+                var $table = $("#" + el + "-table");
+                $table.DataTable().destroy();
+                $table.empty();
+                var $thead = $("<thead></thead>");
+                var $tbody = $("<tbody></tbody>");
 
-                $table.append($tableHead);
-                var $tableBody = $("<tbody></tbody>");
-
-                for (var rowIdx = 1; rowIdx < csvData.length; rowIdx++) {
-                    var $tableBodyRow = $("<tr></tr>");
-                    for (var colIdx = 0; colIdx < csvData[rowIdx].length; colIdx++) {
-                        var $tableBodyRowTd = $("<td></td>");
-                        var cellTemplateFunc = customTemplates[colIdx];
+                $.each(csvData, function (rowIndex, rowData) {
+                    var $row = $("<tr></tr>");
+                    $.each(rowData, function (colIndex, cellData) {
+                        var $cell = $("<td></td>");
+                        var cellTemplateFunc = customTemplates[colIndex];
                         if (cellTemplateFunc) {
-                            $tableBodyRowTd.html(cellTemplateFunc(csvData[rowIdx][colIdx]));
+                            $cell.html(cellTemplateFunc(cellData));
                         } else {
-                            $tableBodyRowTd.text(csvData[rowIdx][colIdx]);
+                            $cell.text(cellData);
                         }
-                        $tableBodyRow.append($tableBodyRowTd);
-                        $tableBody.append($tableBodyRow);
+                        $row.append($cell);
+                    });
+                    if (rowIndex === 0) {
+                        $thead.append($row);
+                    } else {
+                        $tbody.append($row);
                     }
-                }
-                $table.append($tableBody);
+                });
 
+                $table.append($thead).append($tbody);
                 $table.DataTable(datatables_options);
 
                 if (allow_download) {
-                    $containerElement.append("<p><a class='btn btn-info' href='" + csv_path + "'><i class='glyphicon glyphicon-download'></i> Download as CSV</a></p>");
+                    $("#" + el).append("<p><a class='btn btn-info' href='" + csvPath + "'><i class='glyphicon glyphicon-download'></i> Download as CSV</a></p>");
                 }
             });
+        };
+
+        this.update = function (options) {
+            var updatedCsvPath = options.csv_path || csv_path;
+            this.loadTable(updatedCsvPath);
+        };
+
+        this.loadTable(csv_path);
     }
 };
