@@ -104,7 +104,19 @@
             var product = document.getElementById("productSelector").value;
             var csvPath = "data\\" + country + "\\refurb_tracker_" + product + ".csv";
             CsvToHtmlTable.update({
-                csv_path: csvPath
+                csv_path: csvPath,
+                element: "table-container",
+                allow_download: true,
+                csv_options: {
+                    separator: ",",
+                    delimiter: '"'
+                },
+                datatables_options: {
+                    paging: true
+                },
+                custom_formatting: [
+                    [2, format_link]
+                ]
             });
         }
 
@@ -123,6 +135,9 @@
                 [2, format_link]
             ]
         });
+
+
+
     </script>
 </body>
 
