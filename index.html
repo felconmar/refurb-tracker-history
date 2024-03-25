@@ -102,14 +102,14 @@
         function updateCsvPath() {
             var country = document.getElementById("countrySelector").value;
             var product = document.getElementById("productSelector").value;
-            var csvPath = "data/" + country + "/refurb_tracker_" + product + ".csv";
+            var csvPath = "data\\" + country + "\\refurb_tracker_" + product + ".csv";
             CsvToHtmlTable.update({
                 csv_path: csvPath
             });
         }
 
         CsvToHtmlTable.init({
-            csv_path: "data/es/refurb_tracker_iphone.csv",
+            csv_path: "data\\es\\refurb_tracker_iphone.csv",
             element: "table-container",
             allow_download: true,
             csv_options: {
