@@ -1,4 +1,3 @@
-import os
 from pathlib import Path
 import datetime
 
@@ -35,22 +34,51 @@ def process_feed(country, product, base_dir, base_url, log_file):
         # Store to target csv
         df.to_csv(target_csv, index=False)
 
-        # Log new inserts
-        
-        msg = f"Country: {country}, product: {product} --> new items: {new_items}"
-        logMessage(msg, log_file)
+        if new_items != 0:
+            # Log new inserts
+            msg = f"Country: {country}, product: {product} --> new items: {new_items}"
+            logMessage(msg, log_file)
+
+def check_log_file(log_file_path):
+    try:
+        with open(log_file_path, 'r') as file:
+            lines = file.readlines()
+            last_line = lines[-1].strip()
+            if last_line.startswith("Date: "):
+                return True
+            else:
+                return False
+    except FileNotFoundError:
+        print("Log file not found.")
 
 
 def main():
+    date=datetime.datetime.now()
     # Log file creation
-    log_file_name = "RSSUpdaterRun-{date:%Y%m%d_%H%M%S}.log".format(
-        date=datetime.datetime.now()
+    log_file_name = "RSSUpdaterRun-{date:%Y%m}.log".format(
+        date=date
     )
     log_file = Path("logs") / f"{log_file_name}"
+
+    # Date initial message for logs
+    date_msg = "Date: {date:%Y/%m/%d %H:%M:%S}".format(
+        date=date
+    )
+    logMessage(date_msg, log_file)
+
     # Iterate through countries and products
     for country in COUNTRIES:
         for product in PRODUCTS:
             process_feed(country, product, BASE_DIR, BASE_URL, log_file)
+
+    # Log that there are no entires if aplicable.
+    if check_log_file(log_file):
+        no_entries_msg = "No new entries."
+        logMessage(no_entries_msg, log_file)
+
+    # Date separator message
+    end_msg = "-" * 60 
+    logMessage(end_msg, log_file)
 
 
 if __name__ == "__main__":
