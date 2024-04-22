@@ -1701,3 +1701,13 @@ Country: xf, product: atv --> new items: 1
 Country: us, product: macbookpro --> new items: 14
 Country: us, product: atv --> new items: 1
 ------------------------------------------------------------
+Date: 2024/04/22 23:06:50
+Country: ca, product: macbookpro --> new items: 11
+Country: ca, product: macbookair --> new items: 14
+Country: xf, product: macbookpro --> new items: 11
+Country: xf, product: macbookair --> new items: 13
+Country: ie, product: macbookpro --> new items: 3
+Country: uk, product: macbookpro --> new items: 3
+Country: us, product: macbookpro --> new items: 17
+Country: us, product: macbookair --> new items: 13
+------------------------------------------------------------
