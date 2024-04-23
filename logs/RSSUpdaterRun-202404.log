@@ -1805,3 +1805,10 @@ Country: de, product: imac --> new items: 1
 Country: at, product: imac --> new items: 1
 Country: us, product: macstudio --> new items: 1
 ------------------------------------------------------------
+Date: 2024/04/23 20:07:35
+Country: au, product: watch --> new items: 1
+Country: ca, product: macbookair --> new items: 14
+Country: xf, product: macbookair --> new items: 14
+Country: nz, product: watch --> new items: 1
+Country: us, product: macbookair --> new items: 14
+------------------------------------------------------------
