@@ -1812,3 +1812,11 @@ Country: xf, product: macbookair --> new items: 14
 Country: nz, product: watch --> new items: 1
 Country: us, product: macbookair --> new items: 14
 ------------------------------------------------------------
+Date: 2024/04/23 21:06:53
+Country: ca, product: macbookpro --> new items: 1
+Country: ca, product: macbookair --> new items: 14
+Country: xf, product: macbookair --> new items: 14
+Country: ie, product: iphone --> new items: 1
+Country: us, product: macbookpro --> new items: 1
+Country: us, product: macbookair --> new items: 14
+------------------------------------------------------------
