@@ -1936,3 +1936,8 @@ Country: xf, product: mini --> new items: 4
 Country: fr, product: macbookpro --> new items: 1
 Country: us, product: mini --> new items: 4
 ------------------------------------------------------------
+Date: 2024/04/24 20:08:12
+Country: ca, product: macbookair --> new items: 1
+Country: xf, product: macbookair --> new items: 1
+Country: us, product: macbookair --> new items: 6
+------------------------------------------------------------
