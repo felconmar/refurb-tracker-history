@@ -2139,3 +2139,8 @@ Country: ca, product: imac --> new items: 11
 Country: xf, product: imac --> new items: 11
 Country: us, product: imac --> new items: 11
 ------------------------------------------------------------
+Date: 2024/04/26 04:08:41
+Country: au, product: macbookair --> new items: 3
+Country: jp, product: mini --> new items: 1
+Country: nz, product: macbookair --> new items: 3
+------------------------------------------------------------
