@@ -2502,3 +2502,9 @@ Country: xf, product: imac --> new items: 6
 Country: us, product: iphone --> new items: 1
 Country: us, product: imac --> new items: 14
 ------------------------------------------------------------
+Date: 2024/04/30 00:32:51
+Country: ca, product: imac --> new items: 8
+Country: xf, product: imac --> new items: 8
+Country: jp, product: macbookpro --> new items: 19
+Country: jp, product: macbookair --> new items: 12
+------------------------------------------------------------
