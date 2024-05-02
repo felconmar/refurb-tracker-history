@@ -247,3 +247,13 @@ Country: uk, product: macbookpro --> new items: 2
 Country: uk, product: macbookair --> new items: 1
 Country: us, product: macbookpro --> new items: 9
 ------------------------------------------------------------
+Date: 2024/05/02 20:08:48
+Country: ca, product: macbookpro --> new items: 1
+Country: ca, product: macbookair --> new items: 2
+Country: xf, product: macbookpro --> new items: 2
+Country: xf, product: macbookair --> new items: 2
+Country: ie, product: iphone --> new items: 1
+Country: us, product: mini --> new items: 1
+Country: us, product: macbookpro --> new items: 1
+Country: us, product: macbookair --> new items: 5
+------------------------------------------------------------
