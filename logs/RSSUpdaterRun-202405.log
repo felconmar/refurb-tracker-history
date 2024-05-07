@@ -717,3 +717,29 @@ Date: 2024/05/07 14:07:06
 Country: cn, product: macbookpro --> new items: 1
 Country: de, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2024/05/07 15:07:26
+Country: bx, product: ipad --> new items: 46
+Country: be, product: ipad --> new items: 46
+Country: ca, product: ipad --> new items: 31
+Country: ca, product: macbookpro --> new items: 1
+Country: xf, product: ipad --> new items: 31
+Country: xf, product: macbookpro --> new items: 1
+Country: de, product: ipad --> new items: 13
+Country: es, product: ipad --> new items: 21
+Country: ie, product: ipad --> new items: 34
+Country: ie, product: acc --> new items: 2
+Country: it, product: ipad --> new items: 21
+Country: nl, product: ipad --> new items: 46
+Country: at, product: ipad --> new items: 13
+Country: at, product: macbookair --> new items: 1
+Country: pl, product: ipad --> new items: 11
+Country: sg, product: acc --> new items: 1
+Country: cx, product: ipad --> new items: 21
+Country: ch, product: ipad --> new items: 21
+Country: tw, product: ipad --> new items: 1
+Country: uk, product: ipad --> new items: 34
+Country: uk, product: acc --> new items: 2
+Country: us, product: ipad --> new items: 25
+Country: us, product: macbookpro --> new items: 1
+Country: us, product: watch --> new items: 8
+------------------------------------------------------------
