@@ -797,3 +797,12 @@ Country: cn, product: macbookpro --> new items: 1
 Country: de, product: macbookpro --> new items: 1
 Country: us, product: macbookair --> new items: 23
 ------------------------------------------------------------
+Date: 2024/05/08 00:28:15
+Country: ca, product: imac --> new items: 1
+Country: ca, product: macbookpro --> new items: 12
+Country: xf, product: imac --> new items: 1
+Country: xf, product: macbookpro --> new items: 11
+Country: cn, product: macbookpro --> new items: 1
+Country: us, product: imac --> new items: 1
+Country: us, product: macbookpro --> new items: 11
+------------------------------------------------------------
