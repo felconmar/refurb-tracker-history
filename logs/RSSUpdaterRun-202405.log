@@ -1584,3 +1584,12 @@ Country: es, product: macbookpro --> new items: 1
 Country: us, product: mini --> new items: 6
 Country: us, product: macbookpro --> new items: 3
 ------------------------------------------------------------
+Date: 2024/05/13 18:08:22
+Country: ca, product: macstudio --> new items: 3
+Country: ca, product: mini --> new items: 4
+Country: xf, product: mini --> new items: 9
+Country: cn, product: macbookpro --> new items: 1
+Country: uk, product: macbookpro --> new items: 1
+Country: us, product: macstudio --> new items: 5
+Country: us, product: mini --> new items: 4
+------------------------------------------------------------
