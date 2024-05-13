@@ -1505,3 +1505,15 @@ Date: 2024/05/13 09:08:12
 Country: jp, product: macbookpro --> new items: 3
 Country: kr, product: macbookpro --> new items: 5
 ------------------------------------------------------------
+Date: 2024/05/13 10:08:25
+Country: cn, product: ipad --> new items: 1
+Country: cn, product: macbookpro --> new items: 1
+Country: cn, product: macbookair --> new items: 4
+Country: hk, product: macbookpro --> new items: 2
+Country: hk, product: macbookair --> new items: 4
+Country: jp, product: macstudio --> new items: 6
+Country: jp, product: mini --> new items: 7
+Country: jp, product: macbookpro --> new items: 23
+Country: jp, product: macbookair --> new items: 35
+Country: kr, product: macbookpro --> new items: 4
+------------------------------------------------------------
