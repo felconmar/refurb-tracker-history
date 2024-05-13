@@ -1616,3 +1616,10 @@ Country: uk, product: macbookair --> new items: 1
 Country: us, product: macbookpro --> new items: 18
 Country: us, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2024/05/13 21:07:57
+Country: ca, product: macbookpro --> new items: 22
+Country: xf, product: macbookpro --> new items: 12
+Country: ie, product: macbookair --> new items: 11
+Country: uk, product: macbookair --> new items: 11
+Country: us, product: macbookpro --> new items: 12
+------------------------------------------------------------
