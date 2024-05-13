@@ -1628,3 +1628,15 @@ Country: ca, product: macbookpro --> new items: 5
 Country: xf, product: macbookpro --> new items: 10
 Country: us, product: macbookpro --> new items: 10
 ------------------------------------------------------------
+Date: 2024/05/13 23:07:46
+Country: bx, product: macstudio --> new items: 1
+Country: be, product: macstudio --> new items: 1
+Country: ca, product: mini --> new items: 1
+Country: ca, product: macbookpro --> new items: 10
+Country: xf, product: mini --> new items: 1
+Country: xf, product: macbookpro --> new items: 6
+Country: xf, product: macbookair --> new items: 5
+Country: nl, product: macstudio --> new items: 1
+Country: us, product: mini --> new items: 1
+Country: us, product: macbookpro --> new items: 6
+------------------------------------------------------------
