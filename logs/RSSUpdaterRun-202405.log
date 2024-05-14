@@ -1640,3 +1640,15 @@ Country: nl, product: macstudio --> new items: 1
 Country: us, product: mini --> new items: 1
 Country: us, product: macbookpro --> new items: 6
 ------------------------------------------------------------
+Date: 2024/05/14 00:34:25
+Country: ca, product: mini --> new items: 1
+Country: ca, product: macbookpro --> new items: 9
+Country: ca, product: macbookair --> new items: 13
+Country: xf, product: mini --> new items: 1
+Country: xf, product: macbookpro --> new items: 5
+Country: xf, product: macbookair --> new items: 9
+Country: us, product: homepod --> new items: 1
+Country: us, product: mini --> new items: 1
+Country: us, product: macbookpro --> new items: 5
+Country: us, product: macbookair --> new items: 14
+------------------------------------------------------------
