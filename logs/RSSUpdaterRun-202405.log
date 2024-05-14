@@ -1672,3 +1672,9 @@ Country: us, product: macbookpro --> new items: 1
 Date: 2024/05/14 05:08:26
 Country: sg, product: macbookair --> new items: 4
 ------------------------------------------------------------
+Date: 2024/05/14 06:12:11
+Country: cn, product: mini --> new items: 1
+Country: tw, product: mini --> new items: 3
+Country: tw, product: macbookpro --> new items: 8
+Country: tw, product: macbookair --> new items: 2
+------------------------------------------------------------
