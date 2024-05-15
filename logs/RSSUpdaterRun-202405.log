@@ -1850,3 +1850,8 @@ Country: us, product: homepod --> new items: 1
 Country: us, product: mini --> new items: 6
 Country: us, product: macbookair --> new items: 8
 ------------------------------------------------------------
+Date: 2024/05/15 02:25:19
+Country: ca, product: macbookair --> new items: 9
+Country: xf, product: macbookair --> new items: 9
+Country: us, product: macbookair --> new items: 9
+------------------------------------------------------------
