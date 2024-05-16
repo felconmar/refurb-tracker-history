@@ -2245,3 +2245,10 @@ Country: fr, product: macstudio --> new items: 1
 Country: us, product: mini --> new items: 7
 Country: us, product: macbookpro --> new items: 7
 ------------------------------------------------------------
+Date: 2024/05/16 21:07:56
+Country: ca, product: mini --> new items: 1
+Country: xf, product: mini --> new items: 1
+Country: ie, product: macbookair --> new items: 1
+Country: uk, product: macbookair --> new items: 1
+Country: us, product: mini --> new items: 1
+------------------------------------------------------------
