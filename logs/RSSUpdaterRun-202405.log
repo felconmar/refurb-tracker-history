@@ -2676,3 +2676,9 @@ Country: ca, product: macbookpro --> new items: 3
 Country: xf, product: macbookpro --> new items: 3
 Country: us, product: macbookpro --> new items: 3
 ------------------------------------------------------------
+Date: 2024/05/20 20:07:43
+Country: xf, product: macbookpro --> new items: 1
+Country: fr, product: macbookpro --> new items: 1
+Country: us, product: iphone --> new items: 1
+Country: us, product: macbookpro --> new items: 1
+------------------------------------------------------------
