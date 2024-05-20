@@ -2682,3 +2682,7 @@ Country: fr, product: macbookpro --> new items: 1
 Country: us, product: iphone --> new items: 1
 Country: us, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2024/05/20 21:06:42
+Country: ie, product: macbookair --> new items: 3
+Country: uk, product: macbookair --> new items: 3
+------------------------------------------------------------
