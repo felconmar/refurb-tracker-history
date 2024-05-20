@@ -2600,3 +2600,7 @@ Country: nz, product: mini --> new items: 2
 Country: nz, product: macbookpro --> new items: 6
 Country: nz, product: macbookair --> new items: 10
 ------------------------------------------------------------
+Date: 2024/05/20 05:09:48
+Country: au, product: macbookpro --> new items: 5
+Country: nz, product: macbookpro --> new items: 5
+------------------------------------------------------------
