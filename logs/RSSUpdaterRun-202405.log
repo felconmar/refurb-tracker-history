@@ -2728,3 +2728,8 @@ Country: cn, product: macstudio --> new items: 1
 Country: cn, product: macbookair --> new items: 1
 Country: jp, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2024/05/21 10:08:00
+Country: jp, product: mini --> new items: 7
+Country: jp, product: macbookpro --> new items: 20
+Country: nl, product: macbookpro --> new items: 1
+------------------------------------------------------------
