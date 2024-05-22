@@ -2877,3 +2877,11 @@ Country: ie, product: watch --> new items: 1
 Country: uk, product: ipad --> new items: 2
 Country: uk, product: watch --> new items: 1
 ------------------------------------------------------------
+Date: 2024/05/22 12:14:06
+Country: cn, product: ipad --> new items: 1
+Country: de, product: macbookair --> new items: 1
+Country: es, product: macbookair --> new items: 1
+Country: fr, product: macbookair --> new items: 3
+Country: it, product: macbookair --> new items: 3
+Country: at, product: macbookair --> new items: 1
+------------------------------------------------------------
