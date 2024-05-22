@@ -2820,3 +2820,9 @@ Country: ca, product: macbookair --> new items: 5
 Country: xf, product: macbookair --> new items: 10
 Country: us, product: macbookair --> new items: 5
 ------------------------------------------------------------
+Date: 2024/05/22 01:50:10
+Country: ca, product: macbookair --> new items: 1
+Country: hk, product: macbookpro --> new items: 9
+Country: nz, product: mini --> new items: 1
+Country: us, product: macbookair --> new items: 1
+------------------------------------------------------------
