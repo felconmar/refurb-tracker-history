@@ -2949,3 +2949,24 @@ Country: xf, product: macbookair --> new items: 2
 Country: us, product: macbookpro --> new items: 12
 Country: us, product: macbookair --> new items: 8
 ------------------------------------------------------------
+Date: 2024/05/22 23:09:22
+Country: bx, product: ipad --> new items: 1
+Country: bx, product: iphone --> new items: 1
+Country: be, product: ipad --> new items: 1
+Country: be, product: iphone --> new items: 1
+Country: ca, product: macstudio --> new items: 8
+Country: ca, product: macbookair --> new items: 4
+Country: xf, product: macstudio --> new items: 12
+Country: xf, product: macbookpro --> new items: 7
+Country: xf, product: macbookair --> new items: 11
+Country: de, product: iphone --> new items: 1
+Country: nl, product: ipad --> new items: 1
+Country: nl, product: iphone --> new items: 1
+Country: at, product: iphone --> new items: 1
+Country: cx, product: iphone --> new items: 1
+Country: ch, product: iphone --> new items: 1
+Country: us, product: ipad --> new items: 1
+Country: us, product: macstudio --> new items: 12
+Country: us, product: macbookpro --> new items: 4
+Country: us, product: macbookair --> new items: 6
+------------------------------------------------------------
