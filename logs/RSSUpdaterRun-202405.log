@@ -2973,3 +2973,11 @@ Country: us, product: macbookair --> new items: 6
 Date: 2024/05/23 00:34:28
 Country: cn, product: ipad --> new items: 1
 ------------------------------------------------------------
+Date: 2024/05/23 01:48:16
+Country: ca, product: macstudio --> new items: 1
+Country: ca, product: macbookair --> new items: 3
+Country: xf, product: macstudio --> new items: 1
+Country: xf, product: macbookair --> new items: 3
+Country: us, product: macstudio --> new items: 1
+Country: us, product: macbookair --> new items: 3
+------------------------------------------------------------
