@@ -3123,3 +3123,11 @@ Country: cx, product: iphone --> new items: 1
 Country: ch, product: iphone --> new items: 1
 Country: us, product: imac --> new items: 3
 ------------------------------------------------------------
+Date: 2024/05/24 00:35:01
+Country: ca, product: imac --> new items: 11
+Country: ca, product: macbookpro --> new items: 1
+Country: xf, product: imac --> new items: 11
+Country: xf, product: macbookpro --> new items: 1
+Country: us, product: imac --> new items: 11
+Country: us, product: macbookpro --> new items: 1
+------------------------------------------------------------
