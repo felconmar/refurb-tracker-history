@@ -3158,3 +3158,7 @@ Country: jp, product: acc --> new items: 1
 Country: nz, product: macbookpro --> new items: 8
 Country: nz, product: macbookair --> new items: 26
 ------------------------------------------------------------
+Date: 2024/05/24 07:07:34
+Country: au, product: macbookpro --> new items: 8
+Country: fr, product: macbookair --> new items: 2
+------------------------------------------------------------
