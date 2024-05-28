@@ -3698,3 +3698,9 @@ Date: 2024/05/28 22:07:01
 Country: ca, product: macstudio --> new items: 1
 Country: us, product: macstudio --> new items: 1
 ------------------------------------------------------------
+Date: 2024/05/28 23:08:30
+Country: ca, product: macstudio --> new items: 2
+Country: xf, product: macstudio --> new items: 3
+Country: us, product: macstudio --> new items: 2
+Country: us, product: macbookair --> new items: 4
+------------------------------------------------------------
