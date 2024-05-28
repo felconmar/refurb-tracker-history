@@ -3651,3 +3651,23 @@ Country: ca, product: acc --> new items: 1
 Country: cn, product: macstudio --> new items: 2
 Country: fr, product: macbookair --> new items: 2
 ------------------------------------------------------------
+Date: 2024/05/28 17:06:54
+Country: bx, product: ipad --> new items: 1
+Country: bx, product: macbookair --> new items: 1
+Country: be, product: ipad --> new items: 5
+Country: be, product: macbookair --> new items: 1
+Country: xf, product: acc --> new items: 1
+Country: de, product: macbookair --> new items: 1
+Country: es, product: macstudio --> new items: 2
+Country: fr, product: macstudio --> new items: 1
+Country: it, product: macbookair --> new items: 1
+Country: nl, product: ipad --> new items: 1
+Country: at, product: ipad --> new items: 3
+Country: at, product: macbookair --> new items: 1
+Country: pl, product: ipad --> new items: 3
+Country: cx, product: ipad --> new items: 2
+Country: cx, product: macstudio --> new items: 1
+Country: ch, product: ipad --> new items: 2
+Country: ch, product: macstudio --> new items: 1
+Country: us, product: acc --> new items: 1
+------------------------------------------------------------
