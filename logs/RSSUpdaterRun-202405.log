@@ -3749,3 +3749,9 @@ Country: au, product: macbookpro --> new items: 8
 Country: xf, product: macbookair --> new items: 1
 Country: nz, product: macbookpro --> new items: 8
 ------------------------------------------------------------
+Date: 2024/05/29 08:11:01
+Country: au, product: macbookair --> new items: 27
+Country: jp, product: iphone --> new items: 3
+Country: nz, product: macbookair --> new items: 27
+Country: kr, product: macbookpro --> new items: 4
+------------------------------------------------------------
