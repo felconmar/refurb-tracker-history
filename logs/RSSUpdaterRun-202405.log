@@ -4007,3 +4007,20 @@ Country: fr, product: macbookair --> new items: 1
 Country: us, product: mini --> new items: 1
 Country: us, product: macbookair --> new items: 6
 ------------------------------------------------------------
+Date: 2024/05/30 18:11:26
+Country: be, product: iphone --> new items: 21
+Country: ca, product: mini --> new items: 1
+Country: ca, product: macbookpro --> new items: 10
+Country: ca, product: macbookair --> new items: 5
+Country: xf, product: mini --> new items: 1
+Country: xf, product: macbookpro --> new items: 10
+Country: xf, product: macbookair --> new items: 5
+Country: ie, product: iphone --> new items: 14
+Country: ie, product: macbookpro --> new items: 1
+Country: ch, product: iphone --> new items: 21
+Country: uk, product: macbookpro --> new items: 1
+Country: us, product: iphone --> new items: 15
+Country: us, product: mini --> new items: 1
+Country: us, product: macbookpro --> new items: 9
+Country: us, product: macbookair --> new items: 5
+------------------------------------------------------------
