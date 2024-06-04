@@ -373,3 +373,12 @@ Country: us, product: imac --> new items: 10
 Country: us, product: mini --> new items: 11
 Country: us, product: acc --> new items: 1
 ------------------------------------------------------------
+Date: 2024/06/04 18:10:41
+Country: ca, product: imac --> new items: 11
+Country: ca, product: macbookpro --> new items: 4
+Country: ca, product: acc --> new items: 1
+Country: xf, product: imac --> new items: 11
+Country: xf, product: macbookpro --> new items: 4
+Country: us, product: imac --> new items: 8
+Country: us, product: macbookpro --> new items: 4
+------------------------------------------------------------
