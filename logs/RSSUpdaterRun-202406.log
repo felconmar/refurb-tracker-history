@@ -310,3 +310,9 @@ Country: jp, product: macbookpro --> new items: 1
 Country: nz, product: macstudio --> new items: 1
 Country: uk, product: iphone --> new items: 2
 ------------------------------------------------------------
+Date: 2024/06/04 08:10:43
+Country: au, product: macbookair --> new items: 4
+Country: jp, product: macbookpro --> new items: 7
+Country: jp, product: macbookair --> new items: 24
+Country: nz, product: macbookair --> new items: 4
+------------------------------------------------------------
