@@ -724,3 +724,9 @@ Country: at, product: macbookair --> new items: 1
 Country: us, product: imac --> new items: 1
 Country: us, product: macstudio --> new items: 1
 ------------------------------------------------------------
+Date: 2024/06/06 22:07:05
+Country: ie, product: iphone --> new items: 3
+Country: jp, product: ipad --> new items: 1
+Country: uk, product: iphone --> new items: 3
+Country: us, product: ipad --> new items: 6
+------------------------------------------------------------
