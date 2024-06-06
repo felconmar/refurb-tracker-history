@@ -713,3 +713,14 @@ Country: uk, product: macbookpro --> new items: 1
 Country: us, product: macstudio --> new items: 1
 Country: us, product: macbookair --> new items: 2
 ------------------------------------------------------------
+Date: 2024/06/06 21:08:38
+Country: ca, product: imac --> new items: 1
+Country: ca, product: macstudio --> new items: 1
+Country: xf, product: imac --> new items: 1
+Country: xf, product: macstudio --> new items: 1
+Country: de, product: macbookair --> new items: 1
+Country: fr, product: macbookair --> new items: 8
+Country: at, product: macbookair --> new items: 1
+Country: us, product: imac --> new items: 1
+Country: us, product: macstudio --> new items: 1
+------------------------------------------------------------
