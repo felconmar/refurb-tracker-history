@@ -841,3 +841,8 @@ Country: ie, product: iphone --> new items: 3
 Country: uk, product: ipad --> new items: 1
 Country: uk, product: iphone --> new items: 2
 ------------------------------------------------------------
+Date: 2024/06/07 15:08:12
+Country: ie, product: watch --> new items: 1
+Country: uk, product: iphone --> new items: 1
+Country: uk, product: watch --> new items: 2
+------------------------------------------------------------
