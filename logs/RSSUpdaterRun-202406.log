@@ -1103,3 +1103,10 @@ Country: sg, product: macbookpro --> new items: 4
 Country: sg, product: macbookair --> new items: 1
 Country: tw, product: macbookpro --> new items: 5
 ------------------------------------------------------------
+Date: 2024/06/10 06:12:41
+Country: cn, product: macstudio --> new items: 5
+Country: cn, product: mini --> new items: 1
+Country: cn, product: macbookpro --> new items: 5
+Country: cn, product: macbookair --> new items: 8
+Country: jp, product: imac --> new items: 5
+------------------------------------------------------------
