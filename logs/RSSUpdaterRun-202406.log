@@ -1227,3 +1227,12 @@ Country: cn, product: mini --> new items: 1
 Country: nz, product: mini --> new items: 6
 Country: nz, product: macbookpro --> new items: 3
 ------------------------------------------------------------
+Date: 2024/06/11 09:09:44
+Country: bx, product: macbookpro --> new items: 1
+Country: be, product: macbookpro --> new items: 1
+Country: es, product: macbookpro --> new items: 1
+Country: it, product: mini --> new items: 1
+Country: nl, product: macbookpro --> new items: 1
+Country: at, product: macbookpro --> new items: 10
+Country: pl, product: macbookpro --> new items: 1
+------------------------------------------------------------
