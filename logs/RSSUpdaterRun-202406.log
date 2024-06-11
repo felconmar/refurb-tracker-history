@@ -1200,3 +1200,8 @@ Country: cn, product: imac --> new items: 1
 Date: 2024/06/11 05:09:00
 No new entries.
 ------------------------------------------------------------
+Date: 2024/06/11 06:11:00
+Country: au, product: macbookpro --> new items: 1
+Country: nz, product: macbookpro --> new items: 1
+Country: tw, product: macbookpro --> new items: 3
+------------------------------------------------------------
