@@ -1454,3 +1454,10 @@ Country: cn, product: macbookpro --> new items: 1
 Country: fr, product: mini --> new items: 1
 Country: uk, product: ipad --> new items: 1
 ------------------------------------------------------------
+Date: 2024/06/12 16:09:12
+Country: es, product: mini --> new items: 1
+Country: fr, product: mini --> new items: 1
+Country: fr, product: macbookpro --> new items: 2
+Country: ie, product: ipad --> new items: 1
+Country: us, product: ipad --> new items: 4
+------------------------------------------------------------
