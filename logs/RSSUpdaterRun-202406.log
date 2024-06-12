@@ -1404,3 +1404,16 @@ Country: jp, product: macbookpro --> new items: 1
 Country: nz, product: macbookpro --> new items: 3
 Country: nz, product: macbookair --> new items: 10
 ------------------------------------------------------------
+Date: 2024/06/12 08:10:32
+Country: au, product: macbookair --> new items: 15
+Country: bx, product: iphone --> new items: 3
+Country: cn, product: macbookpro --> new items: 1
+Country: de, product: iphone --> new items: 3
+Country: es, product: iphone --> new items: 2
+Country: it, product: iphone --> new items: 2
+Country: nl, product: iphone --> new items: 1
+Country: nz, product: macbookair --> new items: 1
+Country: at, product: iphone --> new items: 3
+Country: ch, product: iphone --> new items: 3
+Country: uk, product: iphone --> new items: 1
+------------------------------------------------------------
