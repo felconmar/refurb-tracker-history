@@ -1500,3 +1500,7 @@ Country: us, product: iphone --> new items: 1
 Country: us, product: macbookair --> new items: 3
 Country: us, product: watch --> new items: 1
 ------------------------------------------------------------
+Date: 2024/06/12 22:08:08
+Country: ca, product: macbookair --> new items: 1
+Country: xf, product: macbookair --> new items: 1
+------------------------------------------------------------
