@@ -1569,3 +1569,10 @@ Country: at, product: iphone --> new items: 13
 Country: cx, product: iphone --> new items: 13
 Country: ch, product: iphone --> new items: 13
 ------------------------------------------------------------
+Date: 2024/06/13 10:08:08
+Country: ie, product: imac --> new items: 1
+Country: ie, product: watch --> new items: 3
+Country: jp, product: watch --> new items: 1
+Country: uk, product: imac --> new items: 1
+Country: uk, product: watch --> new items: 6
+------------------------------------------------------------
