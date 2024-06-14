@@ -1735,3 +1735,8 @@ Country: cn, product: ipad --> new items: 1
 Country: cn, product: mini --> new items: 1
 Country: us, product: ipad --> new items: 1
 ------------------------------------------------------------
+Date: 2024/06/14 08:10:03
+Country: es, product: iphone --> new items: 1
+Country: it, product: iphone --> new items: 1
+Country: sg, product: macbookair --> new items: 11
+------------------------------------------------------------
