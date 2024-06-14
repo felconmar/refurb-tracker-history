@@ -1811,3 +1811,10 @@ Country: pl, product: ipad --> new items: 1
 Country: uk, product: iphone --> new items: 1
 Country: uk, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2024/06/14 21:08:35
+Country: xf, product: macbookair --> new items: 1
+Country: ie, product: macbookpro --> new items: 7
+Country: uk, product: macbookpro --> new items: 7
+Country: uk, product: macbookair --> new items: 5
+Country: us, product: macbookair --> new items: 1
+------------------------------------------------------------
