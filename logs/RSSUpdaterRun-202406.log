@@ -2175,3 +2175,11 @@ Country: at, product: ipad --> new items: 1
 Country: pl, product: ipad --> new items: 1
 Country: us, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2024/06/18 00:36:45
+Country: ca, product: macbookpro --> new items: 21
+Country: ca, product: macbookair --> new items: 30
+Country: xf, product: macbookpro --> new items: 21
+Country: xf, product: macbookair --> new items: 30
+Country: us, product: macbookpro --> new items: 20
+Country: us, product: macbookair --> new items: 30
+------------------------------------------------------------
