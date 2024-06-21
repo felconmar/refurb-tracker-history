@@ -2731,3 +2731,16 @@ Country: us, product: macbookair --> new items: 5
 Date: 2024/06/21 19:06:27
 Country: uk, product: iphone --> new items: 1
 ------------------------------------------------------------
+Date: 2024/06/21 20:09:17
+Country: ca, product: macbookair --> new items: 2
+Country: xf, product: macbookair --> new items: 2
+Country: es, product: macbookpro --> new items: 1
+Country: fr, product: macbookair --> new items: 1
+Country: ie, product: iphone --> new items: 1
+Country: ie, product: macbookpro --> new items: 7
+Country: ie, product: macbookair --> new items: 10
+Country: uk, product: macbookpro --> new items: 7
+Country: uk, product: macbookair --> new items: 10
+Country: us, product: ipad --> new items: 1
+Country: us, product: macbookair --> new items: 2
+------------------------------------------------------------
