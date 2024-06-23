@@ -2931,3 +2931,11 @@ Country: es, product: macbookair --> new items: 1
 Country: at, product: macbookpro --> new items: 1
 Country: us, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2024/06/23 16:08:25
+Country: ie, product: imac --> new items: 2
+Country: ie, product: macbookpro --> new items: 1
+Country: kr, product: macbookpro --> new items: 1
+Country: uk, product: imac --> new items: 2
+Country: uk, product: macbookpro --> new items: 1
+Country: us, product: ipad --> new items: 1
+------------------------------------------------------------
