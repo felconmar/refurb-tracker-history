@@ -3016,3 +3016,12 @@ Country: fr, product: iphone --> new items: 1
 Country: ie, product: macbookair --> new items: 1
 Country: uk, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2024/06/24 14:07:57
+Country: ie, product: iphone --> new items: 1
+Country: ie, product: imac --> new items: 1
+Country: ie, product: macbookpro --> new items: 1
+Country: jp, product: iphone --> new items: 5
+Country: uk, product: iphone --> new items: 1
+Country: uk, product: imac --> new items: 1
+Country: uk, product: macbookpro --> new items: 1
+------------------------------------------------------------
