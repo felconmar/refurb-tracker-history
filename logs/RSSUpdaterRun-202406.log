@@ -3062,3 +3062,10 @@ Country: ie, product: ipad --> new items: 1
 Country: at, product: macbookpro --> new items: 2
 Country: uk, product: ipad --> new items: 1
 ------------------------------------------------------------
+Date: 2024/06/24 19:06:46
+Country: ca, product: macbookair --> new items: 2
+Country: xf, product: macbookair --> new items: 3
+Country: ie, product: macbookair --> new items: 3
+Country: uk, product: macbookair --> new items: 3
+Country: us, product: macbookair --> new items: 3
+------------------------------------------------------------
