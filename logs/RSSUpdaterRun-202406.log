@@ -3161,3 +3161,9 @@ Country: sg, product: macbookpro --> new items: 3
 Country: sg, product: macbookair --> new items: 6
 Country: us, product: ipad --> new items: 2
 ------------------------------------------------------------
+Date: 2024/06/25 11:07:41
+Country: ca, product: macbookair --> new items: 1
+Country: xf, product: macbookair --> new items: 1
+Country: sg, product: macbookpro --> new items: 3
+Country: sg, product: macbookair --> new items: 1
+------------------------------------------------------------
