@@ -3139,3 +3139,11 @@ Country: be, product: macbookair --> new items: 1
 Country: cn, product: macbookpro --> new items: 6
 Country: es, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2024/06/25 07:07:49
+Country: cn, product: ipad --> new items: 1
+Country: cn, product: macstudio --> new items: 6
+Country: cn, product: mini --> new items: 4
+Country: cn, product: macbookpro --> new items: 16
+Country: cn, product: macbookair --> new items: 12
+Country: tw, product: macbookair --> new items: 1
+------------------------------------------------------------
