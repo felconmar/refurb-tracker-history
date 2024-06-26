@@ -3352,3 +3352,26 @@ Country: us, product: ipad --> new items: 1
 Date: 2024/06/26 11:07:39
 Country: cn, product: ipad --> new items: 1
 ------------------------------------------------------------
+Date: 2024/06/26 12:15:26
+Country: ca, product: imac --> new items: 1
+Country: ca, product: macbookair --> new items: 2
+Country: xf, product: imac --> new items: 1
+Country: xf, product: macbookair --> new items: 2
+Country: fr, product: macbookair --> new items: 1
+Country: hk, product: ipad --> new items: 1
+Country: ie, product: iphone --> new items: 3
+Country: ie, product: imac --> new items: 1
+Country: ie, product: macstudio --> new items: 1
+Country: ie, product: macbookpro --> new items: 2
+Country: ie, product: macbookair --> new items: 7
+Country: jp, product: watch --> new items: 1
+Country: sg, product: ipad --> new items: 1
+Country: uk, product: iphone --> new items: 3
+Country: uk, product: imac --> new items: 1
+Country: uk, product: macstudio --> new items: 1
+Country: uk, product: macbookpro --> new items: 2
+Country: uk, product: macbookair --> new items: 7
+Country: uk, product: watch --> new items: 2
+Country: us, product: imac --> new items: 1
+Country: us, product: macbookair --> new items: 2
+------------------------------------------------------------
