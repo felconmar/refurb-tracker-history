@@ -460,3 +460,10 @@ Country: xf, product: macbookair --> new items: 1
 Country: us, product: imac --> new items: 11
 Country: us, product: mini --> new items: 1
 ------------------------------------------------------------
+Date: 2024/07/03 00:36:29
+Country: ca, product: macbookair --> new items: 3
+Country: xf, product: macbookair --> new items: 3
+Country: cn, product: macbookpro --> new items: 1
+Country: us, product: macbookair --> new items: 2
+Country: us, product: acc --> new items: 1
+------------------------------------------------------------
