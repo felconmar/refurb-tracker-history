@@ -564,3 +564,14 @@ Country: uk, product: macbookair --> new items: 1
 Country: us, product: imac --> new items: 3
 Country: us, product: macbookair --> new items: 4
 ------------------------------------------------------------
+Date: 2024/07/03 18:10:07
+Country: ca, product: imac --> new items: 1
+Country: ca, product: macbookair --> new items: 1
+Country: xf, product: imac --> new items: 4
+Country: xf, product: macbookair --> new items: 3
+Country: ie, product: macstudio --> new items: 9
+Country: uk, product: macstudio --> new items: 9
+Country: us, product: ipad --> new items: 1
+Country: us, product: imac --> new items: 4
+Country: us, product: macbookair --> new items: 1
+------------------------------------------------------------
