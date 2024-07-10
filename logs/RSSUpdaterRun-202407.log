@@ -1411,3 +1411,17 @@ Country: ca, product: macbookair --> new items: 8
 Country: xf, product: macbookair --> new items: 8
 Country: us, product: macbookair --> new items: 8
 ------------------------------------------------------------
+Date: 2024/07/10 16:09:12
+Country: be, product: ipad --> new items: 1
+Country: ca, product: iphone --> new items: 1
+Country: ca, product: macbookpro --> new items: 1
+Country: ca, product: macbookair --> new items: 5
+Country: xf, product: iphone --> new items: 1
+Country: xf, product: macbookpro --> new items: 1
+Country: xf, product: macbookair --> new items: 5
+Country: ie, product: iphone --> new items: 1
+Country: nl, product: ipad --> new items: 1
+Country: uk, product: iphone --> new items: 1
+Country: us, product: macbookpro --> new items: 1
+Country: us, product: macbookair --> new items: 5
+------------------------------------------------------------
