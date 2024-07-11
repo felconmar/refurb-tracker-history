@@ -1557,3 +1557,17 @@ Country: xf, product: imac --> new items: 5
 Country: cn, product: mini --> new items: 8
 Country: us, product: imac --> new items: 6
 ------------------------------------------------------------
+Date: 2024/07/11 18:10:39
+Country: bx, product: macbookpro --> new items: 2
+Country: be, product: macbookpro --> new items: 2
+Country: ca, product: imac --> new items: 10
+Country: xf, product: imac --> new items: 12
+Country: es, product: macbookpro --> new items: 3
+Country: fr, product: macbookpro --> new items: 6
+Country: it, product: macbookpro --> new items: 3
+Country: nl, product: macbookpro --> new items: 2
+Country: pl, product: macbookpro --> new items: 1
+Country: cx, product: macbookpro --> new items: 1
+Country: ch, product: macbookpro --> new items: 1
+Country: us, product: imac --> new items: 10
+------------------------------------------------------------
