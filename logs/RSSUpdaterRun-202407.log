@@ -1990,3 +1990,14 @@ Country: cx, product: imac --> new items: 3
 Country: ch, product: imac --> new items: 3
 Country: uk, product: macbookair --> new items: 5
 ------------------------------------------------------------
+Date: 2024/07/15 16:09:42
+Country: de, product: imac --> new items: 2
+Country: es, product: macbookair --> new items: 5
+Country: fr, product: imac --> new items: 8
+Country: fr, product: macbookair --> new items: 10
+Country: it, product: imac --> new items: 1
+Country: it, product: macbookair --> new items: 8
+Country: at, product: imac --> new items: 2
+Country: cx, product: imac --> new items: 1
+Country: ch, product: imac --> new items: 1
+------------------------------------------------------------
