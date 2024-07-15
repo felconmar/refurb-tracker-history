@@ -1969,3 +1969,9 @@ Country: it, product: mini --> new items: 1
 Country: it, product: macbookair --> new items: 1
 Country: kr, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2024/07/15 14:07:14
+Country: cn, product: macstudio --> new items: 2
+Country: cn, product: macbookpro --> new items: 36
+Country: cn, product: macbookair --> new items: 10
+Country: fr, product: macbookair --> new items: 1
+------------------------------------------------------------
