@@ -2135,3 +2135,16 @@ Country: nl, product: iphone --> new items: 1
 Country: at, product: iphone --> new items: 1
 Country: us, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2024/07/16 10:07:08
+Country: de, product: iphone --> new items: 1
+Country: es, product: macbookair --> new items: 3
+Country: fr, product: iphone --> new items: 1
+Country: fr, product: macbookair --> new items: 2
+Country: it, product: macbookair --> new items: 3
+Country: nl, product: macbookair --> new items: 1
+Country: pl, product: macbookair --> new items: 3
+Country: cx, product: iphone --> new items: 1
+Country: cx, product: macbookair --> new items: 1
+Country: ch, product: iphone --> new items: 1
+Country: ch, product: macbookair --> new items: 1
+------------------------------------------------------------
