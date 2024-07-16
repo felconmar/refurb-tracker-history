@@ -2197,3 +2197,13 @@ Country: xf, product: macbookpro --> new items: 7
 Country: us, product: macbookpro --> new items: 10
 Country: us, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2024/07/16 17:07:16
+Country: bx, product: macbookair --> new items: 3
+Country: be, product: macbookair --> new items: 3
+Country: ca, product: macbookair --> new items: 31
+Country: xf, product: macbookpro --> new items: 2
+Country: xf, product: macbookair --> new items: 20
+Country: cn, product: macbookair --> new items: 1
+Country: nl, product: macbookair --> new items: 1
+Country: us, product: macbookair --> new items: 20
+------------------------------------------------------------
