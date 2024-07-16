@@ -2207,3 +2207,11 @@ Country: cn, product: macbookair --> new items: 1
 Country: nl, product: macbookair --> new items: 1
 Country: us, product: macbookair --> new items: 20
 ------------------------------------------------------------
+Date: 2024/07/16 18:10:27
+Country: ca, product: macbookpro --> new items: 20
+Country: xf, product: macbookpro --> new items: 19
+Country: xf, product: macbookair --> new items: 11
+Country: cn, product: macbookpro --> new items: 1
+Country: us, product: macbookpro --> new items: 20
+Country: us, product: macbookair --> new items: 11
+------------------------------------------------------------
