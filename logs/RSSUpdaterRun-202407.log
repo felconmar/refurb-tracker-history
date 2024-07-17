@@ -2374,3 +2374,11 @@ Country: us, product: ipad --> new items: 1
 Country: us, product: macstudio --> new items: 2
 Country: us, product: macbookpro --> new items: 3
 ------------------------------------------------------------
+Date: 2024/07/17 23:08:53
+Country: ca, product: macbookpro --> new items: 2
+Country: ca, product: macbookair --> new items: 10
+Country: xf, product: macbookpro --> new items: 2
+Country: xf, product: macbookair --> new items: 10
+Country: us, product: macbookpro --> new items: 2
+Country: us, product: macbookair --> new items: 10
+------------------------------------------------------------
