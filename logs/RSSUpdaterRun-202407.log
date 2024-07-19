@@ -2474,3 +2474,17 @@ Date: 2024/07/18 22:07:26
 Country: fr, product: macbookpro --> new items: 3
 Country: pl, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2024/07/19 02:30:49
+Country: ca, product: imac --> new items: 9
+Country: ca, product: macstudio --> new items: 3
+Country: ca, product: mini --> new items: 9
+Country: xf, product: imac --> new items: 9
+Country: xf, product: macstudio --> new items: 3
+Country: xf, product: mini --> new items: 11
+Country: ie, product: imac --> new items: 1
+Country: uk, product: imac --> new items: 1
+Country: us, product: imac --> new items: 9
+Country: us, product: macstudio --> new items: 3
+Country: us, product: mini --> new items: 11
+Country: us, product: watch --> new items: 3
+------------------------------------------------------------
