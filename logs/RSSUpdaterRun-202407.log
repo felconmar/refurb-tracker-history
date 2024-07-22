@@ -2886,3 +2886,12 @@ Country: ca, product: macbookair --> new items: 3
 Country: xf, product: macbookair --> new items: 3
 Country: us, product: macbookair --> new items: 7
 ------------------------------------------------------------
+Date: 2024/07/22 20:08:43
+Country: ca, product: macbookpro --> new items: 1
+Country: xf, product: macbookpro --> new items: 1
+Country: de, product: ipad --> new items: 1
+Country: at, product: ipad --> new items: 1
+Country: pl, product: ipad --> new items: 1
+Country: us, product: ipad --> new items: 1
+Country: us, product: macbookpro --> new items: 1
+------------------------------------------------------------
