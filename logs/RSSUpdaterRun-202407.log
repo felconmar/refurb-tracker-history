@@ -2950,3 +2950,9 @@ Country: ie, product: macbookair --> new items: 1
 Country: nl, product: macbookpro --> new items: 1
 Country: uk, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2024/07/23 08:12:16
+Country: de, product: macbookair --> new items: 1
+Country: hk, product: macbookpro --> new items: 11
+Country: hk, product: macbookair --> new items: 5
+Country: at, product: macbookair --> new items: 1
+------------------------------------------------------------
