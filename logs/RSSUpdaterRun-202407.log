@@ -3129,3 +3129,13 @@ Country: cx, product: macbookair --> new items: 3
 Country: uk, product: iphone --> new items: 2
 Country: uk, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2024/07/24 10:09:18
+Country: cn, product: imac --> new items: 2
+Country: cn, product: macbookair --> new items: 11
+Country: de, product: macbookair --> new items: 10
+Country: fr, product: macbookair --> new items: 4
+Country: jp, product: acc --> new items: 1
+Country: at, product: macbookair --> new items: 10
+Country: sg, product: ipad --> new items: 1
+Country: ch, product: macbookair --> new items: 3
+------------------------------------------------------------
