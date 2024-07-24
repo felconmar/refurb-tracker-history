@@ -3114,3 +3114,18 @@ Country: sg, product: macbookair --> new items: 3
 Country: cx, product: iphone --> new items: 2
 Country: ch, product: iphone --> new items: 2
 ------------------------------------------------------------
+Date: 2024/07/24 09:08:44
+Country: bx, product: iphone --> new items: 2
+Country: cn, product: macbookair --> new items: 1
+Country: de, product: iphone --> new items: 2
+Country: es, product: iphone --> new items: 5
+Country: ie, product: iphone --> new items: 2
+Country: ie, product: macbookpro --> new items: 1
+Country: it, product: iphone --> new items: 5
+Country: nl, product: iphone --> new items: 2
+Country: at, product: iphone --> new items: 2
+Country: sg, product: macbookair --> new items: 2
+Country: cx, product: macbookair --> new items: 3
+Country: uk, product: iphone --> new items: 2
+Country: uk, product: macbookpro --> new items: 1
+------------------------------------------------------------
