@@ -3309,3 +3309,8 @@ Country: ie, product: macbookpro --> new items: 1
 Country: uk, product: macbookpro --> new items: 1
 Country: us, product: macbookpro --> new items: 7
 ------------------------------------------------------------
+Date: 2024/07/25 16:10:13
+Country: ca, product: macbookpro --> new items: 7
+Country: cn, product: ipad --> new items: 1
+Country: cn, product: macbookpro --> new items: 1
+------------------------------------------------------------
