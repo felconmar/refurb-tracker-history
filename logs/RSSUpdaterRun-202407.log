@@ -3777,3 +3777,15 @@ Country: xf, product: macbookair --> new items: 17
 Country: us, product: macbookpro --> new items: 8
 Country: us, product: macbookair --> new items: 27
 ------------------------------------------------------------
+Date: 2024/07/29 20:08:56
+Country: ca, product: mini --> new items: 4
+Country: ca, product: macbookpro --> new items: 1
+Country: ca, product: macbookair --> new items: 7
+Country: xf, product: mini --> new items: 4
+Country: xf, product: macbookpro --> new items: 1
+Country: xf, product: macbookair --> new items: 7
+Country: cn, product: macbookair --> new items: 1
+Country: jp, product: ipad --> new items: 1
+Country: us, product: mini --> new items: 4
+Country: us, product: macbookair --> new items: 3
+------------------------------------------------------------
