@@ -3857,3 +3857,17 @@ Country: au, product: macbookair --> new items: 6
 Country: nz, product: macbookpro --> new items: 1
 Country: nz, product: macbookair --> new items: 10
 ------------------------------------------------------------
+Date: 2024/07/30 08:11:06
+Country: au, product: macbookpro --> new items: 4
+Country: cn, product: watch --> new items: 3
+Country: de, product: macbookair --> new items: 5
+Country: fr, product: macbookpro --> new items: 6
+Country: fr, product: macbookair --> new items: 8
+Country: it, product: macbookpro --> new items: 1
+Country: jp, product: ipad --> new items: 1
+Country: nl, product: macbookair --> new items: 3
+Country: nz, product: macbookpro --> new items: 4
+Country: at, product: macbookair --> new items: 5
+Country: pl, product: macbookpro --> new items: 1
+Country: sg, product: macbookair --> new items: 1
+------------------------------------------------------------
