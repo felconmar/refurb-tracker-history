@@ -4151,3 +4151,14 @@ Country: uk, product: macbookair --> new items: 3
 Country: us, product: macstudio --> new items: 3
 Country: us, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2024/07/31 22:08:04
+Country: ca, product: macpro --> new items: 3
+Country: ca, product: atv --> new items: 1
+Country: xf, product: macpro --> new items: 3
+Country: xf, product: atv --> new items: 1
+Country: ie, product: macbookpro --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+Country: uk, product: macbookpro --> new items: 1
+Country: us, product: macpro --> new items: 3
+Country: us, product: atv --> new items: 1
+------------------------------------------------------------
