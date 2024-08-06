@@ -736,3 +736,13 @@ Country: it, product: macbookair --> new items: 1
 Country: at, product: macbookpro --> new items: 1
 Country: at, product: macbookair --> new items: 4
 ------------------------------------------------------------
+Date: 2024/08/06 18:11:58
+Country: bx, product: macbookpro --> new items: 1
+Country: be, product: macbookpro --> new items: 1
+Country: xf, product: macbookair --> new items: 1
+Country: de, product: macbookpro --> new items: 19
+Country: es, product: macbookpro --> new items: 1
+Country: es, product: macbookair --> new items: 1
+Country: it, product: macbookair --> new items: 1
+Country: at, product: macbookpro --> new items: 19
+------------------------------------------------------------
