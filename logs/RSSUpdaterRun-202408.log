@@ -721,3 +721,8 @@ Country: at, product: macbookair --> new items: 10
 Country: cx, product: iphone --> new items: 1
 Country: uk, product: iphone --> new items: 1
 ------------------------------------------------------------
+Date: 2024/08/06 16:09:46
+Country: cn, product: macbookpro --> new items: 1
+Country: es, product: macbookair --> new items: 1
+Country: it, product: macbookair --> new items: 1
+------------------------------------------------------------
