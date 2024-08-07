@@ -919,3 +919,25 @@ Country: cx, product: macbookpro --> new items: 1
 Country: us, product: macbookpro --> new items: 54
 Country: us, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2024/08/07 18:10:28
+Country: bx, product: macbookpro --> new items: 2
+Country: be, product: macbookpro --> new items: 2
+Country: ca, product: macstudio --> new items: 2
+Country: ca, product: mini --> new items: 4
+Country: ca, product: macbookpro --> new items: 14
+Country: ca, product: macbookair --> new items: 9
+Country: xf, product: macstudio --> new items: 2
+Country: xf, product: mini --> new items: 4
+Country: xf, product: macbookpro --> new items: 42
+Country: xf, product: macbookair --> new items: 8
+Country: de, product: macbookpro --> new items: 2
+Country: fr, product: macbookpro --> new items: 2
+Country: at, product: macbookpro --> new items: 2
+Country: pl, product: macbookpro --> new items: 1
+Country: cx, product: macbookpro --> new items: 1
+Country: ch, product: macbookpro --> new items: 2
+Country: us, product: macstudio --> new items: 2
+Country: us, product: mini --> new items: 4
+Country: us, product: macbookpro --> new items: 14
+Country: us, product: macbookair --> new items: 9
+------------------------------------------------------------
