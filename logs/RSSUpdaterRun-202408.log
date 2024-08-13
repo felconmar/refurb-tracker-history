@@ -1629,3 +1629,13 @@ Country: tw, product: macbookair --> new items: 1
 Country: us, product: imac --> new items: 1
 Country: us, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2024/08/13 18:11:13
+Country: ca, product: macbookair --> new items: 4
+Country: xf, product: macbookair --> new items: 4
+Country: de, product: macbookair --> new items: 3
+Country: es, product: macbookair --> new items: 3
+Country: fr, product: macbookair --> new items: 1
+Country: nl, product: macbookair --> new items: 1
+Country: at, product: macbookair --> new items: 3
+Country: us, product: macbookair --> new items: 4
+------------------------------------------------------------
