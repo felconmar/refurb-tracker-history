@@ -1517,3 +1517,8 @@ Country: us, product: macstudio --> new items: 3
 Country: us, product: macbookpro --> new items: 4
 Country: us, product: macbookair --> new items: 28
 ------------------------------------------------------------
+Date: 2024/08/13 02:01:40
+Country: ca, product: macbookpro --> new items: 1
+Country: xf, product: macbookpro --> new items: 1
+Country: us, product: macbookpro --> new items: 1
+------------------------------------------------------------
