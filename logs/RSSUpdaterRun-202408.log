@@ -1715,3 +1715,13 @@ Country: fr, product: imac --> new items: 2
 Country: it, product: imac --> new items: 1
 Country: jp, product: iphone --> new items: 1
 ------------------------------------------------------------
+Date: 2024/08/14 10:09:08
+Country: ca, product: macstudio --> new items: 1
+Country: xf, product: macstudio --> new items: 1
+Country: cn, product: macbookpro --> new items: 2
+Country: cn, product: macbookair --> new items: 1
+Country: cx, product: imac --> new items: 1
+Country: ch, product: imac --> new items: 1
+Country: us, product: iphone --> new items: 3
+Country: us, product: macstudio --> new items: 1
+------------------------------------------------------------
