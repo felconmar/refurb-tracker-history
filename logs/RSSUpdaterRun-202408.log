@@ -1931,3 +1931,11 @@ Country: uk, product: macbookair --> new items: 21
 Country: us, product: mini --> new items: 1
 Country: us, product: macbookair --> new items: 2
 ------------------------------------------------------------
+Date: 2024/08/15 23:07:47
+Country: ca, product: mini --> new items: 7
+Country: xf, product: mini --> new items: 7
+Country: xf, product: macbookpro --> new items: 1
+Country: ie, product: macbookair --> new items: 1
+Country: us, product: mini --> new items: 7
+Country: us, product: macbookpro --> new items: 1
+------------------------------------------------------------
