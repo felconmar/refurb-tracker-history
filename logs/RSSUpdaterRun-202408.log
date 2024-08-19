@@ -2309,3 +2309,14 @@ Country: jp, product: macbookpro --> new items: 3
 Country: jp, product: macbookair --> new items: 3
 Country: us, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2024/08/19 18:10:36
+Country: ca, product: macbookpro --> new items: 10
+Country: ca, product: macbookair --> new items: 5
+Country: xf, product: macbookpro --> new items: 10
+Country: xf, product: macbookair --> new items: 6
+Country: ie, product: macbookair --> new items: 5
+Country: pl, product: macbookair --> new items: 1
+Country: uk, product: macbookair --> new items: 5
+Country: us, product: macbookpro --> new items: 10
+Country: us, product: macbookair --> new items: 6
+------------------------------------------------------------
