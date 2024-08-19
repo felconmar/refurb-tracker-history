@@ -2268,3 +2268,8 @@ Country: cn, product: ipad --> new items: 1
 Country: it, product: macbookair --> new items: 1
 Country: jp, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2024/08/19 08:11:43
+Country: jp, product: imac --> new items: 22
+Country: jp, product: macbookpro --> new items: 18
+Country: jp, product: macbookair --> new items: 25
+------------------------------------------------------------
