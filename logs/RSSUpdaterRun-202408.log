@@ -2482,3 +2482,13 @@ Country: cx, product: iphone --> new items: 3
 Country: ch, product: iphone --> new items: 3
 Country: uk, product: acc --> new items: 1
 ------------------------------------------------------------
+Date: 2024/08/20 16:09:23
+Country: bx, product: mini --> new items: 1
+Country: be, product: mini --> new items: 1
+Country: de, product: iphone --> new items: 1
+Country: nl, product: mini --> new items: 1
+Country: at, product: iphone --> new items: 1
+Country: cx, product: iphone --> new items: 1
+Country: us, product: iphone --> new items: 1
+Country: us, product: watch --> new items: 1
+------------------------------------------------------------
