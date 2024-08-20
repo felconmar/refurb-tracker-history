@@ -2453,3 +2453,15 @@ Country: sg, product: mini --> new items: 5
 Country: sg, product: macbookpro --> new items: 5
 Country: sg, product: macbookair --> new items: 29
 ------------------------------------------------------------
+Date: 2024/08/20 12:15:39
+Country: bx, product: iphone --> new items: 1
+Country: be, product: iphone --> new items: 1
+Country: de, product: iphone --> new items: 1
+Country: fr, product: iphone --> new items: 1
+Country: ie, product: macbookair --> new items: 3
+Country: nl, product: iphone --> new items: 1
+Country: at, product: iphone --> new items: 1
+Country: cx, product: iphone --> new items: 1
+Country: ch, product: iphone --> new items: 1
+Country: uk, product: macbookair --> new items: 3
+------------------------------------------------------------
