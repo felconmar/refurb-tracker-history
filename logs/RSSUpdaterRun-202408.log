@@ -2803,3 +2803,9 @@ Country: us, product: mini --> new items: 1
 Country: us, product: macbookpro --> new items: 7
 Country: us, product: macbookair --> new items: 3
 ------------------------------------------------------------
+Date: 2024/08/22 21:08:56
+Country: ca, product: macbookpro --> new items: 10
+Country: ca, product: macbookair --> new items: 1
+Country: xf, product: macbookpro --> new items: 4
+Country: us, product: macbookpro --> new items: 6
+------------------------------------------------------------
