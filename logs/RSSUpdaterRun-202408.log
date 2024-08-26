@@ -3158,3 +3158,10 @@ Country: cn, product: ipad --> new items: 1
 Country: cn, product: macbookpro --> new items: 1
 Country: kr, product: macbookpro --> new items: 2
 ------------------------------------------------------------
+Date: 2024/08/26 11:08:13
+Country: cn, product: macstudio --> new items: 3
+Country: cn, product: mini --> new items: 6
+Country: cn, product: macbookpro --> new items: 22
+Country: cn, product: macbookair --> new items: 11
+Country: it, product: imac --> new items: 1
+------------------------------------------------------------
