@@ -3173,3 +3173,16 @@ Country: jp, product: macbookpro --> new items: 1
 Country: uk, product: mini --> new items: 9
 Country: uk, product: macbookair --> new items: 2
 ------------------------------------------------------------
+Date: 2024/08/26 13:15:45
+Country: bx, product: macbookair --> new items: 3
+Country: be, product: macbookair --> new items: 3
+Country: de, product: macbookair --> new items: 15
+Country: es, product: macbookpro --> new items: 1
+Country: fr, product: macbookair --> new items: 17
+Country: nl, product: macbookair --> new items: 4
+Country: at, product: macbookair --> new items: 15
+Country: pl, product: macbookair --> new items: 2
+Country: cx, product: macbookpro --> new items: 1
+Country: cx, product: macbookair --> new items: 3
+Country: ch, product: macbookair --> new items: 3
+------------------------------------------------------------
