@@ -3585,3 +3585,11 @@ Country: ca, product: mini --> new items: 1
 Country: xf, product: mini --> new items: 1
 Country: us, product: mini --> new items: 1
 ------------------------------------------------------------
+Date: 2024/08/28 22:07:53
+Country: ca, product: imac --> new items: 1
+Country: ca, product: macbookair --> new items: 1
+Country: xf, product: imac --> new items: 1
+Country: xf, product: macbookair --> new items: 1
+Country: us, product: imac --> new items: 1
+Country: us, product: macbookair --> new items: 1
+------------------------------------------------------------
