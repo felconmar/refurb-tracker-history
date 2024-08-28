@@ -3439,3 +3439,8 @@ Country: tw, product: macbookpro --> new items: 4
 Country: us, product: imac --> new items: 4
 Country: us, product: mini --> new items: 4
 ------------------------------------------------------------
+Date: 2024/08/28 04:11:16
+Country: au, product: macbookpro --> new items: 8
+Country: nz, product: macbookpro --> new items: 8
+Country: tw, product: macbookpro --> new items: 8
+------------------------------------------------------------
