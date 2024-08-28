@@ -3420,3 +3420,10 @@ Country: us, product: iphone --> new items: 1
 Country: us, product: imac --> new items: 5
 Country: us, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2024/08/28 02:03:18
+Country: au, product: mini --> new items: 2
+Country: ca, product: imac --> new items: 4
+Country: xf, product: imac --> new items: 4
+Country: nz, product: mini --> new items: 2
+Country: us, product: imac --> new items: 4
+------------------------------------------------------------
