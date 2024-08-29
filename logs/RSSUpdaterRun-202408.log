@@ -3740,3 +3740,15 @@ Country: uk, product: macbookair --> new items: 26
 Country: uk, product: watch --> new items: 6
 Country: us, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2024/08/29 19:07:56
+Country: bx, product: macbookair --> new items: 1
+Country: be, product: macbookair --> new items: 1
+Country: ca, product: mini --> new items: 9
+Country: ca, product: macbookair --> new items: 2
+Country: xf, product: mini --> new items: 9
+Country: xf, product: macbookair --> new items: 2
+Country: cn, product: macbookpro --> new items: 1
+Country: fr, product: macbookair --> new items: 2
+Country: us, product: mini --> new items: 9
+Country: us, product: macbookair --> new items: 2
+------------------------------------------------------------
