@@ -3655,3 +3655,16 @@ Country: hk, product: mini --> new items: 1
 Country: hk, product: macbookpro --> new items: 13
 Country: hk, product: macbookair --> new items: 11
 ------------------------------------------------------------
+Date: 2024/08/29 11:08:08
+Country: bx, product: macstudio --> new items: 5
+Country: be, product: macstudio --> new items: 5
+Country: de, product: macstudio --> new items: 6
+Country: es, product: macstudio --> new items: 3
+Country: fr, product: macstudio --> new items: 5
+Country: it, product: macstudio --> new items: 1
+Country: nl, product: macstudio --> new items: 5
+Country: at, product: macstudio --> new items: 6
+Country: cx, product: macstudio --> new items: 1
+Country: ch, product: macstudio --> new items: 1
+Country: us, product: iphone --> new items: 1
+------------------------------------------------------------
