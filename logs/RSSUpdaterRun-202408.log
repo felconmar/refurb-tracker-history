@@ -3940,3 +3940,11 @@ Country: xf, product: macstudio --> new items: 10
 Country: us, product: imac --> new items: 1
 Country: us, product: macstudio --> new items: 9
 ------------------------------------------------------------
+Date: 2024/08/30 22:07:51
+Country: ca, product: macstudio --> new items: 1
+Country: ca, product: mini --> new items: 1
+Country: xf, product: macstudio --> new items: 1
+Country: xf, product: mini --> new items: 1
+Country: us, product: macstudio --> new items: 1
+Country: us, product: mini --> new items: 1
+------------------------------------------------------------
