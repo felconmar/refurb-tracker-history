@@ -3927,3 +3927,8 @@ Country: pl, product: imac --> new items: 1
 Country: cx, product: imac --> new items: 2
 Country: ch, product: imac --> new items: 2
 ------------------------------------------------------------
+Date: 2024/08/30 20:10:05
+Country: ca, product: macstudio --> new items: 1
+Country: xf, product: macstudio --> new items: 5
+Country: us, product: macstudio --> new items: 5
+------------------------------------------------------------
