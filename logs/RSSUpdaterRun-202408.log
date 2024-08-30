@@ -3879,3 +3879,12 @@ Country: ie, product: iphone --> new items: 1
 Country: uk, product: ipad --> new items: 1
 Country: uk, product: iphone --> new items: 1
 ------------------------------------------------------------
+Date: 2024/08/30 14:07:47
+Country: de, product: imac --> new items: 4
+Country: fr, product: imac --> new items: 8
+Country: ie, product: imac --> new items: 10
+Country: at, product: imac --> new items: 4
+Country: cx, product: imac --> new items: 1
+Country: ch, product: imac --> new items: 1
+Country: uk, product: imac --> new items: 10
+------------------------------------------------------------
