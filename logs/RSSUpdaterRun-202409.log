@@ -323,3 +323,9 @@ Country: cx, product: iphone --> new items: 1
 Country: uk, product: macstudio --> new items: 1
 Country: us, product: macbookpro --> new items: 2
 ------------------------------------------------------------
+Date: 2024/09/03 20:09:14
+Country: au, product: macbookpro --> new items: 1
+Country: nz, product: macbookpro --> new items: 1
+Country: uk, product: macbookair --> new items: 1
+Country: us, product: iphone --> new items: 1
+------------------------------------------------------------
