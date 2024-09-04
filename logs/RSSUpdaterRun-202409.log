@@ -397,3 +397,7 @@ Country: ch, product: iphone --> new items: 3
 Country: uk, product: iphone --> new items: 4
 Country: us, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2024/09/04 10:09:08
+Country: cn, product: macbookair --> new items: 1
+Country: jp, product: ipad --> new items: 1
+------------------------------------------------------------
