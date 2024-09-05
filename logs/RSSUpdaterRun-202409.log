@@ -518,3 +518,11 @@ Country: cn, product: macbookair --> new items: 20
 Country: cn, product: watch --> new items: 67
 Country: sg, product: macbookpro --> new items: 6
 ------------------------------------------------------------
+Date: 2024/09/05 08:11:49
+Country: cn, product: macbookpro --> new items: 1
+Country: jp, product: ipad --> new items: 10
+Country: jp, product: iphone --> new items: 1
+Country: jp, product: imac --> new items: 1
+Country: jp, product: mini --> new items: 1
+Country: jp, product: macbookair --> new items: 25
+------------------------------------------------------------
