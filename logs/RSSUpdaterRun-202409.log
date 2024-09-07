@@ -885,3 +885,9 @@ Country: jp, product: watch --> new items: 1
 Country: us, product: ipad --> new items: 1
 Country: us, product: macbookair --> new items: 3
 ------------------------------------------------------------
+Date: 2024/09/07 17:07:31
+Country: ca, product: iphone --> new items: 1
+Country: xf, product: iphone --> new items: 1
+Country: ie, product: macbookair --> new items: 1
+Country: uk, product: macbookair --> new items: 1
+------------------------------------------------------------
