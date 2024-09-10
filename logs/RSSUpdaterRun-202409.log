@@ -1253,3 +1253,8 @@ Country: pl, product: macbookpro --> new items: 1
 Country: uk, product: ipad --> new items: 1
 Country: uk, product: iphone --> new items: 2
 ------------------------------------------------------------
+Date: 2024/09/10 15:08:44
+Country: cx, product: macbookair --> new items: 1
+Country: ch, product: macbookair --> new items: 1
+Country: us, product: watch --> new items: 1
+------------------------------------------------------------
