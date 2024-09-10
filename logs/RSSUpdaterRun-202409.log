@@ -1204,3 +1204,9 @@ Country: de, product: macbookpro --> new items: 1
 Country: at, product: macbookpro --> new items: 1
 Country: sg, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2024/09/10 08:11:40
+Country: jp, product: imac --> new items: 3
+Country: jp, product: macbookpro --> new items: 2
+Country: jp, product: macbookair --> new items: 3
+Country: jp, product: acc --> new items: 1
+------------------------------------------------------------
