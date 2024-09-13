@@ -1747,3 +1747,15 @@ Country: cn, product: watch --> new items: 2
 Country: jp, product: macbookair --> new items: 1
 Country: us, product: macbookair --> new items: 2
 ------------------------------------------------------------
+Date: 2024/09/13 20:09:18
+Country: ca, product: mini --> new items: 1
+Country: xf, product: mini --> new items: 1
+Country: cn, product: macbookair --> new items: 1
+Country: ie, product: watch --> new items: 1
+Country: jp, product: ipad --> new items: 1
+Country: jp, product: watch --> new items: 1
+Country: uk, product: watch --> new items: 1
+Country: us, product: mini --> new items: 1
+Country: us, product: macbookair --> new items: 1
+Country: us, product: acc --> new items: 1
+------------------------------------------------------------
