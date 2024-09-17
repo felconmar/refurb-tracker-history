@@ -2204,3 +2204,10 @@ Country: at, product: macbookpro --> new items: 1
 Country: pl, product: macbookpro --> new items: 1
 Country: uk, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2024/09/17 13:16:43
+Country: de, product: iphone --> new items: 1
+Country: fr, product: iphone --> new items: 1
+Country: it, product: macbookpro --> new items: 1
+Country: jp, product: iphone --> new items: 1
+Country: us, product: ipad --> new items: 1
+------------------------------------------------------------
