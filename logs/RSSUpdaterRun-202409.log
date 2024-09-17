@@ -2192,3 +2192,15 @@ Country: us, product: iphone --> new items: 1
 Date: 2024/09/17 11:07:47
 No new entries.
 ------------------------------------------------------------
+Date: 2024/09/17 12:15:44
+Country: de, product: macbookpro --> new items: 1
+Country: es, product: iphone --> new items: 1
+Country: es, product: macbookpro --> new items: 5
+Country: fr, product: macbookpro --> new items: 5
+Country: ie, product: macbookair --> new items: 1
+Country: it, product: iphone --> new items: 1
+Country: it, product: macbookpro --> new items: 3
+Country: at, product: macbookpro --> new items: 1
+Country: pl, product: macbookpro --> new items: 1
+Country: uk, product: macbookair --> new items: 1
+------------------------------------------------------------
