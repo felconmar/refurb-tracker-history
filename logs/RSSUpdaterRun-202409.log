@@ -2519,3 +2519,11 @@ Country: nz, product: macbookpro --> new items: 1
 Country: uk, product: ipad --> new items: 1
 Country: uk, product: atv --> new items: 2
 ------------------------------------------------------------
+Date: 2024/09/19 00:41:25
+Country: ca, product: macbookpro --> new items: 12
+Country: xf, product: macbookpro --> new items: 12
+Country: ie, product: macbookair --> new items: 1
+Country: nl, product: macbookair --> new items: 1
+Country: uk, product: macbookair --> new items: 1
+Country: us, product: macbookpro --> new items: 11
+------------------------------------------------------------
