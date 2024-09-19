@@ -2579,3 +2579,8 @@ Country: at, product: macbookair --> new items: 11
 Country: pl, product: macbookair --> new items: 2
 Country: uk, product: iphone --> new items: 1
 ------------------------------------------------------------
+Date: 2024/09/19 09:09:23
+Country: kr, product: mini --> new items: 1
+Country: kr, product: macbookair --> new items: 1
+Country: uk, product: macbookpro --> new items: 1
+------------------------------------------------------------
