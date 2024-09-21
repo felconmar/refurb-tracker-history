@@ -3091,3 +3091,9 @@ Country: us, product: ipad --> new items: 1
 Country: us, product: macbookair --> new items: 2
 Country: us, product: acc --> new items: 1
 ------------------------------------------------------------
+Date: 2024/09/21 21:07:14
+Country: ie, product: ipad --> new items: 1
+Country: ie, product: macbookair --> new items: 2
+Country: jp, product: ipad --> new items: 1
+Country: jp, product: macbookpro --> new items: 1
+------------------------------------------------------------
