@@ -3148,3 +3148,8 @@ Country: uk, product: imac --> new items: 1
 Country: uk, product: macbookair --> new items: 2
 Country: us, product: macbookair --> new items: 3
 ------------------------------------------------------------
+Date: 2024/09/22 09:08:25
+Country: cx, product: ipad --> new items: 1
+Country: uk, product: ipad --> new items: 2
+Country: uk, product: macbookair --> new items: 2
+------------------------------------------------------------
