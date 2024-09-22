@@ -3170,3 +3170,8 @@ Country: at, product: iphone --> new items: 1
 Country: uk, product: imac --> new items: 1
 Country: uk, product: macbookair --> new items: 2
 ------------------------------------------------------------
+Date: 2024/09/22 13:13:06
+Country: uk, product: ipad --> new items: 1
+Country: uk, product: iphone --> new items: 1
+Country: us, product: macbookair --> new items: 3
+------------------------------------------------------------
