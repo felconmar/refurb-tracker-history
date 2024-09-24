@@ -3585,3 +3585,7 @@ Country: us, product: macbookair --> new items: 10
 Country: us, product: watch --> new items: 1
 Country: us, product: atv --> new items: 1
 ------------------------------------------------------------
+Date: 2024/09/24 22:08:28
+Country: cn, product: macbookpro --> new items: 1
+Country: cn, product: macbookair --> new items: 2
+------------------------------------------------------------
