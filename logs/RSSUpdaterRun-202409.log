@@ -3481,3 +3481,13 @@ Country: us, product: iphone --> new items: 1
 Country: us, product: macbookpro --> new items: 3
 Country: us, product: watch --> new items: 1
 ------------------------------------------------------------
+Date: 2024/09/24 18:11:49
+Country: de, product: imac --> new items: 1
+Country: de, product: macbookpro --> new items: 1
+Country: fr, product: iphone --> new items: 1
+Country: jp, product: macbookpro --> new items: 1
+Country: nl, product: macstudio --> new items: 1
+Country: nl, product: macbookair --> new items: 1
+Country: sg, product: macbookair --> new items: 1
+Country: uk, product: macbookpro --> new items: 1
+------------------------------------------------------------
