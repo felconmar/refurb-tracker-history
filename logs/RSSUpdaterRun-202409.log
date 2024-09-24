@@ -3423,3 +3423,12 @@ Country: ch, product: ipad --> new items: 1
 Country: uk, product: macbookpro --> new items: 2
 Country: uk, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2024/09/24 15:09:10
+Country: au, product: macbookpro --> new items: 1
+Country: xf, product: macbookpro --> new items: 2
+Country: cn, product: ipad --> new items: 2
+Country: cn, product: macbookpro --> new items: 1
+Country: fr, product: iphone --> new items: 1
+Country: tw, product: macbookair --> new items: 1
+Country: us, product: iphone --> new items: 1
+------------------------------------------------------------
