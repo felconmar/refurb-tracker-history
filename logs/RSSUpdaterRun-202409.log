@@ -3746,3 +3746,11 @@ Country: tw, product: mini --> new items: 1
 Country: uk, product: macbookpro --> new items: 1
 Country: us, product: watch --> new items: 1
 ------------------------------------------------------------
+Date: 2024/09/25 03:16:50
+Country: be, product: iphone --> new items: 1
+Country: cn, product: imac --> new items: 1
+Country: cn, product: mini --> new items: 1
+Country: cn, product: macbookpro --> new items: 4
+Country: cn, product: macbookair --> new items: 6
+Country: us, product: ipad --> new items: 1
+------------------------------------------------------------
