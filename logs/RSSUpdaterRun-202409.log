@@ -4127,3 +4127,10 @@ Country: cn, product: watch --> new items: 1
 Country: ie, product: macbookair --> new items: 1
 Country: uk, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2024/09/26 12:17:00
+Country: cn, product: ipad --> new items: 1
+Country: ie, product: ipad --> new items: 1
+Country: ie, product: iphone --> new items: 1
+Country: uk, product: ipad --> new items: 1
+Country: uk, product: iphone --> new items: 1
+------------------------------------------------------------
