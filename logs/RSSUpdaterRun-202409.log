@@ -4236,3 +4236,9 @@ Country: cx, product: iphone --> new items: 1
 Country: ch, product: atv --> new items: 1
 Country: uk, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2024/09/27 03:15:23
+Country: ca, product: macbookpro --> new items: 1
+Country: ca, product: macbookair --> new items: 3
+Country: xf, product: macbookair --> new items: 1
+Country: it, product: iphone --> new items: 1
+------------------------------------------------------------
