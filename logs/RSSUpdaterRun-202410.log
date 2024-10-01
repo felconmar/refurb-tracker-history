@@ -128,3 +128,27 @@ Country: tw, product: mini --> new items: 5
 Country: tw, product: macbookpro --> new items: 23
 Country: tw, product: macbookair --> new items: 12
 ------------------------------------------------------------
+Date: 2024/10/01 14:08:56
+Country: au, product: macstudio --> new items: 1
+Country: au, product: mini --> new items: 1
+Country: au, product: macbookpro --> new items: 1
+Country: au, product: macbookair --> new items: 3
+Country: be, product: macbookair --> new items: 2
+Country: ca, product: mini --> new items: 1
+Country: ca, product: macbookpro --> new items: 1
+Country: xf, product: mini --> new items: 1
+Country: xf, product: macbookpro --> new items: 1
+Country: de, product: imac --> new items: 1
+Country: de, product: macbookpro --> new items: 1
+Country: ie, product: imac --> new items: 2
+Country: ie, product: macbookpro --> new items: 2
+Country: ie, product: macbookair --> new items: 3
+Country: it, product: mini --> new items: 1
+Country: it, product: macbookair --> new items: 1
+Country: nl, product: macbookpro --> new items: 2
+Country: nl, product: macbookair --> new items: 2
+Country: at, product: imac --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+Country: us, product: imac --> new items: 1
+Country: us, product: macbookair --> new items: 3
+------------------------------------------------------------
