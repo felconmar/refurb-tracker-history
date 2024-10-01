@@ -262,3 +262,10 @@ Country: pl, product: acc --> new items: 1
 Country: cx, product: acc --> new items: 1
 Country: ch, product: acc --> new items: 1
 ------------------------------------------------------------
+Date: 2024/10/01 22:08:38
+Country: de, product: macbookair --> new items: 1
+Country: es, product: macbookair --> new items: 1
+Country: it, product: macbookair --> new items: 2
+Country: at, product: macbookair --> new items: 1
+Country: us, product: ipad --> new items: 1
+------------------------------------------------------------
