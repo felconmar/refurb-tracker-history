@@ -363,3 +363,11 @@ Country: us, product: mini --> new items: 1
 Country: us, product: macbookpro --> new items: 1
 Country: us, product: macbookair --> new items: 2
 ------------------------------------------------------------
+Date: 2024/10/02 16:11:05
+Country: ca, product: iphone --> new items: 1
+Country: nl, product: macbookpro --> new items: 1
+Country: tw, product: imac --> new items: 1
+Country: tw, product: macbookpro --> new items: 1
+Country: tw, product: macbookair --> new items: 4
+Country: us, product: ipad --> new items: 1
+------------------------------------------------------------
