@@ -335,3 +335,9 @@ Country: tw, product: imac --> new items: 1
 Country: tw, product: macbookpro --> new items: 2
 Country: tw, product: macbookair --> new items: 4
 ------------------------------------------------------------
+Date: 2024/10/02 10:09:48
+Country: cn, product: imac --> new items: 6
+Country: cn, product: macbookair --> new items: 1
+Country: hk, product: macbookair --> new items: 2
+Country: sg, product: macbookpro --> new items: 1
+------------------------------------------------------------
