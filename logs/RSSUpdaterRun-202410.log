@@ -556,3 +556,18 @@ Country: us, product: macstudio --> new items: 2
 Country: us, product: macbookair --> new items: 32
 Country: us, product: atv --> new items: 1
 ------------------------------------------------------------
+Date: 2024/10/03 21:08:23
+Country: au, product: ipad --> new items: 1
+Country: ca, product: ipad --> new items: 1
+Country: ca, product: imac --> new items: 2
+Country: ca, product: macbookair --> new items: 3
+Country: ca, product: atv --> new items: 1
+Country: xf, product: imac --> new items: 2
+Country: xf, product: macbookair --> new items: 10
+Country: ie, product: macbookpro --> new items: 1
+Country: nz, product: ipad --> new items: 1
+Country: uk, product: macstudio --> new items: 2
+Country: uk, product: macbookair --> new items: 8
+Country: us, product: imac --> new items: 2
+Country: us, product: macbookair --> new items: 3
+------------------------------------------------------------
