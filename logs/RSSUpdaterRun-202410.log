@@ -471,3 +471,8 @@ Country: pl, product: macbookpro --> new items: 1
 Country: pl, product: macbookair --> new items: 5
 Country: uk, product: acc --> new items: 1
 ------------------------------------------------------------
+Date: 2024/10/03 12:16:39
+Country: ca, product: ipad --> new items: 2
+Country: jp, product: macbookpro --> new items: 1
+Country: nz, product: macbookpro --> new items: 1
+------------------------------------------------------------
