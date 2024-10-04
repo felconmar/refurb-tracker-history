@@ -720,3 +720,9 @@ Country: uk, product: iphone --> new items: 1
 Country: us, product: ipad --> new items: 1
 Country: us, product: iphone --> new items: 1
 ------------------------------------------------------------
+Date: 2024/10/04 22:08:46
+Country: ca, product: ipad --> new items: 1
+Country: xf, product: ipad --> new items: 1
+Country: us, product: ipad --> new items: 3
+Country: us, product: iphone --> new items: 1
+------------------------------------------------------------
