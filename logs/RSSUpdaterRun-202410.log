@@ -610,3 +610,9 @@ Country: us, product: ipad --> new items: 1
 Country: us, product: imac --> new items: 6
 Country: us, product: atv --> new items: 1
 ------------------------------------------------------------
+Date: 2024/10/04 02:11:49
+Country: ca, product: imac --> new items: 3
+Country: xf, product: imac --> new items: 7
+Country: kr, product: macbookair --> new items: 1
+Country: us, product: imac --> new items: 7
+------------------------------------------------------------
