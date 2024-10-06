@@ -887,3 +887,10 @@ Country: tw, product: mini --> new items: 1
 Country: us, product: imac --> new items: 1
 Country: us, product: macbookpro --> new items: 9
 ------------------------------------------------------------
+Date: 2024/10/06 21:07:39
+Country: ca, product: ipad --> new items: 1
+Country: ca, product: macbookair --> new items: 1
+Country: xf, product: imac --> new items: 1
+Country: xf, product: macbookpro --> new items: 9
+Country: uk, product: macbookpro --> new items: 2
+------------------------------------------------------------
