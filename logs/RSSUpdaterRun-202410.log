@@ -993,3 +993,9 @@ Country: uk, product: imac --> new items: 1
 Country: uk, product: macbookpro --> new items: 1
 Country: uk, product: macbookair --> new items: 2
 ------------------------------------------------------------
+Date: 2024/10/07 15:09:44
+Country: bx, product: macbookpro --> new items: 1
+Country: be, product: macbookpro --> new items: 1
+Country: ie, product: macbookair --> new items: 1
+Country: uk, product: macbookair --> new items: 1
+------------------------------------------------------------
