@@ -1007,3 +1007,8 @@ Country: jp, product: imac --> new items: 1
 Country: uk, product: macbookpro --> new items: 5
 Country: uk, product: macbookair --> new items: 5
 ------------------------------------------------------------
+Date: 2024/10/07 17:08:10
+Country: ca, product: imac --> new items: 3
+Country: xf, product: imac --> new items: 3
+Country: us, product: imac --> new items: 3
+------------------------------------------------------------
