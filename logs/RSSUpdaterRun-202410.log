@@ -1347,3 +1347,11 @@ Country: ie, product: mini --> new items: 1
 Country: uk, product: mini --> new items: 1
 Country: us, product: ipad --> new items: 5
 ------------------------------------------------------------
+Date: 2024/10/10 17:08:53
+Country: ca, product: ipad --> new items: 5
+Country: ca, product: macbookair --> new items: 9
+Country: xf, product: ipad --> new items: 5
+Country: xf, product: macbookair --> new items: 8
+Country: us, product: ipad --> new items: 10
+Country: us, product: macbookair --> new items: 9
+------------------------------------------------------------
