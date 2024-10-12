@@ -1565,3 +1565,9 @@ Country: uk, product: macstudio --> new items: 6
 Country: uk, product: macbookpro --> new items: 9
 Country: us, product: ipad --> new items: 5
 ------------------------------------------------------------
+Date: 2024/10/12 12:14:42
+Country: ie, product: macbookpro --> new items: 1
+Country: ie, product: macbookair --> new items: 1
+Country: uk, product: macbookpro --> new items: 1
+Country: uk, product: macbookair --> new items: 1
+------------------------------------------------------------
