@@ -1732,3 +1732,8 @@ Country: jp, product: macbookpro --> new items: 1
 Country: jp, product: macbookair --> new items: 1
 Country: kr, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2024/10/14 10:10:18
+Country: cn, product: imac --> new items: 1
+Country: jp, product: macbookair --> new items: 50
+Country: us, product: ipad --> new items: 1
+------------------------------------------------------------
