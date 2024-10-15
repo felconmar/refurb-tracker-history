@@ -1847,3 +1847,14 @@ Country: uk, product: macbookair --> new items: 1
 Country: us, product: ipad --> new items: 2
 Country: us, product: macbookair --> new items: 15
 ------------------------------------------------------------
+Date: 2024/10/15 12:17:08
+Country: ie, product: iphone --> new items: 1
+Country: ie, product: imac --> new items: 1
+Country: ie, product: macbookpro --> new items: 1
+Country: ie, product: macbookair --> new items: 1
+Country: sg, product: macbookpro --> new items: 2
+Country: uk, product: iphone --> new items: 1
+Country: uk, product: macbookpro --> new items: 1
+Country: uk, product: macbookair --> new items: 1
+Country: us, product: ipad --> new items: 1
+------------------------------------------------------------
