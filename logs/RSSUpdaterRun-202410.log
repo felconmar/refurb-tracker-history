@@ -2711,3 +2711,11 @@ Country: uk, product: macbookpro --> new items: 7
 Country: us, product: imac --> new items: 6
 Country: us, product: macbookair --> new items: 13
 ------------------------------------------------------------
+Date: 2024/10/22 00:43:39
+Country: ca, product: imac --> new items: 2
+Country: ca, product: macbookair --> new items: 1
+Country: xf, product: macbookair --> new items: 1
+Country: ie, product: iphone --> new items: 1
+Country: uk, product: iphone --> new items: 1
+Country: us, product: macbookair --> new items: 1
+------------------------------------------------------------
