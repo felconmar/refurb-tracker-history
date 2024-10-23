@@ -2959,3 +2959,15 @@ Country: uk, product: macbookair --> new items: 1
 Country: us, product: macbookpro --> new items: 4
 Country: us, product: macbookair --> new items: 8
 ------------------------------------------------------------
+Date: 2024/10/23 20:10:31
+Country: bx, product: macbookair --> new items: 1
+Country: be, product: macbookair --> new items: 1
+Country: ca, product: macbookair --> new items: 5
+Country: xf, product: macbookair --> new items: 4
+Country: de, product: macbookair --> new items: 13
+Country: fr, product: macbookair --> new items: 8
+Country: nl, product: macbookair --> new items: 4
+Country: at, product: macbookair --> new items: 13
+Country: ch, product: macbookair --> new items: 1
+Country: us, product: macbookair --> new items: 2
+------------------------------------------------------------
