@@ -3353,3 +3353,14 @@ Country: us, product: macbookpro --> new items: 1
 Date: 2024/10/27 02:18:17
 Country: ie, product: ipad --> new items: 1
 ------------------------------------------------------------
+Date: 2024/10/27 03:19:27
+Country: fr, product: iphone --> new items: 1
+Country: ie, product: imac --> new items: 1
+Country: jp, product: mini --> new items: 3
+Country: jp, product: macbookpro --> new items: 22
+Country: jp, product: macbookair --> new items: 11
+Country: tw, product: ipad --> new items: 1
+Country: uk, product: ipad --> new items: 1
+Country: uk, product: imac --> new items: 1
+Country: uk, product: macbookair --> new items: 1
+------------------------------------------------------------
