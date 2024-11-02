@@ -96,3 +96,21 @@ Date: 2024/11/02 00:42:35
 Country: ie, product: macbookair --> new items: 32
 Country: uk, product: macbookair --> new items: 10
 ------------------------------------------------------------
+Date: 2024/11/02 02:09:56
+Country: ca, product: imac --> new items: 38
+Country: ca, product: macbookair --> new items: 5
+Country: ca, product: atv --> new items: 2
+Country: xf, product: imac --> new items: 38
+Country: xf, product: macbookair --> new items: 5
+Country: xf, product: atv --> new items: 2
+Country: cn, product: macbookpro --> new items: 1
+Country: it, product: macstudio --> new items: 1
+Country: jp, product: watch --> new items: 10
+Country: kr, product: macbookpro --> new items: 1
+Country: uk, product: watch --> new items: 1
+Country: us, product: ipad --> new items: 13
+Country: us, product: imac --> new items: 38
+Country: us, product: macbookair --> new items: 5
+Country: us, product: watch --> new items: 3
+Country: us, product: atv --> new items: 2
+------------------------------------------------------------
