@@ -1256,3 +1256,19 @@ Country: uk, product: macbookair --> new items: 13
 Country: us, product: macbookpro --> new items: 1
 Country: us, product: macbookair --> new items: 15
 ------------------------------------------------------------
+Date: 2024/11/11 23:08:15
+Country: be, product: macbookpro --> new items: 11
+Country: ca, product: macbookpro --> new items: 1
+Country: ca, product: macbookair --> new items: 12
+Country: es, product: macbookpro --> new items: 4
+Country: ie, product: macbookpro --> new items: 1
+Country: ie, product: macbookair --> new items: 14
+Country: it, product: macbookpro --> new items: 2
+Country: jp, product: iphone --> new items: 1
+Country: jp, product: macbookpro --> new items: 2
+Country: jp, product: macbookair --> new items: 12
+Country: nl, product: macbookpro --> new items: 3
+Country: cx, product: macbookpro --> new items: 4
+Country: uk, product: macbookpro --> new items: 5
+Country: uk, product: macbookair --> new items: 15
+------------------------------------------------------------
