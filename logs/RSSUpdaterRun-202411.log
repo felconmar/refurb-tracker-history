@@ -1312,3 +1312,8 @@ Country: nz, product: macbookair --> new items: 10
 Country: tw, product: macbookair --> new items: 4
 Country: us, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2024/11/12 07:08:55
+Country: au, product: macbookpro --> new items: 8
+Country: nz, product: macbookpro --> new items: 8
+Country: uk, product: macbookpro --> new items: 2
+------------------------------------------------------------
