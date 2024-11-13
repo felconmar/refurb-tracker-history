@@ -1531,3 +1531,8 @@ Country: uk, product: iphone --> new items: 1
 Country: uk, product: macbookair --> new items: 1
 Country: us, product: macbookpro --> new items: 9
 ------------------------------------------------------------
+Date: 2024/11/13 22:08:23
+Country: ca, product: macbookpro --> new items: 7
+Country: xf, product: macbookpro --> new items: 12
+Country: us, product: macbookpro --> new items: 10
+------------------------------------------------------------
