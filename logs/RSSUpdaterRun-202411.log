@@ -1381,3 +1381,19 @@ Country: us, product: macbookair --> new items: 3
 Date: 2024/11/12 23:08:39
 Country: cn, product: ipad --> new items: 22
 ------------------------------------------------------------
+Date: 2024/11/13 00:43:01
+Country: be, product: macbookair --> new items: 1
+Country: es, product: ipad --> new items: 1
+Country: es, product: macbookair --> new items: 1
+Country: ie, product: iphone --> new items: 1
+Country: it, product: ipad --> new items: 1
+Country: it, product: imac --> new items: 1
+Country: it, product: macbookpro --> new items: 1
+Country: jp, product: imac --> new items: 1
+Country: jp, product: macbookair --> new items: 6
+Country: at, product: imac --> new items: 1
+Country: cx, product: ipad --> new items: 1
+Country: ch, product: ipad --> new items: 1
+Country: tw, product: mini --> new items: 1
+Country: tw, product: macbookpro --> new items: 1
+------------------------------------------------------------
