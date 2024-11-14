@@ -1658,3 +1658,8 @@ Country: cx, product: macbookair --> new items: 2
 Country: us, product: macbookpro --> new items: 2
 Country: us, product: macbookair --> new items: 2
 ------------------------------------------------------------
+Date: 2024/11/14 12:17:51
+Country: jp, product: mini --> new items: 1
+Country: sg, product: macbookpro --> new items: 6
+Country: sg, product: macbookair --> new items: 4
+------------------------------------------------------------
