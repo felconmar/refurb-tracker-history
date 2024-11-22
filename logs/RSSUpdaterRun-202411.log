@@ -2671,3 +2671,8 @@ Country: us, product: iphone --> new items: 5
 Country: us, product: macpro --> new items: 3
 Country: us, product: macbookair --> new items: 22
 ------------------------------------------------------------
+Date: 2024/11/22 09:10:37
+Country: fr, product: macbookpro --> new items: 1
+Country: jp, product: imac --> new items: 1
+Country: pl, product: macbookpro --> new items: 2
+------------------------------------------------------------
