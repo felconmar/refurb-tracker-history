@@ -2813,3 +2813,17 @@ Country: xf, product: imac --> new items: 1
 Country: uk, product: macbookair --> new items: 3
 Country: us, product: imac --> new items: 1
 ------------------------------------------------------------
+Date: 2024/11/23 20:10:26
+Country: ca, product: imac --> new items: 33
+Country: ca, product: macbookpro --> new items: 33
+Country: ca, product: macbookair --> new items: 17
+Country: xf, product: imac --> new items: 32
+Country: xf, product: macbookpro --> new items: 32
+Country: xf, product: macbookair --> new items: 17
+Country: jp, product: macstudio --> new items: 5
+Country: jp, product: macbookpro --> new items: 5
+Country: jp, product: macbookair --> new items: 11
+Country: us, product: imac --> new items: 18
+Country: us, product: macbookpro --> new items: 33
+Country: us, product: macbookair --> new items: 22
+------------------------------------------------------------
