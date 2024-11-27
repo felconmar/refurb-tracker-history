@@ -3288,3 +3288,12 @@ Country: fr, product: macbookpro --> new items: 1
 Country: ie, product: macbookair --> new items: 1
 Country: uk, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2024/11/27 14:09:21
+Country: de, product: macbookair --> new items: 1
+Country: es, product: macbookair --> new items: 5
+Country: it, product: macbookair --> new items: 3
+Country: at, product: macbookair --> new items: 1
+Country: sg, product: imac --> new items: 6
+Country: sg, product: macbookpro --> new items: 18
+Country: sg, product: macbookair --> new items: 4
+------------------------------------------------------------
