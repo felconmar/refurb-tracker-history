@@ -3323,3 +3323,15 @@ Country: ca, product: imac --> new items: 6
 Country: xf, product: imac --> new items: 6
 Country: us, product: imac --> new items: 6
 ------------------------------------------------------------
+Date: 2024/11/27 20:11:06
+Country: ca, product: imac --> new items: 13
+Country: ca, product: mini --> new items: 1
+Country: xf, product: imac --> new items: 13
+Country: xf, product: mini --> new items: 1
+Country: ie, product: iphone --> new items: 11
+Country: ie, product: macbookair --> new items: 27
+Country: uk, product: iphone --> new items: 11
+Country: uk, product: macbookair --> new items: 27
+Country: us, product: imac --> new items: 8
+Country: us, product: mini --> new items: 1
+------------------------------------------------------------
