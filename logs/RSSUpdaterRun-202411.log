@@ -3590,3 +3590,9 @@ Country: us, product: iphone --> new items: 1
 Date: 2024/11/29 22:08:48
 Country: uk, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2024/11/29 23:09:05
+Country: ie, product: ipad --> new items: 1
+Country: ie, product: macbookair --> new items: 6
+Country: uk, product: ipad --> new items: 1
+Country: uk, product: macbookair --> new items: 5
+------------------------------------------------------------
