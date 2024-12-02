@@ -175,3 +175,13 @@ Country: uk, product: iphone --> new items: 1
 Country: us, product: macstudio --> new items: 1
 Country: us, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2024/12/02 19:07:50
+Country: xf, product: macstudio --> new items: 1
+Country: xf, product: macbookpro --> new items: 1
+Country: cn, product: macbookpro --> new items: 1
+Country: de, product: macbookair --> new items: 10
+Country: es, product: macbookair --> new items: 1
+Country: fr, product: macbookair --> new items: 12
+Country: nl, product: macbookair --> new items: 6
+Country: at, product: macbookair --> new items: 10
+------------------------------------------------------------
