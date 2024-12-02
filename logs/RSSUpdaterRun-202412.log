@@ -216,3 +216,11 @@ Country: uk, product: macbookair --> new items: 8
 Country: us, product: iphone --> new items: 1
 Country: us, product: acc --> new items: 1
 ------------------------------------------------------------
+Date: 2024/12/02 23:10:58
+Country: au, product: macstudio --> new items: 9
+Country: au, product: mini --> new items: 14
+Country: au, product: macbookpro --> new items: 13
+Country: au, product: macbookair --> new items: 27
+Country: au, product: acc --> new items: 4
+Country: sg, product: ipad --> new items: 8
+------------------------------------------------------------
