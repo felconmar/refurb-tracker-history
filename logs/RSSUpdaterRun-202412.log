@@ -310,3 +310,15 @@ Country: fr, product: macbookair --> new items: 2
 Country: ie, product: atv --> new items: 2
 Country: uk, product: atv --> new items: 2
 ------------------------------------------------------------
+Date: 2024/12/03 17:09:26
+Country: au, product: ipad --> new items: 1
+Country: bx, product: iphone --> new items: 1
+Country: be, product: iphone --> new items: 1
+Country: de, product: macbookair --> new items: 1
+Country: ie, product: macbookpro --> new items: 1
+Country: jp, product: iphone --> new items: 3
+Country: nl, product: macbookair --> new items: 1
+Country: at, product: iphone --> new items: 1
+Country: at, product: macbookair --> new items: 1
+Country: ch, product: iphone --> new items: 1
+------------------------------------------------------------
