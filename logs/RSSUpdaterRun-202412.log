@@ -402,3 +402,14 @@ Country: es, product: macbookair --> new items: 1
 Country: ie, product: imac --> new items: 20
 Country: uk, product: imac --> new items: 19
 ------------------------------------------------------------
+Date: 2024/12/04 15:10:21
+Country: cn, product: watch --> new items: 1
+Country: de, product: macbookair --> new items: 1
+Country: es, product: macstudio --> new items: 1
+Country: es, product: macbookair --> new items: 3
+Country: ie, product: macbookair --> new items: 1
+Country: jp, product: imac --> new items: 1
+Country: jp, product: macbookair --> new items: 1
+Country: nl, product: macbookair --> new items: 1
+Country: at, product: macbookair --> new items: 1
+------------------------------------------------------------
