@@ -503,3 +503,8 @@ Country: xf, product: mini --> new items: 1
 Country: us, product: mini --> new items: 1
 Country: us, product: watch --> new items: 1
 ------------------------------------------------------------
+Date: 2024/12/05 05:10:36
+Country: ca, product: mini --> new items: 8
+Country: xf, product: mini --> new items: 8
+Country: us, product: mini --> new items: 8
+------------------------------------------------------------
