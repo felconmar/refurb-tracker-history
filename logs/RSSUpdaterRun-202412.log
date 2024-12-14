@@ -1968,3 +1968,8 @@ Country: xf, product: imac --> new items: 1
 Country: es, product: iphone --> new items: 1
 Country: us, product: imac --> new items: 1
 ------------------------------------------------------------
+Date: 2024/12/14 16:10:18
+Country: ca, product: imac --> new items: 8
+Country: xf, product: imac --> new items: 8
+Country: us, product: imac --> new items: 7
+------------------------------------------------------------
