@@ -2059,3 +2059,8 @@ Country: ie, product: macbookair --> new items: 1
 Country: jp, product: macbookair --> new items: 1
 Country: nl, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2024/12/15 19:06:55
+Country: ie, product: iphone --> new items: 1
+Country: uk, product: iphone --> new items: 1
+Country: uk, product: macbookair --> new items: 1
+------------------------------------------------------------
