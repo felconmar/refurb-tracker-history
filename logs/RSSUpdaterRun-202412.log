@@ -2495,3 +2495,10 @@ Country: ca, product: macbookair --> new items: 37
 Country: xf, product: macbookair --> new items: 37
 Country: us, product: macbookair --> new items: 23
 ------------------------------------------------------------
+Date: 2024/12/17 19:08:04
+Country: be, product: macbookpro --> new items: 1
+Country: xf, product: macbookpro --> new items: 18
+Country: uk, product: macbookair --> new items: 1
+Country: us, product: macbookpro --> new items: 18
+Country: us, product: macbookair --> new items: 13
+------------------------------------------------------------
