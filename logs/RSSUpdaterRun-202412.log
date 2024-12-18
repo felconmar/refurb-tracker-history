@@ -2570,3 +2570,11 @@ Country: xf, product: mini --> new items: 9
 Country: xf, product: macbookpro --> new items: 11
 Country: us, product: macbookpro --> new items: 3
 ------------------------------------------------------------
+Date: 2024/12/18 03:21:47
+Country: ca, product: macbookpro --> new items: 22
+Country: ca, product: macbookair --> new items: 8
+Country: xf, product: macbookpro --> new items: 22
+Country: xf, product: macbookair --> new items: 8
+Country: us, product: macbookpro --> new items: 9
+Country: us, product: macbookair --> new items: 5
+------------------------------------------------------------
