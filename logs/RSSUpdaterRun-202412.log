@@ -2563,3 +2563,10 @@ Country: us, product: iphone --> new items: 1
 Country: us, product: mini --> new items: 10
 Country: us, product: macbookpro --> new items: 10
 ------------------------------------------------------------
+Date: 2024/12/18 02:17:19
+Country: ca, product: mini --> new items: 10
+Country: ca, product: macbookpro --> new items: 10
+Country: xf, product: mini --> new items: 9
+Country: xf, product: macbookpro --> new items: 11
+Country: us, product: macbookpro --> new items: 3
+------------------------------------------------------------
