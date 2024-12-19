@@ -2758,3 +2758,8 @@ Country: pl, product: macbookpro --> new items: 1
 Country: sg, product: macbookair --> new items: 3
 Country: tw, product: macbookair --> new items: 7
 ------------------------------------------------------------
+Date: 2024/12/19 10:10:24
+Country: fr, product: iphone --> new items: 1
+Country: ie, product: ipad --> new items: 1
+Country: uk, product: ipad --> new items: 1
+------------------------------------------------------------
