@@ -2763,3 +2763,9 @@ Country: fr, product: iphone --> new items: 1
 Country: ie, product: ipad --> new items: 1
 Country: uk, product: ipad --> new items: 1
 ------------------------------------------------------------
+Date: 2024/12/19 11:08:31
+Country: ie, product: acc --> new items: 1
+Country: jp, product: macbookair --> new items: 13
+Country: uk, product: acc --> new items: 1
+Country: us, product: iphone --> new items: 1
+------------------------------------------------------------
