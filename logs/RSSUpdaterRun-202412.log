@@ -3100,3 +3100,11 @@ Country: ca, product: macbookpro --> new items: 3
 Country: xf, product: macbookpro --> new items: 3
 Country: us, product: macbookpro --> new items: 3
 ------------------------------------------------------------
+Date: 2024/12/21 06:11:47
+Country: ca, product: macbookair --> new items: 15
+Country: xf, product: macbookair --> new items: 15
+Country: jp, product: iphone --> new items: 16
+Country: jp, product: imac --> new items: 52
+Country: jp, product: macbookair --> new items: 1
+Country: us, product: macbookair --> new items: 15
+------------------------------------------------------------
