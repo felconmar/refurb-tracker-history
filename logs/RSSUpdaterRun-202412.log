@@ -3258,3 +3258,8 @@ Country: au, product: macbookair --> new items: 2
 Country: es, product: iphone --> new items: 1
 Country: it, product: iphone --> new items: 1
 ------------------------------------------------------------
+Date: 2024/12/23 03:15:58
+Country: au, product: macbookair --> new items: 3
+Country: jp, product: ipad --> new items: 1
+Country: nz, product: macbookair --> new items: 5
+------------------------------------------------------------
