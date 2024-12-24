@@ -3439,3 +3439,9 @@ Country: sg, product: imac --> new items: 18
 Country: sg, product: macbookpro --> new items: 9
 Country: sg, product: macbookair --> new items: 3
 ------------------------------------------------------------
+Date: 2024/12/24 12:17:56
+Country: fr, product: macbookpro --> new items: 16
+Country: fr, product: macbookair --> new items: 1
+Country: ie, product: macbookair --> new items: 21
+Country: uk, product: macbookair --> new items: 23
+------------------------------------------------------------
