@@ -3455,3 +3455,10 @@ Country: de, product: macbookair --> new items: 1
 Country: fr, product: macbookair --> new items: 1
 Country: it, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2024/12/24 15:08:34
+Country: de, product: macbookair --> new items: 16
+Country: fr, product: macbookair --> new items: 23
+Country: ie, product: macbookpro --> new items: 1
+Country: at, product: macbookair --> new items: 16
+Country: uk, product: macbookpro --> new items: 1
+------------------------------------------------------------
