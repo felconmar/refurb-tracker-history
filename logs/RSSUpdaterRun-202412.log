@@ -3626,3 +3626,14 @@ Country: us, product: macbookpro --> new items: 1
 Country: us, product: macbookair --> new items: 7
 Country: us, product: watch --> new items: 2
 ------------------------------------------------------------
+Date: 2024/12/25 00:42:50
+Country: ca, product: macbookair --> new items: 1
+Country: xf, product: macbookair --> new items: 3
+Country: de, product: macbookair --> new items: 16
+Country: es, product: macbookair --> new items: 1
+Country: fr, product: macbookpro --> new items: 1
+Country: ie, product: macbookpro --> new items: 1
+Country: ie, product: macbookair --> new items: 2
+Country: it, product: iphone --> new items: 1
+Country: at, product: macbookair --> new items: 16
+------------------------------------------------------------
