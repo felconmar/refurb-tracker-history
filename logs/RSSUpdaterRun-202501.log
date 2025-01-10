@@ -1007,3 +1007,9 @@ Country: ie, product: ipad --> new items: 2
 Country: jp, product: ipad --> new items: 1
 Country: uk, product: ipad --> new items: 2
 ------------------------------------------------------------
+Date: 2025/01/10 15:08:36
+Country: cn, product: ipad --> new items: 1
+Country: ie, product: ipad --> new items: 12
+Country: jp, product: imac --> new items: 1
+Country: uk, product: ipad --> new items: 15
+------------------------------------------------------------
