@@ -984,3 +984,8 @@ Country: us, product: ipad --> new items: 1
 Date: 2025/01/10 09:10:11
 Country: jp, product: ipad --> new items: 1
 ------------------------------------------------------------
+Date: 2025/01/10 10:12:00
+Country: ie, product: macbookair --> new items: 1
+Country: uk, product: ipad --> new items: 1
+Country: uk, product: macbookair --> new items: 1
+------------------------------------------------------------
