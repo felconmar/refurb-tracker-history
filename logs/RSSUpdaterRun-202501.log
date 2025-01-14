@@ -1699,3 +1699,9 @@ Country: ch, product: macbookpro --> new items: 3
 Country: ch, product: macbookair --> new items: 5
 Country: us, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2025/01/14 16:10:54
+Country: ca, product: macbookair --> new items: 1
+Country: xf, product: macbookpro --> new items: 1
+Country: jp, product: ipad --> new items: 1
+Country: jp, product: macbookpro --> new items: 2
+------------------------------------------------------------
