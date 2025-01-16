@@ -2054,3 +2054,8 @@ Country: at, product: acc --> new items: 1
 Country: pl, product: acc --> new items: 1
 Country: us, product: ipad --> new items: 2
 ------------------------------------------------------------
+Date: 2025/01/16 23:08:59
+Country: es, product: iphone --> new items: 1
+Country: it, product: iphone --> new items: 1
+Country: us, product: ipad --> new items: 1
+------------------------------------------------------------
