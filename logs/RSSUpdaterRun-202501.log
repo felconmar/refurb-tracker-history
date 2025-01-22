@@ -2642,3 +2642,20 @@ Date: 2025/01/22 07:08:57
 Country: cn, product: ipad --> new items: 1
 Country: cn, product: macbookair --> new items: 4
 ------------------------------------------------------------
+Date: 2025/01/22 08:12:28
+Country: au, product: ipad --> new items: 1
+Country: de, product: macbookair --> new items: 1
+Country: hk, product: macbookpro --> new items: 1
+Country: hk, product: macbookair --> new items: 1
+Country: nz, product: ipad --> new items: 1
+Country: nz, product: macbookair --> new items: 1
+Country: ch, product: iphone --> new items: 1
+Country: uk, product: ipad --> new items: 1
+Country: uk, product: macbookpro --> new items: 1
+Country: uk, product: macbookair --> new items: 17
+Country: us, product: ipad --> new items: 1
+Country: us, product: iphone --> new items: 2
+Country: us, product: imac --> new items: 1
+Country: us, product: macbookpro --> new items: 3
+Country: us, product: macbookair --> new items: 1
+------------------------------------------------------------
