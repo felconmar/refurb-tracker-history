@@ -3621,3 +3621,19 @@ Country: ie, product: macbookpro --> new items: 1
 Country: uk, product: macbookpro --> new items: 1
 Country: us, product: ipad --> new items: 1
 ------------------------------------------------------------
+Date: 2025/01/28 18:12:18
+Country: bx, product: macbookair --> new items: 2
+Country: be, product: macbookair --> new items: 2
+Country: ca, product: macstudio --> new items: 6
+Country: ca, product: macbookair --> new items: 1
+Country: xf, product: macstudio --> new items: 6
+Country: xf, product: macbookair --> new items: 1
+Country: de, product: macbookair --> new items: 3
+Country: fr, product: macbookair --> new items: 1
+Country: jp, product: mini --> new items: 1
+Country: nl, product: macbookair --> new items: 1
+Country: at, product: macbookair --> new items: 3
+Country: pl, product: macbookair --> new items: 2
+Country: us, product: macstudio --> new items: 6
+Country: us, product: macbookair --> new items: 1
+------------------------------------------------------------
