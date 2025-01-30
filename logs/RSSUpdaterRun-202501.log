@@ -3955,3 +3955,9 @@ Country: pl, product: macbookair --> new items: 2
 Country: cx, product: macbookair --> new items: 1
 Country: uk, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2025/01/30 11:07:39
+Country: bx, product: ipad --> new items: 1
+Country: bx, product: macbookair --> new items: 1
+Country: be, product: macbookair --> new items: 1
+Country: xf, product: macbookpro --> new items: 1
+------------------------------------------------------------
