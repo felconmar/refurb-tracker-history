@@ -578,3 +578,9 @@ Country: ie, product: watch --> new items: 1
 Country: uk, product: ipad --> new items: 2
 Country: uk, product: watch --> new items: 6
 ------------------------------------------------------------
+Date: 2025/02/05 17:08:12
+Country: ie, product: ipad --> new items: 2
+Country: uk, product: imac --> new items: 13
+Country: uk, product: macbookpro --> new items: 1
+Country: uk, product: macbookair --> new items: 1
+------------------------------------------------------------
