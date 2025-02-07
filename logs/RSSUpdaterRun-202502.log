@@ -919,3 +919,10 @@ Country: uk, product: macbookair --> new items: 1
 Date: 2025/02/07 17:08:01
 Country: cn, product: macbookpro --> new items: 26
 ------------------------------------------------------------
+Date: 2025/02/07 18:12:25
+Country: ca, product: mini --> new items: 3
+Country: ca, product: macbookair --> new items: 1
+Country: xf, product: mini --> new items: 3
+Country: xf, product: macbookair --> new items: 1
+Country: us, product: mini --> new items: 3
+------------------------------------------------------------
