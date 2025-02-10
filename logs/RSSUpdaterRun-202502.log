@@ -1182,3 +1182,15 @@ Country: xf, product: macstudio --> new items: 1
 Country: cn, product: macstudio --> new items: 1
 Country: us, product: macstudio --> new items: 5
 ------------------------------------------------------------
+Date: 2025/02/10 20:09:28
+Country: ca, product: imac --> new items: 2
+Country: xf, product: imac --> new items: 1
+Country: xf, product: macstudio --> new items: 1
+Country: ie, product: macstudio --> new items: 6
+Country: uk, product: iphone --> new items: 1
+Country: uk, product: macstudio --> new items: 6
+Country: us, product: ipad --> new items: 5
+Country: us, product: iphone --> new items: 2
+Country: us, product: imac --> new items: 2
+Country: us, product: macstudio --> new items: 1
+------------------------------------------------------------
