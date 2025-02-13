@@ -1648,3 +1648,12 @@ Country: it, product: iphone --> new items: 1
 Country: nz, product: mini --> new items: 8
 Country: nz, product: macbookpro --> new items: 11
 ------------------------------------------------------------
+Date: 2025/02/13 17:06:51
+Country: hk, product: macbookpro --> new items: 5
+Country: jp, product: mini --> new items: 20
+Country: jp, product: macbookpro --> new items: 75
+Country: sg, product: mini --> new items: 12
+Country: sg, product: macbookpro --> new items: 24
+Country: kr, product: mini --> new items: 3
+Country: kr, product: macbookpro --> new items: 8
+------------------------------------------------------------
