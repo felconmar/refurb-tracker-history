@@ -1786,3 +1786,9 @@ Country: uk, product: watch --> new items: 3
 Date: 2025/02/14 14:08:41
 Country: it, product: iphone --> new items: 1
 ------------------------------------------------------------
+Date: 2025/02/14 15:09:31
+Country: es, product: iphone --> new items: 1
+Country: fr, product: macbookpro --> new items: 1
+Country: ie, product: macbookair --> new items: 1
+Country: uk, product: macbookair --> new items: 1
+------------------------------------------------------------
