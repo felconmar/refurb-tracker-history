@@ -2633,3 +2633,9 @@ Country: uk, product: ipad --> new items: 1
 Country: uk, product: iphone --> new items: 3
 Country: uk, product: imac --> new items: 8
 ------------------------------------------------------------
+Date: 2025/02/20 17:08:20
+Country: de, product: ipad --> new items: 1
+Country: pl, product: ipad --> new items: 1
+Country: pl, product: mini --> new items: 1
+Country: us, product: macbookair --> new items: 2
+------------------------------------------------------------
