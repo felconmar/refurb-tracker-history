@@ -3059,3 +3059,13 @@ Country: uk, product: iphone --> new items: 1
 Country: us, product: iphone --> new items: 3
 Country: us, product: macbookair --> new items: 6
 ------------------------------------------------------------
+Date: 2025/02/23 21:07:47
+Country: au, product: macbookair --> new items: 1
+Country: ca, product: macstudio --> new items: 1
+Country: xf, product: macstudio --> new items: 1
+Country: xf, product: macbookair --> new items: 1
+Country: es, product: iphone --> new items: 1
+Country: nz, product: macbookair --> new items: 1
+Country: us, product: iphone --> new items: 1
+Country: us, product: macstudio --> new items: 1
+------------------------------------------------------------
