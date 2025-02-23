@@ -3024,3 +3024,26 @@ Country: ie, product: macbookpro --> new items: 1
 Date: 2025/02/23 17:08:27
 Country: cn, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2025/02/23 18:11:15
+Country: ca, product: macstudio --> new items: 3
+Country: ca, product: macbookpro --> new items: 30
+Country: ca, product: macbookair --> new items: 2
+Country: xf, product: macstudio --> new items: 3
+Country: xf, product: macbookpro --> new items: 30
+Country: xf, product: macbookair --> new items: 2
+Country: cn, product: imac --> new items: 49
+Country: es, product: iphone --> new items: 1
+Country: hk, product: imac --> new items: 19
+Country: it, product: iphone --> new items: 1
+Country: jp, product: imac --> new items: 76
+Country: jp, product: macstudio --> new items: 2
+Country: jp, product: macbookpro --> new items: 1
+Country: sg, product: imac --> new items: 48
+Country: tw, product: imac --> new items: 12
+Country: uk, product: imac --> new items: 1
+Country: uk, product: macbookpro --> new items: 1
+Country: us, product: iphone --> new items: 2
+Country: us, product: macstudio --> new items: 3
+Country: us, product: macbookpro --> new items: 30
+Country: us, product: macbookair --> new items: 2
+------------------------------------------------------------
