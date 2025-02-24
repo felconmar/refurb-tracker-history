@@ -3166,3 +3166,20 @@ Country: de, product: macbookpro --> new items: 1
 Country: us, product: macbookpro --> new items: 1
 Country: us, product: macbookair --> new items: 4
 ------------------------------------------------------------
+Date: 2025/02/24 19:07:46
+Country: bx, product: imac --> new items: 2
+Country: be, product: imac --> new items: 2
+Country: ca, product: imac --> new items: 110
+Country: ca, product: macbookpro --> new items: 2
+Country: xf, product: imac --> new items: 110
+Country: xf, product: macbookpro --> new items: 2
+Country: xf, product: macbookair --> new items: 1
+Country: de, product: imac --> new items: 5
+Country: es, product: imac --> new items: 2
+Country: ie, product: imac --> new items: 11
+Country: it, product: imac --> new items: 3
+Country: at, product: imac --> new items: 5
+Country: uk, product: imac --> new items: 11
+Country: us, product: imac --> new items: 110
+Country: us, product: macbookpro --> new items: 2
+------------------------------------------------------------
