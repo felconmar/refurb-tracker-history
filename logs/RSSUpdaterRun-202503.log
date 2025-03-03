@@ -309,3 +309,7 @@ Country: jp, product: mini --> new items: 1
 Country: jp, product: macbookair --> new items: 2
 Country: us, product: ipad --> new items: 1
 ------------------------------------------------------------
+Date: 2025/03/03 15:10:21
+Country: jp, product: macbookpro --> new items: 1
+Country: kr, product: macbookpro --> new items: 1
+------------------------------------------------------------
