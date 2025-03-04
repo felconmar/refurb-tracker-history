@@ -390,3 +390,10 @@ Country: us, product: ipad --> new items: 1
 Country: us, product: iphone --> new items: 6
 Country: us, product: imac --> new items: 3
 ------------------------------------------------------------
+Date: 2025/03/04 02:15:44
+Country: ca, product: imac --> new items: 3
+Country: xf, product: imac --> new items: 3
+Country: us, product: ipad --> new items: 1
+Country: us, product: iphone --> new items: 3
+Country: us, product: imac --> new items: 2
+------------------------------------------------------------
