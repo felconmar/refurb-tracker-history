@@ -523,3 +523,23 @@ Country: ch, product: macbookpro --> new items: 1
 Country: uk, product: imac --> new items: 3
 Country: us, product: iphone --> new items: 2
 ------------------------------------------------------------
+Date: 2025/03/04 18:13:01
+Country: bx, product: macbookpro --> new items: 5
+Country: bx, product: macbookair --> new items: 1
+Country: be, product: macbookpro --> new items: 5
+Country: be, product: macbookair --> new items: 1
+Country: ca, product: iphone --> new items: 3
+Country: xf, product: iphone --> new items: 6
+Country: de, product: macbookair --> new items: 15
+Country: es, product: macbookair --> new items: 6
+Country: fr, product: macbookpro --> new items: 1
+Country: fr, product: macbookair --> new items: 5
+Country: it, product: macbookpro --> new items: 2
+Country: it, product: macbookair --> new items: 3
+Country: nl, product: macbookpro --> new items: 1
+Country: nl, product: macbookair --> new items: 2
+Country: at, product: macbookair --> new items: 15
+Country: cx, product: macbookair --> new items: 6
+Country: ch, product: macbookair --> new items: 6
+Country: us, product: iphone --> new items: 3
+------------------------------------------------------------
