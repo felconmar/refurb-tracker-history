@@ -649,3 +649,9 @@ Country: ch, product: macbookair --> new items: 1
 Date: 2025/03/05 08:13:16
 Country: fr, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2025/03/05 09:10:32
+Country: au, product: macbookpro --> new items: 1
+Country: jp, product: ipad --> new items: 1
+Country: jp, product: macbookpro --> new items: 1
+Country: jp, product: macbookair --> new items: 3
+------------------------------------------------------------
