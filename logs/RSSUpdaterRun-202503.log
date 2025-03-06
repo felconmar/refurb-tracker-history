@@ -788,3 +788,9 @@ Date: 2025/03/06 07:10:08
 Country: nz, product: mini --> new items: 1
 Country: us, product: iphone --> new items: 1
 ------------------------------------------------------------
+Date: 2025/03/06 08:12:59
+Country: au, product: mini --> new items: 1
+Country: cn, product: mini --> new items: 3
+Country: cn, product: macbookair --> new items: 3
+Country: us, product: iphone --> new items: 1
+------------------------------------------------------------
