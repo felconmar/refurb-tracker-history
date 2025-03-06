@@ -876,3 +876,8 @@ Country: us, product: ipad --> new items: 1
 Country: us, product: iphone --> new items: 2
 Country: us, product: imac --> new items: 4
 ------------------------------------------------------------
+Date: 2025/03/06 22:09:04
+Country: ca, product: macbookpro --> new items: 1
+Country: xf, product: macbookpro --> new items: 1
+Country: cn, product: macbookair --> new items: 1
+------------------------------------------------------------
