@@ -1561,3 +1561,12 @@ Country: uk, product: macstudio --> new items: 1
 Country: uk, product: macbookpro --> new items: 1
 Country: us, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2025/03/11 00:46:07
+Country: ca, product: macbookair --> new items: 3
+Country: ca, product: acc --> new items: 1
+Country: xf, product: macbookair --> new items: 3
+Country: xf, product: acc --> new items: 1
+Country: us, product: iphone --> new items: 1
+Country: us, product: macbookair --> new items: 3
+Country: us, product: acc --> new items: 1
+------------------------------------------------------------
