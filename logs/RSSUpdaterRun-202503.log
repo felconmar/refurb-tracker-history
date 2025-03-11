@@ -1570,3 +1570,9 @@ Country: us, product: iphone --> new items: 1
 Country: us, product: macbookair --> new items: 3
 Country: us, product: acc --> new items: 1
 ------------------------------------------------------------
+Date: 2025/03/11 02:16:46
+Country: kr, product: macbookpro --> new items: 1
+Country: tw, product: macbookpro --> new items: 13
+Country: tw, product: macbookair --> new items: 16
+Country: us, product: iphone --> new items: 1
+------------------------------------------------------------
