@@ -2000,3 +2000,9 @@ Country: at, product: ipad --> new items: 1
 Country: uk, product: macbookair --> new items: 2
 Country: us, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2025/03/13 22:08:53
+Country: ca, product: macbookair --> new items: 3
+Country: xf, product: macbookair --> new items: 3
+Country: us, product: iphone --> new items: 4
+Country: us, product: macbookair --> new items: 3
+------------------------------------------------------------
