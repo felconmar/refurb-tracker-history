@@ -2014,3 +2014,11 @@ Country: nl, product: ipad --> new items: 1
 Country: uk, product: macbookair --> new items: 1
 Country: us, product: macbookpro --> new items: 2
 ------------------------------------------------------------
+Date: 2025/03/14 00:45:15
+Country: bx, product: ipad --> new items: 1
+Country: be, product: ipad --> new items: 1
+Country: ca, product: macbookair --> new items: 32
+Country: xf, product: macbookair --> new items: 33
+Country: us, product: iphone --> new items: 7
+Country: us, product: macbookair --> new items: 33
+------------------------------------------------------------
