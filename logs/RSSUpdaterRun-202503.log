@@ -2966,3 +2966,16 @@ Country: us, product: iphone --> new items: 1
 Country: us, product: macbookpro --> new items: 28
 Country: us, product: macbookair --> new items: 5
 ------------------------------------------------------------
+Date: 2025/03/19 22:09:20
+Country: ca, product: macbookpro --> new items: 16
+Country: ca, product: macbookair --> new items: 3
+Country: xf, product: ipad --> new items: 1
+Country: xf, product: mini --> new items: 2
+Country: xf, product: macbookpro --> new items: 15
+Country: xf, product: macbookair --> new items: 5
+Country: fr, product: macbookpro --> new items: 1
+Country: ie, product: mini --> new items: 1
+Country: uk, product: mini --> new items: 1
+Country: us, product: ipad --> new items: 2
+Country: us, product: iphone --> new items: 3
+------------------------------------------------------------
