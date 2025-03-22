@@ -3335,3 +3335,8 @@ Country: us, product: imac --> new items: 2
 Country: us, product: macstudio --> new items: 1
 Country: us, product: macbookair --> new items: 21
 ------------------------------------------------------------
+Date: 2025/03/22 19:07:05
+Country: ca, product: macbookair --> new items: 2
+Country: xf, product: macbookair --> new items: 2
+Country: us, product: macbookair --> new items: 2
+------------------------------------------------------------
