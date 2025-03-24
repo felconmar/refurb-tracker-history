@@ -3482,3 +3482,8 @@ Country: sg, product: mini --> new items: 6
 Country: cx, product: macbookair --> new items: 1
 Country: us, product: iphone --> new items: 4
 ------------------------------------------------------------
+Date: 2025/03/24 13:20:44
+Country: fr, product: macbookair --> new items: 1
+Country: sg, product: mini --> new items: 6
+Country: sg, product: macbookair --> new items: 7
+------------------------------------------------------------
