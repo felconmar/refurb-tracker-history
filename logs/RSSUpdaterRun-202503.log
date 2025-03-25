@@ -3698,3 +3698,10 @@ Country: it, product: macstudio --> new items: 1
 Country: at, product: macstudio --> new items: 1
 Country: us, product: macbookair --> new items: 2
 ------------------------------------------------------------
+Date: 2025/03/25 20:10:49
+Country: ca, product: mini --> new items: 7
+Country: ca, product: macbookpro --> new items: 1
+Country: xf, product: mini --> new items: 7
+Country: xf, product: macbookpro --> new items: 1
+Country: us, product: mini --> new items: 4
+------------------------------------------------------------
