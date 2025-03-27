@@ -3919,3 +3919,8 @@ Country: xf, product: mini --> new items: 12
 Country: uk, product: iphone --> new items: 1
 Country: us, product: mini --> new items: 16
 ------------------------------------------------------------
+Date: 2025/03/27 05:10:20
+Country: ca, product: mini --> new items: 1
+Country: xf, product: mini --> new items: 1
+Country: us, product: mini --> new items: 1
+------------------------------------------------------------
