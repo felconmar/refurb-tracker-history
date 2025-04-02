@@ -327,3 +327,7 @@ Country: ch, product: iphone --> new items: 1
 Country: ch, product: mini --> new items: 3
 Country: ch, product: macbookpro --> new items: 2
 ------------------------------------------------------------
+Date: 2025/04/02 16:12:39
+Country: au, product: macbookpro --> new items: 1
+Country: nz, product: macbookpro --> new items: 1
+------------------------------------------------------------
