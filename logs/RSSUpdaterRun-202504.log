@@ -232,3 +232,7 @@ Country: uk, product: macbookair --> new items: 1
 Country: us, product: mini --> new items: 10
 Country: us, product: macbookair --> new items: 21
 ------------------------------------------------------------
+Date: 2025/04/02 08:14:00
+Country: hk, product: macbookair --> new items: 6
+Country: jp, product: mini --> new items: 1
+------------------------------------------------------------
