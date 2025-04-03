@@ -428,3 +428,9 @@ Country: uk, product: mini --> new items: 1
 Country: us, product: imac --> new items: 1
 Country: us, product: macbookair --> new items: 27
 ------------------------------------------------------------
+Date: 2025/04/03 11:08:36
+Country: de, product: macbookair --> new items: 1
+Country: ie, product: macbookpro --> new items: 1
+Country: at, product: macbookair --> new items: 1
+Country: uk, product: macbookpro --> new items: 1
+------------------------------------------------------------
