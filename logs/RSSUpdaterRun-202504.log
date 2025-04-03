@@ -453,3 +453,10 @@ Country: pl, product: macbookair --> new items: 1
 Date: 2025/04/03 15:09:47
 Country: cn, product: ipad --> new items: 1
 ------------------------------------------------------------
+Date: 2025/04/03 16:12:05
+Country: ca, product: imac --> new items: 1
+Country: ca, product: macbookair --> new items: 3
+Country: xf, product: imac --> new items: 1
+Country: xf, product: macbookair --> new items: 3
+Country: us, product: imac --> new items: 1
+------------------------------------------------------------
