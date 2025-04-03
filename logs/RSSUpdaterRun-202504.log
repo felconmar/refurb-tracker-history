@@ -402,3 +402,29 @@ Country: de, product: mini --> new items: 1
 Country: de, product: macbookair --> new items: 1
 Country: ie, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2025/04/03 10:11:09
+Country: au, product: macbookpro --> new items: 26
+Country: au, product: macbookair --> new items: 9
+Country: bx, product: macbookair --> new items: 2
+Country: be, product: macbookair --> new items: 2
+Country: ca, product: imac --> new items: 1
+Country: ca, product: macbookair --> new items: 25
+Country: xf, product: imac --> new items: 1
+Country: xf, product: macbookair --> new items: 25
+Country: de, product: macbookair --> new items: 13
+Country: es, product: macbookpro --> new items: 1
+Country: fr, product: iphone --> new items: 1
+Country: fr, product: macbookair --> new items: 2
+Country: ie, product: mini --> new items: 1
+Country: it, product: macbookair --> new items: 5
+Country: jp, product: macbookpro --> new items: 1
+Country: nl, product: macbookair --> new items: 5
+Country: nz, product: macbookpro --> new items: 26
+Country: nz, product: macbookair --> new items: 9
+Country: at, product: macbookair --> new items: 13
+Country: cx, product: macbookair --> new items: 4
+Country: ch, product: macbookair --> new items: 4
+Country: uk, product: mini --> new items: 1
+Country: us, product: imac --> new items: 1
+Country: us, product: macbookair --> new items: 27
+------------------------------------------------------------
