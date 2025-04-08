@@ -1167,3 +1167,11 @@ Country: cn, product: macbookpro --> new items: 1
 Country: uk, product: iphone --> new items: 1
 Country: us, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2025/04/08 07:10:33
+Country: au, product: watch --> new items: 1
+Country: xf, product: macbookpro --> new items: 1
+Country: cn, product: macbookpro --> new items: 6
+Country: cn, product: macbookair --> new items: 3
+Country: cn, product: watch --> new items: 1
+Country: jp, product: macbookair --> new items: 27
+------------------------------------------------------------
