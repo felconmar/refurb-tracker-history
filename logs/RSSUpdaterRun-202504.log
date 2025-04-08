@@ -1132,3 +1132,15 @@ Country: us, product: iphone --> new items: 1
 Country: us, product: macbookair --> new items: 19
 Country: us, product: atv --> new items: 1
 ------------------------------------------------------------
+Date: 2025/04/08 00:47:31
+Country: ca, product: mini --> new items: 1
+Country: ca, product: macbookpro --> new items: 6
+Country: ca, product: macbookair --> new items: 9
+Country: xf, product: macbookpro --> new items: 6
+Country: xf, product: macbookair --> new items: 9
+Country: de, product: macbookair --> new items: 1
+Country: jp, product: imac --> new items: 1
+Country: at, product: macbookair --> new items: 1
+Country: us, product: mini --> new items: 1
+Country: us, product: macbookair --> new items: 5
+------------------------------------------------------------
