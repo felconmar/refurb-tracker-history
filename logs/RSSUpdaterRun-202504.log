@@ -1404,3 +1404,15 @@ Country: be, product: macbookpro --> new items: 1
 Country: uk, product: macbookair --> new items: 1
 Country: us, product: ipad --> new items: 3
 ------------------------------------------------------------
+Date: 2025/04/09 21:08:31
+Country: es, product: ipad --> new items: 1
+Country: fr, product: ipad --> new items: 1
+Country: ie, product: macbookpro --> new items: 1
+Country: ie, product: macbookair --> new items: 1
+Country: it, product: ipad --> new items: 1
+Country: cx, product: ipad --> new items: 1
+Country: ch, product: ipad --> new items: 1
+Country: uk, product: iphone --> new items: 1
+Country: us, product: ipad --> new items: 2
+Country: us, product: iphone --> new items: 2
+------------------------------------------------------------
