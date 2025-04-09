@@ -1386,3 +1386,10 @@ Country: it, product: mini --> new items: 2
 Country: jp, product: macbookpro --> new items: 1
 Country: nl, product: mini --> new items: 1
 ------------------------------------------------------------
+Date: 2025/04/09 18:14:10
+Country: be, product: mini --> new items: 1
+Country: es, product: mini --> new items: 1
+Country: uk, product: macbookpro --> new items: 2
+Country: uk, product: macbookair --> new items: 1
+Country: us, product: ipad --> new items: 1
+------------------------------------------------------------
