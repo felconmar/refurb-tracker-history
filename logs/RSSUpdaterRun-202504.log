@@ -1590,3 +1590,14 @@ Country: nz, product: mini --> new items: 6
 Country: uk, product: ipad --> new items: 2
 Country: us, product: macbookair --> new items: 10
 ------------------------------------------------------------
+Date: 2025/04/11 02:21:26
+Country: au, product: mini --> new items: 11
+Country: au, product: macbookpro --> new items: 8
+Country: au, product: macbookair --> new items: 9
+Country: ca, product: macbookair --> new items: 17
+Country: xf, product: macbookair --> new items: 16
+Country: nz, product: mini --> new items: 10
+Country: nz, product: macbookpro --> new items: 5
+Country: nz, product: macbookair --> new items: 9
+Country: us, product: macbookair --> new items: 15
+------------------------------------------------------------
