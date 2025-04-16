@@ -2144,3 +2144,15 @@ Country: ie, product: mini --> new items: 1
 Country: ie, product: macbookpro --> new items: 37
 Country: ie, product: macbookair --> new items: 5
 ------------------------------------------------------------
+Date: 2025/04/16 00:50:04
+Country: fr, product: macbookpro --> new items: 3
+Country: jp, product: watch --> new items: 1
+Country: pl, product: macbookpro --> new items: 2
+Country: uk, product: imac --> new items: 8
+Country: uk, product: mini --> new items: 14
+Country: uk, product: macbookpro --> new items: 11
+Country: uk, product: macbookair --> new items: 6
+Country: us, product: mini --> new items: 2
+Country: us, product: macbookpro --> new items: 1
+Country: us, product: macbookair --> new items: 1
+------------------------------------------------------------
