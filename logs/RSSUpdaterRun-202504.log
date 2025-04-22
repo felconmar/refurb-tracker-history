@@ -3109,3 +3109,9 @@ Country: uk, product: watch --> new items: 1
 Country: us, product: macbookpro --> new items: 1
 Country: us, product: macbookair --> new items: 2
 ------------------------------------------------------------
+Date: 2025/04/22 21:09:16
+Country: ie, product: macbookpro --> new items: 1
+Country: ie, product: macbookair --> new items: 1
+Country: uk, product: mini --> new items: 1
+Country: uk, product: macbookpro --> new items: 1
+------------------------------------------------------------
