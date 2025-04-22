@@ -3012,3 +3012,20 @@ Country: cn, product: mini --> new items: 2
 Country: cn, product: macbookpro --> new items: 5
 Country: jp, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2025/04/22 05:11:01
+Country: ca, product: macbookpro --> new items: 1
+Country: xf, product: macbookpro --> new items: 1
+Country: cn, product: ipad --> new items: 2
+Country: cn, product: mini --> new items: 1
+Country: cn, product: macbookpro --> new items: 16
+Country: cn, product: macbookair --> new items: 1
+Country: es, product: macbookpro --> new items: 1
+Country: es, product: macbookair --> new items: 2
+Country: jp, product: macbookpro --> new items: 12
+Country: jp, product: macbookair --> new items: 6
+Country: kr, product: macbookpro --> new items: 10
+Country: tw, product: macbookpro --> new items: 20
+Country: uk, product: ipad --> new items: 1
+Country: uk, product: macbookpro --> new items: 4
+Country: uk, product: macbookair --> new items: 2
+------------------------------------------------------------
