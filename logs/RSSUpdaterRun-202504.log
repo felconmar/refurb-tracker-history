@@ -3236,3 +3236,15 @@ Country: uk, product: watch --> new items: 1
 Country: us, product: imac --> new items: 8
 Country: us, product: macbookpro --> new items: 2
 ------------------------------------------------------------
+Date: 2025/04/23 22:09:37
+Country: ca, product: imac --> new items: 4
+Country: ca, product: atv --> new items: 1
+Country: xf, product: imac --> new items: 4
+Country: xf, product: atv --> new items: 1
+Country: ie, product: mini --> new items: 1
+Country: jp, product: macbookpro --> new items: 1
+Country: jp, product: macbookair --> new items: 1
+Country: uk, product: mini --> new items: 1
+Country: us, product: imac --> new items: 1
+Country: us, product: atv --> new items: 1
+------------------------------------------------------------
