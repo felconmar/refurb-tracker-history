@@ -3740,3 +3740,11 @@ Country: cx, product: macbookpro --> new items: 1
 Country: ch, product: macbookpro --> new items: 1
 Country: us, product: mini --> new items: 20
 ------------------------------------------------------------
+Date: 2025/04/25 19:07:56
+Country: ca, product: mini --> new items: 10
+Country: xf, product: mini --> new items: 10
+Country: ie, product: macbookpro --> new items: 1
+Country: uk, product: ipad --> new items: 1
+Country: uk, product: macbookpro --> new items: 1
+Country: us, product: mini --> new items: 10
+------------------------------------------------------------
