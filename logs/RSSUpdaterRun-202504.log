@@ -3605,3 +3605,11 @@ Country: us, product: macbookair --> new items: 3
 Country: us, product: watch --> new items: 3
 Country: us, product: acc --> new items: 1
 ------------------------------------------------------------
+Date: 2025/04/25 04:12:42
+Country: ca, product: iphone --> new items: 1
+Country: xf, product: iphone --> new items: 1
+Country: cn, product: ipad --> new items: 1
+Country: hk, product: ipad --> new items: 1
+Country: sg, product: ipad --> new items: 1
+Country: us, product: iphone --> new items: 1
+------------------------------------------------------------
