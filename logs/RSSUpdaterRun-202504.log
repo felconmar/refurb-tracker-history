@@ -4063,3 +4063,14 @@ Country: jp, product: macbookpro --> new items: 2
 Country: jp, product: macbookair --> new items: 11
 Country: us, product: iphone --> new items: 2
 ------------------------------------------------------------
+Date: 2025/04/28 10:44:00
+Country: ca, product: macbookair --> new items: 1
+Country: xf, product: macbookair --> new items: 1
+Country: cn, product: macbookpro --> new items: 21
+Country: cn, product: macbookair --> new items: 9
+Country: ie, product: iphone --> new items: 1
+Country: ie, product: macbookpro --> new items: 1
+Country: it, product: ipad --> new items: 1
+Country: uk, product: iphone --> new items: 1
+Country: us, product: macbookair --> new items: 1
+------------------------------------------------------------
