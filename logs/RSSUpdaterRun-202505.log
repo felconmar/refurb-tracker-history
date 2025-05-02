@@ -183,3 +183,9 @@ Country: us, product: ipad --> new items: 1
 Country: us, product: imac --> new items: 29
 Country: us, product: macbookair --> new items: 18
 ------------------------------------------------------------
+Date: 2025/05/02 08:13:54
+Country: jp, product: ipad --> new items: 1
+Country: jp, product: macbookpro --> new items: 1
+Country: sg, product: macbookpro --> new items: 1
+Country: tw, product: macbookair --> new items: 1
+------------------------------------------------------------
