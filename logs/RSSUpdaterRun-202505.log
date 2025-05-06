@@ -780,3 +780,35 @@ Country: uk, product: mini --> new items: 4
 Country: uk, product: macbookpro --> new items: 5
 Country: uk, product: macbookair --> new items: 9
 ------------------------------------------------------------
+Date: 2025/05/06 22:09:39
+Country: bx, product: imac --> new items: 2
+Country: be, product: imac --> new items: 2
+Country: ca, product: iphone --> new items: 30
+Country: ca, product: macbookair --> new items: 5
+Country: ca, product: atv --> new items: 1
+Country: xf, product: iphone --> new items: 30
+Country: xf, product: mini --> new items: 1
+Country: xf, product: macbookpro --> new items: 15
+Country: xf, product: macbookair --> new items: 5
+Country: cn, product: ipad --> new items: 4
+Country: de, product: imac --> new items: 2
+Country: es, product: imac --> new items: 2
+Country: es, product: macbookpro --> new items: 2
+Country: fr, product: imac --> new items: 10
+Country: hk, product: macstudio --> new items: 1
+Country: hk, product: mini --> new items: 2
+Country: hk, product: macbookair --> new items: 5
+Country: ie, product: mini --> new items: 12
+Country: ie, product: macbookair --> new items: 1
+Country: it, product: imac --> new items: 5
+Country: jp, product: macbookpro --> new items: 2
+Country: jp, product: macbookair --> new items: 2
+Country: nl, product: imac --> new items: 2
+Country: at, product: imac --> new items: 6
+Country: pl, product: imac --> new items: 1
+Country: sg, product: mini --> new items: 4
+Country: sg, product: macbookpro --> new items: 4
+Country: cx, product: imac --> new items: 4
+Country: us, product: iphone --> new items: 53
+Country: us, product: macbookpro --> new items: 11
+------------------------------------------------------------
