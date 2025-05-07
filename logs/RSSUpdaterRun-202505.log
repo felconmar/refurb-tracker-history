@@ -990,3 +990,17 @@ Country: ch, product: macbookair --> new items: 1
 Country: uk, product: iphone --> new items: 1
 Country: uk, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2025/05/07 16:13:14
+Country: ca, product: macbookpro --> new items: 29
+Country: ca, product: macbookair --> new items: 6
+Country: xf, product: macbookpro --> new items: 26
+Country: xf, product: macbookair --> new items: 5
+Country: de, product: macbookair --> new items: 1
+Country: fr, product: macbookpro --> new items: 3
+Country: ie, product: macbookair --> new items: 1
+Country: it, product: macbookpro --> new items: 1
+Country: jp, product: macbookair --> new items: 1
+Country: uk, product: macbookair --> new items: 1
+Country: us, product: macbookpro --> new items: 29
+Country: us, product: macbookair --> new items: 6
+------------------------------------------------------------
