@@ -1067,3 +1067,11 @@ Country: us, product: mini --> new items: 43
 Country: us, product: macbookpro --> new items: 13
 Country: us, product: macbookair --> new items: 18
 ------------------------------------------------------------
+Date: 2025/05/08 02:28:25
+Country: ca, product: macbookpro --> new items: 2
+Country: ca, product: macbookair --> new items: 6
+Country: xf, product: macbookpro --> new items: 1
+Country: xf, product: macbookair --> new items: 6
+Country: us, product: macbookpro --> new items: 1
+Country: us, product: macbookair --> new items: 6
+------------------------------------------------------------
