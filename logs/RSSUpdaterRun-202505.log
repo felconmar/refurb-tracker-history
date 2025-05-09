@@ -1297,3 +1297,15 @@ Country: uk, product: iphone --> new items: 1
 Date: 2025/05/09 16:12:26
 Country: it, product: atv --> new items: 1
 ------------------------------------------------------------
+Date: 2025/05/09 17:08:59
+Country: bx, product: macbookpro --> new items: 1
+Country: be, product: macbookpro --> new items: 1
+Country: ca, product: macbookpro --> new items: 4
+Country: ca, product: macbookair --> new items: 1
+Country: xf, product: macbookpro --> new items: 4
+Country: xf, product: macbookair --> new items: 1
+Country: tw, product: mini --> new items: 1
+Country: us, product: macstudio --> new items: 1
+Country: us, product: macbookpro --> new items: 10
+Country: us, product: macbookair --> new items: 1
+------------------------------------------------------------
