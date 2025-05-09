@@ -1309,3 +1309,14 @@ Country: us, product: macstudio --> new items: 1
 Country: us, product: macbookpro --> new items: 10
 Country: us, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2025/05/09 18:13:50
+Country: au, product: macbookair --> new items: 1
+Country: ca, product: macstudio --> new items: 1
+Country: ca, product: macbookpro --> new items: 10
+Country: xf, product: macstudio --> new items: 1
+Country: xf, product: macbookpro --> new items: 10
+Country: ie, product: macbookair --> new items: 1
+Country: nz, product: macbookair --> new items: 1
+Country: uk, product: macbookair --> new items: 1
+Country: us, product: macbookpro --> new items: 4
+------------------------------------------------------------
