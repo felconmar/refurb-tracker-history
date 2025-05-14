@@ -1928,3 +1928,10 @@ Country: uk, product: macbookair --> new items: 1
 Country: us, product: ipad --> new items: 1
 Country: us, product: iphone --> new items: 1
 ------------------------------------------------------------
+Date: 2025/05/14 12:19:30
+Country: es, product: macbookair --> new items: 1
+Country: ie, product: macbookpro --> new items: 2
+Country: it, product: iphone --> new items: 1
+Country: jp, product: macbookpro --> new items: 1
+Country: uk, product: macbookpro --> new items: 2
+------------------------------------------------------------
