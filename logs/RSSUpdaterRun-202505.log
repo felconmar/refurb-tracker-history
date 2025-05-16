@@ -2329,3 +2329,7 @@ Country: nz, product: ipad --> new items: 1
 Country: us, product: iphone --> new items: 3
 Country: us, product: macbookair --> new items: 4
 ------------------------------------------------------------
+Date: 2025/05/16 23:10:04
+Country: ca, product: macbookair --> new items: 4
+Country: xf, product: macbookair --> new items: 4
+------------------------------------------------------------
