@@ -2628,3 +2628,8 @@ Country: us, product: iphone --> new items: 1
 Country: us, product: mini --> new items: 1
 Country: us, product: macbookair --> new items: 2
 ------------------------------------------------------------
+Date: 2025/05/19 19:08:13
+Country: ie, product: macbookpro --> new items: 1
+Country: uk, product: macbookpro --> new items: 1
+Country: uk, product: macbookair --> new items: 1
+------------------------------------------------------------
