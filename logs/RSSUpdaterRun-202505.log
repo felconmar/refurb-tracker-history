@@ -2908,3 +2908,22 @@ Country: it, product: macbookpro --> new items: 2
 Country: pl, product: macbookpro --> new items: 1
 Country: us, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2025/05/21 21:09:24
+Country: ca, product: mini --> new items: 20
+Country: ca, product: macbookpro --> new items: 28
+Country: ca, product: macbookair --> new items: 12
+Country: xf, product: mini --> new items: 20
+Country: xf, product: macbookpro --> new items: 28
+Country: xf, product: macbookair --> new items: 13
+Country: es, product: mini --> new items: 1
+Country: fr, product: macbookpro --> new items: 1
+Country: ie, product: macbookpro --> new items: 6
+Country: jp, product: mini --> new items: 1
+Country: uk, product: mini --> new items: 1
+Country: uk, product: macbookpro --> new items: 13
+Country: uk, product: macbookair --> new items: 2
+Country: us, product: iphone --> new items: 2
+Country: us, product: mini --> new items: 20
+Country: us, product: macbookpro --> new items: 27
+Country: us, product: macbookair --> new items: 13
+------------------------------------------------------------
