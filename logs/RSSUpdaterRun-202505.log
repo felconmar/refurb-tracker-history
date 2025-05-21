@@ -2783,3 +2783,10 @@ Country: uk, product: macbookair --> new items: 1
 Country: us, product: imac --> new items: 43
 Country: us, product: macbookpro --> new items: 12
 ------------------------------------------------------------
+Date: 2025/05/21 04:14:49
+Country: ca, product: imac --> new items: 1
+Country: jp, product: mini --> new items: 2
+Country: jp, product: macbookpro --> new items: 41
+Country: nz, product: macbookair --> new items: 14
+Country: us, product: imac --> new items: 1
+------------------------------------------------------------
