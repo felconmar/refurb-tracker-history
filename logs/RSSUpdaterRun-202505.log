@@ -2944,3 +2944,13 @@ Country: ca, product: macbookpro --> new items: 24
 Country: xf, product: macbookpro --> new items: 24
 Country: us, product: macbookpro --> new items: 24
 ------------------------------------------------------------
+Date: 2025/05/22 02:28:48
+Country: au, product: macbookpro --> new items: 14
+Country: au, product: macbookair --> new items: 12
+Country: ca, product: macbookpro --> new items: 4
+Country: xf, product: macbookpro --> new items: 4
+Country: jp, product: macbookpro --> new items: 1
+Country: nz, product: macbookpro --> new items: 14
+Country: nz, product: macbookair --> new items: 12
+Country: us, product: macbookpro --> new items: 4
+------------------------------------------------------------
