@@ -3110,3 +3110,8 @@ Country: hk, product: macbookair --> new items: 1
 Country: sg, product: macbookpro --> new items: 3
 Country: uk, product: imac --> new items: 1
 ------------------------------------------------------------
+Date: 2025/05/23 10:11:25
+Country: hk, product: macbookair --> new items: 5
+Country: ie, product: macbookair --> new items: 1
+Country: uk, product: macbookair --> new items: 1
+------------------------------------------------------------
