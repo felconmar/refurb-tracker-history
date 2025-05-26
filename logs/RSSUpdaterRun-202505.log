@@ -3469,3 +3469,15 @@ Country: be, product: iphone --> new items: 1
 Country: de, product: iphone --> new items: 1
 Country: es, product: iphone --> new items: 1
 ------------------------------------------------------------
+Date: 2025/05/26 12:19:19
+Country: bx, product: iphone --> new items: 7
+Country: be, product: iphone --> new items: 7
+Country: de, product: iphone --> new items: 7
+Country: fr, product: iphone --> new items: 6
+Country: ie, product: macbookair --> new items: 1
+Country: it, product: iphone --> new items: 1
+Country: nl, product: iphone --> new items: 7
+Country: at, product: iphone --> new items: 7
+Country: ch, product: iphone --> new items: 7
+Country: uk, product: macbookair --> new items: 1
+------------------------------------------------------------
