@@ -3416,3 +3416,10 @@ Country: uk, product: imac --> new items: 1
 Country: uk, product: macbookpro --> new items: 2
 Country: us, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2025/05/26 03:40:26
+Country: au, product: ipad --> new items: 1
+Country: xf, product: macbookpro --> new items: 1
+Country: jp, product: ipad --> new items: 1
+Country: jp, product: macbookpro --> new items: 1
+Country: jp, product: macbookair --> new items: 9
+------------------------------------------------------------
