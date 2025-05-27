@@ -3585,3 +3585,18 @@ Country: uk, product: mini --> new items: 1
 Country: uk, product: macbookair --> new items: 1
 Country: us, product: atv --> new items: 1
 ------------------------------------------------------------
+Date: 2025/05/27 16:13:25
+Country: au, product: macbookpro --> new items: 1
+Country: au, product: macbookair --> new items: 11
+Country: xf, product: mini --> new items: 1
+Country: cn, product: macbookpro --> new items: 34
+Country: cn, product: macbookair --> new items: 1
+Country: fr, product: macbookair --> new items: 1
+Country: ie, product: mini --> new items: 1
+Country: ie, product: macbookair --> new items: 1
+Country: nl, product: macbookpro --> new items: 1
+Country: nz, product: macbookpro --> new items: 1
+Country: nz, product: macbookair --> new items: 3
+Country: tw, product: mini --> new items: 11
+Country: tw, product: macbookpro --> new items: 15
+------------------------------------------------------------
