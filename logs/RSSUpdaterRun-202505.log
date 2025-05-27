@@ -3688,3 +3688,16 @@ Country: us, product: iphone --> new items: 2
 Country: us, product: macbookair --> new items: 1
 Country: us, product: atv --> new items: 1
 ------------------------------------------------------------
+Date: 2025/05/27 23:09:54
+Country: ca, product: macbookpro --> new items: 5
+Country: ca, product: macbookair --> new items: 1
+Country: xf, product: macbookpro --> new items: 5
+Country: xf, product: macbookair --> new items: 1
+Country: fr, product: macbookpro --> new items: 1
+Country: ie, product: mini --> new items: 9
+Country: ie, product: macbookair --> new items: 8
+Country: uk, product: mini --> new items: 9
+Country: uk, product: macbookair --> new items: 8
+Country: us, product: macbookpro --> new items: 5
+Country: us, product: macbookair --> new items: 1
+------------------------------------------------------------
