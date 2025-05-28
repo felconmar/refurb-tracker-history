@@ -3701,3 +3701,10 @@ Country: uk, product: macbookair --> new items: 8
 Country: us, product: macbookpro --> new items: 5
 Country: us, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2025/05/28 00:52:27
+Country: ie, product: iphone --> new items: 1
+Country: ie, product: macbookair --> new items: 2
+Country: jp, product: macbookair --> new items: 1
+Country: uk, product: iphone --> new items: 1
+Country: uk, product: macbookair --> new items: 2
+------------------------------------------------------------
