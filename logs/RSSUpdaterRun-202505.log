@@ -3713,3 +3713,9 @@ Country: ca, product: iphone --> new items: 1
 Country: xf, product: iphone --> new items: 1
 Country: xf, product: mini --> new items: 1
 ------------------------------------------------------------
+Date: 2025/05/28 03:37:58
+Country: ca, product: mini --> new items: 1
+Country: jp, product: mini --> new items: 1
+Country: kr, product: mini --> new items: 1
+Country: us, product: mini --> new items: 1
+------------------------------------------------------------
