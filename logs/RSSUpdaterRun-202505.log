@@ -3746,3 +3746,13 @@ Country: ie, product: macbookair --> new items: 1
 Country: jp, product: macbookpro --> new items: 1
 Country: uk, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2025/05/28 10:12:11
+Country: ca, product: macbookpro --> new items: 1
+Country: xf, product: macbookpro --> new items: 1
+Country: ie, product: iphone --> new items: 1
+Country: jp, product: macbookair --> new items: 1
+Country: uk, product: iphone --> new items: 1
+Country: uk, product: imac --> new items: 1
+Country: us, product: iphone --> new items: 1
+Country: us, product: macbookpro --> new items: 1
+------------------------------------------------------------
