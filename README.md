@@ -2,7 +2,7 @@
 
 You can access the historical data captured by this project through the GitHub Page available [here](https://felconmar.github.io/refurb-tracker-history/).
 
----
+----
 
 This project captures snapshots from the website [Refurb Tracker][refurb_tracker_url], maintaining a historical record of products available in the Refurb Apple Store across specific [countries](#Countries). The process retrieves RSS feeds for all countries and their product listings, saving new entries into CSV files tailored to each unique country-product combination. These records are updated hourly. Execution logs can be accessed in the `logs` directory. The entire process is automated using GitHub Actions.
 
