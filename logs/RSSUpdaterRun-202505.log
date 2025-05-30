@@ -4040,3 +4040,8 @@ Country: ca, product: macbookair --> new items: 1
 Country: xf, product: macbookair --> new items: 1
 Country: us, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2025/05/30 07:10:25
+Country: hk, product: macbookpro --> new items: 27
+Country: hk, product: macbookair --> new items: 14
+Country: jp, product: macbookair --> new items: 2
+------------------------------------------------------------
