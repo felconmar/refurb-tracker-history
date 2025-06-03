@@ -321,3 +321,8 @@ Country: jp, product: macbookpro --> new items: 1
 Country: us, product: macbookpro --> new items: 1
 Country: us, product: macbookair --> new items: 2
 ------------------------------------------------------------
+Date: 2025/06/03 15:12:19
+Country: ie, product: macbookair --> new items: 1
+Country: jp, product: macbookpro --> new items: 1
+Country: uk, product: macbookair --> new items: 1
+------------------------------------------------------------
