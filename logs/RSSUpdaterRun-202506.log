@@ -333,3 +333,12 @@ Country: xf, product: macbookair --> new items: 41
 Country: jp, product: macbookair --> new items: 1
 Country: us, product: macbookair --> new items: 39
 ------------------------------------------------------------
+Date: 2025/06/03 17:10:34
+Country: ca, product: macbookpro --> new items: 15
+Country: ca, product: macbookair --> new items: 9
+Country: xf, product: macbookpro --> new items: 15
+Country: xf, product: macbookair --> new items: 9
+Country: es, product: macbookpro --> new items: 1
+Country: us, product: macbookpro --> new items: 15
+Country: us, product: macbookair --> new items: 9
+------------------------------------------------------------
