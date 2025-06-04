@@ -404,3 +404,9 @@ Country: au, product: mini --> new items: 3
 Country: ie, product: mini --> new items: 1
 Country: nz, product: mini --> new items: 3
 ------------------------------------------------------------
+Date: 2025/06/04 05:11:42
+Country: au, product: macbookpro --> new items: 1
+Country: au, product: macbookair --> new items: 1
+Country: nz, product: macbookpro --> new items: 1
+Country: uk, product: mini --> new items: 1
+------------------------------------------------------------
