@@ -390,3 +390,9 @@ Country: ca, product: imac --> new items: 10
 Country: xf, product: imac --> new items: 10
 Country: us, product: imac --> new items: 10
 ------------------------------------------------------------
+Date: 2025/06/04 02:40:28
+Country: ca, product: imac --> new items: 3
+Country: xf, product: imac --> new items: 3
+Country: sg, product: macbookair --> new items: 2
+Country: us, product: imac --> new items: 3
+------------------------------------------------------------
