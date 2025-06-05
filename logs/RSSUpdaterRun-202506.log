@@ -543,3 +543,13 @@ Country: us, product: iphone --> new items: 6
 Date: 2025/06/05 07:11:12
 Country: jp, product: ipad --> new items: 4
 ------------------------------------------------------------
+Date: 2025/06/05 08:14:43
+Country: au, product: macbookpro --> new items: 1
+Country: be, product: macbookpro --> new items: 1
+Country: cn, product: macbookpro --> new items: 1
+Country: ie, product: macbookair --> new items: 1
+Country: jp, product: mini --> new items: 1
+Country: jp, product: macbookpro --> new items: 1
+Country: nz, product: macbookpro --> new items: 1
+Country: uk, product: macbookair --> new items: 2
+------------------------------------------------------------
