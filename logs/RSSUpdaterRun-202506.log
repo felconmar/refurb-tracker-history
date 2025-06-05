@@ -524,3 +524,7 @@ Country: us, product: imac --> new items: 5
 Country: us, product: mini --> new items: 9
 Country: us, product: macbookpro --> new items: 11
 ------------------------------------------------------------
+Date: 2025/06/05 03:41:31
+Country: jp, product: iphone --> new items: 11
+Country: us, product: iphone --> new items: 1
+------------------------------------------------------------
