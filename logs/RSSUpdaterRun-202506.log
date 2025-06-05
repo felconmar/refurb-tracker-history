@@ -535,3 +535,8 @@ Country: xf, product: iphone --> new items: 1
 Date: 2025/06/05 05:11:42
 Country: ca, product: iphone --> new items: 5
 ------------------------------------------------------------
+Date: 2025/06/05 06:16:04
+Country: xf, product: iphone --> new items: 5
+Country: kr, product: macbookpro --> new items: 1
+Country: us, product: iphone --> new items: 6
+------------------------------------------------------------
