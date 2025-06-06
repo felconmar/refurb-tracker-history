@@ -814,3 +814,17 @@ Country: it, product: macbookair --> new items: 3
 Country: uk, product: imac --> new items: 1
 Country: us, product: iphone --> new items: 1
 ------------------------------------------------------------
+Date: 2025/06/06 20:12:26
+Country: au, product: ipad --> new items: 1
+Country: ca, product: macbookair --> new items: 1
+Country: xf, product: macbookair --> new items: 1
+Country: es, product: iphone --> new items: 1
+Country: it, product: ipad --> new items: 3
+Country: it, product: iphone --> new items: 2
+Country: it, product: macbookair --> new items: 2
+Country: jp, product: macbookpro --> new items: 1
+Country: nz, product: ipad --> new items: 1
+Country: uk, product: iphone --> new items: 1
+Country: us, product: iphone --> new items: 1
+Country: us, product: macbookair --> new items: 1
+------------------------------------------------------------
