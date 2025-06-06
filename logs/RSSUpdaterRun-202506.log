@@ -828,3 +828,13 @@ Country: uk, product: iphone --> new items: 1
 Country: us, product: iphone --> new items: 1
 Country: us, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2025/06/06 21:09:27
+Country: ca, product: macbookpro --> new items: 1
+Country: ca, product: acc --> new items: 1
+Country: xf, product: iphone --> new items: 1
+Country: xf, product: macbookpro --> new items: 1
+Country: xf, product: acc --> new items: 1
+Country: us, product: macbookpro --> new items: 1
+Country: us, product: atv --> new items: 1
+Country: us, product: acc --> new items: 1
+------------------------------------------------------------
