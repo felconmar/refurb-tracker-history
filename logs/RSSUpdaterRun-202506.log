@@ -848,3 +848,7 @@ Country: ca, product: iphone --> new items: 1
 Country: xf, product: iphone --> new items: 1
 Country: us, product: iphone --> new items: 1
 ------------------------------------------------------------
+Date: 2025/06/07 00:52:07
+Country: xf, product: iphone --> new items: 5
+Country: us, product: iphone --> new items: 2
+------------------------------------------------------------
