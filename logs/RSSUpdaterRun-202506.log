@@ -987,3 +987,14 @@ Country: nl, product: ipad --> new items: 1
 Country: us, product: imac --> new items: 1
 Country: us, product: macbookpro --> new items: 8
 ------------------------------------------------------------
+Date: 2025/06/08 02:51:37
+Country: au, product: macbookpro --> new items: 1
+Country: ca, product: macbookpro --> new items: 7
+Country: fr, product: imac --> new items: 6
+Country: fr, product: mini --> new items: 3
+Country: fr, product: macbookpro --> new items: 19
+Country: fr, product: macbookair --> new items: 11
+Country: hk, product: macbookpro --> new items: 1
+Country: jp, product: macbookpro --> new items: 3
+Country: nz, product: macbookpro --> new items: 1
+------------------------------------------------------------
