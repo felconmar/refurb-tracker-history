@@ -969,3 +969,21 @@ Country: xf, product: iphone --> new items: 6
 Country: xf, product: imac --> new items: 1
 Country: xf, product: macbookpro --> new items: 8
 ------------------------------------------------------------
+Date: 2025/06/08 00:58:08
+Country: ca, product: iphone --> new items: 6
+Country: ca, product: acc --> new items: 1
+Country: xf, product: acc --> new items: 1
+Country: de, product: ipad --> new items: 1
+Country: de, product: mini --> new items: 1
+Country: es, product: iphone --> new items: 1
+Country: es, product: imac --> new items: 1
+Country: fr, product: imac --> new items: 6
+Country: fr, product: mini --> new items: 4
+Country: fr, product: macbookpro --> new items: 19
+Country: fr, product: macbookair --> new items: 16
+Country: hk, product: macbookair --> new items: 1
+Country: jp, product: iphone --> new items: 1
+Country: nl, product: ipad --> new items: 1
+Country: us, product: imac --> new items: 1
+Country: us, product: macbookpro --> new items: 8
+------------------------------------------------------------
