@@ -1211,3 +1211,11 @@ Country: ie, product: iphone --> new items: 1
 Country: uk, product: iphone --> new items: 1
 Country: us, product: imac --> new items: 3
 ------------------------------------------------------------
+Date: 2025/06/09 23:10:19
+Country: ca, product: imac --> new items: 6
+Country: ca, product: macbookair --> new items: 2
+Country: xf, product: imac --> new items: 3
+Country: xf, product: macbookair --> new items: 2
+Country: us, product: imac --> new items: 3
+Country: us, product: macbookair --> new items: 2
+------------------------------------------------------------
