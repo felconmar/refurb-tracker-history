@@ -1248,3 +1248,14 @@ Country: xf, product: imac --> new items: 1
 Country: jp, product: iphone --> new items: 1
 Country: us, product: imac --> new items: 1
 ------------------------------------------------------------
+Date: 2025/06/10 05:11:29
+Country: au, product: macbookair --> new items: 3
+Country: ca, product: imac --> new items: 1
+Country: xf, product: imac --> new items: 1
+Country: jp, product: iphone --> new items: 1
+Country: jp, product: macbookpro --> new items: 1
+Country: jp, product: macbookair --> new items: 1
+Country: nz, product: mini --> new items: 3
+Country: nz, product: macbookair --> new items: 3
+Country: us, product: imac --> new items: 1
+------------------------------------------------------------
