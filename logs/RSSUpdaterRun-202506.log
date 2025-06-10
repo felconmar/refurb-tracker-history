@@ -1219,3 +1219,16 @@ Country: xf, product: macbookair --> new items: 2
 Country: us, product: imac --> new items: 3
 Country: us, product: macbookair --> new items: 2
 ------------------------------------------------------------
+Date: 2025/06/10 00:53:13
+Country: ca, product: imac --> new items: 3
+Country: ca, product: macbookpro --> new items: 1
+Country: ca, product: macbookair --> new items: 9
+Country: xf, product: imac --> new items: 3
+Country: xf, product: macbookpro --> new items: 1
+Country: xf, product: macbookair --> new items: 9
+Country: ie, product: iphone --> new items: 1
+Country: uk, product: iphone --> new items: 1
+Country: us, product: imac --> new items: 3
+Country: us, product: macbookpro --> new items: 1
+Country: us, product: macbookair --> new items: 11
+------------------------------------------------------------
