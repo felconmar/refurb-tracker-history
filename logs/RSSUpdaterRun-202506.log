@@ -1406,3 +1406,14 @@ Country: us, product: imac --> new items: 3
 Country: us, product: macbookpro --> new items: 11
 Country: us, product: macbookair --> new items: 4
 ------------------------------------------------------------
+Date: 2025/06/10 22:10:04
+Country: ca, product: macbookpro --> new items: 1
+Country: xf, product: macbookpro --> new items: 13
+Country: xf, product: macbookair --> new items: 7
+Country: ie, product: macbookair --> new items: 1
+Country: uk, product: iphone --> new items: 1
+Country: uk, product: macbookpro --> new items: 3
+Country: uk, product: macbookair --> new items: 1
+Country: us, product: macbookpro --> new items: 1
+Country: us, product: watch --> new items: 1
+------------------------------------------------------------
