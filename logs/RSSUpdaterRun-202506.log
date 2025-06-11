@@ -1487,3 +1487,9 @@ Country: cn, product: imac --> new items: 7
 Country: jp, product: macbookair --> new items: 1
 Country: nz, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2025/06/11 08:14:56
+Country: au, product: macbookpro --> new items: 6
+Country: jp, product: macbookpro --> new items: 1
+Country: jp, product: macbookair --> new items: 1
+Country: nz, product: macbookpro --> new items: 6
+------------------------------------------------------------
