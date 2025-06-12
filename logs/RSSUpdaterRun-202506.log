@@ -1661,3 +1661,20 @@ Country: at, product: mini --> new items: 5
 Country: cx, product: mini --> new items: 1
 Country: ch, product: mini --> new items: 1
 ------------------------------------------------------------
+Date: 2025/06/12 12:20:05
+Country: bx, product: acc --> new items: 1
+Country: be, product: acc --> new items: 1
+Country: de, product: acc --> new items: 1
+Country: es, product: acc --> new items: 1
+Country: fr, product: mini --> new items: 4
+Country: fr, product: macbookpro --> new items: 12
+Country: ie, product: watch --> new items: 12
+Country: it, product: macbookpro --> new items: 1
+Country: it, product: acc --> new items: 1
+Country: nl, product: acc --> new items: 1
+Country: at, product: acc --> new items: 1
+Country: pl, product: acc --> new items: 1
+Country: uk, product: ipad --> new items: 4
+Country: uk, product: iphone --> new items: 10
+Country: uk, product: watch --> new items: 28
+------------------------------------------------------------
