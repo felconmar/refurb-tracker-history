@@ -1937,3 +1937,12 @@ Country: at, product: macbookpro --> new items: 2
 Country: at, product: macbookair --> new items: 1
 Country: us, product: macbookpro --> new items: 12
 ------------------------------------------------------------
+Date: 2025/06/13 23:10:10
+Country: bx, product: macbookpro --> new items: 1
+Country: be, product: macbookpro --> new items: 1
+Country: ca, product: macbookair --> new items: 46
+Country: xf, product: macbookpro --> new items: 1
+Country: xf, product: macbookair --> new items: 46
+Country: at, product: macbookair --> new items: 1
+Country: us, product: macbookair --> new items: 46
+------------------------------------------------------------
