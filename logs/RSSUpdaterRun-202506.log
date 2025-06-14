@@ -1994,3 +1994,9 @@ Country: de, product: macbookair --> new items: 1
 Country: es, product: macbookair --> new items: 1
 Country: at, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2025/06/14 10:10:13
+Country: de, product: mini --> new items: 1
+Country: de, product: macbookair --> new items: 1
+Country: at, product: mini --> new items: 1
+Country: at, product: macbookair --> new items: 1
+------------------------------------------------------------
