@@ -2098,3 +2098,8 @@ Country: cx, product: iphone --> new items: 1
 Country: ch, product: iphone --> new items: 2
 Country: uk, product: ipad --> new items: 1
 ------------------------------------------------------------
+Date: 2025/06/15 12:18:16
+Country: ie, product: macbookpro --> new items: 1
+Country: ie, product: macbookair --> new items: 1
+Country: uk, product: macbookair --> new items: 1
+------------------------------------------------------------
