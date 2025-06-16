@@ -2175,3 +2175,32 @@ Date: 2025/06/16 09:13:34
 Country: ie, product: imac --> new items: 1
 Country: ie, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2025/06/16 10:12:26
+Country: au, product: mini --> new items: 9
+Country: au, product: macbookpro --> new items: 5
+Country: au, product: macbookair --> new items: 9
+Country: bx, product: ipad --> new items: 1
+Country: bx, product: iphone --> new items: 2
+Country: be, product: ipad --> new items: 1
+Country: be, product: iphone --> new items: 2
+Country: ca, product: ipad --> new items: 1
+Country: xf, product: ipad --> new items: 1
+Country: cn, product: ipad --> new items: 1
+Country: cn, product: macstudio --> new items: 4
+Country: cn, product: macbookpro --> new items: 2
+Country: cn, product: macbookair --> new items: 1
+Country: de, product: ipad --> new items: 1
+Country: de, product: iphone --> new items: 2
+Country: jp, product: iphone --> new items: 1
+Country: jp, product: macbookair --> new items: 2
+Country: nl, product: ipad --> new items: 1
+Country: nl, product: iphone --> new items: 2
+Country: nz, product: mini --> new items: 9
+Country: nz, product: macbookpro --> new items: 5
+Country: nz, product: macbookair --> new items: 9
+Country: at, product: ipad --> new items: 1
+Country: at, product: iphone --> new items: 2
+Country: at, product: macbookair --> new items: 1
+Country: cx, product: iphone --> new items: 2
+Country: ch, product: iphone --> new items: 2
+------------------------------------------------------------
