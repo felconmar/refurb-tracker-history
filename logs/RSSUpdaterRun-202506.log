@@ -2561,3 +2561,12 @@ Country: jp, product: imac --> new items: 8
 Country: nl, product: macbookair --> new items: 1
 Country: uk, product: macbookair --> new items: 9
 ------------------------------------------------------------
+Date: 2025/06/18 09:12:22
+Country: de, product: macbookpro --> new items: 1
+Country: de, product: macbookair --> new items: 1
+Country: ie, product: macbookpro --> new items: 1
+Country: nl, product: macbookpro --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+Country: at, product: macbookair --> new items: 1
+Country: uk, product: macbookpro --> new items: 1
+------------------------------------------------------------
