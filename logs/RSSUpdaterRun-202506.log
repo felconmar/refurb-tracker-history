@@ -2668,3 +2668,11 @@ Country: xf, product: mini --> new items: 8
 Country: xf, product: macbookpro --> new items: 6
 Country: uk, product: macbookair --> new items: 7
 ------------------------------------------------------------
+Date: 2025/06/19 00:53:28
+Country: ca, product: mini --> new items: 4
+Country: xf, product: mini --> new items: 4
+Country: xf, product: macbookpro --> new items: 7
+Country: jp, product: macbookpro --> new items: 1
+Country: us, product: mini --> new items: 6
+Country: us, product: macbookpro --> new items: 13
+------------------------------------------------------------
