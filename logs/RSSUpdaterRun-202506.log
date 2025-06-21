@@ -2994,3 +2994,13 @@ Country: de, product: macbookair --> new items: 1
 Country: us, product: imac --> new items: 6
 Country: us, product: macbookpro --> new items: 4
 ------------------------------------------------------------
+Date: 2025/06/21 00:52:19
+Country: ca, product: imac --> new items: 11
+Country: ca, product: macbookpro --> new items: 11
+Country: xf, product: imac --> new items: 9
+Country: xf, product: macbookpro --> new items: 10
+Country: nz, product: macbookpro --> new items: 1
+Country: uk, product: iphone --> new items: 1
+Country: us, product: imac --> new items: 9
+Country: us, product: macbookpro --> new items: 10
+------------------------------------------------------------
