@@ -3004,3 +3004,14 @@ Country: uk, product: iphone --> new items: 1
 Country: us, product: imac --> new items: 9
 Country: us, product: macbookpro --> new items: 10
 ------------------------------------------------------------
+Date: 2025/06/21 02:29:12
+Country: ca, product: imac --> new items: 3
+Country: ca, product: mini --> new items: 3
+Country: ca, product: macbookpro --> new items: 12
+Country: xf, product: imac --> new items: 4
+Country: xf, product: mini --> new items: 3
+Country: xf, product: macbookpro --> new items: 12
+Country: us, product: imac --> new items: 4
+Country: us, product: mini --> new items: 3
+Country: us, product: macbookpro --> new items: 12
+------------------------------------------------------------
