@@ -3149,3 +3149,18 @@ Country: us, product: imac --> new items: 1
 Country: us, product: macbookpro --> new items: 1
 Country: us, product: macbookair --> new items: 2
 ------------------------------------------------------------
+Date: 2025/06/22 03:48:28
+Country: de, product: mini --> new items: 1
+Country: de, product: macbookpro --> new items: 4
+Country: de, product: macbookair --> new items: 1
+Country: es, product: macbookpro --> new items: 1
+Country: jp, product: ipad --> new items: 1
+Country: jp, product: mini --> new items: 4
+Country: jp, product: macbookair --> new items: 29
+Country: nl, product: macbookair --> new items: 1
+Country: us, product: imac --> new items: 43
+Country: us, product: macstudio --> new items: 1
+Country: us, product: mini --> new items: 2
+Country: us, product: macbookpro --> new items: 37
+Country: us, product: macbookair --> new items: 14
+------------------------------------------------------------
