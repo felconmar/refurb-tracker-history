@@ -3327,3 +3327,10 @@ Country: uk, product: imac --> new items: 1
 Country: us, product: imac --> new items: 1
 Country: us, product: macbookair --> new items: 3
 ------------------------------------------------------------
+Date: 2025/06/23 17:10:18
+Country: fr, product: mini --> new items: 1
+Country: nl, product: macbookair --> new items: 1
+Country: cx, product: mini --> new items: 1
+Country: ch, product: mini --> new items: 1
+Country: uk, product: iphone --> new items: 1
+------------------------------------------------------------
