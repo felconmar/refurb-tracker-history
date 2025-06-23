@@ -3347,3 +3347,11 @@ Country: uk, product: macbookpro --> new items: 1
 Country: uk, product: watch --> new items: 1
 Country: us, product: watch --> new items: 1
 ------------------------------------------------------------
+Date: 2025/06/23 19:08:39
+Country: ca, product: imac --> new items: 4
+Country: xf, product: imac --> new items: 7
+Country: xf, product: macbookair --> new items: 1
+Country: ie, product: macbookair --> new items: 4
+Country: uk, product: macbookair --> new items: 11
+Country: us, product: imac --> new items: 4
+------------------------------------------------------------
