@@ -3571,3 +3571,14 @@ Country: ie, product: macbookair --> new items: 1
 Country: uk, product: imac --> new items: 9
 Country: us, product: macbookair --> new items: 2
 ------------------------------------------------------------
+Date: 2025/06/24 20:12:18
+Country: ca, product: ipad --> new items: 1
+Country: xf, product: ipad --> new items: 1
+Country: de, product: mini --> new items: 1
+Country: es, product: macbookpro --> new items: 1
+Country: ie, product: imac --> new items: 1
+Country: ie, product: mini --> new items: 1
+Country: jp, product: macbookair --> new items: 1
+Country: uk, product: imac --> new items: 1
+Country: uk, product: macbookair --> new items: 1
+------------------------------------------------------------
