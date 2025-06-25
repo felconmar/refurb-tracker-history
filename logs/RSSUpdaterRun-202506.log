@@ -3759,3 +3759,10 @@ Country: us, product: macbookpro --> new items: 9
 Country: us, product: macbookair --> new items: 14
 Country: us, product: acc --> new items: 1
 ------------------------------------------------------------
+Date: 2025/06/25 10:11:54
+Country: bx, product: macbookpro --> new items: 1
+Country: de, product: macbookpro --> new items: 2
+Country: jp, product: macbookair --> new items: 1
+Country: at, product: macbookpro --> new items: 2
+Country: sg, product: imac --> new items: 8
+------------------------------------------------------------
