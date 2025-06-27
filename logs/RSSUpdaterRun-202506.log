@@ -4105,3 +4105,10 @@ Country: us, product: ipad --> new items: 1
 Country: us, product: imac --> new items: 25
 Country: us, product: macstudio --> new items: 2
 ------------------------------------------------------------
+Date: 2025/06/27 13:24:39
+Country: de, product: macbookpro --> new items: 1
+Country: es, product: macbookpro --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+Country: uk, product: iphone --> new items: 1
+Country: uk, product: macbookair --> new items: 1
+------------------------------------------------------------
