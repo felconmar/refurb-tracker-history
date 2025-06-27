@@ -4028,3 +4028,19 @@ Date: 2025/06/26 23:10:33
 Country: ca, product: macbookair --> new items: 1
 Country: us, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2025/06/27 00:54:13
+Country: ca, product: macpro --> new items: 1
+Country: ca, product: macbookpro --> new items: 1
+Country: xf, product: macpro --> new items: 1
+Country: xf, product: macbookpro --> new items: 1
+Country: xf, product: macbookair --> new items: 1
+Country: de, product: imac --> new items: 1
+Country: ie, product: watch --> new items: 1
+Country: nl, product: macbookair --> new items: 1
+Country: at, product: imac --> new items: 1
+Country: uk, product: imac --> new items: 1
+Country: uk, product: macbookair --> new items: 3
+Country: us, product: macpro --> new items: 1
+Country: us, product: macbookpro --> new items: 1
+Country: us, product: macbookair --> new items: 1
+------------------------------------------------------------
