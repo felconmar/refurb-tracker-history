@@ -4471,3 +4471,20 @@ Country: cx, product: mini --> new items: 1
 Country: uk, product: ipad --> new items: 9
 Country: uk, product: iphone --> new items: 6
 ------------------------------------------------------------
+Date: 2025/06/30 20:11:46
+Country: au, product: mini --> new items: 1
+Country: bx, product: macbookair --> new items: 1
+Country: be, product: macbookair --> new items: 1
+Country: de, product: imac --> new items: 1
+Country: es, product: macbookpro --> new items: 1
+Country: fr, product: imac --> new items: 2
+Country: ie, product: macbookpro --> new items: 1
+Country: it, product: macbookair --> new items: 1
+Country: jp, product: macbookair --> new items: 1
+Country: nz, product: mini --> new items: 1
+Country: at, product: imac --> new items: 1
+Country: cx, product: imac --> new items: 1
+Country: ch, product: imac --> new items: 1
+Country: ch, product: mini --> new items: 1
+Country: uk, product: macbookpro --> new items: 1
+------------------------------------------------------------
