@@ -4488,3 +4488,9 @@ Country: ch, product: imac --> new items: 1
 Country: ch, product: mini --> new items: 1
 Country: uk, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2025/06/30 21:09:51
+Country: be, product: mini --> new items: 1
+Country: ie, product: macbookpro --> new items: 1
+Country: uk, product: iphone --> new items: 1
+Country: uk, product: macbookpro --> new items: 1
+------------------------------------------------------------
