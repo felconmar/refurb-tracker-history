@@ -4506,3 +4506,7 @@ Country: uk, product: ipad --> new items: 1
 Country: uk, product: iphone --> new items: 2
 Country: us, product: ipad --> new items: 1
 ------------------------------------------------------------
+Date: 2025/06/30 23:10:04
+Country: de, product: macbookpro --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+------------------------------------------------------------
