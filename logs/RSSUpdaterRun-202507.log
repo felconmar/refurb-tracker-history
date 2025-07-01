@@ -132,3 +132,13 @@ Country: uk, product: imac --> new items: 5
 Country: uk, product: macbookpro --> new items: 1
 Country: uk, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2025/07/01 15:11:32
+Country: bx, product: macbookair --> new items: 1
+Country: be, product: macbookair --> new items: 1
+Country: de, product: macbookpro --> new items: 1
+Country: ie, product: imac --> new items: 1
+Country: ie, product: macbookpro --> new items: 1
+Country: ie, product: macbookair --> new items: 1
+Country: uk, product: iphone --> new items: 8
+Country: uk, product: imac --> new items: 1
+------------------------------------------------------------
