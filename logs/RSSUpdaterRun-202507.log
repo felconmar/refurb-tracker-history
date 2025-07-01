@@ -56,3 +56,8 @@ Country: pl, product: macbookpro --> new items: 1
 Country: ch, product: macbookpro --> new items: 13
 Country: us, product: mini --> new items: 1
 ------------------------------------------------------------
+Date: 2025/07/01 08:15:24
+Country: nl, product: macbookpro --> new items: 13
+Country: pl, product: macbookpro --> new items: 2
+Country: cx, product: macbookpro --> new items: 13
+------------------------------------------------------------
