@@ -176,3 +176,7 @@ Country: us, product: iphone --> new items: 1
 Country: us, product: imac --> new items: 1
 Country: us, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2025/07/01 20:11:57
+Country: xf, product: imac --> new items: 4
+Country: us, product: imac --> new items: 4
+------------------------------------------------------------
