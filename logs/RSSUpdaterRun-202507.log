@@ -71,3 +71,9 @@ Country: jp, product: watch --> new items: 1
 Country: nz, product: macbookpro --> new items: 11
 Country: nz, product: macbookair --> new items: 18
 ------------------------------------------------------------
+Date: 2025/07/01 10:12:06
+Country: au, product: macbookpro --> new items: 7
+Country: ie, product: macbookair --> new items: 23
+Country: jp, product: ipad --> new items: 1
+Country: uk, product: iphone --> new items: 3
+------------------------------------------------------------
