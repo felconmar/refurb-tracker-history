@@ -314,3 +314,7 @@ Country: jp, product: macbookair --> new items: 1
 Country: uk, product: ipad --> new items: 1
 Country: uk, product: macbookpro --> new items: 2
 ------------------------------------------------------------
+Date: 2025/07/02 14:10:40
+Country: uk, product: iphone --> new items: 10
+Country: us, product: iphone --> new items: 1
+------------------------------------------------------------
