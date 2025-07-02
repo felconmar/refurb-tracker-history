@@ -240,3 +240,9 @@ Country: us, product: iphone --> new items: 1
 Country: us, product: macbookpro --> new items: 1
 Country: us, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2025/07/02 07:11:45
+Country: au, product: mini --> new items: 1
+Country: au, product: macbookpro --> new items: 2
+Country: nz, product: mini --> new items: 1
+Country: nz, product: macbookpro --> new items: 2
+------------------------------------------------------------
