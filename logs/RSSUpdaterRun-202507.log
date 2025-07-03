@@ -410,3 +410,14 @@ Country: fr, product: macbookair --> new items: 1
 Country: uk, product: ipad --> new items: 1
 Country: us, product: macbookpro --> new items: 2
 ------------------------------------------------------------
+Date: 2025/07/03 00:53:55
+Country: ca, product: macstudio --> new items: 5
+Country: ca, product: mini --> new items: 23
+Country: ca, product: macbookair --> new items: 13
+Country: xf, product: macstudio --> new items: 6
+Country: xf, product: mini --> new items: 23
+Country: xf, product: macbookair --> new items: 12
+Country: us, product: macstudio --> new items: 5
+Country: us, product: mini --> new items: 28
+Country: us, product: macbookair --> new items: 12
+------------------------------------------------------------
