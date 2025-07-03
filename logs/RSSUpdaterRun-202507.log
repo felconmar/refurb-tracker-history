@@ -543,3 +543,9 @@ Country: nl, product: macbookair --> new items: 1
 Country: at, product: macbookair --> new items: 6
 Country: us, product: iphone --> new items: 1
 ------------------------------------------------------------
+Date: 2025/07/03 23:10:42
+Country: ca, product: macbookair --> new items: 1
+Country: ie, product: macbookpro --> new items: 1
+Country: uk, product: macbookpro --> new items: 1
+Country: us, product: macbookair --> new items: 1
+------------------------------------------------------------
