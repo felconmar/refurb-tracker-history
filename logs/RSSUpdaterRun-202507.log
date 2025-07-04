@@ -580,3 +580,11 @@ Country: ca, product: macbookpro --> new items: 1
 Country: xf, product: macbookpro --> new items: 1
 Country: us, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2025/07/04 06:16:22
+Country: ca, product: macbookair --> new items: 1
+Country: xf, product: macbookair --> new items: 1
+Country: cn, product: macbookpro --> new items: 1
+Country: kr, product: macbookpro --> new items: 1
+Country: us, product: iphone --> new items: 1
+Country: us, product: macbookair --> new items: 1
+------------------------------------------------------------
