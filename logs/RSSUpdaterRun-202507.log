@@ -570,3 +570,8 @@ Country: ca, product: imac --> new items: 4
 Country: xf, product: imac --> new items: 4
 Country: xf, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2025/07/04 04:20:47
+Country: ca, product: macbookpro --> new items: 1
+Country: jp, product: iphone --> new items: 19
+Country: us, product: macbookpro --> new items: 1
+------------------------------------------------------------
