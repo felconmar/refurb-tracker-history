@@ -1021,3 +1021,12 @@ Country: uk, product: ipad --> new items: 1
 Country: uk, product: macbookpro --> new items: 3
 Country: us, product: macbookair --> new items: 12
 ------------------------------------------------------------
+Date: 2025/07/07 16:13:15
+Country: ca, product: macbookair --> new items: 3
+Country: xf, product: macbookair --> new items: 3
+Country: es, product: mini --> new items: 1
+Country: ie, product: macbookpro --> new items: 1
+Country: jp, product: macbookair --> new items: 1
+Country: uk, product: macbookpro --> new items: 1
+Country: us, product: macbookair --> new items: 3
+------------------------------------------------------------
