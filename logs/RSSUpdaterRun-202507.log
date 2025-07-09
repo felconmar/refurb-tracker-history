@@ -1369,3 +1369,14 @@ Country: uk, product: ipad --> new items: 1
 Country: uk, product: macbookair --> new items: 15
 Country: us, product: iphone --> new items: 1
 ------------------------------------------------------------
+Date: 2025/07/09 21:10:07
+Country: bx, product: macbookpro --> new items: 1
+Country: be, product: macbookpro --> new items: 1
+Country: ca, product: macstudio --> new items: 1
+Country: xf, product: macstudio --> new items: 1
+Country: ie, product: macbookpro --> new items: 2
+Country: ie, product: macbookair --> new items: 1
+Country: uk, product: macbookpro --> new items: 2
+Country: uk, product: macbookair --> new items: 1
+Country: us, product: macstudio --> new items: 4
+------------------------------------------------------------
