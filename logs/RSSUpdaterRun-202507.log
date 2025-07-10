@@ -1404,3 +1404,12 @@ Country: ie, product: macbookpro --> new items: 1
 Country: us, product: macstudio --> new items: 1
 Country: us, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2025/07/10 00:54:33
+Country: ca, product: imac --> new items: 3
+Country: ca, product: macbookair --> new items: 4
+Country: xf, product: imac --> new items: 3
+Country: es, product: macbookpro --> new items: 1
+Country: uk, product: macbookpro --> new items: 1
+Country: us, product: imac --> new items: 3
+Country: us, product: macbookair --> new items: 4
+------------------------------------------------------------
