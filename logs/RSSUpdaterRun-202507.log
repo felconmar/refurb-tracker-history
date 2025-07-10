@@ -1589,3 +1589,10 @@ Country: nl, product: imac --> new items: 1
 Country: uk, product: macbookair --> new items: 4
 Country: us, product: imac --> new items: 4
 ------------------------------------------------------------
+Date: 2025/07/10 22:10:21
+Country: ca, product: imac --> new items: 1
+Country: xf, product: imac --> new items: 1
+Country: ie, product: macbookpro --> new items: 1
+Country: uk, product: macbookpro --> new items: 1
+Country: us, product: imac --> new items: 1
+------------------------------------------------------------
