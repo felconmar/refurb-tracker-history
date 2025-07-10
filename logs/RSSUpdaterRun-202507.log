@@ -1530,3 +1530,11 @@ Country: at, product: macbookair --> new items: 1
 Country: uk, product: imac --> new items: 1
 Country: uk, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2025/07/10 16:13:19
+Country: bx, product: macbookair --> new items: 1
+Country: be, product: macbookair --> new items: 1
+Country: ca, product: ipad --> new items: 14
+Country: xf, product: ipad --> new items: 14
+Country: us, product: ipad --> new items: 17
+Country: us, product: watch --> new items: 2
+------------------------------------------------------------
