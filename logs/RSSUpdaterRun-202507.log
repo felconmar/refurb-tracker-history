@@ -1579,3 +1579,13 @@ Country: uk, product: watch --> new items: 1
 Country: us, product: iphone --> new items: 1
 Country: us, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2025/07/10 21:11:03
+Country: be, product: macbookair --> new items: 4
+Country: ca, product: imac --> new items: 4
+Country: xf, product: imac --> new items: 4
+Country: fr, product: macbookair --> new items: 14
+Country: ie, product: macbookair --> new items: 4
+Country: nl, product: imac --> new items: 1
+Country: uk, product: macbookair --> new items: 4
+Country: us, product: imac --> new items: 4
+------------------------------------------------------------
