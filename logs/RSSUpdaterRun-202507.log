@@ -1559,3 +1559,23 @@ Country: uk, product: imac --> new items: 1
 Country: us, product: iphone --> new items: 1
 Country: us, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2025/07/10 20:11:56
+Country: bx, product: macbookair --> new items: 4
+Country: de, product: macbookair --> new items: 4
+Country: es, product: mini --> new items: 1
+Country: ie, product: macstudio --> new items: 1
+Country: ie, product: macbookpro --> new items: 11
+Country: ie, product: watch --> new items: 1
+Country: it, product: macbookair --> new items: 4
+Country: nl, product: macbookair --> new items: 9
+Country: at, product: macbookair --> new items: 4
+Country: pl, product: macbookair --> new items: 7
+Country: cx, product: macbookair --> new items: 9
+Country: ch, product: macbookair --> new items: 9
+Country: uk, product: iphone --> new items: 1
+Country: uk, product: macstudio --> new items: 1
+Country: uk, product: macbookpro --> new items: 11
+Country: uk, product: watch --> new items: 1
+Country: us, product: iphone --> new items: 1
+Country: us, product: macbookair --> new items: 1
+------------------------------------------------------------
