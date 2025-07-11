@@ -1726,3 +1726,9 @@ Country: kr, product: macbookpro --> new items: 1
 Country: us, product: imac --> new items: 2
 Country: us, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2025/07/11 19:09:00
+Country: de, product: imac --> new items: 1
+Country: es, product: mini --> new items: 1
+Country: at, product: imac --> new items: 1
+Country: pl, product: macbookair --> new items: 1
+------------------------------------------------------------
