@@ -1716,3 +1716,13 @@ Country: us, product: imac --> new items: 1
 Country: us, product: mini --> new items: 1
 Country: us, product: macbookpro --> new items: 24
 ------------------------------------------------------------
+Date: 2025/07/11 18:15:04
+Country: ca, product: imac --> new items: 2
+Country: ca, product: macbookpro --> new items: 1
+Country: xf, product: imac --> new items: 1
+Country: de, product: mini --> new items: 1
+Country: at, product: mini --> new items: 1
+Country: kr, product: macbookpro --> new items: 1
+Country: us, product: imac --> new items: 2
+Country: us, product: macbookpro --> new items: 1
+------------------------------------------------------------
