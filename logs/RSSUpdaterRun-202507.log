@@ -1857,3 +1857,9 @@ Country: xf, product: macbookair --> new items: 1
 Country: cn, product: ipad --> new items: 1
 Country: us, product: iphone --> new items: 1
 ------------------------------------------------------------
+Date: 2025/07/12 19:07:47
+Country: ie, product: macbookair --> new items: 1
+Country: uk, product: iphone --> new items: 1
+Country: uk, product: macbookair --> new items: 1
+Country: us, product: macbookair --> new items: 1
+------------------------------------------------------------
