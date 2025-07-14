@@ -2068,3 +2068,13 @@ Country: us, product: iphone --> new items: 1
 Country: us, product: imac --> new items: 1
 Country: us, product: macbookair --> new items: 3
 ------------------------------------------------------------
+Date: 2025/07/14 18:16:30
+Country: ca, product: imac --> new items: 1
+Country: xf, product: imac --> new items: 3
+Country: ie, product: imac --> new items: 10
+Country: ie, product: macbookair --> new items: 1
+Country: uk, product: ipad --> new items: 1
+Country: uk, product: imac --> new items: 10
+Country: uk, product: macbookair --> new items: 1
+Country: us, product: imac --> new items: 6
+------------------------------------------------------------
