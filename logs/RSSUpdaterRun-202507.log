@@ -2059,3 +2059,12 @@ Country: at, product: macbookair --> new items: 1
 Country: uk, product: ipad --> new items: 1
 Country: us, product: macbookair --> new items: 3
 ------------------------------------------------------------
+Date: 2025/07/14 17:12:03
+Country: ca, product: imac --> new items: 3
+Country: ca, product: macbookair --> new items: 3
+Country: xf, product: imac --> new items: 1
+Country: xf, product: macbookair --> new items: 3
+Country: us, product: iphone --> new items: 1
+Country: us, product: imac --> new items: 1
+Country: us, product: macbookair --> new items: 3
+------------------------------------------------------------
