@@ -2047,3 +2047,15 @@ Country: at, product: macbookpro --> new items: 1
 Country: us, product: mini --> new items: 4
 Country: us, product: macbookair --> new items: 10
 ------------------------------------------------------------
+Date: 2025/07/14 16:14:00
+Country: bx, product: mini --> new items: 1
+Country: be, product: mini --> new items: 1
+Country: ca, product: macbookair --> new items: 6
+Country: xf, product: macbookair --> new items: 3
+Country: de, product: macbookpro --> new items: 1
+Country: de, product: macbookair --> new items: 1
+Country: nl, product: mini --> new items: 1
+Country: at, product: macbookair --> new items: 1
+Country: uk, product: ipad --> new items: 1
+Country: us, product: macbookair --> new items: 3
+------------------------------------------------------------
