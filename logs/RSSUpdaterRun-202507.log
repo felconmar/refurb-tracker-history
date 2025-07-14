@@ -2038,3 +2038,12 @@ Country: xf, product: macbookair --> new items: 1
 Country: es, product: macbookair --> new items: 1
 Country: tw, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2025/07/14 15:12:21
+Country: ca, product: mini --> new items: 4
+Country: ca, product: macbookair --> new items: 6
+Country: xf, product: macbookair --> new items: 9
+Country: es, product: macbookair --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+Country: us, product: mini --> new items: 4
+Country: us, product: macbookair --> new items: 10
+------------------------------------------------------------
