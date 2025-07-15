@@ -2280,3 +2280,12 @@ Country: at, product: macbookair --> new items: 1
 Country: uk, product: imac --> new items: 1
 Country: us, product: imac --> new items: 1
 ------------------------------------------------------------
+Date: 2025/07/15 20:12:27
+Country: au, product: macbookpro --> new items: 1
+Country: ca, product: macbookair --> new items: 1
+Country: xf, product: macbookair --> new items: 1
+Country: de, product: macbookair --> new items: 1
+Country: nz, product: macbookpro --> new items: 1
+Country: uk, product: macbookpro --> new items: 1
+Country: us, product: macbookair --> new items: 1
+------------------------------------------------------------
