@@ -2234,3 +2234,16 @@ Country: at, product: iphone --> new items: 2
 Country: cx, product: iphone --> new items: 2
 Country: ch, product: iphone --> new items: 2
 ------------------------------------------------------------
+Date: 2025/07/15 15:10:19
+Country: bx, product: macbookair --> new items: 1
+Country: be, product: macstudio --> new items: 1
+Country: be, product: macbookair --> new items: 1
+Country: ca, product: imac --> new items: 2
+Country: ca, product: macpro --> new items: 2
+Country: xf, product: macpro --> new items: 2
+Country: de, product: macbookpro --> new items: 5
+Country: fr, product: macbookpro --> new items: 3
+Country: at, product: macbookpro --> new items: 5
+Country: pl, product: macbookpro --> new items: 1
+Country: us, product: macpro --> new items: 2
+------------------------------------------------------------
