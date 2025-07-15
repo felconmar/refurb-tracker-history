@@ -2205,3 +2205,9 @@ Country: ch, product: macbookair --> new items: 1
 Country: uk, product: macbookpro --> new items: 22
 Country: us, product: iphone --> new items: 2
 ------------------------------------------------------------
+Date: 2025/07/15 12:21:56
+Country: es, product: macstudio --> new items: 1
+Country: ie, product: macbookpro --> new items: 2
+Country: it, product: macbookpro --> new items: 1
+Country: uk, product: macbookpro --> new items: 2
+------------------------------------------------------------
