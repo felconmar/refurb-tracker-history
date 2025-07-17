@@ -2508,3 +2508,14 @@ Country: be, product: macbookair --> new items: 1
 Country: de, product: mini --> new items: 1
 Country: nz, product: macstudio --> new items: 2
 ------------------------------------------------------------
+Date: 2025/07/17 08:15:41
+Country: au, product: macstudio --> new items: 1
+Country: au, product: macbookpro --> new items: 5
+Country: de, product: macbookair --> new items: 1
+Country: fr, product: macbookpro --> new items: 1
+Country: jp, product: macbookpro --> new items: 1
+Country: nl, product: macbookair --> new items: 1
+Country: nz, product: macbookpro --> new items: 5
+Country: at, product: macbookair --> new items: 1
+Country: sg, product: macbookair --> new items: 1
+------------------------------------------------------------
