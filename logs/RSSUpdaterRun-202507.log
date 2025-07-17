@@ -2647,3 +2647,7 @@ Country: ch, product: imac --> new items: 3
 Country: uk, product: iphone --> new items: 1
 Country: us, product: iphone --> new items: 3
 ------------------------------------------------------------
+Date: 2025/07/17 23:11:29
+Country: us, product: ipad --> new items: 1
+Country: us, product: iphone --> new items: 4
+------------------------------------------------------------
