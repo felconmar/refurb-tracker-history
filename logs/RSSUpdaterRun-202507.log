@@ -3036,3 +3036,12 @@ Country: jp, product: watch --> new items: 1
 Country: nz, product: ipad --> new items: 1
 Country: uk, product: ipad --> new items: 1
 ------------------------------------------------------------
+Date: 2025/07/21 09:19:20
+Country: cn, product: ipad --> new items: 4
+Country: cn, product: mini --> new items: 1
+Country: cn, product: macbookpro --> new items: 1
+Country: cn, product: macbookair --> new items: 8
+Country: hk, product: macbookpro --> new items: 8
+Country: at, product: mini --> new items: 1
+Country: uk, product: macbookair --> new items: 1
+------------------------------------------------------------
