@@ -3120,3 +3120,12 @@ Country: xf, product: macbookair --> new items: 14
 Country: us, product: imac --> new items: 1
 Country: us, product: macbookair --> new items: 11
 ------------------------------------------------------------
+Date: 2025/07/21 18:16:24
+Country: ca, product: macbookair --> new items: 2
+Country: xf, product: macbookair --> new items: 2
+Country: de, product: macbookpro --> new items: 1
+Country: ie, product: macbookpro --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+Country: uk, product: macbookpro --> new items: 1
+Country: us, product: macbookair --> new items: 2
+------------------------------------------------------------
