@@ -3158,3 +3158,14 @@ Country: at, product: macbookair --> new items: 1
 Country: uk, product: macbookair --> new items: 1
 Country: us, product: macbookpro --> new items: 4
 ------------------------------------------------------------
+Date: 2025/07/21 23:10:56
+Country: ca, product: macbookpro --> new items: 1
+Country: ca, product: macbookair --> new items: 3
+Country: xf, product: macbookpro --> new items: 1
+Country: xf, product: macbookair --> new items: 3
+Country: ie, product: macbookair --> new items: 16
+Country: uk, product: macbookpro --> new items: 3
+Country: us, product: iphone --> new items: 2
+Country: us, product: macbookpro --> new items: 1
+Country: us, product: macbookair --> new items: 1
+------------------------------------------------------------
