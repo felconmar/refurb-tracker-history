@@ -3506,3 +3506,9 @@ Country: ie, product: macbookair --> new items: 1
 Country: at, product: macbookair --> new items: 1
 Country: uk, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2025/07/23 22:11:09
+Country: de, product: macbookpro --> new items: 1
+Country: de, product: macbookair --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+Country: at, product: macbookair --> new items: 1
+------------------------------------------------------------
