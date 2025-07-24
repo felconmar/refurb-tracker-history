@@ -3545,3 +3545,14 @@ Country: cn, product: ipad --> new items: 1
 Country: jp, product: ipad --> new items: 5
 Country: nz, product: macbookair --> new items: 7
 ------------------------------------------------------------
+Date: 2025/07/24 08:16:04
+Country: au, product: macbookair --> new items: 13
+Country: cn, product: ipad --> new items: 1
+Country: de, product: macbookair --> new items: 1
+Country: es, product: mini --> new items: 1
+Country: jp, product: iphone --> new items: 23
+Country: jp, product: macbookair --> new items: 1
+Country: nz, product: macstudio --> new items: 1
+Country: nz, product: macbookair --> new items: 13
+Country: at, product: macbookair --> new items: 2
+------------------------------------------------------------
