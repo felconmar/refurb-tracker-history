@@ -3608,3 +3608,7 @@ Country: ch, product: iphone --> new items: 2
 Country: uk, product: macbookpro --> new items: 1
 Country: uk, product: acc --> new items: 1
 ------------------------------------------------------------
+Date: 2025/07/24 13:31:52
+Country: fr, product: macbookpro --> new items: 1
+Country: at, product: macbookair --> new items: 2
+------------------------------------------------------------
