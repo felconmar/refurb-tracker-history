@@ -3766,3 +3766,15 @@ Country: nl, product: macbookair --> new items: 1
 Country: uk, product: macbookpro --> new items: 1
 Country: us, product: ipad --> new items: 2
 ------------------------------------------------------------
+Date: 2025/07/25 08:15:17
+Country: de, product: macbookair --> new items: 1
+Country: ie, product: macbookair --> new items: 1
+Country: jp, product: ipad --> new items: 10
+Country: jp, product: iphone --> new items: 2
+Country: jp, product: imac --> new items: 6
+Country: jp, product: macbookair --> new items: 2
+Country: at, product: macbookair --> new items: 3
+Country: kr, product: ipad --> new items: 2
+Country: kr, product: macstudio --> new items: 1
+Country: uk, product: macbookair --> new items: 1
+------------------------------------------------------------
