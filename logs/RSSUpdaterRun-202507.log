@@ -3963,3 +3963,10 @@ Country: be, product: macbookair --> new items: 1
 Country: ie, product: macbookpro --> new items: 1
 Country: uk, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2025/07/26 15:10:16
+Country: de, product: mini --> new items: 1
+Country: de, product: macbookpro --> new items: 1
+Country: nl, product: macbookair --> new items: 1
+Country: at, product: mini --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+------------------------------------------------------------
