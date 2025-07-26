@@ -3901,3 +3901,9 @@ Country: xf, product: macbookpro --> new items: 3
 Country: xf, product: macbookair --> new items: 1
 Country: us, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2025/07/26 02:46:54
+Country: ca, product: macbookpro --> new items: 3
+Country: jp, product: ipad --> new items: 1
+Country: us, product: iphone --> new items: 1
+Country: us, product: macbookpro --> new items: 3
+------------------------------------------------------------
