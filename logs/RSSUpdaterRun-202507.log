@@ -3970,3 +3970,10 @@ Country: nl, product: macbookair --> new items: 1
 Country: at, product: mini --> new items: 1
 Country: at, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2025/07/26 16:12:02
+Country: de, product: mini --> new items: 1
+Country: de, product: macbookair --> new items: 1
+Country: fr, product: macbookpro --> new items: 1
+Country: at, product: mini --> new items: 1
+Country: at, product: macbookair --> new items: 1
+------------------------------------------------------------
