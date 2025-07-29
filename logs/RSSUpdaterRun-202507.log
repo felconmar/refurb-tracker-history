@@ -4253,3 +4253,23 @@ Country: us, product: mini --> new items: 1
 Country: us, product: macbookpro --> new items: 1
 Country: us, product: macbookair --> new items: 3
 ------------------------------------------------------------
+Date: 2025/07/29 03:42:30
+Country: ca, product: mini --> new items: 15
+Country: ca, product: macbookair --> new items: 5
+Country: xf, product: mini --> new items: 15
+Country: xf, product: macbookair --> new items: 7
+Country: cn, product: macbookair --> new items: 38
+Country: de, product: mini --> new items: 1
+Country: ie, product: mini --> new items: 13
+Country: ie, product: macbookpro --> new items: 6
+Country: ie, product: macbookair --> new items: 7
+Country: jp, product: atv --> new items: 2
+Country: sg, product: watch --> new items: 1
+Country: tw, product: atv --> new items: 2
+Country: uk, product: mini --> new items: 13
+Country: uk, product: macbookpro --> new items: 6
+Country: uk, product: macbookair --> new items: 7
+Country: us, product: imac --> new items: 1
+Country: us, product: mini --> new items: 16
+Country: us, product: macbookair --> new items: 6
+------------------------------------------------------------
