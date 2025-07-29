@@ -4408,3 +4408,17 @@ Country: us, product: iphone --> new items: 1
 Country: us, product: macstudio --> new items: 14
 Country: us, product: macbookair --> new items: 5
 ------------------------------------------------------------
+Date: 2025/07/29 21:10:52
+Country: ca, product: imac --> new items: 2
+Country: ca, product: macstudio --> new items: 1
+Country: ca, product: macbookpro --> new items: 1
+Country: ca, product: macbookair --> new items: 2
+Country: xf, product: imac --> new items: 2
+Country: xf, product: macstudio --> new items: 1
+Country: xf, product: macbookpro --> new items: 1
+Country: xf, product: macbookair --> new items: 2
+Country: nl, product: macbookair --> new items: 1
+Country: us, product: imac --> new items: 2
+Country: us, product: macbookpro --> new items: 5
+Country: us, product: macbookair --> new items: 1
+------------------------------------------------------------
