@@ -4273,3 +4273,9 @@ Country: us, product: imac --> new items: 1
 Country: us, product: mini --> new items: 16
 Country: us, product: macbookair --> new items: 6
 ------------------------------------------------------------
+Date: 2025/07/29 04:39:14
+Country: ca, product: macbookair --> new items: 20
+Country: xf, product: macbookair --> new items: 17
+Country: cn, product: macbookair --> new items: 4
+Country: us, product: macbookair --> new items: 9
+------------------------------------------------------------
