@@ -4514,3 +4514,10 @@ Country: pl, product: macbookair --> new items: 1
 Country: cx, product: macbookair --> new items: 1
 Country: ch, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2025/07/30 09:18:29
+Country: de, product: macbookpro --> new items: 1
+Country: de, product: macbookair --> new items: 1
+Country: at, product: macbookair --> new items: 1
+Country: uk, product: imac --> new items: 23
+Country: uk, product: macbookpro --> new items: 1
+------------------------------------------------------------
