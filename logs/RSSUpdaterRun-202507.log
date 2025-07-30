@@ -4606,3 +4606,13 @@ Country: es, product: macbookair --> new items: 1
 Country: fr, product: macbookair --> new items: 1
 Country: jp, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2025/07/30 19:12:00
+Country: bx, product: macbookpro --> new items: 1
+Country: be, product: macbookpro --> new items: 1
+Country: ca, product: macstudio --> new items: 1
+Country: xf, product: macstudio --> new items: 1
+Country: fr, product: macbookair --> new items: 1
+Country: ie, product: macbookpro --> new items: 1
+Country: uk, product: macbookpro --> new items: 1
+Country: us, product: macstudio --> new items: 1
+------------------------------------------------------------
