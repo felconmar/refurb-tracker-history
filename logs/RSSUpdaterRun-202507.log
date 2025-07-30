@@ -4489,3 +4489,16 @@ Country: jp, product: macbookair --> new items: 1
 Country: nz, product: macbookpro --> new items: 4
 Country: sg, product: imac --> new items: 12
 ------------------------------------------------------------
+Date: 2025/07/30 07:17:14
+Country: au, product: mini --> new items: 3
+Country: au, product: macbookpro --> new items: 13
+Country: de, product: macbookpro --> new items: 2
+Country: hk, product: watch --> new items: 12
+Country: jp, product: macbookpro --> new items: 1
+Country: jp, product: macbookair --> new items: 1
+Country: jp, product: watch --> new items: 1
+Country: nz, product: mini --> new items: 3
+Country: nz, product: macbookpro --> new items: 13
+Country: at, product: macbookpro --> new items: 2
+Country: sg, product: watch --> new items: 12
+------------------------------------------------------------
