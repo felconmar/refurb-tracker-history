@@ -4482,3 +4482,10 @@ Country: nz, product: mini --> new items: 1
 Country: us, product: macpro --> new items: 2
 Country: us, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2025/07/30 06:18:44
+Country: au, product: mini --> new items: 1
+Country: au, product: macbookpro --> new items: 4
+Country: jp, product: macbookair --> new items: 1
+Country: nz, product: macbookpro --> new items: 4
+Country: sg, product: imac --> new items: 12
+------------------------------------------------------------
