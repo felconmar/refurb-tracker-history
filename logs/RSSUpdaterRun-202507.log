@@ -4547,3 +4547,18 @@ Country: cx, product: mini --> new items: 3
 Country: ch, product: mini --> new items: 3
 Country: us, product: iphone --> new items: 1
 ------------------------------------------------------------
+Date: 2025/07/30 12:22:36
+Country: bx, product: macbookpro --> new items: 2
+Country: be, product: macbookpro --> new items: 2
+Country: de, product: macbookpro --> new items: 1
+Country: es, product: macbookpro --> new items: 1
+Country: fr, product: macbookpro --> new items: 2
+Country: ie, product: macbookpro --> new items: 1
+Country: it, product: macbookpro --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+Country: pl, product: macbookpro --> new items: 1
+Country: cx, product: macbookpro --> new items: 1
+Country: ch, product: macbookpro --> new items: 1
+Country: uk, product: iphone --> new items: 1
+Country: uk, product: macbookpro --> new items: 1
+------------------------------------------------------------
