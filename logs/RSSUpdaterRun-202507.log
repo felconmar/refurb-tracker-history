@@ -4521,3 +4521,10 @@ Country: at, product: macbookair --> new items: 1
 Country: uk, product: imac --> new items: 23
 Country: uk, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2025/07/30 10:13:26
+Country: de, product: macbookpro --> new items: 2
+Country: ie, product: imac --> new items: 17
+Country: ie, product: macbookpro --> new items: 1
+Country: at, product: macbookpro --> new items: 2
+Country: uk, product: imac --> new items: 1
+------------------------------------------------------------
