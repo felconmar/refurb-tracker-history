@@ -100,3 +100,14 @@ Country: ca, product: imac --> new items: 2
 Country: xf, product: imac --> new items: 2
 Country: us, product: imac --> new items: 3
 ------------------------------------------------------------
+Date: 2025/08/01 19:11:47
+Country: ca, product: imac --> new items: 2
+Country: ca, product: macbookair --> new items: 1
+Country: xf, product: imac --> new items: 2
+Country: xf, product: macbookair --> new items: 1
+Country: de, product: imac --> new items: 1
+Country: at, product: imac --> new items: 1
+Country: us, product: iphone --> new items: 1
+Country: us, product: imac --> new items: 2
+Country: us, product: macbookair --> new items: 1
+------------------------------------------------------------
