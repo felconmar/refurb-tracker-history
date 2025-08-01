@@ -3,3 +3,14 @@ Country: au, product: watch --> new items: 5
 Country: jp, product: iphone --> new items: 1
 Country: nz, product: watch --> new items: 5
 ------------------------------------------------------------
+Date: 2025/08/01 03:48:19
+Country: au, product: watch --> new items: 1
+Country: au, product: acc --> new items: 1
+Country: ca, product: imac --> new items: 1
+Country: ca, product: macbookair --> new items: 2
+Country: xf, product: imac --> new items: 1
+Country: xf, product: macbookair --> new items: 2
+Country: nz, product: watch --> new items: 1
+Country: us, product: imac --> new items: 1
+Country: us, product: macbookair --> new items: 2
+------------------------------------------------------------
