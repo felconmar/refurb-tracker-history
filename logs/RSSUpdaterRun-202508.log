@@ -148,3 +148,11 @@ Country: at, product: macbookpro --> new items: 10
 Country: at, product: macbookair --> new items: 1
 Country: us, product: imac --> new items: 5
 ------------------------------------------------------------
+Date: 2025/08/02 00:54:59
+Country: ca, product: imac --> new items: 3
+Country: xf, product: imac --> new items: 3
+Country: jp, product: ipad --> new items: 1
+Country: jp, product: macbookair --> new items: 1
+Country: us, product: imac --> new items: 4
+Country: us, product: macbookair --> new items: 1
+------------------------------------------------------------
