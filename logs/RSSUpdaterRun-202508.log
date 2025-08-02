@@ -190,3 +190,9 @@ Country: jp, product: macbookair --> new items: 1
 Country: jp, product: watch --> new items: 1
 Country: at, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2025/08/02 08:14:01
+Country: jp, product: macbookpro --> new items: 12
+Country: jp, product: macbookair --> new items: 21
+Country: tw, product: mini --> new items: 1
+Country: us, product: imac --> new items: 1
+------------------------------------------------------------
