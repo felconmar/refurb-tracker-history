@@ -425,3 +425,10 @@ Country: at, product: macbookair --> new items: 1
 Country: uk, product: iphone --> new items: 1
 Country: uk, product: imac --> new items: 1
 ------------------------------------------------------------
+Date: 2025/08/04 13:35:22
+Country: de, product: macbookair --> new items: 3
+Country: jp, product: macbookair --> new items: 1
+Country: nl, product: macbookair --> new items: 1
+Country: at, product: macbookair --> new items: 2
+Country: uk, product: macbookpro --> new items: 1
+------------------------------------------------------------
