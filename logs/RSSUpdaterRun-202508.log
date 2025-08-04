@@ -520,3 +520,11 @@ Country: nl, product: mini --> new items: 7
 Country: at, product: macbookair --> new items: 1
 Country: uk, product: atv --> new items: 1
 ------------------------------------------------------------
+Date: 2025/08/04 22:11:43
+Country: de, product: imac --> new items: 1
+Country: es, product: imac --> new items: 1
+Country: ie, product: macbookair --> new items: 1
+Country: at, product: imac --> new items: 1
+Country: uk, product: ipad --> new items: 1
+Country: uk, product: macbookair --> new items: 1
+------------------------------------------------------------
