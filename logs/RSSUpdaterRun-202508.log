@@ -388,3 +388,8 @@ Country: jp, product: macbookair --> new items: 2
 Country: nz, product: macbookpro --> new items: 8
 Country: uk, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2025/08/04 09:21:38
+Country: jp, product: macbookpro --> new items: 1
+Country: tw, product: macbookpro --> new items: 8
+Country: tw, product: macbookair --> new items: 17
+------------------------------------------------------------
