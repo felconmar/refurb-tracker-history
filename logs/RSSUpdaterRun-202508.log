@@ -571,3 +571,19 @@ Country: nz, product: macbookair --> new items: 13
 Country: cx, product: iphone --> new items: 1
 Country: ch, product: iphone --> new items: 1
 ------------------------------------------------------------
+Date: 2025/08/05 08:16:26
+Country: au, product: macbookpro --> new items: 3
+Country: au, product: macbookair --> new items: 7
+Country: de, product: macstudio --> new items: 4
+Country: es, product: iphone --> new items: 2
+Country: es, product: macbookpro --> new items: 1
+Country: fr, product: iphone --> new items: 2
+Country: fr, product: macstudio --> new items: 2
+Country: it, product: iphone --> new items: 1
+Country: nz, product: macbookpro --> new items: 3
+Country: nz, product: macbookair --> new items: 7
+Country: at, product: iphone --> new items: 1
+Country: at, product: macstudio --> new items: 4
+Country: sg, product: mini --> new items: 1
+Country: sg, product: macbookair --> new items: 4
+------------------------------------------------------------
