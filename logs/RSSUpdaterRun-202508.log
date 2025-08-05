@@ -768,3 +768,14 @@ Country: at, product: macbookpro --> new items: 1
 Country: at, product: macbookair --> new items: 1
 Country: us, product: macbookair --> new items: 2
 ------------------------------------------------------------
+Date: 2025/08/05 21:10:37
+Country: ca, product: macbookair --> new items: 4
+Country: de, product: macbookpro --> new items: 1
+Country: de, product: macbookair --> new items: 1
+Country: es, product: macbookair --> new items: 1
+Country: fr, product: mini --> new items: 1
+Country: ie, product: mini --> new items: 1
+Country: nl, product: macbookpro --> new items: 1
+Country: uk, product: mini --> new items: 1
+Country: us, product: macbookair --> new items: 4
+------------------------------------------------------------
