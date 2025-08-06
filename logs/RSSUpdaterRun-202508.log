@@ -801,3 +801,7 @@ Country: xf, product: macbookair --> new items: 2
 Country: uk, product: ipad --> new items: 1
 Country: us, product: macbookair --> new items: 2
 ------------------------------------------------------------
+Date: 2025/08/06 03:01:01
+Country: au, product: macbookair --> new items: 1
+Country: nz, product: macbookair --> new items: 1
+------------------------------------------------------------
