@@ -1096,3 +1096,8 @@ Country: cn, product: ipad --> new items: 1
 Country: fr, product: imac --> new items: 1
 Country: tw, product: ipad --> new items: 3
 ------------------------------------------------------------
+Date: 2025/08/07 10:12:49
+Country: cn, product: macbookpro --> new items: 1
+Country: de, product: macbookpro --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+------------------------------------------------------------
