@@ -1083,3 +1083,11 @@ Country: jp, product: macbookair --> new items: 1
 Country: nz, product: macbookair --> new items: 1
 Country: us, product: macbookpro --> new items: 9
 ------------------------------------------------------------
+Date: 2025/08/07 08:16:30
+Country: au, product: macbookair --> new items: 15
+Country: de, product: macbookpro --> new items: 1
+Country: jp, product: macbookpro --> new items: 1
+Country: nz, product: macbookair --> new items: 15
+Country: at, product: macbookpro --> new items: 1
+Country: kr, product: ipad --> new items: 6
+------------------------------------------------------------
