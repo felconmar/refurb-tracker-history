@@ -1198,3 +1198,10 @@ Country: es, product: macbookpro --> new items: 1
 Country: us, product: macbookpro --> new items: 24
 Country: us, product: macbookair --> new items: 2
 ------------------------------------------------------------
+Date: 2025/08/07 23:11:49
+Country: ca, product: macbookpro --> new items: 29
+Country: ca, product: macbookair --> new items: 1
+Country: xf, product: macbookpro --> new items: 15
+Country: nl, product: macbookair --> new items: 1
+Country: us, product: macbookpro --> new items: 15
+------------------------------------------------------------
