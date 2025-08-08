@@ -1329,3 +1329,11 @@ Country: at, product: macbookair --> new items: 1
 Country: uk, product: macbookair --> new items: 1
 Country: us, product: macbookair --> new items: 4
 ------------------------------------------------------------
+Date: 2025/08/08 19:09:24
+Country: ca, product: mini --> new items: 1
+Country: xf, product: mini --> new items: 1
+Country: de, product: macbookair --> new items: 1
+Country: ie, product: macbookpro --> new items: 1
+Country: uk, product: macbookpro --> new items: 1
+Country: us, product: mini --> new items: 1
+------------------------------------------------------------
