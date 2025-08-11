@@ -1619,3 +1619,10 @@ Country: us, product: macbookair --> new items: 3
 Date: 2025/08/11 00:59:02
 Country: us, product: ipad --> new items: 1
 ------------------------------------------------------------
+Date: 2025/08/11 03:01:44
+Country: au, product: mini --> new items: 16
+Country: au, product: macbookair --> new items: 12
+Country: jp, product: macstudio --> new items: 1
+Country: nz, product: mini --> new items: 16
+Country: nz, product: macbookair --> new items: 12
+------------------------------------------------------------
