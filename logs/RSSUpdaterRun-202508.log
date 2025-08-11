@@ -1699,3 +1699,16 @@ Country: at, product: macbookpro --> new items: 1
 Country: at, product: macbookair --> new items: 1
 Country: us, product: imac --> new items: 5
 ------------------------------------------------------------
+Date: 2025/08/11 18:16:17
+Country: bx, product: macbookpro --> new items: 1
+Country: be, product: macbookpro --> new items: 1
+Country: ca, product: imac --> new items: 1
+Country: ca, product: macbookair --> new items: 1
+Country: xf, product: imac --> new items: 3
+Country: xf, product: macbookair --> new items: 1
+Country: de, product: macbookpro --> new items: 5
+Country: nl, product: macbookpro --> new items: 3
+Country: at, product: macbookpro --> new items: 5
+Country: us, product: imac --> new items: 1
+Country: us, product: macbookair --> new items: 1
+------------------------------------------------------------
