@@ -1760,3 +1760,9 @@ Country: cn, product: macbookpro --> new items: 2
 Country: jp, product: macbookpro --> new items: 1
 Country: us, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2025/08/12 04:19:13
+Country: tw, product: macstudio --> new items: 3
+Country: tw, product: mini --> new items: 8
+Country: tw, product: macbookpro --> new items: 17
+Country: tw, product: macbookair --> new items: 14
+------------------------------------------------------------
