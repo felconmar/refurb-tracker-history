@@ -1818,3 +1818,11 @@ Country: ie, product: imac --> new items: 1
 Country: at, product: imac --> new items: 1
 Country: sg, product: macbookpro --> new items: 3
 ------------------------------------------------------------
+Date: 2025/08/12 12:20:54
+Country: de, product: macbookair --> new items: 1
+Country: ie, product: imac --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+Country: at, product: macbookair --> new items: 1
+Country: uk, product: ipad --> new items: 1
+Country: uk, product: imac --> new items: 2
+------------------------------------------------------------
