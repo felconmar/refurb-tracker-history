@@ -2107,3 +2107,9 @@ Country: xf, product: macbookpro --> new items: 1
 Country: us, product: macbookpro --> new items: 1
 Country: us, product: acc --> new items: 2
 ------------------------------------------------------------
+Date: 2025/08/13 22:11:03
+Country: ca, product: iphone --> new items: 6
+Country: xf, product: iphone --> new items: 6
+Country: us, product: ipad --> new items: 1
+Country: us, product: iphone --> new items: 5
+------------------------------------------------------------
