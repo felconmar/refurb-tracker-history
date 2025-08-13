@@ -1945,3 +1945,29 @@ Country: ca, product: macbookpro --> new items: 3
 Country: cn, product: ipad --> new items: 1
 Country: us, product: macbookpro --> new items: 3
 ------------------------------------------------------------
+Date: 2025/08/13 08:15:06
+Country: au, product: macstudio --> new items: 10
+Country: au, product: macbookpro --> new items: 8
+Country: au, product: macbookair --> new items: 9
+Country: bx, product: homepod --> new items: 1
+Country: bx, product: mini --> new items: 1
+Country: be, product: homepod --> new items: 1
+Country: be, product: mini --> new items: 1
+Country: cn, product: macbookpro --> new items: 1
+Country: de, product: macbookair --> new items: 1
+Country: es, product: homepod --> new items: 1
+Country: es, product: macbookpro --> new items: 1
+Country: it, product: homepod --> new items: 1
+Country: it, product: macbookpro --> new items: 1
+Country: jp, product: iphone --> new items: 1
+Country: nl, product: homepod --> new items: 1
+Country: nl, product: mini --> new items: 1
+Country: nl, product: macbookpro --> new items: 2
+Country: nl, product: macbookair --> new items: 1
+Country: nz, product: macstudio --> new items: 10
+Country: nz, product: macbookpro --> new items: 8
+Country: nz, product: macbookair --> new items: 9
+Country: at, product: macbookair --> new items: 1
+Country: cx, product: homepod --> new items: 1
+Country: ch, product: homepod --> new items: 1
+------------------------------------------------------------
