@@ -2285,3 +2285,11 @@ Country: ie, product: macbookair --> new items: 1
 Country: uk, product: macbookair --> new items: 1
 Country: us, product: macstudio --> new items: 1
 ------------------------------------------------------------
+Date: 2025/08/14 22:10:14
+Country: ca, product: macstudio --> new items: 1
+Country: ca, product: macbookair --> new items: 1
+Country: xf, product: macstudio --> new items: 1
+Country: us, product: iphone --> new items: 2
+Country: us, product: macstudio --> new items: 1
+Country: us, product: macbookair --> new items: 1
+------------------------------------------------------------
