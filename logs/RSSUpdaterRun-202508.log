@@ -2411,3 +2411,18 @@ Country: uk, product: macbookair --> new items: 1
 Country: us, product: macbookpro --> new items: 6
 Country: us, product: macbookair --> new items: 15
 ------------------------------------------------------------
+Date: 2025/08/15 19:08:27
+Country: ca, product: mini --> new items: 5
+Country: ca, product: macbookpro --> new items: 4
+Country: ca, product: macbookair --> new items: 9
+Country: xf, product: mini --> new items: 5
+Country: xf, product: macbookpro --> new items: 4
+Country: xf, product: macbookair --> new items: 6
+Country: de, product: mini --> new items: 1
+Country: ie, product: macbookair --> new items: 1
+Country: at, product: mini --> new items: 1
+Country: uk, product: macbookpro --> new items: 55
+Country: uk, product: macbookair --> new items: 3
+Country: us, product: mini --> new items: 4
+Country: us, product: macbookpro --> new items: 2
+------------------------------------------------------------
