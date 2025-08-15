@@ -2307,3 +2307,8 @@ Country: us, product: ipad --> new items: 1
 Country: us, product: macbookpro --> new items: 1
 Country: us, product: macbookair --> new items: 4
 ------------------------------------------------------------
+Date: 2025/08/15 02:46:06
+Country: ca, product: macbookair --> new items: 11
+Country: xf, product: macbookair --> new items: 11
+Country: us, product: macbookair --> new items: 13
+------------------------------------------------------------
