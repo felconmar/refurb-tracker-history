@@ -2787,3 +2787,10 @@ Country: ch, product: macbookair --> new items: 1
 Country: us, product: macstudio --> new items: 3
 Country: us, product: macbookpro --> new items: 2
 ------------------------------------------------------------
+Date: 2025/08/18 20:11:58
+Country: ca, product: macbookair --> new items: 1
+Country: xf, product: macbookair --> new items: 1
+Country: de, product: mini --> new items: 1
+Country: at, product: mini --> new items: 1
+Country: us, product: macbookair --> new items: 1
+------------------------------------------------------------
