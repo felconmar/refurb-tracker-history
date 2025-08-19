@@ -2923,3 +2923,12 @@ Country: pl, product: imac --> new items: 1
 Country: pl, product: macbookair --> new items: 1
 Country: uk, product: macbookpro --> new items: 3
 ------------------------------------------------------------
+Date: 2025/08/19 15:11:49
+Country: bx, product: imac --> new items: 1
+Country: de, product: macstudio --> new items: 1
+Country: fr, product: imac --> new items: 1
+Country: fr, product: macbookpro --> new items: 1
+Country: it, product: macbookair --> new items: 1
+Country: at, product: macstudio --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+------------------------------------------------------------
