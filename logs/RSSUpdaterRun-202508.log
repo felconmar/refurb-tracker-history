@@ -2915,3 +2915,11 @@ Country: ch, product: macbookpro --> new items: 1
 Country: uk, product: macbookpro --> new items: 5
 Country: uk, product: macbookair --> new items: 5
 ------------------------------------------------------------
+Date: 2025/08/19 14:10:43
+Country: be, product: imac --> new items: 1
+Country: de, product: macbookair --> new items: 1
+Country: ie, product: macbookpro --> new items: 3
+Country: pl, product: imac --> new items: 1
+Country: pl, product: macbookair --> new items: 1
+Country: uk, product: macbookpro --> new items: 3
+------------------------------------------------------------
