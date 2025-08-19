@@ -2835,3 +2835,11 @@ Country: jp, product: ipad --> new items: 1
 Country: nz, product: macbookair --> new items: 6
 Country: uk, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2025/08/19 07:10:37
+Country: au, product: ipad --> new items: 1
+Country: au, product: macbookpro --> new items: 6
+Country: au, product: macbookair --> new items: 6
+Country: nz, product: ipad --> new items: 1
+Country: nz, product: macstudio --> new items: 2
+Country: nz, product: macbookpro --> new items: 6
+------------------------------------------------------------
