@@ -3054,3 +3054,22 @@ Country: fr, product: macbookair --> new items: 7
 Country: nl, product: macbookpro --> new items: 1
 Country: at, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2025/08/20 13:24:12
+Country: bx, product: mini --> new items: 1
+Country: bx, product: macbookair --> new items: 3
+Country: be, product: mini --> new items: 1
+Country: be, product: macbookair --> new items: 3
+Country: de, product: imac --> new items: 1
+Country: de, product: macbookpro --> new items: 4
+Country: de, product: macbookair --> new items: 3
+Country: es, product: macbookpro --> new items: 1
+Country: fr, product: macbookpro --> new items: 3
+Country: nl, product: mini --> new items: 1
+Country: at, product: macbookpro --> new items: 4
+Country: at, product: macbookair --> new items: 3
+Country: pl, product: macbookair --> new items: 1
+Country: cx, product: macbookpro --> new items: 1
+Country: cx, product: macbookair --> new items: 1
+Country: ch, product: macbookpro --> new items: 1
+Country: ch, product: macbookair --> new items: 1
+------------------------------------------------------------
