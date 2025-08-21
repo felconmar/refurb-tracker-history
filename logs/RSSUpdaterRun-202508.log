@@ -3238,3 +3238,9 @@ Country: at, product: macbookair --> new items: 1
 Country: uk, product: ipad --> new items: 1
 Country: uk, product: iphone --> new items: 1
 ------------------------------------------------------------
+Date: 2025/08/21 11:09:22
+Country: fr, product: macbookair --> new items: 1
+Country: nl, product: macbookpro --> new items: 1
+Country: at, product: macbookair --> new items: 1
+Country: uk, product: ipad --> new items: 2
+------------------------------------------------------------
