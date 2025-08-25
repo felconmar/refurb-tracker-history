@@ -3783,3 +3783,9 @@ Country: xf, product: imac --> new items: 4
 Country: cn, product: mini --> new items: 1
 Country: us, product: imac --> new items: 3
 ------------------------------------------------------------
+Date: 2025/08/25 23:09:53
+Country: ca, product: imac --> new items: 1
+Country: xf, product: imac --> new items: 1
+Country: jp, product: imac --> new items: 1
+Country: us, product: imac --> new items: 2
+------------------------------------------------------------
