@@ -3757,3 +3757,8 @@ Country: at, product: mini --> new items: 1
 Country: us, product: iphone --> new items: 1
 Country: us, product: imac --> new items: 4
 ------------------------------------------------------------
+Date: 2025/08/25 19:08:14
+Country: ie, product: macbookair --> new items: 2
+Country: uk, product: macbookair --> new items: 2
+Country: us, product: ipad --> new items: 4
+------------------------------------------------------------
