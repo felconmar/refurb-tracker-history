@@ -3749,3 +3749,11 @@ Country: ca, product: imac --> new items: 3
 Country: xf, product: imac --> new items: 3
 Country: us, product: imac --> new items: 3
 ------------------------------------------------------------
+Date: 2025/08/25 18:15:21
+Country: ca, product: imac --> new items: 4
+Country: xf, product: imac --> new items: 4
+Country: de, product: mini --> new items: 1
+Country: at, product: mini --> new items: 1
+Country: us, product: iphone --> new items: 1
+Country: us, product: imac --> new items: 4
+------------------------------------------------------------
