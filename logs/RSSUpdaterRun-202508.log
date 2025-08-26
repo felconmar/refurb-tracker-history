@@ -3839,3 +3839,10 @@ Country: ch, product: atv --> new items: 1
 Country: uk, product: iphone --> new items: 1
 Country: uk, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2025/08/26 09:11:51
+Country: ca, product: macbookpro --> new items: 1
+Country: xf, product: macbookpro --> new items: 1
+Country: es, product: macbookair --> new items: 1
+Country: sg, product: macbookpro --> new items: 3
+Country: sg, product: macbookair --> new items: 1
+------------------------------------------------------------
