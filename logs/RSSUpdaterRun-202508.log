@@ -3846,3 +3846,10 @@ Country: es, product: macbookair --> new items: 1
 Country: sg, product: macbookpro --> new items: 3
 Country: sg, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2025/08/26 10:11:43
+Country: cn, product: macbookpro --> new items: 1
+Country: fr, product: iphone --> new items: 2
+Country: at, product: imac --> new items: 1
+Country: sg, product: macbookair --> new items: 2
+Country: us, product: macbookpro --> new items: 1
+------------------------------------------------------------
