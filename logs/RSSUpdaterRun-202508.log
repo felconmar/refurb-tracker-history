@@ -4345,3 +4345,13 @@ Country: uk, product: ipad --> new items: 1
 Country: uk, product: macbookpro --> new items: 1
 Country: us, product: macbookair --> new items: 3
 ------------------------------------------------------------
+Date: 2025/08/28 22:09:19
+Country: ca, product: macbookair --> new items: 3
+Country: xf, product: macbookair --> new items: 3
+Country: de, product: macbookpro --> new items: 1
+Country: ie, product: macbookpro --> new items: 1
+Country: ie, product: macbookair --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+Country: uk, product: macbookair --> new items: 1
+Country: us, product: macbookair --> new items: 3
+------------------------------------------------------------
