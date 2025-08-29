@@ -4388,3 +4388,7 @@ Country: xf, product: macpro --> new items: 3
 Country: jp, product: macbookair --> new items: 34
 Country: us, product: macpro --> new items: 3
 ------------------------------------------------------------
+Date: 2025/08/29 06:15:45
+Country: jp, product: macbookair --> new items: 2
+Country: at, product: macbookpro --> new items: 1
+------------------------------------------------------------
