@@ -4563,3 +4563,8 @@ Country: us, product: ipad --> new items: 2
 Country: us, product: iphone --> new items: 1
 Country: us, product: watch --> new items: 1
 ------------------------------------------------------------
+Date: 2025/08/30 05:09:30
+Country: ie, product: macbookair --> new items: 1
+Country: pl, product: macbookpro --> new items: 1
+Country: uk, product: macbookair --> new items: 1
+------------------------------------------------------------
