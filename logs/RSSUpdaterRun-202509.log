@@ -172,3 +172,17 @@ Country: kr, product: macstudio --> new items: 1
 Country: kr, product: mini --> new items: 7
 Country: kr, product: macbookpro --> new items: 9
 ------------------------------------------------------------
+Date: 2025/09/02 09:11:54
+Country: bx, product: macbookpro --> new items: 6
+Country: be, product: macbookpro --> new items: 6
+Country: de, product: macbookpro --> new items: 9
+Country: de, product: macbookair --> new items: 1
+Country: jp, product: macbookair --> new items: 20
+Country: nl, product: macbookpro --> new items: 3
+Country: nz, product: mini --> new items: 19
+Country: at, product: macbookpro --> new items: 9
+Country: at, product: macbookair --> new items: 1
+Country: cx, product: macbookpro --> new items: 1
+Country: ch, product: macbookpro --> new items: 1
+Country: uk, product: macbookair --> new items: 1
+------------------------------------------------------------
