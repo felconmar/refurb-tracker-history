@@ -273,3 +273,15 @@ Country: fr, product: macstudio --> new items: 3
 Country: it, product: macstudio --> new items: 1
 Country: nl, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2025/09/02 20:10:49
+Country: ca, product: macbookpro --> new items: 5
+Country: xf, product: macbookpro --> new items: 6
+Country: de, product: imac --> new items: 1
+Country: ie, product: macbookpro --> new items: 3
+Country: ie, product: macbookair --> new items: 1
+Country: at, product: imac --> new items: 1
+Country: uk, product: imac --> new items: 1
+Country: uk, product: macbookpro --> new items: 3
+Country: uk, product: macbookair --> new items: 1
+Country: us, product: ipad --> new items: 1
+------------------------------------------------------------
