@@ -411,3 +411,10 @@ Country: be, product: macstudio --> new items: 1
 Country: de, product: macstudio --> new items: 1
 Country: es, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2025/09/03 15:10:30
+Country: de, product: mini --> new items: 2
+Country: de, product: macbookpro --> new items: 1
+Country: nl, product: macbookpro --> new items: 1
+Country: at, product: mini --> new items: 2
+Country: at, product: macbookpro --> new items: 1
+------------------------------------------------------------
