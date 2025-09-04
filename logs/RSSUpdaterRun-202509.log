@@ -607,3 +607,15 @@ Country: uk, product: macbookpro --> new items: 1
 Country: uk, product: acc --> new items: 1
 Country: us, product: imac --> new items: 1
 ------------------------------------------------------------
+Date: 2025/09/04 19:07:53
+Country: ca, product: imac --> new items: 3
+Country: ca, product: mini --> new items: 1
+Country: xf, product: iphone --> new items: 1
+Country: xf, product: imac --> new items: 4
+Country: xf, product: mini --> new items: 1
+Country: ie, product: macbookpro --> new items: 1
+Country: at, product: macstudio --> new items: 1
+Country: uk, product: macbookpro --> new items: 1
+Country: us, product: imac --> new items: 3
+Country: us, product: mini --> new items: 1
+------------------------------------------------------------
