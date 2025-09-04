@@ -505,3 +505,7 @@ Country: nz, product: macbookair --> new items: 1
 Country: us, product: ipad --> new items: 5
 Country: us, product: iphone --> new items: 2
 ------------------------------------------------------------
+Date: 2025/09/04 05:09:55
+Country: cn, product: macbookpro --> new items: 1
+Country: us, product: ipad --> new items: 1
+------------------------------------------------------------
