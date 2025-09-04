@@ -497,3 +497,11 @@ Country: ca, product: macbookpro --> new items: 1
 Country: us, product: ipad --> new items: 1
 Country: us, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2025/09/04 04:12:10
+Country: au, product: macbookair --> new items: 1
+Country: ca, product: iphone --> new items: 3
+Country: xf, product: iphone --> new items: 3
+Country: nz, product: macbookair --> new items: 1
+Country: us, product: ipad --> new items: 5
+Country: us, product: iphone --> new items: 2
+------------------------------------------------------------
