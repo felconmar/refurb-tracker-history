@@ -809,3 +809,9 @@ Country: at, product: macbookpro --> new items: 1
 Country: uk, product: macbookpro --> new items: 1
 Country: us, product: acc --> new items: 1
 ------------------------------------------------------------
+Date: 2025/09/05 23:09:11
+Country: de, product: macstudio --> new items: 1
+Country: fr, product: macbookair --> new items: 1
+Country: at, product: macstudio --> new items: 1
+Country: us, product: iphone --> new items: 1
+------------------------------------------------------------
