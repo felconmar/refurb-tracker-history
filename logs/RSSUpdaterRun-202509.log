@@ -1109,3 +1109,8 @@ Date: 2025/09/08 09:12:43
 Country: ca, product: macbookair --> new items: 1
 Country: us, product: iphone --> new items: 1
 ------------------------------------------------------------
+Date: 2025/09/08 10:11:30
+Country: au, product: macbookair --> new items: 1
+Country: cn, product: macbookpro --> new items: 5
+Country: cn, product: macbookair --> new items: 6
+------------------------------------------------------------
