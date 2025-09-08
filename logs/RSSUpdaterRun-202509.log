@@ -1114,3 +1114,16 @@ Country: au, product: macbookair --> new items: 1
 Country: cn, product: macbookpro --> new items: 5
 Country: cn, product: macbookair --> new items: 6
 ------------------------------------------------------------
+Date: 2025/09/08 11:08:57
+Country: be, product: macstudio --> new items: 1
+Country: be, product: macbookpro --> new items: 1
+Country: cn, product: macbookair --> new items: 1
+Country: de, product: macbookpro --> new items: 1
+Country: fr, product: macstudio --> new items: 1
+Country: fr, product: macbookpro --> new items: 2
+Country: it, product: mini --> new items: 1
+Country: nl, product: macstudio --> new items: 1
+Country: at, product: mini --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+Country: us, product: iphone --> new items: 2
+------------------------------------------------------------
