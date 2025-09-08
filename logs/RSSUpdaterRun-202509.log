@@ -1086,3 +1086,15 @@ Date: 2025/09/08 05:11:12
 Country: au, product: macbookair --> new items: 11
 Country: nz, product: macbookair --> new items: 11
 ------------------------------------------------------------
+Date: 2025/09/08 06:16:44
+Country: au, product: macbookpro --> new items: 15
+Country: ca, product: macstudio --> new items: 1
+Country: ca, product: macbookpro --> new items: 1
+Country: xf, product: macstudio --> new items: 1
+Country: xf, product: macbookpro --> new items: 1
+Country: nz, product: macbookpro --> new items: 15
+Country: tw, product: macbookpro --> new items: 1
+Country: us, product: ipad --> new items: 1
+Country: us, product: macstudio --> new items: 1
+Country: us, product: macbookpro --> new items: 1
+------------------------------------------------------------
