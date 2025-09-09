@@ -1262,3 +1262,7 @@ Country: de, product: mini --> new items: 1
 Country: nz, product: macbookair --> new items: 1
 Country: at, product: mini --> new items: 1
 ------------------------------------------------------------
+Date: 2025/09/09 08:14:23
+Country: de, product: macbookair --> new items: 1
+Country: at, product: macbookair --> new items: 2
+------------------------------------------------------------
