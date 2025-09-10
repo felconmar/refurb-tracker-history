@@ -1525,3 +1525,15 @@ Country: be, product: macbookpro --> new items: 1
 Country: de, product: macbookair --> new items: 1
 Country: us, product: ipad --> new items: 1
 ------------------------------------------------------------
+Date: 2025/09/10 20:11:09
+Country: ca, product: macbookpro --> new items: 1
+Country: ca, product: macbookair --> new items: 1
+Country: xf, product: macbookpro --> new items: 1
+Country: xf, product: macbookair --> new items: 1
+Country: hk, product: ipad --> new items: 1
+Country: ie, product: macbookair --> new items: 11
+Country: sg, product: ipad --> new items: 1
+Country: uk, product: macbookair --> new items: 1
+Country: us, product: macbookpro --> new items: 1
+Country: us, product: macbookair --> new items: 1
+------------------------------------------------------------
