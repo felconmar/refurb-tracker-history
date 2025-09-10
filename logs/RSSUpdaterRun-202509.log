@@ -1414,3 +1414,10 @@ Country: ca, product: ipad --> new items: 1
 Country: xf, product: ipad --> new items: 1
 Country: us, product: ipad --> new items: 3
 ------------------------------------------------------------
+Date: 2025/09/10 00:46:33
+Country: cn, product: acc --> new items: 1
+Country: de, product: macbookair --> new items: 1
+Country: nl, product: macbookair --> new items: 1
+Country: at, product: macbookair --> new items: 1
+Country: us, product: ipad --> new items: 5
+------------------------------------------------------------
