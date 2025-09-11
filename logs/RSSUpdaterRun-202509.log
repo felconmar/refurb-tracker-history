@@ -1701,3 +1701,9 @@ Country: at, product: macbookair --> new items: 2
 Country: uk, product: ipad --> new items: 1
 Country: us, product: iphone --> new items: 1
 ------------------------------------------------------------
+Date: 2025/09/11 21:08:23
+Country: bx, product: imac --> new items: 1
+Country: bx, product: macbookpro --> new items: 1
+Country: be, product: macbookpro --> new items: 1
+Country: us, product: ipad --> new items: 1
+------------------------------------------------------------
