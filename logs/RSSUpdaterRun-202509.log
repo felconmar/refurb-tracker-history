@@ -1712,3 +1712,9 @@ Country: xf, product: macbookair --> new items: 5
 Country: us, product: ipad --> new items: 2
 Country: us, product: macbookair --> new items: 5
 ------------------------------------------------------------
+Date: 2025/09/11 23:09:08
+Country: ca, product: macstudio --> new items: 9
+Country: ca, product: macbookair --> new items: 2
+Country: xf, product: macstudio --> new items: 11
+Country: us, product: macstudio --> new items: 11
+------------------------------------------------------------
