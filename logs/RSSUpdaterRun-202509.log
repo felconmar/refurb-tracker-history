@@ -1757,3 +1757,14 @@ Country: xf, product: macbookair --> new items: 1
 Country: cn, product: watch --> new items: 1
 Country: us, product: macbookpro --> new items: 2
 ------------------------------------------------------------
+Date: 2025/09/12 05:09:48
+Country: ca, product: imac --> new items: 1
+Country: ca, product: macstudio --> new items: 1
+Country: ca, product: macbookair --> new items: 1
+Country: xf, product: macstudio --> new items: 1
+Country: hk, product: macbookair --> new items: 13
+Country: jp, product: iphone --> new items: 7
+Country: us, product: imac --> new items: 1
+Country: us, product: macstudio --> new items: 1
+Country: us, product: macbookair --> new items: 1
+------------------------------------------------------------
