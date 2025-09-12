@@ -1741,3 +1741,11 @@ Country: us, product: macstudio --> new items: 9
 Country: us, product: mini --> new items: 15
 Country: us, product: macbookpro --> new items: 8
 ------------------------------------------------------------
+Date: 2025/09/12 03:20:32
+Country: ca, product: mini --> new items: 3
+Country: ca, product: macbookpro --> new items: 3
+Country: xf, product: mini --> new items: 3
+Country: xf, product: macbookpro --> new items: 3
+Country: us, product: mini --> new items: 3
+Country: us, product: macbookpro --> new items: 3
+------------------------------------------------------------
