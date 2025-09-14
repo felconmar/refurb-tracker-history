@@ -2117,3 +2117,11 @@ Country: cn, product: macbookpro --> new items: 1
 Country: us, product: ipad --> new items: 1
 Country: us, product: iphone --> new items: 1
 ------------------------------------------------------------
+Date: 2025/09/14 17:07:05
+Country: ca, product: imac --> new items: 2
+Country: xf, product: imac --> new items: 2
+Country: ie, product: macbookpro --> new items: 1
+Country: uk, product: macbookpro --> new items: 1
+Country: us, product: ipad --> new items: 1
+Country: us, product: imac --> new items: 2
+------------------------------------------------------------
