@@ -2269,3 +2269,15 @@ Country: fr, product: macbookpro --> new items: 1
 Country: at, product: macbookair --> new items: 1
 Country: us, product: imac --> new items: 1
 ------------------------------------------------------------
+Date: 2025/09/15 20:10:52
+Country: au, product: macbookpro --> new items: 1
+Country: bx, product: macbookair --> new items: 1
+Country: be, product: macbookair --> new items: 1
+Country: cn, product: watch --> new items: 1
+Country: de, product: macbookair --> new items: 2
+Country: ie, product: watch --> new items: 1
+Country: nz, product: macbookpro --> new items: 1
+Country: at, product: macbookair --> new items: 1
+Country: uk, product: watch --> new items: 1
+Country: us, product: iphone --> new items: 2
+------------------------------------------------------------
