@@ -2262,3 +2262,10 @@ Country: ie, product: mini --> new items: 1
 Country: uk, product: mini --> new items: 1
 Country: us, product: imac --> new items: 5
 ------------------------------------------------------------
+Date: 2025/09/15 19:07:43
+Country: ca, product: imac --> new items: 1
+Country: xf, product: imac --> new items: 1
+Country: fr, product: macbookpro --> new items: 1
+Country: at, product: macbookair --> new items: 1
+Country: us, product: imac --> new items: 1
+------------------------------------------------------------
