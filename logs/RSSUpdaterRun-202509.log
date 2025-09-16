@@ -2350,3 +2350,7 @@ Country: sg, product: imac --> new items: 1
 Country: us, product: ipad --> new items: 2
 Country: us, product: macbookair --> new items: 3
 ------------------------------------------------------------
+Date: 2025/09/16 09:11:21
+Country: de, product: macbookair --> new items: 1
+Country: at, product: macbookair --> new items: 1
+------------------------------------------------------------
