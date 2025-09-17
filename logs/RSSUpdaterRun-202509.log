@@ -2510,3 +2510,16 @@ Country: ch, product: mini --> new items: 3
 Country: us, product: ipad --> new items: 1
 Country: us, product: iphone --> new items: 3
 ------------------------------------------------------------
+Date: 2025/09/17 00:46:16
+Country: ca, product: iphone --> new items: 1
+Country: ca, product: macstudio --> new items: 5
+Country: ca, product: macbookpro --> new items: 6
+Country: xf, product: iphone --> new items: 1
+Country: xf, product: macstudio --> new items: 12
+Country: xf, product: macbookpro --> new items: 3
+Country: ie, product: macbookair --> new items: 1
+Country: uk, product: macbookair --> new items: 1
+Country: us, product: iphone --> new items: 9
+Country: us, product: mini --> new items: 3
+Country: us, product: macbookpro --> new items: 6
+------------------------------------------------------------
