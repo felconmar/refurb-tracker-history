@@ -2696,3 +2696,17 @@ Country: cx, product: atv --> new items: 1
 Country: ch, product: atv --> new items: 1
 Country: us, product: iphone --> new items: 1
 ------------------------------------------------------------
+Date: 2025/09/17 21:08:26
+Country: de, product: macbookpro --> new items: 1
+Country: de, product: macbookair --> new items: 1
+Country: de, product: atv --> new items: 1
+Country: es, product: macbookair --> new items: 1
+Country: fr, product: macbookpro --> new items: 2
+Country: ie, product: macbookair --> new items: 34
+Country: it, product: macbookair --> new items: 2
+Country: at, product: macbookpro --> new items: 1
+Country: at, product: macbookair --> new items: 1
+Country: cx, product: macbookpro --> new items: 1
+Country: ch, product: macbookpro --> new items: 1
+Country: uk, product: macbookair --> new items: 34
+------------------------------------------------------------
