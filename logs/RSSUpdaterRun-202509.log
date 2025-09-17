@@ -2544,3 +2544,12 @@ Country: us, product: ipad --> new items: 1
 Country: us, product: mini --> new items: 5
 Country: us, product: macbookpro --> new items: 4
 ------------------------------------------------------------
+Date: 2025/09/17 04:12:54
+Country: au, product: macbookair --> new items: 3
+Country: ca, product: macbookpro --> new items: 1
+Country: xf, product: macbookpro --> new items: 1
+Country: jp, product: macbookair --> new items: 1
+Country: us, product: ipad --> new items: 1
+Country: us, product: mini --> new items: 1
+Country: us, product: macbookpro --> new items: 1
+------------------------------------------------------------
