@@ -3035,3 +3035,12 @@ Country: jp, product: iphone --> new items: 1
 Country: us, product: mini --> new items: 5
 Country: us, product: macbookpro --> new items: 2
 ------------------------------------------------------------
+Date: 2025/09/19 23:08:51
+Country: ca, product: imac --> new items: 1
+Country: ca, product: acc --> new items: 1
+Country: xf, product: imac --> new items: 1
+Country: xf, product: acc --> new items: 1
+Country: us, product: iphone --> new items: 9
+Country: us, product: imac --> new items: 1
+Country: us, product: acc --> new items: 1
+------------------------------------------------------------
