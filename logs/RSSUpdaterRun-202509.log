@@ -3044,3 +3044,12 @@ Country: us, product: iphone --> new items: 9
 Country: us, product: imac --> new items: 1
 Country: us, product: acc --> new items: 1
 ------------------------------------------------------------
+Date: 2025/09/20 00:44:55
+Country: ca, product: imac --> new items: 2
+Country: ca, product: macstudio --> new items: 1
+Country: xf, product: imac --> new items: 2
+Country: us, product: ipad --> new items: 1
+Country: us, product: iphone --> new items: 4
+Country: us, product: imac --> new items: 2
+Country: us, product: macstudio --> new items: 1
+------------------------------------------------------------
