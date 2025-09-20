@@ -3121,3 +3121,8 @@ Country: ie, product: macbookair --> new items: 1
 Country: at, product: macbookpro --> new items: 1
 Country: us, product: ipad --> new items: 1
 ------------------------------------------------------------
+Date: 2025/09/20 16:10:44
+Country: ie, product: macbookpro --> new items: 1
+Country: uk, product: macbookpro --> new items: 1
+Country: us, product: iphone --> new items: 1
+------------------------------------------------------------
