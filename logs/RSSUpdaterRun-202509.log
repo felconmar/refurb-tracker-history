@@ -3515,3 +3515,9 @@ Country: us, product: iphone --> new items: 4
 Date: 2025/09/23 11:09:02
 Country: au, product: macbookair --> new items: 5
 ------------------------------------------------------------
+Date: 2025/09/23 12:19:38
+Country: de, product: macbookair --> new items: 2
+Country: nl, product: macbookpro --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+Country: at, product: macbookair --> new items: 2
+------------------------------------------------------------
