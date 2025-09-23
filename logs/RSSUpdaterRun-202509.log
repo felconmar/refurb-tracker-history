@@ -3451,3 +3451,10 @@ Country: jp, product: macbookpro --> new items: 11
 Country: us, product: ipad --> new items: 1
 Country: us, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2025/09/23 03:24:01
+Country: ca, product: macbookair --> new items: 1
+Country: xf, product: macbookair --> new items: 1
+Country: cn, product: macbookpro --> new items: 1
+Country: tw, product: macbookpro --> new items: 10
+Country: tw, product: macbookair --> new items: 9
+------------------------------------------------------------
