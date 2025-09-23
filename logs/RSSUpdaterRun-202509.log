@@ -3435,3 +3435,13 @@ Country: uk, product: macbookair --> new items: 11
 Country: us, product: macstudio --> new items: 3
 Country: us, product: macbookpro --> new items: 2
 ------------------------------------------------------------
+Date: 2025/09/23 00:46:36
+Country: ca, product: macbookpro --> new items: 6
+Country: ca, product: macbookair --> new items: 10
+Country: xf, product: macbookpro --> new items: 6
+Country: xf, product: macbookair --> new items: 9
+Country: de, product: atv --> new items: 1
+Country: jp, product: imac --> new items: 1
+Country: us, product: macbookpro --> new items: 6
+Country: us, product: macbookair --> new items: 9
+------------------------------------------------------------
