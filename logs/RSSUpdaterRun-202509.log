@@ -3531,3 +3531,7 @@ Country: ch, product: macbookpro --> new items: 1
 Country: uk, product: iphone --> new items: 1
 Country: us, product: iphone --> new items: 2
 ------------------------------------------------------------
+Date: 2025/09/23 14:10:32
+Country: es, product: macbookpro --> new items: 1
+Country: it, product: macbookpro --> new items: 1
+------------------------------------------------------------
