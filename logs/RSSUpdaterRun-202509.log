@@ -3701,3 +3701,9 @@ Country: de, product: macbookpro --> new items: 1
 Date: 2025/09/24 05:10:20
 Country: us, product: iphone --> new items: 1
 ------------------------------------------------------------
+Date: 2025/09/24 06:15:52
+Country: ca, product: iphone --> new items: 4
+Country: xf, product: iphone --> new items: 4
+Country: cn, product: ipad --> new items: 1
+Country: us, product: iphone --> new items: 1
+------------------------------------------------------------
