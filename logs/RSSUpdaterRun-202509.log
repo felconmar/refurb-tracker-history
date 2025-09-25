@@ -3880,3 +3880,9 @@ Country: de, product: macbookair --> new items: 1
 Country: at, product: macbookair --> new items: 1
 Country: us, product: iphone --> new items: 2
 ------------------------------------------------------------
+Date: 2025/09/25 10:11:00
+Country: de, product: imac --> new items: 1
+Country: es, product: iphone --> new items: 1
+Country: it, product: iphone --> new items: 1
+Country: at, product: imac --> new items: 1
+------------------------------------------------------------
