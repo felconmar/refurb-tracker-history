@@ -3923,3 +3923,11 @@ Country: uk, product: imac --> new items: 1
 Country: us, product: iphone --> new items: 1
 Country: us, product: imac --> new items: 1
 ------------------------------------------------------------
+Date: 2025/09/25 16:12:27
+Country: de, product: macbookair --> new items: 1
+Country: ie, product: macbookair --> new items: 1
+Country: at, product: macbookair --> new items: 2
+Country: ch, product: macbookair --> new items: 1
+Country: uk, product: imac --> new items: 1
+Country: uk, product: macbookair --> new items: 1
+------------------------------------------------------------
