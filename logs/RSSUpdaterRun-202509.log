@@ -4003,3 +4003,8 @@ Country: us, product: iphone --> new items: 1
 Country: us, product: imac --> new items: 1
 Country: us, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2025/09/26 03:25:53
+Country: ca, product: imac --> new items: 2
+Country: xf, product: imac --> new items: 2
+Country: us, product: imac --> new items: 2
+------------------------------------------------------------
