@@ -4096,3 +4096,22 @@ Country: xf, product: imac --> new items: 1
 Country: jp, product: iphone --> new items: 1
 Country: pl, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2025/09/26 18:13:14
+Country: ca, product: imac --> new items: 1
+Country: ca, product: macstudio --> new items: 1
+Country: ca, product: macbookair --> new items: 1
+Country: xf, product: imac --> new items: 1
+Country: xf, product: macstudio --> new items: 1
+Country: xf, product: macbookair --> new items: 1
+Country: es, product: iphone --> new items: 1
+Country: es, product: macbookair --> new items: 1
+Country: fr, product: macbookpro --> new items: 1
+Country: fr, product: macbookair --> new items: 1
+Country: ie, product: macbookair --> new items: 4
+Country: it, product: iphone --> new items: 1
+Country: nl, product: macbookair --> new items: 3
+Country: at, product: macbookair --> new items: 1
+Country: uk, product: iphone --> new items: 1
+Country: uk, product: macbookair --> new items: 4
+Country: us, product: imac --> new items: 2
+------------------------------------------------------------
