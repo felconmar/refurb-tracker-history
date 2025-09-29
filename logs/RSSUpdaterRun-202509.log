@@ -4471,3 +4471,9 @@ Country: cn, product: imac --> new items: 1
 Country: ie, product: imac --> new items: 3
 Country: uk, product: imac --> new items: 3
 ------------------------------------------------------------
+Date: 2025/09/29 16:10:51
+Country: es, product: iphone --> new items: 1
+Country: it, product: iphone --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+Country: pl, product: macbookair --> new items: 1
+------------------------------------------------------------
