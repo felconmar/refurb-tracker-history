@@ -4518,3 +4518,19 @@ Country: cx, product: iphone --> new items: 1
 Country: ch, product: iphone --> new items: 2
 Country: uk, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2025/09/29 22:09:40
+Country: be, product: iphone --> new items: 1
+Country: xf, product: macstudio --> new items: 1
+Country: xf, product: macbookpro --> new items: 1
+Country: xf, product: macbookair --> new items: 2
+Country: de, product: iphone --> new items: 1
+Country: de, product: macbookair --> new items: 2
+Country: de, product: atv --> new items: 1
+Country: ie, product: macbookair --> new items: 1
+Country: nl, product: atv --> new items: 1
+Country: at, product: iphone --> new items: 1
+Country: at, product: macbookair --> new items: 2
+Country: at, product: atv --> new items: 1
+Country: cx, product: atv --> new items: 1
+Country: uk, product: macbookair --> new items: 1
+------------------------------------------------------------
