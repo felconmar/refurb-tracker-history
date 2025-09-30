@@ -4599,3 +4599,12 @@ Country: de, product: imac --> new items: 1
 Country: fr, product: macbookpro --> new items: 6
 Country: at, product: imac --> new items: 1
 ------------------------------------------------------------
+Date: 2025/09/30 09:11:01
+Country: au, product: macbookpro --> new items: 6
+Country: bx, product: macstudio --> new items: 1
+Country: be, product: macstudio --> new items: 1
+Country: nl, product: macstudio --> new items: 1
+Country: nz, product: macbookpro --> new items: 6
+Country: kr, product: macbookpro --> new items: 3
+Country: kr, product: macbookair --> new items: 2
+------------------------------------------------------------
