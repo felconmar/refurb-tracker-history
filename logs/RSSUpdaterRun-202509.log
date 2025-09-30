@@ -4668,3 +4668,12 @@ Country: pl, product: macbookpro --> new items: 1
 Country: uk, product: macbookair --> new items: 1
 Country: us, product: watch --> new items: 16
 ------------------------------------------------------------
+Date: 2025/09/30 18:14:36
+Country: ca, product: macbookair --> new items: 1
+Country: ie, product: macbookpro --> new items: 5
+Country: ie, product: macbookair --> new items: 15
+Country: uk, product: macbookpro --> new items: 5
+Country: uk, product: macbookair --> new items: 18
+Country: us, product: macbookair --> new items: 1
+Country: us, product: watch --> new items: 1
+------------------------------------------------------------
