@@ -153,3 +153,13 @@ Country: fr, product: macbookpro --> new items: 2
 Country: uk, product: iphone --> new items: 1
 Country: us, product: macbookpro --> new items: 4
 ------------------------------------------------------------
+Date: 2025/10/01 22:09:38
+Country: xf, product: macbookpro --> new items: 1
+Country: ie, product: macbookpro --> new items: 5
+Country: ie, product: macbookair --> new items: 1
+Country: pl, product: macbookpro --> new items: 1
+Country: cx, product: macbookpro --> new items: 1
+Country: ch, product: macbookpro --> new items: 1
+Country: uk, product: macbookpro --> new items: 5
+Country: uk, product: macbookair --> new items: 1
+------------------------------------------------------------
