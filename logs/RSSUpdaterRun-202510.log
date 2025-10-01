@@ -89,3 +89,13 @@ Country: be, product: imac --> new items: 1
 Country: cn, product: ipad --> new items: 1
 Country: pl, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2025/10/01 15:10:31
+Country: ca, product: macbookpro --> new items: 6
+Country: xf, product: macbookpro --> new items: 6
+Country: de, product: macbookair --> new items: 1
+Country: es, product: macbookair --> new items: 1
+Country: fr, product: macbookair --> new items: 1
+Country: it, product: macbookair --> new items: 1
+Country: at, product: macbookair --> new items: 1
+Country: us, product: macbookpro --> new items: 6
+------------------------------------------------------------
