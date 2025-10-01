@@ -3,3 +3,12 @@ Country: ca, product: macbookpro --> new items: 18
 Country: xf, product: macbookpro --> new items: 18
 Country: us, product: macbookpro --> new items: 18
 ------------------------------------------------------------
+Date: 2025/10/01 02:27:28
+Country: ca, product: imac --> new items: 1
+Country: ca, product: macbookpro --> new items: 14
+Country: xf, product: imac --> new items: 1
+Country: xf, product: macbookpro --> new items: 15
+Country: us, product: iphone --> new items: 1
+Country: us, product: imac --> new items: 1
+Country: us, product: macbookpro --> new items: 15
+------------------------------------------------------------
