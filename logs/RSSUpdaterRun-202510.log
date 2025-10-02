@@ -302,3 +302,20 @@ Country: uk, product: watch --> new items: 1
 Country: us, product: macbookpro --> new items: 5
 Country: us, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2025/10/02 17:07:40
+Country: ca, product: macstudio --> new items: 3
+Country: ca, product: mini --> new items: 17
+Country: ca, product: macbookpro --> new items: 4
+Country: ca, product: macbookair --> new items: 1
+Country: xf, product: macstudio --> new items: 3
+Country: xf, product: mini --> new items: 17
+Country: xf, product: macbookpro --> new items: 4
+Country: de, product: macbookair --> new items: 1
+Country: es, product: iphone --> new items: 1
+Country: it, product: iphone --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+Country: at, product: macbookair --> new items: 1
+Country: us, product: macstudio --> new items: 3
+Country: us, product: mini --> new items: 17
+Country: us, product: macbookpro --> new items: 5
+------------------------------------------------------------
