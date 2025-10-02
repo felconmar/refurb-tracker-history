@@ -237,3 +237,14 @@ Country: at, product: imac --> new items: 1
 Country: at, product: macbookair --> new items: 13
 Country: cx, product: atv --> new items: 1
 ------------------------------------------------------------
+Date: 2025/10/02 09:11:12
+Country: au, product: mini --> new items: 9
+Country: au, product: macbookair --> new items: 5
+Country: be, product: atv --> new items: 1
+Country: de, product: atv --> new items: 1
+Country: nz, product: mini --> new items: 9
+Country: at, product: mini --> new items: 1
+Country: at, product: macbookair --> new items: 1
+Country: at, product: atv --> new items: 1
+Country: ch, product: atv --> new items: 1
+------------------------------------------------------------
