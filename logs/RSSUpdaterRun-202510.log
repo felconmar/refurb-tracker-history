@@ -476,3 +476,15 @@ Country: at, product: macstudio --> new items: 1
 Country: pl, product: macbookpro --> new items: 1
 Country: uk, product: macbookair --> new items: 2
 ------------------------------------------------------------
+Date: 2025/10/03 21:08:13
+Country: bx, product: mini --> new items: 1
+Country: be, product: mini --> new items: 1
+Country: ca, product: macbookair --> new items: 5
+Country: xf, product: macbookair --> new items: 6
+Country: nl, product: mini --> new items: 1
+Country: nl, product: macbookair --> new items: 1
+Country: uk, product: iphone --> new items: 1
+Country: us, product: iphone --> new items: 1
+Country: us, product: macbookpro --> new items: 1
+Country: us, product: macbookair --> new items: 7
+------------------------------------------------------------
