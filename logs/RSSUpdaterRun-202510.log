@@ -870,3 +870,15 @@ Country: us, product: macbookair --> new items: 3
 Date: 2025/10/06 19:08:06
 No new entries.
 ------------------------------------------------------------
+Date: 2025/10/06 20:11:03
+Country: ca, product: mini --> new items: 13
+Country: ca, product: macbookpro --> new items: 4
+Country: ca, product: macbookair --> new items: 17
+Country: xf, product: mini --> new items: 13
+Country: xf, product: macbookpro --> new items: 4
+Country: xf, product: macbookair --> new items: 17
+Country: us, product: mini --> new items: 10
+Country: us, product: macbookpro --> new items: 4
+Country: us, product: macbookair --> new items: 17
+Country: us, product: watch --> new items: 1
+------------------------------------------------------------
