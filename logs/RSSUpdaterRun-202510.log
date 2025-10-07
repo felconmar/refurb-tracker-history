@@ -974,3 +974,7 @@ Country: be, product: watch --> new items: 1
 Country: cn, product: macbookair --> new items: 1
 Country: de, product: watch --> new items: 1
 ------------------------------------------------------------
+Date: 2025/10/07 10:10:56
+Country: de, product: macbookpro --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+------------------------------------------------------------
