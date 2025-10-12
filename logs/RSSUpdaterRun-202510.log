@@ -1692,3 +1692,10 @@ Country: at, product: macstudio --> new items: 1
 Country: at, product: macbookpro --> new items: 1
 Country: uk, product: iphone --> new items: 1
 ------------------------------------------------------------
+Date: 2025/10/12 20:10:28
+Country: au, product: macbookpro --> new items: 1
+Country: cn, product: macbookair --> new items: 1
+Country: nz, product: macbookpro --> new items: 1
+Country: us, product: iphone --> new items: 1
+Country: us, product: imac --> new items: 1
+------------------------------------------------------------
