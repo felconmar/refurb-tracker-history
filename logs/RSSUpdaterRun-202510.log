@@ -1941,3 +1941,13 @@ Country: ie, product: imac --> new items: 1
 Country: at, product: macbookair --> new items: 1
 Country: uk, product: imac --> new items: 1
 ------------------------------------------------------------
+Date: 2025/10/14 20:11:21
+Country: ca, product: imac --> new items: 1
+Country: xf, product: imac --> new items: 1
+Country: xf, product: mini --> new items: 2
+Country: xf, product: macbookair --> new items: 1
+Country: es, product: imac --> new items: 1
+Country: ie, product: watch --> new items: 1
+Country: jp, product: macstudio --> new items: 1
+Country: us, product: mini --> new items: 3
+------------------------------------------------------------
