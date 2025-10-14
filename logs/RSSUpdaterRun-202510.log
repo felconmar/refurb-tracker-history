@@ -1795,3 +1795,11 @@ Country: uk, product: homepod --> new items: 1
 Date: 2025/10/13 23:09:29
 Country: us, product: iphone --> new items: 1
 ------------------------------------------------------------
+Date: 2025/10/14 00:47:44
+Country: ca, product: macpro --> new items: 1
+Country: ca, product: macbookair --> new items: 2
+Country: xf, product: macpro --> new items: 1
+Country: xf, product: macbookair --> new items: 2
+Country: us, product: macpro --> new items: 1
+Country: us, product: macbookair --> new items: 2
+------------------------------------------------------------
