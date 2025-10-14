@@ -1861,3 +1861,15 @@ Country: at, product: macbookpro --> new items: 1
 Country: at, product: macbookair --> new items: 1
 Country: cx, product: iphone --> new items: 1
 ------------------------------------------------------------
+Date: 2025/10/14 12:21:10
+Country: au, product: macbookpro --> new items: 3
+Country: au, product: macbookair --> new items: 25
+Country: bx, product: iphone --> new items: 1
+Country: cn, product: macbookair --> new items: 1
+Country: de, product: iphone --> new items: 1
+Country: de, product: macbookair --> new items: 1
+Country: ie, product: iphone --> new items: 1
+Country: nl, product: iphone --> new items: 1
+Country: at, product: macbookair --> new items: 1
+Country: ch, product: iphone --> new items: 1
+------------------------------------------------------------
