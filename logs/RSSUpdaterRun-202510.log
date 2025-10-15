@@ -2206,3 +2206,14 @@ Country: us, product: mini --> new items: 1
 Date: 2025/10/15 22:07:55
 Country: nl, product: macbookair --> new items: 2
 ------------------------------------------------------------
+Date: 2025/10/15 23:09:40
+Country: ca, product: iphone --> new items: 2
+Country: ca, product: macstudio --> new items: 1
+Country: ca, product: macbookair --> new items: 3
+Country: xf, product: iphone --> new items: 2
+Country: xf, product: macstudio --> new items: 1
+Country: xf, product: macbookair --> new items: 3
+Country: cn, product: macbookpro --> new items: 1
+Country: us, product: macstudio --> new items: 1
+Country: us, product: macbookair --> new items: 3
+------------------------------------------------------------
