@@ -2141,3 +2141,13 @@ Country: kr, product: ipad --> new items: 5
 Country: us, product: iphone --> new items: 1
 Country: us, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2025/10/15 17:09:34
+Country: ca, product: macpro --> new items: 1
+Country: ca, product: macbookpro --> new items: 3
+Country: xf, product: macpro --> new items: 1
+Country: xf, product: macbookpro --> new items: 3
+Country: de, product: imac --> new items: 1
+Country: at, product: imac --> new items: 1
+Country: us, product: macpro --> new items: 1
+Country: us, product: macbookpro --> new items: 3
+------------------------------------------------------------
