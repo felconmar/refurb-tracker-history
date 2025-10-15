@@ -2114,3 +2114,13 @@ Country: de, product: macbookpro --> new items: 1
 Country: at, product: macbookpro --> new items: 1
 Country: cx, product: atv --> new items: 1
 ------------------------------------------------------------
+Date: 2025/10/15 15:10:59
+Country: au, product: ipad --> new items: 4
+Country: au, product: macbookpro --> new items: 10
+Country: ca, product: macbookpro --> new items: 1
+Country: nz, product: macbookpro --> new items: 10
+Country: tw, product: ipad --> new items: 3
+Country: tw, product: imac --> new items: 29
+Country: tw, product: macbookpro --> new items: 10
+Country: tw, product: macbookair --> new items: 36
+------------------------------------------------------------
