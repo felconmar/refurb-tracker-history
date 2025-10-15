@@ -2179,3 +2179,27 @@ Country: sg, product: macbookpro --> new items: 1
 Country: us, product: ipad --> new items: 1
 Country: us, product: iphone --> new items: 19
 ------------------------------------------------------------
+Date: 2025/10/15 21:09:09
+Country: bx, product: macbookpro --> new items: 1
+Country: be, product: macbookpro --> new items: 1
+Country: ca, product: imac --> new items: 3
+Country: ca, product: macstudio --> new items: 1
+Country: ca, product: mini --> new items: 1
+Country: xf, product: imac --> new items: 3
+Country: xf, product: mini --> new items: 1
+Country: de, product: macstudio --> new items: 1
+Country: de, product: macbookpro --> new items: 9
+Country: es, product: macbookpro --> new items: 2
+Country: fr, product: macbookpro --> new items: 11
+Country: it, product: macbookpro --> new items: 1
+Country: at, product: macstudio --> new items: 1
+Country: at, product: macbookpro --> new items: 9
+Country: at, product: macbookair --> new items: 1
+Country: cx, product: macbookpro --> new items: 2
+Country: ch, product: macbookpro --> new items: 2
+Country: uk, product: macbookair --> new items: 1
+Country: us, product: iphone --> new items: 4
+Country: us, product: imac --> new items: 3
+Country: us, product: macstudio --> new items: 1
+Country: us, product: mini --> new items: 1
+------------------------------------------------------------
