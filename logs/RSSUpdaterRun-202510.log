@@ -2345,3 +2345,12 @@ Country: cx, product: atv --> new items: 2
 Country: ch, product: atv --> new items: 2
 Country: uk, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2025/10/16 17:09:18
+Country: es, product: macbookpro --> new items: 1
+Country: fr, product: macbookpro --> new items: 5
+Country: ie, product: macbookpro --> new items: 1
+Country: ie, product: macbookair --> new items: 1
+Country: cx, product: macbookpro --> new items: 1
+Country: ch, product: macbookpro --> new items: 1
+Country: uk, product: macbookpro --> new items: 1
+------------------------------------------------------------
