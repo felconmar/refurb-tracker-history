@@ -2283,3 +2283,22 @@ Country: cn, product: macbookpro --> new items: 1
 Country: es, product: macbookpro --> new items: 1
 Country: us, product: iphone --> new items: 1
 ------------------------------------------------------------
+Date: 2025/10/16 11:09:08
+Country: bx, product: iphone --> new items: 1
+Country: bx, product: atv --> new items: 1
+Country: be, product: iphone --> new items: 1
+Country: be, product: atv --> new items: 1
+Country: de, product: iphone --> new items: 1
+Country: de, product: atv --> new items: 1
+Country: ie, product: iphone --> new items: 1
+Country: ie, product: watch --> new items: 3
+Country: nl, product: iphone --> new items: 1
+Country: nl, product: atv --> new items: 1
+Country: at, product: iphone --> new items: 1
+Country: at, product: atv --> new items: 1
+Country: cx, product: iphone --> new items: 1
+Country: cx, product: atv --> new items: 1
+Country: ch, product: iphone --> new items: 1
+Country: ch, product: atv --> new items: 1
+Country: uk, product: watch --> new items: 3
+------------------------------------------------------------
