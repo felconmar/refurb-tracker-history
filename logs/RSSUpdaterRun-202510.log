@@ -2455,3 +2455,9 @@ Country: ie, product: macbookpro --> new items: 1
 Country: uk, product: iphone --> new items: 1
 Country: uk, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2025/10/17 13:21:00
+Country: de, product: mini --> new items: 1
+Country: de, product: macbookpro --> new items: 1
+Country: at, product: mini --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+------------------------------------------------------------
