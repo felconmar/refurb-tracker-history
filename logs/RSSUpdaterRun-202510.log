@@ -2443,3 +2443,10 @@ Country: ca, product: iphone --> new items: 1
 Country: xf, product: iphone --> new items: 1
 Country: us, product: iphone --> new items: 2
 ------------------------------------------------------------
+Date: 2025/10/17 11:08:43
+Country: de, product: macbookair --> new items: 2
+Country: nl, product: macbookair --> new items: 1
+Country: at, product: macbookair --> new items: 2
+Country: pl, product: macbookpro --> new items: 1
+Country: us, product: ipad --> new items: 1
+------------------------------------------------------------
