@@ -2707,3 +2707,10 @@ Country: nl, product: atv --> new items: 1
 Country: at, product: macbookair --> new items: 1
 Country: ch, product: atv --> new items: 1
 ------------------------------------------------------------
+Date: 2025/10/19 16:10:44
+Country: de, product: macbookpro --> new items: 2
+Country: ie, product: macbookair --> new items: 1
+Country: at, product: macbookpro --> new items: 2
+Country: uk, product: iphone --> new items: 1
+Country: uk, product: macbookair --> new items: 1
+------------------------------------------------------------
