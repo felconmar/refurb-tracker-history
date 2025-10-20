@@ -2878,3 +2878,13 @@ Country: at, product: mini --> new items: 1
 Country: uk, product: iphone --> new items: 1
 Country: us, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2025/10/20 23:08:57
+Country: bx, product: mini --> new items: 1
+Country: be, product: mini --> new items: 1
+Country: de, product: mini --> new items: 3
+Country: es, product: mini --> new items: 3
+Country: fr, product: mini --> new items: 4
+Country: it, product: mini --> new items: 6
+Country: nl, product: mini --> new items: 1
+Country: at, product: mini --> new items: 3
+------------------------------------------------------------
