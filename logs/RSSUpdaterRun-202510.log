@@ -3086,3 +3086,11 @@ Country: uk, product: iphone --> new items: 1
 Country: uk, product: mini --> new items: 12
 Country: us, product: iphone --> new items: 23
 ------------------------------------------------------------
+Date: 2025/10/21 23:10:08
+Country: bx, product: macbookpro --> new items: 2
+Country: be, product: macbookpro --> new items: 2
+Country: de, product: macbookpro --> new items: 2
+Country: nl, product: macbookpro --> new items: 1
+Country: at, product: macbookpro --> new items: 2
+Country: us, product: iphone --> new items: 1
+------------------------------------------------------------
