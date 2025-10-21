@@ -2916,3 +2916,12 @@ Country: ca, product: macbookair --> new items: 3
 Country: jp, product: macstudio --> new items: 5
 Country: us, product: macbookair --> new items: 3
 ------------------------------------------------------------
+Date: 2025/10/21 06:16:18
+Country: ca, product: macstudio --> new items: 1
+Country: ca, product: macbookpro --> new items: 16
+Country: xf, product: macstudio --> new items: 1
+Country: xf, product: macbookpro --> new items: 16
+Country: jp, product: macbookpro --> new items: 1
+Country: us, product: macstudio --> new items: 1
+Country: us, product: macbookpro --> new items: 14
+------------------------------------------------------------
