@@ -3191,3 +3191,10 @@ Country: at, product: macbookair --> new items: 1
 Country: uk, product: macbookpro --> new items: 1
 Country: uk, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2025/10/22 18:16:36
+Country: ca, product: atv --> new items: 1
+Country: xf, product: atv --> new items: 1
+Country: nl, product: macbookair --> new items: 1
+Country: uk, product: macbookpro --> new items: 16
+Country: us, product: atv --> new items: 1
+------------------------------------------------------------
