@@ -3151,3 +3151,10 @@ Country: at, product: mini --> new items: 1
 Country: at, product: macbookpro --> new items: 1
 Country: uk, product: iphone --> new items: 1
 ------------------------------------------------------------
+Date: 2025/10/22 12:21:16
+Country: de, product: macbookpro --> new items: 1
+Country: nl, product: macbookpro --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+Country: uk, product: ipad --> new items: 1
+Country: uk, product: iphone --> new items: 1
+------------------------------------------------------------
