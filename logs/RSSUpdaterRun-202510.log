@@ -3455,3 +3455,18 @@ Country: it, product: iphone --> new items: 1
 Country: nl, product: macbookpro --> new items: 1
 Country: uk, product: ipad --> new items: 8
 ------------------------------------------------------------
+Date: 2025/10/24 13:24:21
+Country: bx, product: macbookpro --> new items: 7
+Country: be, product: macbookpro --> new items: 7
+Country: de, product: macbookpro --> new items: 12
+Country: es, product: macbookpro --> new items: 7
+Country: fr, product: iphone --> new items: 1
+Country: fr, product: macbookpro --> new items: 1
+Country: it, product: macbookpro --> new items: 9
+Country: nl, product: macbookpro --> new items: 4
+Country: at, product: macbookpro --> new items: 12
+Country: pl, product: macbookpro --> new items: 4
+Country: cx, product: macbookpro --> new items: 3
+Country: ch, product: macbookpro --> new items: 3
+Country: uk, product: iphone --> new items: 1
+------------------------------------------------------------
