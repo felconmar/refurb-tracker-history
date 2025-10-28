@@ -3998,3 +3998,12 @@ Country: fr, product: iphone --> new items: 4
 Country: it, product: iphone --> new items: 1
 Country: at, product: macbookair --> new items: 2
 ------------------------------------------------------------
+Date: 2025/10/28 11:08:57
+Country: cn, product: ipad --> new items: 1
+Country: cn, product: macstudio --> new items: 4
+Country: cn, product: macbookpro --> new items: 23
+Country: cn, product: macbookair --> new items: 5
+Country: de, product: macbookair --> new items: 1
+Country: nl, product: macbookpro --> new items: 1
+Country: uk, product: ipad --> new items: 4
+------------------------------------------------------------
