@@ -3929,3 +3929,14 @@ Country: ca, product: mini --> new items: 1
 Country: xf, product: mini --> new items: 1
 Country: us, product: mini --> new items: 1
 ------------------------------------------------------------
+Date: 2025/10/28 00:48:45
+Country: ca, product: mini --> new items: 29
+Country: ca, product: macbookpro --> new items: 22
+Country: ca, product: macbookair --> new items: 11
+Country: xf, product: mini --> new items: 29
+Country: xf, product: macbookpro --> new items: 21
+Country: xf, product: macbookair --> new items: 11
+Country: us, product: mini --> new items: 29
+Country: us, product: macbookpro --> new items: 21
+Country: us, product: macbookair --> new items: 12
+------------------------------------------------------------
