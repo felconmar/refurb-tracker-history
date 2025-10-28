@@ -3940,3 +3940,18 @@ Country: us, product: mini --> new items: 29
 Country: us, product: macbookpro --> new items: 21
 Country: us, product: macbookair --> new items: 12
 ------------------------------------------------------------
+Date: 2025/10/28 02:21:56
+Country: au, product: macbookpro --> new items: 8
+Country: au, product: macbookair --> new items: 10
+Country: ca, product: mini --> new items: 4
+Country: ca, product: macbookpro --> new items: 8
+Country: ca, product: macbookair --> new items: 1
+Country: xf, product: mini --> new items: 4
+Country: xf, product: macbookpro --> new items: 8
+Country: nz, product: macbookpro --> new items: 8
+Country: nz, product: macbookair --> new items: 10
+Country: uk, product: iphone --> new items: 1
+Country: us, product: ipad --> new items: 1
+Country: us, product: mini --> new items: 4
+Country: us, product: macbookpro --> new items: 8
+------------------------------------------------------------
