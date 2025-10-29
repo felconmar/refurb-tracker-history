@@ -4188,3 +4188,8 @@ Country: cn, product: macbookair --> new items: 12
 Country: jp, product: iphone --> new items: 1
 Country: at, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2025/10/29 11:09:29
+Country: de, product: macbookpro --> new items: 1
+Country: de, product: macbookair --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+------------------------------------------------------------
