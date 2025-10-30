@@ -4391,3 +4391,11 @@ Country: de, product: macbookair --> new items: 1
 Country: nl, product: macbookair --> new items: 2
 Country: at, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2025/10/30 15:11:35
+Country: de, product: macbookair --> new items: 3
+Country: fr, product: macbookair --> new items: 1
+Country: at, product: macbookair --> new items: 3
+Country: uk, product: iphone --> new items: 1
+Country: uk, product: imac --> new items: 1
+Country: us, product: iphone --> new items: 1
+------------------------------------------------------------
