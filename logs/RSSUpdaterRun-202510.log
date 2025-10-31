@@ -4532,3 +4532,19 @@ Country: de, product: imac --> new items: 1
 Country: de, product: macbookair --> new items: 1
 Country: at, product: imac --> new items: 1
 ------------------------------------------------------------
+Date: 2025/10/31 20:12:03
+Country: ca, product: mini --> new items: 17
+Country: ca, product: macbookpro --> new items: 8
+Country: xf, product: mini --> new items: 16
+Country: xf, product: macbookpro --> new items: 8
+Country: de, product: macbookpro --> new items: 1
+Country: de, product: macbookair --> new items: 1
+Country: ie, product: macbookair --> new items: 1
+Country: jp, product: macbookair --> new items: 1
+Country: nl, product: macbookpro --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+Country: at, product: macbookair --> new items: 1
+Country: uk, product: macbookair --> new items: 1
+Country: us, product: mini --> new items: 17
+Country: us, product: macbookpro --> new items: 8
+------------------------------------------------------------
