@@ -100,3 +100,13 @@ Country: ch, product: iphone --> new items: 1
 Country: uk, product: imac --> new items: 1
 Country: uk, product: macbookair --> new items: 2
 ------------------------------------------------------------
+Date: 2025/11/01 17:08:11
+Country: be, product: iphone --> new items: 1
+Country: cn, product: macbookpro --> new items: 1
+Country: de, product: macbookair --> new items: 1
+Country: ie, product: iphone --> new items: 1
+Country: at, product: iphone --> new items: 1
+Country: at, product: macbookair --> new items: 1
+Country: uk, product: iphone --> new items: 1
+Country: uk, product: watch --> new items: 1
+------------------------------------------------------------
