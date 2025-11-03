@@ -340,3 +340,7 @@ Country: at, product: mini --> new items: 1
 Country: uk, product: ipad --> new items: 2
 Country: uk, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2025/11/03 18:15:17
+Country: ie, product: macbookpro --> new items: 1
+Country: uk, product: ipad --> new items: 5
+------------------------------------------------------------
