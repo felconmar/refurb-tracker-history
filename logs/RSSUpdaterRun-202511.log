@@ -531,3 +531,14 @@ Country: at, product: macbookair --> new items: 2
 Country: uk, product: macbookair --> new items: 1
 Country: us, product: macbookpro --> new items: 12
 ------------------------------------------------------------
+Date: 2025/11/04 21:09:48
+Country: ca, product: macbookpro --> new items: 17
+Country: xf, product: macbookpro --> new items: 17
+Country: es, product: macbookpro --> new items: 1
+Country: it, product: mini --> new items: 1
+Country: it, product: macbookpro --> new items: 1
+Country: nl, product: macbookpro --> new items: 2
+Country: at, product: mini --> new items: 1
+Country: us, product: macbookpro --> new items: 17
+Country: us, product: acc --> new items: 1
+------------------------------------------------------------
