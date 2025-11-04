@@ -397,3 +397,11 @@ Country: xf, product: macbookair --> new items: 1
 Country: sg, product: macbookair --> new items: 1
 Country: us, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2025/11/04 03:36:53
+Country: xf, product: macstudio --> new items: 1
+Country: cn, product: macbookpro --> new items: 13
+Country: cn, product: macbookair --> new items: 6
+Country: jp, product: macbookpro --> new items: 6
+Country: jp, product: macbookair --> new items: 12
+Country: us, product: macstudio --> new items: 1
+------------------------------------------------------------
