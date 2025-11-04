@@ -542,3 +542,13 @@ Country: at, product: mini --> new items: 1
 Country: us, product: macbookpro --> new items: 17
 Country: us, product: acc --> new items: 1
 ------------------------------------------------------------
+Date: 2025/11/04 22:09:03
+Country: ca, product: macbookpro --> new items: 5
+Country: xf, product: macbookpro --> new items: 9
+Country: xf, product: macbookair --> new items: 1
+Country: de, product: mini --> new items: 1
+Country: de, product: macbookair --> new items: 1
+Country: at, product: macbookair --> new items: 1
+Country: uk, product: iphone --> new items: 1
+Country: us, product: macbookpro --> new items: 4
+------------------------------------------------------------
