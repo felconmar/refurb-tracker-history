@@ -1126,3 +1126,13 @@ Country: ie, product: macbookpro --> new items: 12
 Country: at, product: mini --> new items: 1
 Country: uk, product: macbookpro --> new items: 16
 ------------------------------------------------------------
+Date: 2025/11/07 23:09:48
+Country: de, product: macbookair --> new items: 1
+Country: fr, product: macbookpro --> new items: 1
+Country: ie, product: macbookpro --> new items: 26
+Country: ie, product: macbookair --> new items: 16
+Country: at, product: macbookair --> new items: 1
+Country: uk, product: macbookpro --> new items: 22
+Country: uk, product: macbookair --> new items: 16
+Country: us, product: ipad --> new items: 1
+------------------------------------------------------------
