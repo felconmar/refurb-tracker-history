@@ -991,3 +991,10 @@ Country: xf, product: mini --> new items: 10
 Country: xf, product: macbookair --> new items: 9
 Country: us, product: mini --> new items: 26
 ------------------------------------------------------------
+Date: 2025/11/07 06:16:50
+Country: ca, product: mini --> new items: 1
+Country: ca, product: macbookair --> new items: 9
+Country: us, product: ipad --> new items: 3
+Country: us, product: mini --> new items: 1
+Country: us, product: macbookair --> new items: 9
+------------------------------------------------------------
