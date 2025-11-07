@@ -998,3 +998,13 @@ Country: us, product: ipad --> new items: 3
 Country: us, product: mini --> new items: 1
 Country: us, product: macbookair --> new items: 9
 ------------------------------------------------------------
+Date: 2025/11/07 07:10:46
+Country: de, product: macbookpro --> new items: 5
+Country: es, product: macbookpro --> new items: 1
+Country: it, product: macbookpro --> new items: 1
+Country: nl, product: macbookpro --> new items: 1
+Country: at, product: macbookpro --> new items: 5
+Country: pl, product: macbookpro --> new items: 2
+Country: cx, product: macbookpro --> new items: 1
+Country: ch, product: macbookpro --> new items: 1
+------------------------------------------------------------
