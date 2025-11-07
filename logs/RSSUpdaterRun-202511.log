@@ -1016,3 +1016,10 @@ Country: pl, product: macbookpro --> new items: 1
 Country: sg, product: macbookpro --> new items: 1
 Country: kr, product: ipad --> new items: 2
 ------------------------------------------------------------
+Date: 2025/11/07 09:11:36
+Country: de, product: macbookpro --> new items: 1
+Country: de, product: macbookair --> new items: 1
+Country: at, product: macbookair --> new items: 1
+Country: pl, product: macbookpro --> new items: 1
+Country: sg, product: watch --> new items: 27
+------------------------------------------------------------
