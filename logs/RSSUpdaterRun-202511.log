@@ -1183,3 +1183,28 @@ Country: at, product: macbookpro --> new items: 1
 Date: 2025/11/08 09:09:44
 No new entries.
 ------------------------------------------------------------
+Date: 2025/11/08 10:09:50
+Country: bx, product: mini --> new items: 1
+Country: bx, product: macbookpro --> new items: 2
+Country: bx, product: macbookair --> new items: 1
+Country: be, product: mini --> new items: 1
+Country: be, product: macbookpro --> new items: 2
+Country: be, product: macbookair --> new items: 1
+Country: de, product: macbookpro --> new items: 1
+Country: es, product: macstudio --> new items: 1
+Country: es, product: macbookpro --> new items: 1
+Country: es, product: macbookair --> new items: 2
+Country: fr, product: macbookpro --> new items: 5
+Country: ie, product: macbookair --> new items: 1
+Country: it, product: mini --> new items: 1
+Country: it, product: macbookair --> new items: 2
+Country: nl, product: mini --> new items: 1
+Country: nl, product: macbookpro --> new items: 1
+Country: nl, product: macbookair --> new items: 2
+Country: at, product: macbookpro --> new items: 1
+Country: cx, product: macbookpro --> new items: 3
+Country: cx, product: macbookair --> new items: 3
+Country: ch, product: macbookpro --> new items: 3
+Country: ch, product: macbookair --> new items: 3
+Country: uk, product: macbookair --> new items: 1
+------------------------------------------------------------
