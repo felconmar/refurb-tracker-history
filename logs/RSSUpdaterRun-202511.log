@@ -1479,3 +1479,11 @@ Country: xf, product: macbookpro --> new items: 2
 Country: fr, product: macbookpro --> new items: 3
 Country: uk, product: imac --> new items: 1
 ------------------------------------------------------------
+Date: 2025/11/10 22:10:47
+Country: ca, product: macbookpro --> new items: 20
+Country: xf, product: macbookpro --> new items: 16
+Country: ie, product: macbookair --> new items: 1
+Country: nl, product: macbookair --> new items: 1
+Country: uk, product: macbookair --> new items: 1
+Country: us, product: macbookpro --> new items: 20
+------------------------------------------------------------
