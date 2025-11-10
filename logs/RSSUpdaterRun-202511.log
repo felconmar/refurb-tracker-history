@@ -1462,3 +1462,9 @@ Country: de, product: macbookair --> new items: 1
 Date: 2025/11/10 17:10:19
 No new entries.
 ------------------------------------------------------------
+Date: 2025/11/10 18:15:33
+Country: de, product: macbookpro --> new items: 1
+Country: de, product: macbookair --> new items: 2
+Country: at, product: macbookpro --> new items: 1
+Country: at, product: macbookair --> new items: 2
+------------------------------------------------------------
