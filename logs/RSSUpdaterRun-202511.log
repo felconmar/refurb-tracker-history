@@ -1501,3 +1501,13 @@ Country: cx, product: atv --> new items: 1
 Country: ch, product: atv --> new items: 1
 Country: us, product: macbookpro --> new items: 27
 ------------------------------------------------------------
+Date: 2025/11/11 00:52:44
+Country: ca, product: macbookpro --> new items: 17
+Country: ca, product: macbookair --> new items: 10
+Country: xf, product: macbookpro --> new items: 17
+Country: xf, product: macbookair --> new items: 10
+Country: fr, product: macbookpro --> new items: 1
+Country: uk, product: macstudio --> new items: 14
+Country: us, product: macbookpro --> new items: 17
+Country: us, product: macbookair --> new items: 11
+------------------------------------------------------------
