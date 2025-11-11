@@ -1621,3 +1621,16 @@ Country: cx, product: atv --> new items: 1
 Country: ch, product: atv --> new items: 1
 Country: us, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2025/11/11 19:08:40
+Country: ca, product: mini --> new items: 1
+Country: ca, product: macbookair --> new items: 1
+Country: xf, product: mini --> new items: 1
+Country: xf, product: macbookair --> new items: 1
+Country: de, product: mini --> new items: 1
+Country: ie, product: macbookair --> new items: 7
+Country: at, product: imac --> new items: 1
+Country: at, product: mini --> new items: 1
+Country: uk, product: macbookair --> new items: 7
+Country: us, product: mini --> new items: 1
+Country: us, product: macbookair --> new items: 1
+------------------------------------------------------------
