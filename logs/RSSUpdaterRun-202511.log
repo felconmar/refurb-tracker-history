@@ -1694,3 +1694,10 @@ Country: ie, product: macbookair --> new items: 1
 Country: uk, product: macbookair --> new items: 1
 Country: us, product: iphone --> new items: 1
 ------------------------------------------------------------
+Date: 2025/11/12 06:17:07
+Country: ca, product: iphone --> new items: 2
+Country: xf, product: iphone --> new items: 2
+Country: cn, product: macbookpro --> new items: 10
+Country: cn, product: macbookair --> new items: 18
+Country: us, product: iphone --> new items: 7
+------------------------------------------------------------
