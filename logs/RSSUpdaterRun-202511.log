@@ -1728,3 +1728,22 @@ Country: kr, product: macbookair --> new items: 3
 Country: ch, product: mini --> new items: 2
 Country: uk, product: mini --> new items: 1
 ------------------------------------------------------------
+Date: 2025/11/12 10:12:39
+Country: bx, product: macbookpro --> new items: 2
+Country: be, product: macbookpro --> new items: 2
+Country: de, product: macbookpro --> new items: 7
+Country: fr, product: mini --> new items: 12
+Country: fr, product: macbookpro --> new items: 11
+Country: it, product: mini --> new items: 4
+Country: it, product: macbookpro --> new items: 6
+Country: nl, product: macbookpro --> new items: 4
+Country: at, product: mini --> new items: 1
+Country: at, product: macbookpro --> new items: 9
+Country: pl, product: macbookpro --> new items: 3
+Country: cx, product: mini --> new items: 1
+Country: cx, product: macbookpro --> new items: 2
+Country: ch, product: mini --> new items: 1
+Country: ch, product: macbookpro --> new items: 2
+Country: uk, product: ipad --> new items: 1
+Country: uk, product: iphone --> new items: 1
+------------------------------------------------------------
