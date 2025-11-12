@@ -1704,3 +1704,17 @@ Country: us, product: iphone --> new items: 7
 Date: 2025/11/12 07:11:11
 Country: us, product: iphone --> new items: 9
 ------------------------------------------------------------
+Date: 2025/11/12 08:15:13
+Country: au, product: ipad --> new items: 3
+Country: au, product: macbookpro --> new items: 1
+Country: de, product: macbookair --> new items: 1
+Country: jp, product: ipad --> new items: 1
+Country: jp, product: macbookair --> new items: 1
+Country: nz, product: ipad --> new items: 3
+Country: nz, product: macbookpro --> new items: 1
+Country: at, product: macbookair --> new items: 1
+Country: kr, product: macbookpro --> new items: 2
+Country: kr, product: macbookair --> new items: 15
+Country: cx, product: mini --> new items: 2
+Country: tw, product: ipad --> new items: 1
+------------------------------------------------------------
