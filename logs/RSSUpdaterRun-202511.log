@@ -1983,3 +1983,18 @@ Country: es, product: macstudio --> new items: 1
 Country: at, product: macbookair --> new items: 1
 Country: uk, product: imac --> new items: 1
 ------------------------------------------------------------
+Date: 2025/11/13 16:13:38
+Country: bx, product: watch --> new items: 1
+Country: be, product: watch --> new items: 1
+Country: de, product: macbookpro --> new items: 1
+Country: de, product: macbookair --> new items: 1
+Country: de, product: watch --> new items: 1
+Country: it, product: macbookpro --> new items: 3
+Country: at, product: macbookpro --> new items: 1
+Country: at, product: watch --> new items: 1
+Country: cx, product: watch --> new items: 1
+Country: ch, product: watch --> new items: 1
+Country: us, product: ipad --> new items: 1
+Country: us, product: iphone --> new items: 1
+Country: us, product: imac --> new items: 1
+------------------------------------------------------------
