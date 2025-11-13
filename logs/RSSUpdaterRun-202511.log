@@ -1842,3 +1842,13 @@ Country: xf, product: macstudio --> new items: 1
 Country: us, product: iphone --> new items: 2
 Country: us, product: macstudio --> new items: 1
 ------------------------------------------------------------
+Date: 2025/11/13 00:52:15
+Country: bx, product: macbookair --> new items: 1
+Country: be, product: macbookair --> new items: 1
+Country: ca, product: ipad --> new items: 2
+Country: ca, product: iphone --> new items: 1
+Country: xf, product: ipad --> new items: 2
+Country: xf, product: iphone --> new items: 1
+Country: us, product: ipad --> new items: 5
+Country: us, product: watch --> new items: 1
+------------------------------------------------------------
