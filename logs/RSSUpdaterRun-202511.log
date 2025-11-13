@@ -2018,3 +2018,11 @@ Country: be, product: macstudio --> new items: 1
 Country: de, product: imac --> new items: 1
 Country: at, product: imac --> new items: 1
 ------------------------------------------------------------
+Date: 2025/11/13 20:12:34
+Country: be, product: macbookair --> new items: 1
+Country: de, product: macbookpro --> new items: 1
+Country: nl, product: macstudio --> new items: 1
+Country: nl, product: macbookair --> new items: 3
+Country: at, product: macbookpro --> new items: 1
+Country: us, product: iphone --> new items: 1
+------------------------------------------------------------
