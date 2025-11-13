@@ -1873,3 +1873,14 @@ Country: xf, product: imac --> new items: 5
 Country: us, product: ipad --> new items: 5
 Country: us, product: iphone --> new items: 2
 ------------------------------------------------------------
+Date: 2025/11/13 04:17:00
+Country: au, product: mini --> new items: 2
+Country: ca, product: imac --> new items: 5
+Country: xf, product: imac --> new items: 5
+Country: nz, product: mini --> new items: 2
+Country: tw, product: macstudio --> new items: 2
+Country: tw, product: macbookpro --> new items: 1
+Country: tw, product: macbookair --> new items: 1
+Country: us, product: ipad --> new items: 5
+Country: us, product: imac --> new items: 10
+------------------------------------------------------------
