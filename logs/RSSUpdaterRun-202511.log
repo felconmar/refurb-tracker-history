@@ -2208,3 +2208,13 @@ Country: uk, product: iphone --> new items: 1
 Country: us, product: macbookpro --> new items: 6
 Country: us, product: macbookair --> new items: 3
 ------------------------------------------------------------
+Date: 2025/11/14 21:09:56
+Country: ca, product: ipad --> new items: 1
+Country: ca, product: macbookpro --> new items: 2
+Country: ca, product: macbookair --> new items: 2
+Country: de, product: atv --> new items: 1
+Country: fr, product: iphone --> new items: 1
+Country: ie, product: macbookpro --> new items: 1
+Country: uk, product: macbookpro --> new items: 1
+Country: us, product: macbookair --> new items: 3
+------------------------------------------------------------
