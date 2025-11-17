@@ -2560,3 +2560,7 @@ Country: us, product: iphone --> new items: 1
 Date: 2025/11/17 14:10:55
 Country: fr, product: iphone --> new items: 1
 ------------------------------------------------------------
+Date: 2025/11/17 15:12:45
+Country: us, product: ipad --> new items: 3
+Country: us, product: iphone --> new items: 13
+------------------------------------------------------------
