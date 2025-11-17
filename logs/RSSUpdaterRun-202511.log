@@ -2573,3 +2573,8 @@ Country: at, product: macbookpro --> new items: 1
 Country: us, product: ipad --> new items: 5
 Country: us, product: iphone --> new items: 5
 ------------------------------------------------------------
+Date: 2025/11/17 17:10:36
+Country: ca, product: macbookair --> new items: 1
+Country: xf, product: macbookair --> new items: 1
+Country: de, product: macstudio --> new items: 1
+------------------------------------------------------------
