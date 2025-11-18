@@ -2871,3 +2871,12 @@ Country: pl, product: macbookair --> new items: 1
 Country: us, product: iphone --> new items: 1
 Country: us, product: mini --> new items: 1
 ------------------------------------------------------------
+Date: 2025/11/18 23:10:03
+Country: ca, product: macbookair --> new items: 1
+Country: xf, product: macbookair --> new items: 1
+Country: fr, product: mini --> new items: 4
+Country: ie, product: macbookair --> new items: 21
+Country: uk, product: macbookpro --> new items: 4
+Country: uk, product: macbookair --> new items: 21
+Country: us, product: iphone --> new items: 1
+------------------------------------------------------------
