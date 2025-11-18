@@ -2711,3 +2711,21 @@ Country: nz, product: macbookair --> new items: 10
 Country: at, product: imac --> new items: 1
 Country: at, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2025/11/18 07:11:38
+Country: au, product: macbookpro --> new items: 35
+Country: ca, product: iphone --> new items: 3
+Country: cn, product: ipad --> new items: 3
+Country: de, product: imac --> new items: 2
+Country: fr, product: imac --> new items: 2
+Country: hk, product: macbookpro --> new items: 9
+Country: hk, product: macbookair --> new items: 2
+Country: jp, product: imac --> new items: 20
+Country: nz, product: macbookpro --> new items: 30
+Country: at, product: imac --> new items: 2
+Country: sg, product: macstudio --> new items: 2
+Country: sg, product: mini --> new items: 1
+Country: sg, product: macbookpro --> new items: 16
+Country: sg, product: macbookair --> new items: 28
+Country: cx, product: imac --> new items: 1
+Country: ch, product: imac --> new items: 1
+------------------------------------------------------------
