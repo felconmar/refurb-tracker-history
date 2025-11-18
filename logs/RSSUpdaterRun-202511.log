@@ -2789,3 +2789,9 @@ Country: cx, product: atv --> new items: 1
 Country: ch, product: macbookair --> new items: 5
 Country: ch, product: atv --> new items: 1
 ------------------------------------------------------------
+Date: 2025/11/18 14:10:50
+Country: de, product: macbookpro --> new items: 2
+Country: de, product: macbookair --> new items: 1
+Country: at, product: macbookpro --> new items: 2
+Country: at, product: macbookair --> new items: 1
+------------------------------------------------------------
