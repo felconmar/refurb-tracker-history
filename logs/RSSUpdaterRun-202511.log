@@ -3087,3 +3087,11 @@ Country: uk, product: macbookpro --> new items: 3
 Country: uk, product: macbookair --> new items: 3
 Country: us, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2025/11/19 21:08:27
+Country: ca, product: mini --> new items: 1
+Country: xf, product: mini --> new items: 1
+Country: ie, product: macbookpro --> new items: 19
+Country: ie, product: macbookair --> new items: 7
+Country: uk, product: macbookpro --> new items: 19
+Country: uk, product: macbookair --> new items: 7
+------------------------------------------------------------
