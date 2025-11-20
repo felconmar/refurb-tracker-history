@@ -3170,3 +3170,7 @@ Country: de, product: mini --> new items: 1
 Country: at, product: mini --> new items: 1
 Country: at, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2025/11/20 10:12:16
+Country: de, product: macbookpro --> new items: 3
+Country: at, product: macbookpro --> new items: 2
+------------------------------------------------------------
