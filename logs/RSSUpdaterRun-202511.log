@@ -3275,3 +3275,10 @@ Country: ch, product: iphone --> new items: 1
 Country: uk, product: mini --> new items: 3
 Country: us, product: ipad --> new items: 1
 ------------------------------------------------------------
+Date: 2025/11/20 22:10:28
+Country: au, product: macbookair --> new items: 1
+Country: de, product: macbookair --> new items: 1
+Country: fr, product: macbookair --> new items: 8
+Country: nz, product: macbookair --> new items: 1
+Country: at, product: macbookair --> new items: 1
+------------------------------------------------------------
