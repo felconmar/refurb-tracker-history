@@ -3216,3 +3216,11 @@ Country: de, product: macbookair --> new items: 1
 Country: ie, product: macbookpro --> new items: 1
 Country: nl, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2025/11/20 16:13:46
+Country: de, product: homepod --> new items: 1
+Country: de, product: macbookair --> new items: 2
+Country: ie, product: macbookpro --> new items: 1
+Country: at, product: homepod --> new items: 1
+Country: at, product: macbookair --> new items: 2
+Country: uk, product: macbookpro --> new items: 2
+------------------------------------------------------------
