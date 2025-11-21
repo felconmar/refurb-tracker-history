@@ -3426,3 +3426,14 @@ Country: at, product: imac --> new items: 1
 Country: uk, product: iphone --> new items: 2
 Country: uk, product: macbookpro --> new items: 6
 ------------------------------------------------------------
+Date: 2025/11/21 22:10:17
+Country: au, product: macbookpro --> new items: 1
+Country: ca, product: macbookair --> new items: 1
+Country: es, product: mini --> new items: 3
+Country: es, product: macbookpro --> new items: 2
+Country: fr, product: macbookpro --> new items: 1
+Country: nl, product: macbookpro --> new items: 1
+Country: cx, product: macbookpro --> new items: 2
+Country: ch, product: macbookpro --> new items: 2
+Country: us, product: macbookair --> new items: 1
+------------------------------------------------------------
