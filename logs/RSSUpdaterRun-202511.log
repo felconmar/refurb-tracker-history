@@ -3354,3 +3354,11 @@ Country: at, product: atv --> new items: 1
 Country: cx, product: atv --> new items: 1
 Country: ch, product: atv --> new items: 1
 ------------------------------------------------------------
+Date: 2025/11/21 11:08:56
+Country: bx, product: macbookair --> new items: 1
+Country: be, product: macbookair --> new items: 1
+Country: de, product: macbookpro --> new items: 1
+Country: de, product: macbookair --> new items: 2
+Country: nl, product: macbookair --> new items: 1
+Country: at, product: macbookair --> new items: 2
+------------------------------------------------------------
