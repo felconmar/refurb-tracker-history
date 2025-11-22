@@ -3495,3 +3495,8 @@ Country: de, product: macbookair --> new items: 1
 Country: at, product: macbookpro --> new items: 1
 Country: at, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2025/11/22 09:10:00
+Country: cn, product: macbookpro --> new items: 1
+Country: de, product: macbookpro --> new items: 2
+Country: at, product: macbookpro --> new items: 1
+------------------------------------------------------------
