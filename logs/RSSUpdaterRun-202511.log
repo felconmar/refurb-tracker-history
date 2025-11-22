@@ -3490,3 +3490,8 @@ Country: nz, product: mini --> new items: 1
 Country: nz, product: macbookpro --> new items: 4
 Country: nz, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2025/11/22 08:13:38
+Country: de, product: macbookair --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+Country: at, product: macbookair --> new items: 1
+------------------------------------------------------------
