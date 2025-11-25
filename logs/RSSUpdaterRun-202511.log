@@ -3963,3 +3963,8 @@ Country: ch, product: atv --> new items: 1
 Country: uk, product: macbookpro --> new items: 12
 Country: us, product: macbookpro --> new items: 14
 ------------------------------------------------------------
+Date: 2025/11/25 19:09:03
+Country: fr, product: macbookpro --> new items: 12
+Country: ie, product: macbookpro --> new items: 1
+Country: uk, product: macbookpro --> new items: 1
+------------------------------------------------------------
