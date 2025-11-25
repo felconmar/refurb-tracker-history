@@ -3984,3 +3984,13 @@ Country: xf, product: macbookpro --> new items: 2
 Country: xf, product: macbookair --> new items: 1
 Country: xf, product: acc --> new items: 1
 ------------------------------------------------------------
+Date: 2025/11/25 22:10:26
+Country: ca, product: macbookpro --> new items: 2
+Country: ca, product: acc --> new items: 1
+Country: fr, product: macbookair --> new items: 1
+Country: cx, product: macbookair --> new items: 1
+Country: ch, product: macbookair --> new items: 1
+Country: us, product: iphone --> new items: 1
+Country: us, product: macbookpro --> new items: 2
+Country: us, product: acc --> new items: 1
+------------------------------------------------------------
