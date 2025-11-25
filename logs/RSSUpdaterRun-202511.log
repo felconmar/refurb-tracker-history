@@ -3851,3 +3851,17 @@ Country: jp, product: macstudio --> new items: 8
 Country: jp, product: macbookpro --> new items: 19
 Country: jp, product: macbookair --> new items: 32
 ------------------------------------------------------------
+Date: 2025/11/25 09:14:00
+Country: bx, product: iphone --> new items: 1
+Country: be, product: iphone --> new items: 1
+Country: cn, product: ipad --> new items: 1
+Country: de, product: iphone --> new items: 1
+Country: de, product: macstudio --> new items: 1
+Country: ie, product: iphone --> new items: 1
+Country: jp, product: macbookpro --> new items: 1
+Country: jp, product: macbookair --> new items: 8
+Country: at, product: iphone --> new items: 1
+Country: at, product: macstudio --> new items: 1
+Country: ch, product: iphone --> new items: 1
+Country: uk, product: iphone --> new items: 1
+------------------------------------------------------------
