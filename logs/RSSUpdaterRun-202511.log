@@ -3844,3 +3844,10 @@ Country: cn, product: imac --> new items: 1
 Country: nz, product: macbookpro --> new items: 4
 Country: nz, product: macbookair --> new items: 32
 ------------------------------------------------------------
+Date: 2025/11/25 08:15:59
+Country: cn, product: ipad --> new items: 1
+Country: cn, product: macbookpro --> new items: 1
+Country: jp, product: macstudio --> new items: 8
+Country: jp, product: macbookpro --> new items: 19
+Country: jp, product: macbookair --> new items: 32
+------------------------------------------------------------
