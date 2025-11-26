@@ -4050,3 +4050,20 @@ Country: pl, product: macbookair --> new items: 3
 Country: cx, product: macbookair --> new items: 2
 Country: ch, product: macbookair --> new items: 2
 ------------------------------------------------------------
+Date: 2025/11/26 08:15:43
+Country: au, product: macbookpro --> new items: 11
+Country: bx, product: ipad --> new items: 1
+Country: be, product: ipad --> new items: 1
+Country: de, product: ipad --> new items: 1
+Country: de, product: homepod --> new items: 1
+Country: es, product: ipad --> new items: 1
+Country: it, product: ipad --> new items: 1
+Country: jp, product: ipad --> new items: 1
+Country: jp, product: imac --> new items: 1
+Country: nl, product: ipad --> new items: 1
+Country: nz, product: macbookpro --> new items: 14
+Country: at, product: ipad --> new items: 1
+Country: at, product: homepod --> new items: 1
+Country: cx, product: ipad --> new items: 1
+Country: ch, product: ipad --> new items: 1
+------------------------------------------------------------
