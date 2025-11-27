@@ -4200,3 +4200,10 @@ Country: cn, product: macbookpro --> new items: 2
 Country: ie, product: macbookpro --> new items: 1
 Country: us, product: ipad --> new items: 5
 ------------------------------------------------------------
+Date: 2025/11/27 03:39:10
+Country: ca, product: macbookpro --> new items: 24
+Country: xf, product: macbookpro --> new items: 24
+Country: cn, product: mini --> new items: 1
+Country: us, product: ipad --> new items: 3
+Country: us, product: macbookpro --> new items: 24
+------------------------------------------------------------
