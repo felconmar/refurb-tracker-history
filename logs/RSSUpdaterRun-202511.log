@@ -4207,3 +4207,9 @@ Country: cn, product: mini --> new items: 1
 Country: us, product: ipad --> new items: 3
 Country: us, product: macbookpro --> new items: 24
 ------------------------------------------------------------
+Date: 2025/11/27 04:14:36
+Country: ca, product: macbookpro --> new items: 6
+Country: xf, product: macbookpro --> new items: 6
+Country: us, product: ipad --> new items: 1
+Country: us, product: macbookpro --> new items: 4
+------------------------------------------------------------
