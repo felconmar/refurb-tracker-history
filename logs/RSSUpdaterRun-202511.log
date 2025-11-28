@@ -4378,3 +4378,9 @@ Country: at, product: ipad --> new items: 1
 Country: cx, product: ipad --> new items: 1
 Country: uk, product: iphone --> new items: 3
 ------------------------------------------------------------
+Date: 2025/11/28 13:24:22
+Country: de, product: mini --> new items: 1
+Country: at, product: mini --> new items: 1
+Country: uk, product: ipad --> new items: 3
+Country: uk, product: iphone --> new items: 4
+------------------------------------------------------------
