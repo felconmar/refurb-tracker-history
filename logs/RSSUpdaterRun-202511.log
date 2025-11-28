@@ -4418,3 +4418,15 @@ Country: cx, product: iphone --> new items: 1
 Country: ch, product: iphone --> new items: 1
 Country: us, product: macbookpro --> new items: 3
 ------------------------------------------------------------
+Date: 2025/11/28 17:09:26
+Country: ca, product: iphone --> new items: 3
+Country: de, product: macbookpro --> new items: 1
+Country: it, product: mini --> new items: 1
+Country: at, product: mini --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+Country: pl, product: macbookpro --> new items: 1
+Country: pl, product: macbookair --> new items: 1
+Country: uk, product: ipad --> new items: 6
+Country: uk, product: macbookair --> new items: 1
+Country: us, product: iphone --> new items: 2
+------------------------------------------------------------
