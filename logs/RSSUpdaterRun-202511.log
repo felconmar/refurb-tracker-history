@@ -4387,3 +4387,20 @@ Country: uk, product: iphone --> new items: 4
 Date: 2025/11/28 14:10:52
 Country: uk, product: ipad --> new items: 9
 ------------------------------------------------------------
+Date: 2025/11/28 15:10:58
+Country: bx, product: iphone --> new items: 1
+Country: bx, product: atv --> new items: 1
+Country: be, product: iphone --> new items: 1
+Country: be, product: atv --> new items: 1
+Country: xf, product: iphone --> new items: 1
+Country: de, product: mini --> new items: 1
+Country: de, product: atv --> new items: 1
+Country: ie, product: macbookpro --> new items: 1
+Country: nl, product: iphone --> new items: 1
+Country: nl, product: atv --> new items: 1
+Country: at, product: mini --> new items: 1
+Country: at, product: atv --> new items: 1
+Country: cx, product: atv --> new items: 1
+Country: ch, product: atv --> new items: 1
+Country: uk, product: macbookpro --> new items: 1
+------------------------------------------------------------
