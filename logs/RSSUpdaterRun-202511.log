@@ -4448,3 +4448,22 @@ Country: cn, product: macbookpro --> new items: 1
 Country: jp, product: iphone --> new items: 1
 Country: us, product: iphone --> new items: 4
 ------------------------------------------------------------
+Date: 2025/11/28 21:09:18
+Country: be, product: iphone --> new items: 1
+Country: ca, product: iphone --> new items: 3
+Country: ca, product: macbookair --> new items: 1
+Country: xf, product: iphone --> new items: 3
+Country: xf, product: macbookair --> new items: 1
+Country: de, product: iphone --> new items: 1
+Country: ie, product: iphone --> new items: 1
+Country: ie, product: homepod --> new items: 1
+Country: nl, product: iphone --> new items: 1
+Country: at, product: iphone --> new items: 1
+Country: at, product: imac --> new items: 1
+Country: at, product: macbookair --> new items: 1
+Country: cx, product: iphone --> new items: 1
+Country: uk, product: homepod --> new items: 1
+Country: us, product: ipad --> new items: 1
+Country: us, product: iphone --> new items: 3
+Country: us, product: macbookair --> new items: 1
+------------------------------------------------------------
