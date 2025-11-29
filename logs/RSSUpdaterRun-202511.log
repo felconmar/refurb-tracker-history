@@ -4607,3 +4607,12 @@ Country: cx, product: atv --> new items: 1
 Country: ch, product: atv --> new items: 1
 Country: us, product: iphone --> new items: 2
 ------------------------------------------------------------
+Date: 2025/11/29 20:11:40
+Country: de, product: iphone --> new items: 1
+Country: de, product: macbookpro --> new items: 1
+Country: ie, product: iphone --> new items: 1
+Country: nl, product: iphone --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+Country: ch, product: iphone --> new items: 1
+Country: us, product: iphone --> new items: 1
+------------------------------------------------------------
