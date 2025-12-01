@@ -69,3 +69,8 @@ Country: at, product: macbookair --> new items: 1
 Country: uk, product: macbookair --> new items: 1
 Country: us, product: ipad --> new items: 2
 ------------------------------------------------------------
+Date: 2025/12/01 17:13:22
+Country: cn, product: macbookpro --> new items: 1
+Country: at, product: homepod --> new items: 1
+Country: us, product: ipad --> new items: 4
+------------------------------------------------------------
