@@ -338,3 +338,12 @@ Country: us, product: macstudio --> new items: 1
 Country: us, product: macbookpro --> new items: 1
 Country: us, product: macbookair --> new items: 2
 ------------------------------------------------------------
+Date: 2025/12/02 22:10:16
+Country: ca, product: macbookpro --> new items: 6
+Country: xf, product: macbookpro --> new items: 6
+Country: de, product: macbookpro --> new items: 1
+Country: ie, product: macbookair --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+Country: uk, product: macbookair --> new items: 1
+Country: us, product: iphone --> new items: 1
+------------------------------------------------------------
