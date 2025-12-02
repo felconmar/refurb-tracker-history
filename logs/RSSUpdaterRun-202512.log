@@ -260,3 +260,10 @@ Country: de, product: macbookair --> new items: 1
 Country: at, product: macbookpro --> new items: 1
 Country: at, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2025/12/02 15:12:47
+Country: de, product: macbookpro --> new items: 1
+Country: ie, product: macbookpro --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+Country: uk, product: iphone --> new items: 1
+Country: uk, product: macbookpro --> new items: 1
+------------------------------------------------------------
