@@ -658,3 +658,18 @@ Country: fr, product: macbookpro --> new items: 8
 Country: hk, product: ipad --> new items: 1
 Country: sg, product: ipad --> new items: 1
 ------------------------------------------------------------
+Date: 2025/12/04 20:12:48
+Country: bx, product: mini --> new items: 1
+Country: be, product: mini --> new items: 1
+Country: ca, product: macbookpro --> new items: 1
+Country: ca, product: macbookair --> new items: 2
+Country: de, product: mini --> new items: 1
+Country: de, product: macbookpro --> new items: 1
+Country: de, product: macbookair --> new items: 1
+Country: nl, product: mini --> new items: 1
+Country: at, product: mini --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+Country: at, product: macbookair --> new items: 1
+Country: us, product: macbookpro --> new items: 1
+Country: us, product: macbookair --> new items: 2
+------------------------------------------------------------
