@@ -771,3 +771,12 @@ Country: be, product: mini --> new items: 1
 Country: jp, product: macbookair --> new items: 1
 Country: nl, product: mini --> new items: 1
 ------------------------------------------------------------
+Date: 2025/12/05 13:25:44
+Country: bx, product: macbookpro --> new items: 1
+Country: be, product: macbookpro --> new items: 1
+Country: de, product: macbookpro --> new items: 1
+Country: fr, product: macbookair --> new items: 3
+Country: nl, product: macbookair --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+Country: uk, product: iphone --> new items: 1
+------------------------------------------------------------
