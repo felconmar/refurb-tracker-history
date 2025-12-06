@@ -973,3 +973,12 @@ Country: ch, product: atv --> new items: 1
 Country: uk, product: iphone --> new items: 1
 Country: uk, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2025/12/06 21:08:44
+Country: be, product: iphone --> new items: 1
+Country: de, product: iphone --> new items: 1
+Country: ie, product: iphone --> new items: 1
+Country: nl, product: iphone --> new items: 1
+Country: at, product: iphone --> new items: 1
+Country: at, product: macbookpro --> new items: 2
+Country: cx, product: iphone --> new items: 1
+------------------------------------------------------------
