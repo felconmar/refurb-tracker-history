@@ -1610,3 +1610,10 @@ Country: ch, product: macbookair --> new items: 3
 Country: uk, product: ipad --> new items: 1
 Country: uk, product: iphone --> new items: 7
 ------------------------------------------------------------
+Date: 2025/12/10 16:16:32
+Country: de, product: iphone --> new items: 1
+Country: de, product: macbookpro --> new items: 1
+Country: nl, product: macbookair --> new items: 1
+Country: at, product: iphone --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+------------------------------------------------------------
