@@ -2011,3 +2011,17 @@ Country: cx, product: macbookpro --> new items: 5
 Country: us, product: ipad --> new items: 3
 Country: us, product: iphone --> new items: 3
 ------------------------------------------------------------
+Date: 2025/12/12 21:10:03
+Country: bx, product: acc --> new items: 1
+Country: be, product: acc --> new items: 1
+Country: de, product: acc --> new items: 1
+Country: nl, product: acc --> new items: 1
+Country: at, product: acc --> new items: 1
+Country: pl, product: acc --> new items: 1
+Country: cx, product: macbookpro --> new items: 1
+Country: cx, product: acc --> new items: 1
+Country: ch, product: macbookpro --> new items: 1
+Country: ch, product: acc --> new items: 1
+Country: us, product: ipad --> new items: 1
+Country: us, product: watch --> new items: 1
+------------------------------------------------------------
