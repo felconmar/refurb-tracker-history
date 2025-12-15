@@ -2589,3 +2589,30 @@ Country: ch, product: ipad --> new items: 1
 Country: ch, product: iphone --> new items: 1
 Country: us, product: iphone --> new items: 3
 ------------------------------------------------------------
+Date: 2025/12/15 20:12:44
+Country: bx, product: iphone --> new items: 1
+Country: bx, product: watch --> new items: 1
+Country: be, product: ipad --> new items: 1
+Country: be, product: iphone --> new items: 1
+Country: be, product: macbookpro --> new items: 1
+Country: be, product: watch --> new items: 1
+Country: de, product: ipad --> new items: 1
+Country: de, product: iphone --> new items: 1
+Country: ie, product: iphone --> new items: 1
+Country: ie, product: macbookair --> new items: 1
+Country: it, product: ipad --> new items: 1
+Country: nl, product: ipad --> new items: 1
+Country: nl, product: iphone --> new items: 1
+Country: nl, product: watch --> new items: 1
+Country: at, product: ipad --> new items: 1
+Country: at, product: iphone --> new items: 1
+Country: at, product: watch --> new items: 1
+Country: cx, product: ipad --> new items: 1
+Country: cx, product: iphone --> new items: 1
+Country: cx, product: watch --> new items: 1
+Country: ch, product: ipad --> new items: 1
+Country: ch, product: iphone --> new items: 1
+Country: ch, product: watch --> new items: 1
+Country: uk, product: macbookair --> new items: 1
+Country: us, product: watch --> new items: 1
+------------------------------------------------------------
