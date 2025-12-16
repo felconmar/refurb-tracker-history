@@ -2675,3 +2675,11 @@ Country: ch, product: ipad --> new items: 1
 Country: uk, product: macbookpro --> new items: 1
 Country: uk, product: watch --> new items: 1
 ------------------------------------------------------------
+Date: 2025/12/16 00:55:51
+Country: ca, product: macbookpro --> new items: 7
+Country: ca, product: macbookair --> new items: 1
+Country: xf, product: macbookpro --> new items: 12
+Country: xf, product: macbookair --> new items: 1
+Country: us, product: macbookpro --> new items: 12
+Country: us, product: macbookair --> new items: 1
+------------------------------------------------------------
