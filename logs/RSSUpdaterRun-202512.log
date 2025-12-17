@@ -3088,3 +3088,21 @@ Country: ch, product: ipad --> new items: 3
 Country: ch, product: iphone --> new items: 1
 Country: uk, product: watch --> new items: 1
 ------------------------------------------------------------
+Date: 2025/12/17 21:11:10
+Country: au, product: watch --> new items: 1
+Country: bx, product: ipad --> new items: 1
+Country: ca, product: macbookair --> new items: 1
+Country: xf, product: macbookair --> new items: 1
+Country: es, product: ipad --> new items: 1
+Country: es, product: iphone --> new items: 1
+Country: ie, product: macbookpro --> new items: 2
+Country: it, product: ipad --> new items: 1
+Country: it, product: iphone --> new items: 1
+Country: nl, product: ipad --> new items: 2
+Country: nz, product: watch --> new items: 1
+Country: cx, product: ipad --> new items: 1
+Country: ch, product: ipad --> new items: 1
+Country: uk, product: macbookpro --> new items: 2
+Country: us, product: ipad --> new items: 2
+Country: us, product: macbookair --> new items: 1
+------------------------------------------------------------
