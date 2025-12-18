@@ -3373,3 +3373,8 @@ Country: de, product: imac --> new items: 1
 Country: es, product: macbookpro --> new items: 1
 Country: at, product: imac --> new items: 2
 ------------------------------------------------------------
+Date: 2025/12/18 20:11:51
+Country: fr, product: macbookpro --> new items: 1
+Country: us, product: ipad --> new items: 3
+Country: us, product: iphone --> new items: 5
+------------------------------------------------------------
