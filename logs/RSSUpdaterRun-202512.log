@@ -3269,3 +3269,29 @@ Country: de, product: acc --> new items: 1
 Country: at, product: macbookpro --> new items: 2
 Country: cx, product: acc --> new items: 1
 ------------------------------------------------------------
+Date: 2025/12/18 14:14:17
+Country: bx, product: ipad --> new items: 1
+Country: bx, product: watch --> new items: 2
+Country: bx, product: acc --> new items: 1
+Country: be, product: ipad --> new items: 1
+Country: be, product: watch --> new items: 2
+Country: be, product: acc --> new items: 1
+Country: de, product: ipad --> new items: 1
+Country: de, product: homepod --> new items: 1
+Country: de, product: macbookpro --> new items: 1
+Country: de, product: watch --> new items: 2
+Country: es, product: ipad --> new items: 1
+Country: jp, product: macbookair --> new items: 1
+Country: nl, product: ipad --> new items: 1
+Country: nl, product: watch --> new items: 2
+Country: nl, product: acc --> new items: 1
+Country: at, product: homepod --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+Country: at, product: watch --> new items: 2
+Country: at, product: acc --> new items: 1
+Country: pl, product: acc --> new items: 1
+Country: cx, product: watch --> new items: 2
+Country: ch, product: ipad --> new items: 1
+Country: ch, product: watch --> new items: 2
+Country: ch, product: acc --> new items: 1
+------------------------------------------------------------
