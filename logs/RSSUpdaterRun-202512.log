@@ -3170,3 +3170,10 @@ Country: xf, product: imac --> new items: 13
 Country: jp, product: imac --> new items: 4
 Country: us, product: imac --> new items: 26
 ------------------------------------------------------------
+Date: 2025/12/18 03:50:20
+Country: ca, product: imac --> new items: 10
+Country: xf, product: imac --> new items: 10
+Country: jp, product: imac --> new items: 12
+Country: jp, product: acc --> new items: 3
+Country: us, product: imac --> new items: 3
+------------------------------------------------------------
