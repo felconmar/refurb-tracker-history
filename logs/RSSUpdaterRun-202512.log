@@ -3164,3 +3164,9 @@ Country: ch, product: watch --> new items: 1
 Country: ch, product: acc --> new items: 1
 Country: us, product: imac --> new items: 26
 ------------------------------------------------------------
+Date: 2025/12/18 02:44:14
+Country: ca, product: imac --> new items: 19
+Country: xf, product: imac --> new items: 13
+Country: jp, product: imac --> new items: 4
+Country: us, product: imac --> new items: 26
+------------------------------------------------------------
