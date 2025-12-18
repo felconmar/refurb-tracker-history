@@ -3405,3 +3405,30 @@ Country: ch, product: atv --> new items: 1
 Country: uk, product: macbookpro --> new items: 19
 Country: us, product: iphone --> new items: 5
 ------------------------------------------------------------
+Date: 2025/12/18 23:11:43
+Country: bx, product: iphone --> new items: 1
+Country: bx, product: homepod --> new items: 1
+Country: bx, product: atv --> new items: 1
+Country: be, product: iphone --> new items: 1
+Country: be, product: homepod --> new items: 1
+Country: be, product: atv --> new items: 1
+Country: ca, product: macstudio --> new items: 1
+Country: ca, product: macbookair --> new items: 1
+Country: xf, product: macstudio --> new items: 1
+Country: xf, product: macbookair --> new items: 1
+Country: de, product: atv --> new items: 1
+Country: es, product: homepod --> new items: 1
+Country: ie, product: macbookpro --> new items: 19
+Country: it, product: homepod --> new items: 1
+Country: nl, product: iphone --> new items: 1
+Country: nl, product: homepod --> new items: 1
+Country: nl, product: atv --> new items: 1
+Country: at, product: iphone --> new items: 1
+Country: cx, product: homepod --> new items: 1
+Country: cx, product: atv --> new items: 1
+Country: ch, product: iphone --> new items: 1
+Country: ch, product: homepod --> new items: 1
+Country: us, product: iphone --> new items: 1
+Country: us, product: macstudio --> new items: 1
+Country: us, product: macbookair --> new items: 1
+------------------------------------------------------------
