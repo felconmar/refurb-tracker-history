@@ -3450,3 +3450,12 @@ Country: jp, product: iphone --> new items: 30
 Country: us, product: iphone --> new items: 6
 Country: us, product: macbookpro --> new items: 10
 ------------------------------------------------------------
+Date: 2025/12/19 04:25:49
+Country: ca, product: iphone --> new items: 7
+Country: ca, product: macbookpro --> new items: 8
+Country: xf, product: iphone --> new items: 7
+Country: xf, product: macbookpro --> new items: 8
+Country: us, product: ipad --> new items: 3
+Country: us, product: iphone --> new items: 13
+Country: us, product: macbookpro --> new items: 8
+------------------------------------------------------------
