@@ -3432,3 +3432,8 @@ Country: us, product: iphone --> new items: 1
 Country: us, product: macstudio --> new items: 1
 Country: us, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2025/12/19 00:55:28
+Country: ca, product: macbookair --> new items: 11
+Country: xf, product: macbookair --> new items: 11
+Country: us, product: macbookair --> new items: 11
+------------------------------------------------------------
