@@ -3459,3 +3459,11 @@ Country: us, product: ipad --> new items: 3
 Country: us, product: iphone --> new items: 13
 Country: us, product: macbookpro --> new items: 8
 ------------------------------------------------------------
+Date: 2025/12/19 05:13:46
+Country: ca, product: ipad --> new items: 1
+Country: ca, product: macbookpro --> new items: 34
+Country: xf, product: ipad --> new items: 1
+Country: xf, product: macbookpro --> new items: 33
+Country: us, product: ipad --> new items: 3
+Country: us, product: macbookpro --> new items: 34
+------------------------------------------------------------
