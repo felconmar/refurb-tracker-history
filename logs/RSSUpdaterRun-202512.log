@@ -3622,3 +3622,16 @@ Country: at, product: watch --> new items: 1
 Country: cx, product: watch --> new items: 1
 Country: ch, product: watch --> new items: 1
 ------------------------------------------------------------
+Date: 2025/12/19 20:12:33
+Country: de, product: ipad --> new items: 1
+Country: fr, product: macbookair --> new items: 4
+Country: ie, product: watch --> new items: 1
+Country: it, product: macbookair --> new items: 2
+Country: nl, product: macbookair --> new items: 6
+Country: pl, product: macbookair --> new items: 1
+Country: cx, product: macbookair --> new items: 4
+Country: cx, product: atv --> new items: 1
+Country: ch, product: macbookair --> new items: 4
+Country: ch, product: atv --> new items: 1
+Country: uk, product: watch --> new items: 1
+------------------------------------------------------------
