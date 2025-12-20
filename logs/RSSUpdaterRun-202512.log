@@ -3713,3 +3713,14 @@ Country: ch, product: iphone --> new items: 3
 Country: uk, product: macbookair --> new items: 1
 Country: us, product: iphone --> new items: 1
 ------------------------------------------------------------
+Date: 2025/12/20 00:52:06
+Country: ca, product: ipad --> new items: 1
+Country: ca, product: macbookpro --> new items: 23
+Country: ca, product: macbookair --> new items: 5
+Country: xf, product: ipad --> new items: 1
+Country: xf, product: macbookpro --> new items: 24
+Country: xf, product: macbookair --> new items: 5
+Country: fr, product: iphone --> new items: 4
+Country: us, product: macbookpro --> new items: 20
+Country: us, product: macbookair --> new items: 4
+------------------------------------------------------------
