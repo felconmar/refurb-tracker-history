@@ -4384,3 +4384,14 @@ Country: nl, product: mini --> new items: 1
 Country: cx, product: iphone --> new items: 1
 Country: tw, product: macbookair --> new items: 13
 ------------------------------------------------------------
+Date: 2025/12/23 11:11:00
+Country: be, product: iphone --> new items: 1
+Country: de, product: iphone --> new items: 1
+Country: ie, product: iphone --> new items: 1
+Country: nl, product: iphone --> new items: 1
+Country: nl, product: macbookpro --> new items: 1
+Country: at, product: iphone --> new items: 1
+Country: ch, product: iphone --> new items: 1
+Country: uk, product: iphone --> new items: 1
+Country: us, product: iphone --> new items: 1
+------------------------------------------------------------
