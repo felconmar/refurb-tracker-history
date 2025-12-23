@@ -4347,3 +4347,11 @@ Country: xf, product: ipad --> new items: 1
 Country: xf, product: macbookair --> new items: 4
 Country: us, product: macbookair --> new items: 4
 ------------------------------------------------------------
+Date: 2025/12/23 03:55:29
+Country: cn, product: macbookpro --> new items: 15
+Country: cn, product: macbookair --> new items: 23
+Country: jp, product: macstudio --> new items: 8
+Country: jp, product: mini --> new items: 13
+Country: jp, product: macbookpro --> new items: 4
+Country: jp, product: macbookair --> new items: 7
+------------------------------------------------------------
