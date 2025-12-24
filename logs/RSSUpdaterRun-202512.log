@@ -4615,3 +4615,18 @@ Country: at, product: watch --> new items: 1
 Country: cx, product: watch --> new items: 1
 Country: ch, product: watch --> new items: 1
 ------------------------------------------------------------
+Date: 2025/12/24 10:12:39
+Country: bx, product: imac --> new items: 2
+Country: be, product: imac --> new items: 2
+Country: de, product: macbookpro --> new items: 8
+Country: es, product: imac --> new items: 1
+Country: es, product: macbookpro --> new items: 2
+Country: fr, product: macbookpro --> new items: 6
+Country: it, product: imac --> new items: 2
+Country: it, product: macbookpro --> new items: 2
+Country: nl, product: imac --> new items: 1
+Country: nl, product: macbookpro --> new items: 1
+Country: at, product: macbookpro --> new items: 8
+Country: cx, product: imac --> new items: 3
+Country: uk, product: iphone --> new items: 1
+------------------------------------------------------------
