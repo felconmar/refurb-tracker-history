@@ -4579,3 +4579,7 @@ Country: us, product: macstudio --> new items: 8
 Country: us, product: mini --> new items: 18
 Country: us, product: macbookpro --> new items: 3
 ------------------------------------------------------------
+Date: 2025/12/24 03:53:00
+Country: ca, product: macbookpro --> new items: 8
+Country: xf, product: macbookpro --> new items: 32
+------------------------------------------------------------
