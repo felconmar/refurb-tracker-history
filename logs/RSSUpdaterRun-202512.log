@@ -4545,3 +4545,25 @@ Country: pl, product: acc --> new items: 1
 Country: cx, product: acc --> new items: 1
 Country: ch, product: acc --> new items: 1
 ------------------------------------------------------------
+Date: 2025/12/24 00:54:55
+Country: bx, product: imac --> new items: 4
+Country: be, product: imac --> new items: 4
+Country: ca, product: macstudio --> new items: 18
+Country: ca, product: mini --> new items: 31
+Country: ca, product: macbookair --> new items: 1
+Country: xf, product: macstudio --> new items: 17
+Country: xf, product: mini --> new items: 31
+Country: xf, product: macbookair --> new items: 1
+Country: cn, product: macbookair --> new items: 1
+Country: de, product: imac --> new items: 5
+Country: de, product: macbookair --> new items: 1
+Country: es, product: imac --> new items: 3
+Country: fr, product: imac --> new items: 10
+Country: it, product: imac --> new items: 6
+Country: nl, product: imac --> new items: 3
+Country: at, product: imac --> new items: 5
+Country: at, product: macbookair --> new items: 1
+Country: pl, product: macbookair --> new items: 1
+Country: us, product: macstudio --> new items: 13
+Country: us, product: mini --> new items: 16
+------------------------------------------------------------
