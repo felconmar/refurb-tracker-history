@@ -5070,3 +5070,7 @@ Country: ch, product: iphone --> new items: 3
 Country: us, product: iphone --> new items: 1
 Country: us, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2025/12/26 22:11:26
+Country: ie, product: imac --> new items: 1
+Country: uk, product: imac --> new items: 1
+------------------------------------------------------------
