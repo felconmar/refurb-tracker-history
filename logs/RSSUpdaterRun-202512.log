@@ -5473,3 +5473,10 @@ Country: uk, product: macbookair --> new items: 7
 Country: us, product: iphone --> new items: 1
 Country: us, product: macbookair --> new items: 2
 ------------------------------------------------------------
+Date: 2025/12/29 22:11:11
+Country: de, product: imac --> new items: 1
+Country: ie, product: macbookpro --> new items: 1
+Country: at, product: imac --> new items: 1
+Country: uk, product: macbookpro --> new items: 1
+Country: us, product: macbookpro --> new items: 1
+------------------------------------------------------------
