@@ -5445,3 +5445,20 @@ Country: at, product: atv --> new items: 1
 Country: cx, product: atv --> new items: 1
 Country: ch, product: atv --> new items: 1
 ------------------------------------------------------------
+Date: 2025/12/29 20:13:12
+Country: bx, product: iphone --> new items: 1
+Country: bx, product: homepod --> new items: 1
+Country: be, product: iphone --> new items: 1
+Country: be, product: homepod --> new items: 1
+Country: de, product: iphone --> new items: 1
+Country: es, product: homepod --> new items: 1
+Country: ie, product: iphone --> new items: 1
+Country: it, product: homepod --> new items: 1
+Country: nl, product: iphone --> new items: 1
+Country: nl, product: homepod --> new items: 1
+Country: at, product: iphone --> new items: 1
+Country: cx, product: iphone --> new items: 1
+Country: cx, product: homepod --> new items: 1
+Country: ch, product: iphone --> new items: 1
+Country: ch, product: homepod --> new items: 1
+------------------------------------------------------------
