@@ -5512,3 +5512,8 @@ Country: uk, product: iphone --> new items: 1
 Country: us, product: mini --> new items: 3
 Country: us, product: macbookair --> new items: 2
 ------------------------------------------------------------
+Date: 2025/12/30 04:33:31
+Country: ca, product: macbookair --> new items: 7
+Country: xf, product: macbookair --> new items: 7
+Country: us, product: macbookair --> new items: 5
+------------------------------------------------------------
