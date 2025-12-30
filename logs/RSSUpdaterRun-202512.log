@@ -5506,3 +5506,9 @@ Country: tw, product: imac --> new items: 16
 Country: tw, product: mini --> new items: 12
 Country: us, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2025/12/30 03:56:48
+Country: cn, product: macbookpro --> new items: 1
+Country: uk, product: iphone --> new items: 1
+Country: us, product: mini --> new items: 3
+Country: us, product: macbookair --> new items: 2
+------------------------------------------------------------
