@@ -108,3 +108,7 @@ Country: ch, product: watch --> new items: 1
 Country: uk, product: macbookpro --> new items: 1
 Country: uk, product: watch --> new items: 1
 ------------------------------------------------------------
+Date: 2026/01/01 21:10:44
+Country: au, product: macbookair --> new items: 1
+Country: nz, product: macbookair --> new items: 1
+------------------------------------------------------------
