@@ -232,3 +232,12 @@ Country: uk, product: iphone --> new items: 1
 Country: uk, product: homepod --> new items: 2
 Country: uk, product: macstudio --> new items: 20
 ------------------------------------------------------------
+Date: 2026/01/02 22:11:20
+Country: bx, product: macbookpro --> new items: 1
+Country: be, product: macbookpro --> new items: 1
+Country: de, product: macbookair --> new items: 2
+Country: ie, product: homepod --> new items: 2
+Country: ie, product: mini --> new items: 18
+Country: at, product: macbookpro --> new items: 1
+Country: at, product: macbookair --> new items: 1
+------------------------------------------------------------
