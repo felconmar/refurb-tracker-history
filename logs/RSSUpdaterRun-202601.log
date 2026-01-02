@@ -137,3 +137,9 @@ Country: au, product: macbookair --> new items: 1
 Country: nz, product: macbookpro --> new items: 1
 Country: nz, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2026/01/02 06:19:00
+Country: au, product: macbookpro --> new items: 17
+Country: au, product: macbookair --> new items: 12
+Country: nz, product: macbookpro --> new items: 17
+Country: nz, product: macbookair --> new items: 13
+------------------------------------------------------------
