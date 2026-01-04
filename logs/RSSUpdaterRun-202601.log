@@ -433,3 +433,11 @@ Country: it, product: macbookair --> new items: 34
 Country: nl, product: iphone --> new items: 1
 Country: at, product: iphone --> new items: 1
 ------------------------------------------------------------
+Date: 2026/01/04 21:09:51
+Country: ca, product: iphone --> new items: 1
+Country: ca, product: mini --> new items: 1
+Country: xf, product: iphone --> new items: 1
+Country: xf, product: mini --> new items: 1
+Country: it, product: macbookair --> new items: 1
+Country: us, product: ipad --> new items: 1
+------------------------------------------------------------
