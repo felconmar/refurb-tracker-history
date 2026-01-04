@@ -423,3 +423,13 @@ Country: de, product: mini --> new items: 1
 Country: at, product: mini --> new items: 1
 Country: uk, product: iphone --> new items: 1
 ------------------------------------------------------------
+Date: 2026/01/04 20:12:24
+Country: de, product: iphone --> new items: 1
+Country: it, product: imac --> new items: 16
+Country: it, product: macstudio --> new items: 4
+Country: it, product: mini --> new items: 3
+Country: it, product: macbookpro --> new items: 29
+Country: it, product: macbookair --> new items: 34
+Country: nl, product: iphone --> new items: 1
+Country: at, product: iphone --> new items: 1
+------------------------------------------------------------
