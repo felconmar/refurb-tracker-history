@@ -666,3 +666,13 @@ Date: 2026/01/06 19:08:54
 Country: ca, product: iphone --> new items: 1
 Country: us, product: iphone --> new items: 2
 ------------------------------------------------------------
+Date: 2026/01/06 20:13:00
+Country: bx, product: mini --> new items: 1
+Country: be, product: mini --> new items: 1
+Country: ca, product: macstudio --> new items: 1
+Country: xf, product: macstudio --> new items: 1
+Country: de, product: macbookair --> new items: 1
+Country: nl, product: mini --> new items: 1
+Country: at, product: macbookair --> new items: 1
+Country: us, product: macstudio --> new items: 1
+------------------------------------------------------------
