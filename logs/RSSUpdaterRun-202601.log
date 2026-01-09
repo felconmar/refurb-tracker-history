@@ -995,3 +995,11 @@ Country: xf, product: ipad --> new items: 1
 Country: at, product: watch --> new items: 1
 Country: us, product: ipad --> new items: 9
 ------------------------------------------------------------
+Date: 2026/01/09 00:57:37
+Country: ca, product: ipad --> new items: 1
+Country: ca, product: macbookair --> new items: 1
+Country: de, product: macbookair --> new items: 1
+Country: at, product: macbookair --> new items: 1
+Country: us, product: ipad --> new items: 23
+Country: us, product: macbookair --> new items: 1
+------------------------------------------------------------
