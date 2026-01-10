@@ -1248,3 +1248,10 @@ Country: cx, product: iphone --> new items: 1
 Country: ch, product: iphone --> new items: 1
 Country: uk, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2026/01/10 16:12:44
+Country: be, product: macbookpro --> new items: 1
+Country: de, product: mini --> new items: 1
+Country: de, product: macbookpro --> new items: 1
+Country: at, product: mini --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+------------------------------------------------------------
