@@ -1400,3 +1400,9 @@ Country: nl, product: imac --> new items: 1
 Country: uk, product: mini --> new items: 1
 Country: uk, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2026/01/12 03:05:46
+Country: es, product: macbookpro --> new items: 1
+Country: hk, product: ipad --> new items: 7
+Country: sg, product: ipad --> new items: 7
+Country: uk, product: iphone --> new items: 1
+------------------------------------------------------------
