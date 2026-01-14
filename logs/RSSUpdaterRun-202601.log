@@ -1817,3 +1817,9 @@ Country: de, product: macbookair --> new items: 1
 Country: at, product: imac --> new items: 1
 Country: at, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2026/01/14 14:16:17
+Country: de, product: mini --> new items: 1
+Country: de, product: macbookpro --> new items: 2
+Country: at, product: mini --> new items: 1
+Country: at, product: macbookpro --> new items: 2
+------------------------------------------------------------
