@@ -1922,3 +1922,19 @@ Date: 2026/01/15 08:17:53
 Country: de, product: macbookpro --> new items: 1
 Country: sg, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2026/01/15 09:18:04
+Country: de, product: macbookpro --> new items: 10
+Country: es, product: macbookpro --> new items: 6
+Country: fr, product: macbookpro --> new items: 16
+Country: fr, product: macbookair --> new items: 3
+Country: it, product: macbookpro --> new items: 8
+Country: it, product: macbookair --> new items: 1
+Country: nl, product: macbookpro --> new items: 3
+Country: nl, product: macbookair --> new items: 2
+Country: at, product: macbookpro --> new items: 11
+Country: at, product: macbookair --> new items: 2
+Country: pl, product: macbookpro --> new items: 2
+Country: kr, product: ipad --> new items: 1
+Country: cx, product: macbookpro --> new items: 3
+Country: ch, product: macbookpro --> new items: 3
+------------------------------------------------------------
