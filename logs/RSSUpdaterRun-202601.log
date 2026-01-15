@@ -1945,3 +1945,10 @@ Country: de, product: macbookair --> new items: 2
 Country: at, product: macbookpro --> new items: 1
 Country: pl, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2026/01/15 11:11:40
+Country: bx, product: macbookpro --> new items: 1
+Country: be, product: macbookpro --> new items: 1
+Country: cn, product: ipad --> new items: 1
+Country: at, product: mini --> new items: 1
+Country: us, product: iphone --> new items: 1
+------------------------------------------------------------
