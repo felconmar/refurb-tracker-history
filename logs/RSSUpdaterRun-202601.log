@@ -1999,3 +1999,17 @@ Country: nl, product: macbookair --> new items: 1
 Country: at, product: mini --> new items: 1
 Country: uk, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2026/01/15 18:23:17
+Country: bx, product: mini --> new items: 1
+Country: bx, product: atv --> new items: 1
+Country: be, product: mini --> new items: 1
+Country: be, product: atv --> new items: 1
+Country: ie, product: macbookair --> new items: 1
+Country: nl, product: mini --> new items: 1
+Country: nl, product: macbookair --> new items: 1
+Country: nl, product: atv --> new items: 1
+Country: at, product: atv --> new items: 1
+Country: ch, product: atv --> new items: 1
+Country: uk, product: iphone --> new items: 1
+Country: us, product: iphone --> new items: 1
+------------------------------------------------------------
