@@ -2085,3 +2085,7 @@ Country: au, product: watch --> new items: 4
 Country: nz, product: watch --> new items: 4
 Country: uk, product: iphone --> new items: 1
 ------------------------------------------------------------
+Date: 2026/01/16 03:59:19
+Country: jp, product: iphone --> new items: 22
+Country: jp, product: watch --> new items: 1
+------------------------------------------------------------
