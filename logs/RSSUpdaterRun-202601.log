@@ -2459,3 +2459,9 @@ Country: cx, product: iphone --> new items: 1
 Country: ch, product: iphone --> new items: 1
 Country: us, product: iphone --> new items: 2
 ------------------------------------------------------------
+Date: 2026/01/18 12:20:48
+Country: bx, product: iphone --> new items: 1
+Country: de, product: iphone --> new items: 1
+Country: nl, product: iphone --> new items: 1
+Country: nl, product: macbookair --> new items: 1
+------------------------------------------------------------
