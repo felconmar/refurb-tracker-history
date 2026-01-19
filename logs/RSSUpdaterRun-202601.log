@@ -2672,3 +2672,20 @@ Country: it, product: ipad --> new items: 1
 Country: uk, product: iphone --> new items: 1
 Country: us, product: watch --> new items: 3
 ------------------------------------------------------------
+Date: 2026/01/19 21:10:26
+Country: bx, product: acc --> new items: 1
+Country: be, product: acc --> new items: 1
+Country: ca, product: imac --> new items: 1
+Country: xf, product: imac --> new items: 1
+Country: de, product: macstudio --> new items: 1
+Country: de, product: macbookpro --> new items: 1
+Country: nl, product: acc --> new items: 1
+Country: at, product: macstudio --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+Country: at, product: acc --> new items: 1
+Country: pl, product: acc --> new items: 1
+Country: cx, product: acc --> new items: 1
+Country: uk, product: ipad --> new items: 1
+Country: us, product: iphone --> new items: 1
+Country: us, product: imac --> new items: 1
+------------------------------------------------------------
