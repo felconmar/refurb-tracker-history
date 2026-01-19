@@ -2653,3 +2653,15 @@ Country: at, product: macbookair --> new items: 1
 Country: uk, product: imac --> new items: 1
 Country: us, product: ipad --> new items: 1
 ------------------------------------------------------------
+Date: 2026/01/19 19:12:46
+Country: bx, product: ipad --> new items: 1
+Country: be, product: ipad --> new items: 1
+Country: ie, product: macstudio --> new items: 3
+Country: ie, product: mini --> new items: 1
+Country: nl, product: ipad --> new items: 1
+Country: at, product: ipad --> new items: 1
+Country: cx, product: ipad --> new items: 1
+Country: ch, product: ipad --> new items: 1
+Country: uk, product: macstudio --> new items: 3
+Country: uk, product: mini --> new items: 1
+------------------------------------------------------------
