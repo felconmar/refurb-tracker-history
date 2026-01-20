@@ -2711,3 +2711,39 @@ Country: ie, product: macbookair --> new items: 14
 Country: uk, product: macbookpro --> new items: 1
 Country: uk, product: macbookair --> new items: 14
 ------------------------------------------------------------
+Date: 2026/01/20 00:56:28
+Country: bx, product: mini --> new items: 1
+Country: be, product: mini --> new items: 1
+Country: de, product: macstudio --> new items: 8
+Country: de, product: mini --> new items: 4
+Country: de, product: macbookpro --> new items: 2
+Country: de, product: macbookair --> new items: 1
+Country: es, product: imac --> new items: 1
+Country: es, product: mini --> new items: 9
+Country: es, product: macbookpro --> new items: 1
+Country: es, product: macbookair --> new items: 2
+Country: fr, product: macstudio --> new items: 6
+Country: fr, product: mini --> new items: 5
+Country: fr, product: macbookpro --> new items: 6
+Country: fr, product: macbookair --> new items: 11
+Country: ie, product: macstudio --> new items: 12
+Country: ie, product: mini --> new items: 10
+Country: it, product: mini --> new items: 1
+Country: it, product: macbookpro --> new items: 6
+Country: it, product: macbookair --> new items: 1
+Country: nl, product: mini --> new items: 1
+Country: nl, product: macbookpro --> new items: 1
+Country: nl, product: macbookair --> new items: 2
+Country: at, product: macstudio --> new items: 8
+Country: at, product: mini --> new items: 4
+Country: at, product: macbookpro --> new items: 2
+Country: at, product: macbookair --> new items: 1
+Country: pl, product: macbookpro --> new items: 1
+Country: cx, product: macstudio --> new items: 5
+Country: cx, product: mini --> new items: 1
+Country: ch, product: macstudio --> new items: 5
+Country: ch, product: mini --> new items: 1
+Country: uk, product: macstudio --> new items: 12
+Country: uk, product: mini --> new items: 10
+Country: uk, product: macbookpro --> new items: 17
+------------------------------------------------------------
