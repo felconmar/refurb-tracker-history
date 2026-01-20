@@ -2786,3 +2786,10 @@ Country: ie, product: macbookair --> new items: 11
 Country: uk, product: macbookpro --> new items: 1
 Country: uk, product: macbookair --> new items: 11
 ------------------------------------------------------------
+Date: 2026/01/20 10:17:20
+Country: de, product: macbookpro --> new items: 1
+Country: ie, product: macbookpro --> new items: 28
+Country: ie, product: macbookair --> new items: 24
+Country: at, product: macbookpro --> new items: 1
+Country: uk, product: macbookpro --> new items: 28
+------------------------------------------------------------
