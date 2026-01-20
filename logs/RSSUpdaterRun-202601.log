@@ -2930,3 +2930,12 @@ Country: ch, product: ipad --> new items: 1
 Country: ch, product: watch --> new items: 1
 Country: us, product: macbookpro --> new items: 6
 ------------------------------------------------------------
+Date: 2026/01/20 22:13:07
+Country: ca, product: macbookpro --> new items: 1
+Country: xf, product: macstudio --> new items: 1
+Country: xf, product: macbookpro --> new items: 1
+Country: de, product: macbookpro --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+Country: us, product: macstudio --> new items: 1
+Country: us, product: macbookpro --> new items: 1
+------------------------------------------------------------
