@@ -2756,3 +2756,7 @@ Country: tw, product: macbookair --> new items: 12
 Country: us, product: mini --> new items: 1
 Country: us, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2026/01/20 04:04:10
+Country: fr, product: macbookpro --> new items: 1
+Country: jp, product: macbookair --> new items: 25
+------------------------------------------------------------
