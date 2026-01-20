@@ -2837,3 +2837,23 @@ Country: ch, product: iphone --> new items: 1
 Country: ch, product: macbookpro --> new items: 6
 Country: ch, product: watch --> new items: 1
 ------------------------------------------------------------
+Date: 2026/01/20 13:38:56
+Country: bx, product: macbookpro --> new items: 1
+Country: bx, product: macbookair --> new items: 2
+Country: be, product: macbookpro --> new items: 1
+Country: be, product: macbookair --> new items: 2
+Country: de, product: macbookpro --> new items: 2
+Country: de, product: macbookair --> new items: 1
+Country: es, product: macbookpro --> new items: 1
+Country: es, product: macbookair --> new items: 2
+Country: fr, product: macbookpro --> new items: 1
+Country: it, product: macbookpro --> new items: 3
+Country: nl, product: macbookpro --> new items: 1
+Country: nl, product: macbookair --> new items: 1
+Country: at, product: macbookpro --> new items: 2
+Country: at, product: macbookair --> new items: 1
+Country: pl, product: macbookair --> new items: 2
+Country: cx, product: macbookair --> new items: 1
+Country: ch, product: macbookair --> new items: 1
+Country: uk, product: iphone --> new items: 1
+------------------------------------------------------------
