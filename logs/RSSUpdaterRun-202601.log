@@ -2747,3 +2747,12 @@ Country: uk, product: macstudio --> new items: 12
 Country: uk, product: mini --> new items: 10
 Country: uk, product: macbookpro --> new items: 17
 ------------------------------------------------------------
+Date: 2026/01/20 02:56:59
+Country: ca, product: macbookair --> new items: 1
+Country: xf, product: macbookair --> new items: 1
+Country: jp, product: macstudio --> new items: 6
+Country: jp, product: mini --> new items: 12
+Country: tw, product: macbookair --> new items: 12
+Country: us, product: mini --> new items: 1
+Country: us, product: macbookair --> new items: 1
+------------------------------------------------------------
