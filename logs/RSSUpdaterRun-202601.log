@@ -3092,3 +3092,14 @@ Country: us, product: macstudio --> new items: 1
 Country: us, product: macbookpro --> new items: 1
 Country: us, product: watch --> new items: 1
 ------------------------------------------------------------
+Date: 2026/01/21 21:19:01
+Country: ca, product: iphone --> new items: 3
+Country: ca, product: macbookpro --> new items: 2
+Country: ca, product: macbookair --> new items: 1
+Country: xf, product: macbookpro --> new items: 1
+Country: xf, product: macbookair --> new items: 1
+Country: fr, product: macbookair --> new items: 1
+Country: us, product: iphone --> new items: 1
+Country: us, product: macbookpro --> new items: 1
+Country: us, product: macbookair --> new items: 1
+------------------------------------------------------------
