@@ -3042,3 +3042,11 @@ Country: at, product: iphone --> new items: 1
 Country: cx, product: iphone --> new items: 1
 Country: us, product: ipad --> new items: 1
 ------------------------------------------------------------
+Date: 2026/01/21 16:24:36
+Country: de, product: iphone --> new items: 1
+Country: de, product: macbookpro --> new items: 1
+Country: es, product: macbookair --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+Country: ch, product: iphone --> new items: 1
+Country: us, product: ipad --> new items: 2
+------------------------------------------------------------
