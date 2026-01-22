@@ -3181,3 +3181,12 @@ Country: it, product: macbookair --> new items: 3
 Country: nl, product: macbookair --> new items: 1
 Country: at, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2026/01/22 12:26:10
+Country: be, product: ipad --> new items: 1
+Country: be, product: macbookair --> new items: 2
+Country: cn, product: ipad --> new items: 1
+Country: de, product: macbookair --> new items: 3
+Country: it, product: macbookair --> new items: 1
+Country: at, product: macbookair --> new items: 3
+Country: uk, product: imac --> new items: 1
+------------------------------------------------------------
