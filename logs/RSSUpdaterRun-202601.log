@@ -3212,3 +3212,12 @@ Country: ch, product: macbookair --> new items: 1
 Country: uk, product: ipad --> new items: 2
 Country: uk, product: iphone --> new items: 2
 ------------------------------------------------------------
+Date: 2026/01/22 16:20:59
+Country: bx, product: macbookpro --> new items: 1
+Country: be, product: macbookpro --> new items: 1
+Country: nl, product: watch --> new items: 1
+Country: at, product: watch --> new items: 1
+Country: cx, product: watch --> new items: 1
+Country: ch, product: watch --> new items: 1
+Country: us, product: ipad --> new items: 3
+------------------------------------------------------------
