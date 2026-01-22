@@ -3155,3 +3155,10 @@ Country: pl, product: ipad --> new items: 3
 Country: cx, product: ipad --> new items: 10
 Country: ch, product: ipad --> new items: 3
 ------------------------------------------------------------
+Date: 2026/01/22 08:18:10
+Country: cn, product: ipad --> new items: 1
+Country: ie, product: macbookpro --> new items: 1
+Country: ch, product: ipad --> new items: 7
+Country: uk, product: macbookpro --> new items: 1
+Country: us, product: iphone --> new items: 7
+------------------------------------------------------------
