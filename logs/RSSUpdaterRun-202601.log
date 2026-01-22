@@ -3203,3 +3203,12 @@ Country: cx, product: macbookair --> new items: 1
 Country: ch, product: ipad --> new items: 1
 Country: uk, product: iphone --> new items: 1
 ------------------------------------------------------------
+Date: 2026/01/22 15:19:36
+Country: de, product: macbookpro --> new items: 1
+Country: fr, product: macbookair --> new items: 1
+Country: nl, product: macbookair --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+Country: ch, product: macbookair --> new items: 1
+Country: uk, product: ipad --> new items: 2
+Country: uk, product: iphone --> new items: 2
+------------------------------------------------------------
