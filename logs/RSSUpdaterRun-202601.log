@@ -3436,3 +3436,15 @@ Country: us, product: iphone --> new items: 2
 Country: us, product: mini --> new items: 4
 Country: us, product: macbookair --> new items: 3
 ------------------------------------------------------------
+Date: 2026/01/23 22:09:59
+Country: bx, product: iphone --> new items: 1
+Country: ca, product: macbookair --> new items: 4
+Country: xf, product: macbookair --> new items: 4
+Country: ie, product: iphone --> new items: 1
+Country: nl, product: iphone --> new items: 1
+Country: at, product: iphone --> new items: 1
+Country: cx, product: iphone --> new items: 1
+Country: ch, product: iphone --> new items: 1
+Country: us, product: iphone --> new items: 1
+Country: us, product: macbookair --> new items: 3
+------------------------------------------------------------
