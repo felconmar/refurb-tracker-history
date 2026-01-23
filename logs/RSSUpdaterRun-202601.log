@@ -3359,3 +3359,9 @@ Country: de, product: homepod --> new items: 1
 Country: es, product: macbookpro --> new items: 2
 Country: at, product: homepod --> new items: 1
 ------------------------------------------------------------
+Date: 2026/01/23 15:15:19
+Country: es, product: mini --> new items: 1
+Country: ie, product: ipad --> new items: 1
+Country: uk, product: ipad --> new items: 3
+Country: uk, product: iphone --> new items: 1
+------------------------------------------------------------
