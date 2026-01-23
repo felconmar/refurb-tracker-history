@@ -3279,3 +3279,13 @@ Country: uk, product: iphone --> new items: 1
 Date: 2026/01/22 23:12:11
 Country: us, product: iphone --> new items: 3
 ------------------------------------------------------------
+Date: 2026/01/23 00:58:22
+Country: ca, product: acc --> new items: 1
+Country: xf, product: acc --> new items: 1
+Country: ie, product: macbookpro --> new items: 1
+Country: ie, product: macbookair --> new items: 5
+Country: nz, product: watch --> new items: 2
+Country: uk, product: macbookpro --> new items: 1
+Country: uk, product: macbookair --> new items: 5
+Country: us, product: acc --> new items: 1
+------------------------------------------------------------
