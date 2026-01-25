@@ -3683,3 +3683,11 @@ Country: cx, product: watch --> new items: 1
 Country: ch, product: watch --> new items: 1
 Country: us, product: iphone --> new items: 1
 ------------------------------------------------------------
+Date: 2026/01/25 17:09:59
+Country: de, product: iphone --> new items: 1
+Country: de, product: macstudio --> new items: 1
+Country: de, product: watch --> new items: 1
+Country: at, product: macstudio --> new items: 1
+Country: at, product: watch --> new items: 1
+Country: cx, product: iphone --> new items: 1
+------------------------------------------------------------
