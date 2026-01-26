@@ -3834,3 +3834,21 @@ Date: 2026/01/26 18:20:37
 Country: be, product: imac --> new items: 1
 Country: us, product: ipad --> new items: 1
 ------------------------------------------------------------
+Date: 2026/01/26 19:16:29
+Country: bx, product: iphone --> new items: 1
+Country: bx, product: imac --> new items: 1
+Country: be, product: iphone --> new items: 1
+Country: ca, product: macbookpro --> new items: 14
+Country: ca, product: macbookair --> new items: 1
+Country: xf, product: macbookpro --> new items: 19
+Country: xf, product: macbookair --> new items: 4
+Country: de, product: iphone --> new items: 1
+Country: ie, product: iphone --> new items: 1
+Country: nl, product: iphone --> new items: 1
+Country: at, product: iphone --> new items: 1
+Country: cx, product: iphone --> new items: 1
+Country: ch, product: iphone --> new items: 1
+Country: us, product: ipad --> new items: 1
+Country: us, product: macbookpro --> new items: 13
+Country: us, product: macbookair --> new items: 4
+------------------------------------------------------------
