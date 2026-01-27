@@ -3906,3 +3906,7 @@ Country: ch, product: macbookpro --> new items: 4
 Country: us, product: mini --> new items: 1
 Country: us, product: macbookpro --> new items: 7
 ------------------------------------------------------------
+Date: 2026/01/27 03:28:51
+Country: cn, product: macbookpro --> new items: 28
+Country: cn, product: macbookair --> new items: 6
+------------------------------------------------------------
