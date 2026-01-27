@@ -3915,3 +3915,10 @@ Country: cn, product: macbookpro --> new items: 13
 Country: cn, product: macbookair --> new items: 10
 Country: us, product: ipad --> new items: 1
 ------------------------------------------------------------
+Date: 2026/01/27 05:19:17
+Country: au, product: macbookair --> new items: 1
+Country: ca, product: macbookpro --> new items: 8
+Country: xf, product: macbookpro --> new items: 8
+Country: nz, product: macbookair --> new items: 1
+Country: us, product: macbookpro --> new items: 8
+------------------------------------------------------------
