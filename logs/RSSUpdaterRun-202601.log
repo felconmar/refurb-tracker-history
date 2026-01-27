@@ -4022,3 +4022,10 @@ Country: ch, product: iphone --> new items: 1
 Country: uk, product: iphone --> new items: 2
 Country: us, product: iphone --> new items: 1
 ------------------------------------------------------------
+Date: 2026/01/27 21:09:41
+Country: bx, product: iphone --> new items: 1
+Country: de, product: imac --> new items: 1
+Country: de, product: macbookair --> new items: 1
+Country: at, product: imac --> new items: 1
+Country: at, product: macbookair --> new items: 1
+------------------------------------------------------------
