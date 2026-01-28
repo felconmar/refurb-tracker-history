@@ -4185,3 +4185,14 @@ Country: cx, product: macbookair --> new items: 1
 Country: ch, product: macbookair --> new items: 1
 Country: uk, product: watch --> new items: 2
 ------------------------------------------------------------
+Date: 2026/01/28 14:20:30
+Country: bx, product: watch --> new items: 1
+Country: be, product: watch --> new items: 1
+Country: de, product: iphone --> new items: 1
+Country: de, product: watch --> new items: 1
+Country: nl, product: watch --> new items: 1
+Country: at, product: watch --> new items: 1
+Country: cx, product: iphone --> new items: 1
+Country: cx, product: watch --> new items: 1
+Country: ch, product: watch --> new items: 1
+------------------------------------------------------------
