@@ -4116,3 +4116,7 @@ Country: nz, product: macbookpro --> new items: 19
 Country: us, product: iphone --> new items: 1
 Country: us, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2026/01/28 05:20:10
+Country: ca, product: macbookpro --> new items: 1
+Country: nz, product: macbookpro --> new items: 2
+------------------------------------------------------------
