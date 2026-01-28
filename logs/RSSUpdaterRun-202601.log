@@ -4098,3 +4098,13 @@ Country: us, product: macbookpro --> new items: 13
 Country: us, product: macbookair --> new items: 1
 Country: us, product: watch --> new items: 1
 ------------------------------------------------------------
+Date: 2026/01/28 03:00:33
+Country: ca, product: macstudio --> new items: 14
+Country: ca, product: mini --> new items: 21
+Country: ca, product: macbookpro --> new items: 1
+Country: xf, product: macstudio --> new items: 3
+Country: xf, product: mini --> new items: 21
+Country: xf, product: macbookpro --> new items: 1
+Country: us, product: macstudio --> new items: 14
+Country: us, product: mini --> new items: 22
+------------------------------------------------------------
