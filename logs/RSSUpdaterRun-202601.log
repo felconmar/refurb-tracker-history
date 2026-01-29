@@ -4510,3 +4510,8 @@ Country: us, product: iphone --> new items: 1
 Country: us, product: mini --> new items: 6
 Country: us, product: watch --> new items: 1
 ------------------------------------------------------------
+Date: 2026/01/29 22:16:46
+Country: ca, product: mini --> new items: 8
+Country: xf, product: mini --> new items: 8
+Country: us, product: mini --> new items: 9
+------------------------------------------------------------
