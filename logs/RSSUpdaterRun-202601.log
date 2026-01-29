@@ -4515,3 +4515,15 @@ Country: ca, product: mini --> new items: 8
 Country: xf, product: mini --> new items: 8
 Country: us, product: mini --> new items: 9
 ------------------------------------------------------------
+Date: 2026/01/29 23:16:48
+Country: ca, product: mini --> new items: 1
+Country: xf, product: mini --> new items: 1
+Country: de, product: macbookair --> new items: 1
+Country: ie, product: macstudio --> new items: 1
+Country: nl, product: macbookair --> new items: 1
+Country: at, product: macbookair --> new items: 1
+Country: pl, product: macbookair --> new items: 1
+Country: uk, product: iphone --> new items: 1
+Country: uk, product: macstudio --> new items: 1
+Country: us, product: mini --> new items: 4
+------------------------------------------------------------
