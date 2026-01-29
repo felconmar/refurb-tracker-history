@@ -4328,3 +4328,11 @@ Country: sg, product: macbookair --> new items: 1
 Country: us, product: macstudio --> new items: 3
 Country: us, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2026/01/29 05:04:41
+Country: ca, product: macstudio --> new items: 5
+Country: ca, product: macbookpro --> new items: 3
+Country: xf, product: macstudio --> new items: 8
+Country: xf, product: macbookpro --> new items: 2
+Country: tw, product: macbookair --> new items: 1
+Country: us, product: macstudio --> new items: 9
+------------------------------------------------------------
