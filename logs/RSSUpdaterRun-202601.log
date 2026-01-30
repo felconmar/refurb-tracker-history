@@ -4585,3 +4585,10 @@ Country: cx, product: iphone --> new items: 2
 Country: ch, product: iphone --> new items: 1
 Country: uk, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2026/01/30 12:30:30
+Country: de, product: macbookair --> new items: 1
+Country: ie, product: ipad --> new items: 2
+Country: at, product: macbookair --> new items: 1
+Country: ch, product: iphone --> new items: 1
+Country: uk, product: ipad --> new items: 2
+------------------------------------------------------------
