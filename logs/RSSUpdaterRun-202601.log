@@ -4670,3 +4670,24 @@ Country: us, product: mini --> new items: 20
 Country: us, product: macbookpro --> new items: 12
 Country: us, product: watch --> new items: 1
 ------------------------------------------------------------
+Date: 2026/01/30 22:14:00
+Country: bx, product: mini --> new items: 1
+Country: bx, product: macbookpro --> new items: 2
+Country: be, product: mini --> new items: 1
+Country: be, product: macbookpro --> new items: 2
+Country: ca, product: mini --> new items: 18
+Country: ca, product: macbookpro --> new items: 3
+Country: xf, product: mini --> new items: 18
+Country: de, product: macbookpro --> new items: 1
+Country: de, product: macbookair --> new items: 1
+Country: es, product: macbookpro --> new items: 2
+Country: it, product: mini --> new items: 1
+Country: it, product: macbookpro --> new items: 1
+Country: nl, product: mini --> new items: 1
+Country: nl, product: macbookpro --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+Country: at, product: macbookair --> new items: 1
+Country: pl, product: macbookpro --> new items: 1
+Country: ch, product: macbookpro --> new items: 2
+Country: us, product: mini --> new items: 19
+------------------------------------------------------------
