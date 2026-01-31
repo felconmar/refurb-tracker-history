@@ -4760,3 +4760,10 @@ Country: at, product: macbookair --> new items: 1
 Country: cx, product: iphone --> new items: 2
 Country: ch, product: iphone --> new items: 2
 ------------------------------------------------------------
+Date: 2026/01/31 13:34:18
+Country: de, product: iphone --> new items: 1
+Country: fr, product: macbookpro --> new items: 1
+Country: ie, product: iphone --> new items: 1
+Country: nl, product: macbookpro --> new items: 2
+Country: at, product: macbookpro --> new items: 1
+------------------------------------------------------------
