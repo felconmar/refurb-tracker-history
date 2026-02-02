@@ -179,3 +179,10 @@ Country: de, product: mini --> new items: 1
 Country: jp, product: macbookair --> new items: 1
 Country: at, product: mini --> new items: 1
 ------------------------------------------------------------
+Date: 2026/02/02 14:34:06
+Country: de, product: macbookpro --> new items: 1
+Country: ie, product: macbookair --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+Country: uk, product: imac --> new items: 1
+Country: uk, product: macbookair --> new items: 1
+------------------------------------------------------------
