@@ -367,3 +367,12 @@ Country: at, product: imac --> new items: 1
 Country: at, product: acc --> new items: 1
 Country: pl, product: acc --> new items: 1
 ------------------------------------------------------------
+Date: 2026/02/03 12:34:11
+Country: bx, product: macbookair --> new items: 1
+Country: be, product: macbookair --> new items: 1
+Country: de, product: macbookair --> new items: 1
+Country: ie, product: macbookpro --> new items: 3
+Country: jp, product: macbookpro --> new items: 1
+Country: at, product: macbookair --> new items: 1
+Country: uk, product: macbookpro --> new items: 3
+------------------------------------------------------------
