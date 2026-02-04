@@ -636,3 +636,8 @@ Country: pl, product: macbookair --> new items: 1
 Country: uk, product: iphone --> new items: 7
 Country: uk, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2026/02/04 17:37:20
+Country: de, product: macbookair --> new items: 1
+Country: jp, product: iphone --> new items: 58
+Country: us, product: ipad --> new items: 2
+------------------------------------------------------------
