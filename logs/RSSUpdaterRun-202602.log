@@ -489,3 +489,21 @@ Country: ch, product: macbookpro --> new items: 1
 Country: us, product: iphone --> new items: 4
 Country: us, product: macbookpro --> new items: 2
 ------------------------------------------------------------
+Date: 2026/02/04 01:05:28
+Country: ca, product: macbookair --> new items: 1
+Country: xf, product: macbookair --> new items: 1
+Country: de, product: macbookpro --> new items: 12
+Country: de, product: macbookair --> new items: 2
+Country: es, product: macbookpro --> new items: 3
+Country: fr, product: macbookpro --> new items: 14
+Country: fr, product: macbookair --> new items: 2
+Country: it, product: macbookpro --> new items: 2
+Country: it, product: macbookair --> new items: 1
+Country: nl, product: macbookpro --> new items: 1
+Country: at, product: macbookpro --> new items: 12
+Country: at, product: macbookair --> new items: 2
+Country: pl, product: macbookpro --> new items: 2
+Country: cx, product: macbookpro --> new items: 3
+Country: ch, product: macbookpro --> new items: 3
+Country: us, product: macbookair --> new items: 1
+------------------------------------------------------------
