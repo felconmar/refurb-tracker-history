@@ -516,3 +516,10 @@ Country: xf, product: macbookpro --> new items: 1
 Country: xf, product: macbookair --> new items: 1
 Country: us, product: macbookpro --> new items: 2
 ------------------------------------------------------------
+Date: 2026/02/04 06:37:02
+Country: ca, product: macbookair --> new items: 1
+Country: cn, product: mini --> new items: 1
+Country: it, product: iphone --> new items: 1
+Country: us, product: ipad --> new items: 1
+Country: us, product: macbookair --> new items: 1
+------------------------------------------------------------
