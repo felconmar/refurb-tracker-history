@@ -745,3 +745,12 @@ Country: us, product: iphone --> new items: 12
 Country: us, product: macbookpro --> new items: 17
 Country: us, product: macbookair --> new items: 9
 ------------------------------------------------------------
+Date: 2026/02/05 08:30:00
+Country: ca, product: homepod --> new items: 1
+Country: xf, product: homepod --> new items: 1
+Country: xf, product: macbookpro --> new items: 3
+Country: xf, product: macbookair --> new items: 1
+Country: jp, product: iphone --> new items: 2
+Country: uk, product: iphone --> new items: 1
+Country: us, product: homepod --> new items: 1
+------------------------------------------------------------
