@@ -1019,3 +1019,12 @@ Country: us, product: iphone --> new items: 5
 Country: us, product: imac --> new items: 14
 Country: us, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2026/02/06 22:11:57
+Country: ca, product: imac --> new items: 1
+Country: xf, product: imac --> new items: 1
+Country: de, product: macbookpro --> new items: 1
+Country: ie, product: macbookpro --> new items: 11
+Country: ie, product: macbookair --> new items: 10
+Country: us, product: iphone --> new items: 3
+Country: us, product: imac --> new items: 2
+------------------------------------------------------------
