@@ -848,3 +848,11 @@ Country: uk, product: iphone --> new items: 1
 Country: us, product: ipad --> new items: 1
 Country: us, product: iphone --> new items: 4
 ------------------------------------------------------------
+Date: 2026/02/06 01:05:49
+Country: ca, product: macstudio --> new items: 1
+Country: xf, product: macstudio --> new items: 1
+Country: hk, product: ipad --> new items: 1
+Country: sg, product: ipad --> new items: 1
+Country: us, product: iphone --> new items: 3
+Country: us, product: macstudio --> new items: 1
+------------------------------------------------------------
