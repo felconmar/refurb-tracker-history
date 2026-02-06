@@ -930,3 +930,8 @@ Country: ie, product: ipad --> new items: 1
 Country: uk, product: ipad --> new items: 1
 Country: uk, product: iphone --> new items: 15
 ------------------------------------------------------------
+Date: 2026/02/06 14:33:56
+Country: de, product: macbookair --> new items: 1
+Country: uk, product: iphone --> new items: 1
+Country: us, product: iphone --> new items: 2
+------------------------------------------------------------
