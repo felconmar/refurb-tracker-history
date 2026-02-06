@@ -946,3 +946,9 @@ Country: at, product: macbookair --> new items: 1
 Country: uk, product: iphone --> new items: 1
 Country: us, product: iphone --> new items: 19
 ------------------------------------------------------------
+Date: 2026/02/06 16:31:44
+Country: ca, product: ipad --> new items: 1
+Country: de, product: macbookair --> new items: 1
+Country: at, product: macbookair --> new items: 1
+Country: us, product: iphone --> new items: 2
+------------------------------------------------------------
