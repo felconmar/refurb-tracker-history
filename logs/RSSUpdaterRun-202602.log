@@ -991,3 +991,13 @@ Country: us, product: iphone --> new items: 3
 Country: us, product: imac --> new items: 27
 Country: us, product: mini --> new items: 1
 ------------------------------------------------------------
+Date: 2026/02/06 20:21:36
+Country: ca, product: imac --> new items: 16
+Country: xf, product: imac --> new items: 16
+Country: xf, product: macbookair --> new items: 1
+Country: de, product: mini --> new items: 1
+Country: de, product: macbookpro --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+Country: us, product: iphone --> new items: 1
+Country: us, product: imac --> new items: 11
+------------------------------------------------------------
