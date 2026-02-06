@@ -892,3 +892,8 @@ Country: ch, product: iphone --> new items: 1
 Country: tw, product: macbookpro --> new items: 1
 Country: uk, product: macbookpro --> new items: 2
 ------------------------------------------------------------
+Date: 2026/02/06 10:29:13
+Country: ie, product: macbookpro --> new items: 8
+Country: at, product: macbookair --> new items: 1
+Country: uk, product: macbookpro --> new items: 8
+------------------------------------------------------------
