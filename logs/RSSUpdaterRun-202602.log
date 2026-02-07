@@ -1042,3 +1042,9 @@ Country: cx, product: iphone --> new items: 1
 Country: ch, product: iphone --> new items: 1
 Country: us, product: imac --> new items: 2
 ------------------------------------------------------------
+Date: 2026/02/07 01:04:44
+Country: ca, product: ipad --> new items: 2
+Country: xf, product: ipad --> new items: 2
+Country: us, product: ipad --> new items: 1
+Country: us, product: iphone --> new items: 2
+------------------------------------------------------------
