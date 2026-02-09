@@ -1339,3 +1339,7 @@ Country: de, product: macbookair --> new items: 1
 Country: at, product: macbookair --> new items: 1
 Country: us, product: macbookpro --> new items: 2
 ------------------------------------------------------------
+Date: 2026/02/09 04:14:58
+Country: jp, product: macbookair --> new items: 6
+Country: us, product: imac --> new items: 1
+------------------------------------------------------------
