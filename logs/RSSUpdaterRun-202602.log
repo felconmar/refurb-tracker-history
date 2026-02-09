@@ -1346,3 +1346,12 @@ Country: us, product: imac --> new items: 1
 Date: 2026/02/09 06:00:22
 No new entries.
 ------------------------------------------------------------
+Date: 2026/02/09 07:08:15
+Country: au, product: ipad --> new items: 2
+Country: au, product: macbookpro --> new items: 22
+Country: de, product: macbookpro --> new items: 1
+Country: nz, product: ipad --> new items: 2
+Country: nz, product: mini --> new items: 1
+Country: nz, product: macbookpro --> new items: 22
+Country: at, product: macbookpro --> new items: 1
+------------------------------------------------------------
