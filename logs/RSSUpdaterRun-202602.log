@@ -1525,3 +1525,10 @@ Country: pl, product: acc --> new items: 1
 Country: cx, product: acc --> new items: 1
 Country: ch, product: acc --> new items: 1
 ------------------------------------------------------------
+Date: 2026/02/10 07:51:57
+Country: cn, product: ipad --> new items: 1
+Country: jp, product: macbookpro --> new items: 12
+Country: jp, product: macbookair --> new items: 34
+Country: tw, product: ipad --> new items: 1
+Country: us, product: iphone --> new items: 1
+------------------------------------------------------------
