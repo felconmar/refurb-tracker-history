@@ -1635,3 +1635,11 @@ Country: cx, product: watch --> new items: 1
 Country: ch, product: watch --> new items: 1
 Country: uk, product: watch --> new items: 1
 ------------------------------------------------------------
+Date: 2026/02/10 18:52:00
+Country: ca, product: iphone --> new items: 1
+Country: ca, product: macbookair --> new items: 4
+Country: xf, product: iphone --> new items: 1
+Country: xf, product: macbookair --> new items: 4
+Country: at, product: macstudio --> new items: 1
+Country: us, product: macbookair --> new items: 4
+------------------------------------------------------------
