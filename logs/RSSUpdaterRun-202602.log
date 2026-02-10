@@ -1622,3 +1622,16 @@ Country: ch, product: acc --> new items: 1
 Country: us, product: imac --> new items: 1
 Country: us, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2026/02/10 17:53:53
+Country: bx, product: watch --> new items: 1
+Country: be, product: watch --> new items: 1
+Country: ca, product: macbookair --> new items: 1
+Country: xf, product: macbookair --> new items: 1
+Country: cn, product: macstudio --> new items: 1
+Country: de, product: watch --> new items: 1
+Country: nl, product: watch --> new items: 1
+Country: at, product: watch --> new items: 1
+Country: cx, product: watch --> new items: 1
+Country: ch, product: watch --> new items: 1
+Country: uk, product: watch --> new items: 1
+------------------------------------------------------------
