@@ -1709,3 +1709,11 @@ Country: ch, product: ipad --> new items: 1
 Date: 2026/02/11 01:18:36
 Country: nz, product: macstudio --> new items: 1
 ------------------------------------------------------------
+Date: 2026/02/11 04:21:05
+Country: au, product: macstudio --> new items: 12
+Country: au, product: macbookair --> new items: 13
+Country: cn, product: mini --> new items: 1
+Country: nz, product: macstudio --> new items: 11
+Country: nz, product: macbookair --> new items: 13
+Country: us, product: iphone --> new items: 5
+------------------------------------------------------------
