@@ -1973,3 +1973,8 @@ Country: us, product: iphone --> new items: 1
 Country: us, product: macpro --> new items: 1
 Country: us, product: macbookpro --> new items: 29
 ------------------------------------------------------------
+Date: 2026/02/12 06:55:30
+Country: ca, product: macbookpro --> new items: 26
+Country: xf, product: macbookpro --> new items: 10
+Country: us, product: macbookpro --> new items: 18
+------------------------------------------------------------
