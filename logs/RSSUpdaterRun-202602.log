@@ -2250,3 +2250,11 @@ Date: 2026/02/13 17:32:59
 Country: ca, product: imac --> new items: 3
 Country: xf, product: imac --> new items: 3
 ------------------------------------------------------------
+Date: 2026/02/13 18:31:23
+Country: ca, product: imac --> new items: 3
+Country: ca, product: macbookpro --> new items: 1
+Country: xf, product: imac --> new items: 3
+Country: xf, product: macbookpro --> new items: 1
+Country: us, product: iphone --> new items: 1
+Country: us, product: imac --> new items: 8
+------------------------------------------------------------
