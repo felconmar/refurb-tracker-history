@@ -2731,3 +2731,22 @@ Country: bx, product: mini --> new items: 1
 Country: nl, product: mini --> new items: 1
 Country: at, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2026/02/17 11:31:34
+Country: bx, product: ipad --> new items: 8
+Country: be, product: ipad --> new items: 8
+Country: be, product: mini --> new items: 1
+Country: de, product: ipad --> new items: 8
+Country: de, product: imac --> new items: 1
+Country: de, product: macbookair --> new items: 1
+Country: es, product: ipad --> new items: 8
+Country: fr, product: ipad --> new items: 4
+Country: it, product: ipad --> new items: 8
+Country: nl, product: ipad --> new items: 8
+Country: nl, product: macbookair --> new items: 1
+Country: at, product: ipad --> new items: 8
+Country: at, product: imac --> new items: 1
+Country: at, product: macbookair --> new items: 1
+Country: pl, product: ipad --> new items: 4
+Country: cx, product: ipad --> new items: 8
+Country: ch, product: ipad --> new items: 8
+------------------------------------------------------------
