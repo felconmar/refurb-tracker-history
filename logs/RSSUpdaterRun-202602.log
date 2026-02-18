@@ -2928,3 +2928,8 @@ Country: xf, product: iphone --> new items: 1
 Country: xf, product: macbookpro --> new items: 6
 Country: us, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2026/02/18 07:43:11
+Country: ca, product: macbookpro --> new items: 6
+Country: xf, product: macbookpro --> new items: 6
+Country: us, product: macbookpro --> new items: 8
+------------------------------------------------------------
