@@ -2939,3 +2939,11 @@ Country: fr, product: iphone --> new items: 3
 Country: it, product: iphone --> new items: 1
 Country: at, product: macstudio --> new items: 1
 ------------------------------------------------------------
+Date: 2026/02/18 09:35:46
+Country: de, product: mini --> new items: 1
+Country: de, product: macbookpro --> new items: 1
+Country: es, product: iphone --> new items: 1
+Country: at, product: mini --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+Country: us, product: iphone --> new items: 2
+------------------------------------------------------------
