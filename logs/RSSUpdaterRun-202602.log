@@ -3006,3 +3006,25 @@ Country: pl, product: macstudio --> new items: 1
 Country: cx, product: macstudio --> new items: 3
 Country: ch, product: macstudio --> new items: 3
 ------------------------------------------------------------
+Date: 2026/02/18 18:37:24
+Country: au, product: macbookpro --> new items: 1
+Country: bx, product: watch --> new items: 1
+Country: bx, product: acc --> new items: 1
+Country: be, product: watch --> new items: 1
+Country: be, product: acc --> new items: 1
+Country: de, product: macstudio --> new items: 1
+Country: de, product: acc --> new items: 1
+Country: nl, product: watch --> new items: 1
+Country: nl, product: acc --> new items: 1
+Country: nz, product: macbookpro --> new items: 1
+Country: at, product: macstudio --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+Country: at, product: watch --> new items: 1
+Country: at, product: acc --> new items: 1
+Country: pl, product: acc --> new items: 1
+Country: cx, product: watch --> new items: 1
+Country: cx, product: acc --> new items: 1
+Country: ch, product: watch --> new items: 1
+Country: ch, product: acc --> new items: 1
+Country: us, product: ipad --> new items: 1
+------------------------------------------------------------
