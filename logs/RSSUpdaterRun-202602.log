@@ -3504,3 +3504,13 @@ Country: it, product: macbookpro --> new items: 1
 Date: 2026/02/21 14:16:29
 Country: us, product: iphone --> new items: 1
 ------------------------------------------------------------
+Date: 2026/02/21 15:14:45
+Country: de, product: mini --> new items: 1
+Country: es, product: imac --> new items: 1
+Country: fr, product: imac --> new items: 3
+Country: it, product: imac --> new items: 2
+Country: at, product: mini --> new items: 1
+Country: pl, product: imac --> new items: 2
+Country: cx, product: imac --> new items: 1
+Country: ch, product: imac --> new items: 1
+------------------------------------------------------------
