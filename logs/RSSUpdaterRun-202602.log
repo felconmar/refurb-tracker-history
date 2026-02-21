@@ -3491,3 +3491,10 @@ Country: cx, product: watch --> new items: 1
 Country: ch, product: watch --> new items: 1
 Country: us, product: iphone --> new items: 1
 ------------------------------------------------------------
+Date: 2026/02/21 12:24:01
+Country: ca, product: mini --> new items: 1
+Country: de, product: watch --> new items: 1
+Country: nl, product: watch --> new items: 1
+Country: us, product: iphone --> new items: 1
+Country: us, product: mini --> new items: 1
+------------------------------------------------------------
