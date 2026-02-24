@@ -3859,3 +3859,21 @@ Country: cx, product: imac --> new items: 1
 Country: ch, product: imac --> new items: 1
 Country: uk, product: iphone --> new items: 3
 ------------------------------------------------------------
+Date: 2026/02/24 15:44:44
+Country: bx, product: iphone --> new items: 1
+Country: bx, product: acc --> new items: 1
+Country: be, product: iphone --> new items: 1
+Country: be, product: acc --> new items: 1
+Country: de, product: iphone --> new items: 1
+Country: de, product: acc --> new items: 1
+Country: ie, product: iphone --> new items: 1
+Country: nl, product: iphone --> new items: 1
+Country: nl, product: acc --> new items: 1
+Country: at, product: iphone --> new items: 1
+Country: at, product: acc --> new items: 1
+Country: cx, product: iphone --> new items: 1
+Country: cx, product: acc --> new items: 1
+Country: ch, product: iphone --> new items: 1
+Country: uk, product: iphone --> new items: 3
+Country: us, product: ipad --> new items: 1
+------------------------------------------------------------
