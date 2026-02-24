@@ -3883,3 +3883,14 @@ Country: ie, product: macbookair --> new items: 2
 Country: pl, product: ipad --> new items: 1
 Country: ch, product: acc --> new items: 1
 ------------------------------------------------------------
+Date: 2026/02/24 17:50:06
+Country: be, product: acc --> new items: 1
+Country: de, product: acc --> new items: 1
+Country: nl, product: macbookpro --> new items: 1
+Country: nl, product: acc --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+Country: at, product: acc --> new items: 1
+Country: pl, product: acc --> new items: 1
+Country: cx, product: acc --> new items: 1
+Country: uk, product: macbookair --> new items: 2
+------------------------------------------------------------
