@@ -3799,3 +3799,11 @@ Country: us, product: iphone --> new items: 1
 Date: 2026/02/24 01:08:32
 Country: xf, product: ipad --> new items: 1
 ------------------------------------------------------------
+Date: 2026/02/24 04:07:45
+Country: ca, product: ipad --> new items: 1
+Country: ca, product: iphone --> new items: 3
+Country: xf, product: iphone --> new items: 3
+Country: jp, product: atv --> new items: 2
+Country: us, product: ipad --> new items: 5
+Country: us, product: iphone --> new items: 17
+------------------------------------------------------------
