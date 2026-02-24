@@ -3920,3 +3920,14 @@ Country: us, product: ipad --> new items: 1
 Country: us, product: iphone --> new items: 6
 Country: us, product: macpro --> new items: 1
 ------------------------------------------------------------
+Date: 2026/02/24 22:22:11
+Country: bx, product: macbookpro --> new items: 1
+Country: bx, product: watch --> new items: 1
+Country: be, product: watch --> new items: 1
+Country: de, product: watch --> new items: 1
+Country: nl, product: watch --> new items: 1
+Country: at, product: watch --> new items: 1
+Country: cx, product: watch --> new items: 1
+Country: ch, product: watch --> new items: 1
+Country: us, product: iphone --> new items: 1
+------------------------------------------------------------
