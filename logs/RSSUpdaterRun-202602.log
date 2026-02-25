@@ -4000,3 +4000,14 @@ Country: us, product: imac --> new items: 1
 Country: us, product: macbookair --> new items: 5
 Country: us, product: watch --> new items: 1
 ------------------------------------------------------------
+Date: 2026/02/25 10:39:24
+Country: de, product: imac --> new items: 2
+Country: de, product: macbookpro --> new items: 1
+Country: es, product: imac --> new items: 1
+Country: fr, product: imac --> new items: 1
+Country: it, product: imac --> new items: 2
+Country: at, product: imac --> new items: 2
+Country: at, product: macbookpro --> new items: 1
+Country: cx, product: imac --> new items: 1
+Country: ch, product: imac --> new items: 1
+------------------------------------------------------------
