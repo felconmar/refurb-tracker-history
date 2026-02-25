@@ -3961,3 +3961,16 @@ Country: us, product: iphone --> new items: 2
 Country: us, product: macstudio --> new items: 5
 Country: us, product: macbookair --> new items: 6
 ------------------------------------------------------------
+Date: 2026/02/25 05:53:45
+Country: ca, product: ipad --> new items: 1
+Country: ca, product: mini --> new items: 6
+Country: xf, product: ipad --> new items: 1
+Country: xf, product: mini --> new items: 4
+Country: de, product: macbookpro --> new items: 1
+Country: ie, product: macbookair --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+Country: uk, product: macbookair --> new items: 1
+Country: us, product: ipad --> new items: 2
+Country: us, product: iphone --> new items: 10
+Country: us, product: mini --> new items: 7
+------------------------------------------------------------
