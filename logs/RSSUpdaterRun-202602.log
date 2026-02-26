@@ -4227,3 +4227,14 @@ Country: xf, product: macbookair --> new items: 1
 Country: at, product: mini --> new items: 1
 Country: us, product: iphone --> new items: 3
 ------------------------------------------------------------
+Date: 2026/02/26 16:44:21
+Country: ca, product: macbookair --> new items: 1
+Country: cn, product: ipad --> new items: 1
+Country: de, product: mini --> new items: 1
+Country: de, product: macbookpro --> new items: 1
+Country: de, product: macbookair --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+Country: at, product: macbookair --> new items: 1
+Country: us, product: iphone --> new items: 1
+Country: us, product: macbookair --> new items: 1
+------------------------------------------------------------
