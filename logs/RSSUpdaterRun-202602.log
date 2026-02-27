@@ -4307,3 +4307,12 @@ Country: nz, product: watch --> new items: 4
 Country: us, product: iphone --> new items: 3
 Country: us, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2026/02/27 05:43:23
+Country: ca, product: iphone --> new items: 2
+Country: ca, product: macbookair --> new items: 5
+Country: xf, product: iphone --> new items: 2
+Country: xf, product: macbookair --> new items: 5
+Country: us, product: ipad --> new items: 2
+Country: us, product: iphone --> new items: 3
+Country: us, product: macbookair --> new items: 7
+------------------------------------------------------------
