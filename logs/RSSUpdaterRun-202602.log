@@ -4343,3 +4343,10 @@ Date: 2026/02/27 11:24:16
 Country: es, product: acc --> new items: 1
 Country: it, product: acc --> new items: 1
 ------------------------------------------------------------
+Date: 2026/02/27 12:33:31
+Country: de, product: macbookpro --> new items: 1
+Country: de, product: macbookair --> new items: 2
+Country: at, product: mini --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+Country: at, product: macbookair --> new items: 2
+------------------------------------------------------------
