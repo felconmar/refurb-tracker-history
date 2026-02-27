@@ -4421,3 +4421,10 @@ Country: us, product: ipad --> new items: 1
 Country: us, product: iphone --> new items: 1
 Country: us, product: macbookair --> new items: 3
 ------------------------------------------------------------
+Date: 2026/02/27 19:25:56
+Country: cn, product: ipad --> new items: 1
+Country: de, product: macstudio --> new items: 1
+Country: de, product: macbookpro --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+Country: pl, product: macstudio --> new items: 1
+------------------------------------------------------------
