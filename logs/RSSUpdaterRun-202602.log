@@ -4487,3 +4487,17 @@ Country: jp, product: macstudio --> new items: 1
 Country: at, product: macbookpro --> new items: 1
 Country: us, product: iphone --> new items: 1
 ------------------------------------------------------------
+Date: 2026/02/28 10:13:05
+Country: bx, product: watch --> new items: 6
+Country: be, product: watch --> new items: 6
+Country: de, product: watch --> new items: 6
+Country: jp, product: macstudio --> new items: 8
+Country: jp, product: mini --> new items: 10
+Country: jp, product: macbookpro --> new items: 3
+Country: jp, product: macbookair --> new items: 41
+Country: nl, product: watch --> new items: 6
+Country: at, product: watch --> new items: 6
+Country: kr, product: macbookpro --> new items: 1
+Country: cx, product: watch --> new items: 6
+Country: ch, product: watch --> new items: 6
+------------------------------------------------------------
