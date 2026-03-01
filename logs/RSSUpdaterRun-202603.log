@@ -92,3 +92,16 @@ Country: us, product: macbookair --> new items: 1
 Date: 2026/03/01 22:13:21
 Country: us, product: iphone --> new items: 1
 ------------------------------------------------------------
+Date: 2026/03/01 23:13:45
+Country: bx, product: iphone --> new items: 2
+Country: be, product: iphone --> new items: 1
+Country: de, product: iphone --> new items: 1
+Country: de, product: homepod --> new items: 1
+Country: ie, product: iphone --> new items: 1
+Country: jp, product: macbookair --> new items: 1
+Country: nl, product: iphone --> new items: 1
+Country: at, product: iphone --> new items: 1
+Country: at, product: homepod --> new items: 1
+Country: cx, product: iphone --> new items: 1
+Country: ch, product: iphone --> new items: 1
+------------------------------------------------------------
