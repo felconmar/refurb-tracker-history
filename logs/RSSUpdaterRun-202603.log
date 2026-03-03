@@ -381,3 +381,14 @@ Country: cx, product: macstudio --> new items: 1
 Country: ch, product: macstudio --> new items: 1
 Country: us, product: iphone --> new items: 1
 ------------------------------------------------------------
+Date: 2026/03/03 21:23:52
+Country: ca, product: macbookpro --> new items: 8
+Country: ca, product: macbookair --> new items: 13
+Country: xf, product: macbookpro --> new items: 8
+Country: xf, product: macbookair --> new items: 13
+Country: de, product: macbookpro --> new items: 1
+Country: jp, product: mini --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+Country: us, product: macbookpro --> new items: 8
+Country: us, product: macbookair --> new items: 15
+------------------------------------------------------------
