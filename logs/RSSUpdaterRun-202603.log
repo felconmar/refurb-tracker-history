@@ -261,3 +261,8 @@ Country: es, product: macbookair --> new items: 1
 Country: nl, product: macbookpro --> new items: 1
 Country: at, product: homepod --> new items: 2
 ------------------------------------------------------------
+Date: 2026/03/03 11:23:44
+Country: de, product: homepod --> new items: 1
+Country: pl, product: ipad --> new items: 1
+Country: us, product: iphone --> new items: 1
+------------------------------------------------------------
