@@ -367,3 +367,17 @@ Country: at, product: macbookair --> new items: 1
 Country: cx, product: macbookair --> new items: 1
 Country: ch, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2026/03/03 20:21:38
+Country: bx, product: macstudio --> new items: 1
+Country: be, product: macstudio --> new items: 1
+Country: de, product: macstudio --> new items: 3
+Country: fr, product: macstudio --> new items: 1
+Country: fr, product: macbookpro --> new items: 1
+Country: ie, product: macbookair --> new items: 1
+Country: nl, product: macstudio --> new items: 1
+Country: nl, product: macbookair --> new items: 1
+Country: at, product: macstudio --> new items: 3
+Country: cx, product: macstudio --> new items: 1
+Country: ch, product: macstudio --> new items: 1
+Country: us, product: iphone --> new items: 1
+------------------------------------------------------------
