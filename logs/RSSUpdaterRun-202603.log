@@ -217,3 +217,8 @@ Country: cx, product: homepod --> new items: 1
 Country: ch, product: homepod --> new items: 1
 Country: uk, product: macbookair --> new items: 20
 ------------------------------------------------------------
+Date: 2026/03/03 04:04:09
+Country: cn, product: mini --> new items: 1
+Country: us, product: iphone --> new items: 3
+Country: us, product: watch --> new items: 1
+------------------------------------------------------------
