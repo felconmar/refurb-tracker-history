@@ -205,3 +205,15 @@ Country: us, product: iphone --> new items: 2
 Date: 2026/03/02 23:15:39
 Country: us, product: iphone --> new items: 1
 ------------------------------------------------------------
+Date: 2026/03/03 01:10:35
+Country: bx, product: homepod --> new items: 1
+Country: be, product: homepod --> new items: 1
+Country: es, product: homepod --> new items: 1
+Country: es, product: macbookair --> new items: 1
+Country: ie, product: macbookair --> new items: 20
+Country: it, product: homepod --> new items: 1
+Country: nl, product: homepod --> new items: 1
+Country: cx, product: homepod --> new items: 1
+Country: ch, product: homepod --> new items: 1
+Country: uk, product: macbookair --> new items: 20
+------------------------------------------------------------
