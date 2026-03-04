@@ -444,3 +444,9 @@ Country: nz, product: macstudio --> new items: 3
 Country: nz, product: macbookpro --> new items: 1
 Country: nz, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2026/03/04 06:33:44
+Country: au, product: macbookpro --> new items: 10
+Country: au, product: macbookair --> new items: 9
+Country: nz, product: macbookpro --> new items: 10
+Country: nz, product: macbookair --> new items: 8
+------------------------------------------------------------
