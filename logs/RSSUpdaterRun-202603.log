@@ -469,3 +469,11 @@ Country: de, product: macbookpro --> new items: 1
 Country: at, product: macbookpro --> new items: 1
 Country: us, product: iphone --> new items: 2
 ------------------------------------------------------------
+Date: 2026/03/04 10:24:54
+Country: ca, product: mini --> new items: 2
+Country: ca, product: macbookair --> new items: 1
+Country: xf, product: mini --> new items: 2
+Country: xf, product: macbookair --> new items: 1
+Country: us, product: mini --> new items: 2
+Country: us, product: macbookair --> new items: 1
+------------------------------------------------------------
