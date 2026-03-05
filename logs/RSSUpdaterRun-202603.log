@@ -754,3 +754,26 @@ Country: cx, product: ipad --> new items: 1
 Country: uk, product: macstudio --> new items: 2
 Country: us, product: imac --> new items: 5
 ------------------------------------------------------------
+Date: 2026/03/05 20:28:00
+Country: au, product: macbookpro --> new items: 1
+Country: au, product: macbookair --> new items: 2
+Country: bx, product: macbookpro --> new items: 1
+Country: bx, product: acc --> new items: 1
+Country: be, product: macbookpro --> new items: 1
+Country: be, product: acc --> new items: 1
+Country: ca, product: imac --> new items: 16
+Country: xf, product: imac --> new items: 15
+Country: cn, product: mini --> new items: 1
+Country: de, product: macbookair --> new items: 1
+Country: ie, product: macstudio --> new items: 2
+Country: jp, product: macbookpro --> new items: 1
+Country: jp, product: macbookair --> new items: 1
+Country: nl, product: acc --> new items: 1
+Country: nz, product: macbookpro --> new items: 1
+Country: nz, product: macbookair --> new items: 2
+Country: at, product: acc --> new items: 1
+Country: pl, product: acc --> new items: 1
+Country: cx, product: acc --> new items: 1
+Country: ch, product: acc --> new items: 1
+Country: us, product: imac --> new items: 12
+------------------------------------------------------------
