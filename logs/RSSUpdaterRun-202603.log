@@ -712,3 +712,33 @@ Country: at, product: iphone --> new items: 1
 Country: ch, product: iphone --> new items: 1
 Country: us, product: imac --> new items: 5
 ------------------------------------------------------------
+Date: 2026/03/05 17:57:03
+Country: bx, product: ipad --> new items: 1
+Country: bx, product: iphone --> new items: 2
+Country: bx, product: macbookpro --> new items: 1
+Country: be, product: ipad --> new items: 1
+Country: be, product: iphone --> new items: 2
+Country: be, product: macbookpro --> new items: 1
+Country: ca, product: ipad --> new items: 1
+Country: ca, product: imac --> new items: 10
+Country: xf, product: ipad --> new items: 1
+Country: xf, product: imac --> new items: 10
+Country: cn, product: macbookair --> new items: 1
+Country: de, product: ipad --> new items: 1
+Country: de, product: iphone --> new items: 2
+Country: de, product: imac --> new items: 1
+Country: es, product: ipad --> new items: 1
+Country: ie, product: iphone --> new items: 1
+Country: it, product: ipad --> new items: 1
+Country: jp, product: ipad --> new items: 1
+Country: jp, product: homepod --> new items: 1
+Country: nl, product: ipad --> new items: 1
+Country: nl, product: iphone --> new items: 2
+Country: at, product: ipad --> new items: 1
+Country: at, product: iphone --> new items: 2
+Country: cx, product: ipad --> new items: 1
+Country: cx, product: iphone --> new items: 1
+Country: ch, product: ipad --> new items: 1
+Country: ch, product: iphone --> new items: 1
+Country: us, product: imac --> new items: 3
+------------------------------------------------------------
