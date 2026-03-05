@@ -575,3 +575,15 @@ Country: uk, product: iphone --> new items: 3
 Country: us, product: iphone --> new items: 3
 Country: us, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2026/03/05 01:09:03
+Country: ca, product: imac --> new items: 27
+Country: ca, product: macstudio --> new items: 1
+Country: xf, product: imac --> new items: 27
+Country: xf, product: macstudio --> new items: 1
+Country: es, product: macbookpro --> new items: 1
+Country: fr, product: macbookpro --> new items: 1
+Country: nl, product: macbookpro --> new items: 12
+Country: nl, product: macbookair --> new items: 19
+Country: us, product: imac --> new items: 26
+Country: us, product: macstudio --> new items: 1
+------------------------------------------------------------
