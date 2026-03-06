@@ -814,3 +814,11 @@ Country: us, product: imac --> new items: 3
 Date: 2026/03/06 01:13:05
 Country: us, product: ipad --> new items: 1
 ------------------------------------------------------------
+Date: 2026/03/06 03:59:40
+Country: au, product: macbookair --> new items: 21
+Country: jp, product: ipad --> new items: 3
+Country: jp, product: iphone --> new items: 20
+Country: jp, product: acc --> new items: 1
+Country: nz, product: macbookair --> new items: 21
+Country: us, product: watch --> new items: 1
+------------------------------------------------------------
