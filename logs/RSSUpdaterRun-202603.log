@@ -968,3 +968,14 @@ Country: cx, product: iphone --> new items: 2
 Country: ch, product: iphone --> new items: 2
 Country: us, product: macbookpro --> new items: 27
 ------------------------------------------------------------
+Date: 2026/03/06 23:17:51
+Country: au, product: macbookair --> new items: 1
+Country: bx, product: iphone --> new items: 1
+Country: be, product: iphone --> new items: 1
+Country: ca, product: macbookpro --> new items: 2
+Country: de, product: iphone --> new items: 1
+Country: ie, product: iphone --> new items: 1
+Country: nl, product: iphone --> new items: 1
+Country: at, product: iphone --> new items: 1
+Country: us, product: macbookpro --> new items: 2
+------------------------------------------------------------
