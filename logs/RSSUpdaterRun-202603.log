@@ -822,3 +822,11 @@ Country: jp, product: acc --> new items: 1
 Country: nz, product: macbookair --> new items: 21
 Country: us, product: watch --> new items: 1
 ------------------------------------------------------------
+Date: 2026/03/06 05:09:29
+Country: au, product: watch --> new items: 4
+Country: ca, product: macbookpro --> new items: 1
+Country: xf, product: macbookpro --> new items: 1
+Country: nz, product: watch --> new items: 4
+Country: us, product: ipad --> new items: 2
+Country: us, product: macbookpro --> new items: 1
+------------------------------------------------------------
