@@ -1099,3 +1099,16 @@ Country: nz, product: macbookair --> new items: 1
 Country: at, product: macbookpro --> new items: 1
 Country: us, product: iphone --> new items: 1
 ------------------------------------------------------------
+Date: 2026/03/07 20:13:51
+Country: bx, product: iphone --> new items: 1
+Country: be, product: iphone --> new items: 1
+Country: ca, product: macstudio --> new items: 1
+Country: ca, product: macbookair --> new items: 5
+Country: xf, product: macstudio --> new items: 1
+Country: xf, product: macbookair --> new items: 5
+Country: de, product: iphone --> new items: 1
+Country: nl, product: iphone --> new items: 1
+Country: at, product: iphone --> new items: 1
+Country: us, product: macstudio --> new items: 1
+Country: us, product: macbookair --> new items: 3
+------------------------------------------------------------
