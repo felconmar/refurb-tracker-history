@@ -1376,3 +1376,11 @@ Country: cx, product: iphone --> new items: 1
 Country: ch, product: iphone --> new items: 1
 Country: uk, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2026/03/09 22:17:57
+Country: ca, product: macbookair --> new items: 1
+Country: xf, product: macbookair --> new items: 3
+Country: at, product: iphone --> new items: 1
+Country: at, product: macbookair --> new items: 8
+Country: ch, product: iphone --> new items: 1
+Country: us, product: macbookair --> new items: 1
+------------------------------------------------------------
