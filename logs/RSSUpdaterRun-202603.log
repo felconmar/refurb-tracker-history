@@ -1402,3 +1402,24 @@ Country: uk, product: macbookpro --> new items: 3
 Country: uk, product: macbookair --> new items: 27
 Country: us, product: iphone --> new items: 1
 ------------------------------------------------------------
+Date: 2026/03/10 03:58:41
+Country: au, product: macbookair --> new items: 1
+Country: ca, product: mini --> new items: 1
+Country: ca, product: macbookair --> new items: 21
+Country: xf, product: mini --> new items: 1
+Country: xf, product: macbookair --> new items: 19
+Country: de, product: ipad --> new items: 1
+Country: de, product: macbookair --> new items: 1
+Country: es, product: ipad --> new items: 1
+Country: it, product: ipad --> new items: 1
+Country: jp, product: homepod --> new items: 1
+Country: jp, product: macbookair --> new items: 1
+Country: nl, product: ipad --> new items: 1
+Country: at, product: macbookair --> new items: 1
+Country: kr, product: macbookpro --> new items: 11
+Country: kr, product: macbookair --> new items: 1
+Country: tw, product: macbookpro --> new items: 17
+Country: tw, product: macbookair --> new items: 6
+Country: us, product: mini --> new items: 1
+Country: us, product: macbookair --> new items: 20
+------------------------------------------------------------
