@@ -1847,3 +1847,10 @@ Country: nz, product: macbookpro --> new items: 6
 Country: nz, product: macbookair --> new items: 15
 Country: us, product: macbookair --> new items: 2
 ------------------------------------------------------------
+Date: 2026/03/12 06:40:03
+Country: ca, product: mini --> new items: 1
+Country: ca, product: macbookair --> new items: 1
+Country: xf, product: mini --> new items: 1
+Country: us, product: mini --> new items: 1
+Country: us, product: macbookair --> new items: 1
+------------------------------------------------------------
