@@ -2021,3 +2021,8 @@ Country: ch, product: ipad --> new items: 1
 Country: us, product: macbookpro --> new items: 5
 Country: us, product: macbookair --> new items: 11
 ------------------------------------------------------------
+Date: 2026/03/13 06:37:55
+Country: be, product: iphone --> new items: 1
+Country: de, product: iphone --> new items: 1
+Country: nl, product: iphone --> new items: 1
+------------------------------------------------------------
