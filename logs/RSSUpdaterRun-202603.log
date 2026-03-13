@@ -2026,3 +2026,15 @@ Country: be, product: iphone --> new items: 1
 Country: de, product: iphone --> new items: 1
 Country: nl, product: iphone --> new items: 1
 ------------------------------------------------------------
+Date: 2026/03/13 07:37:36
+Country: bx, product: ipad --> new items: 1
+Country: bx, product: iphone --> new items: 1
+Country: be, product: ipad --> new items: 1
+Country: de, product: ipad --> new items: 1
+Country: nl, product: ipad --> new items: 1
+Country: at, product: iphone --> new items: 1
+Country: sg, product: mini --> new items: 1
+Country: sg, product: macbookpro --> new items: 1
+Country: ch, product: ipad --> new items: 1
+Country: ch, product: macbookair --> new items: 1
+------------------------------------------------------------
