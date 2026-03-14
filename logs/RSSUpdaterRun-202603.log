@@ -2202,3 +2202,10 @@ Country: fr, product: macbookair --> new items: 3
 Country: it, product: ipad --> new items: 1
 Country: us, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2026/03/14 01:07:01
+Country: au, product: macbookpro --> new items: 1
+Country: au, product: macbookair --> new items: 1
+Country: nz, product: macbookpro --> new items: 1
+Country: nz, product: macbookair --> new items: 1
+Country: us, product: iphone --> new items: 1
+------------------------------------------------------------
