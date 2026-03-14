@@ -2295,3 +2295,14 @@ Country: it, product: macbookair --> new items: 1
 Country: us, product: imac --> new items: 1
 Country: us, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2026/03/14 18:22:24
+Country: bx, product: macbookpro --> new items: 1
+Country: be, product: macbookpro --> new items: 1
+Country: ca, product: imac --> new items: 1
+Country: ca, product: macbookpro --> new items: 1
+Country: xf, product: imac --> new items: 1
+Country: xf, product: macbookpro --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+Country: us, product: imac --> new items: 1
+Country: us, product: macbookpro --> new items: 1
+------------------------------------------------------------
