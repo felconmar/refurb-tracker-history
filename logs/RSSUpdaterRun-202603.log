@@ -2456,3 +2456,19 @@ Country: jp, product: mini --> new items: 15
 Country: jp, product: macbookpro --> new items: 17
 Country: jp, product: macbookair --> new items: 48
 ------------------------------------------------------------
+Date: 2026/03/16 09:53:42
+Country: bx, product: watch --> new items: 1
+Country: be, product: watch --> new items: 1
+Country: de, product: imac --> new items: 1
+Country: de, product: macbookair --> new items: 3
+Country: de, product: watch --> new items: 1
+Country: es, product: macbookair --> new items: 1
+Country: fr, product: iphone --> new items: 3
+Country: fr, product: macbookair --> new items: 1
+Country: nl, product: watch --> new items: 1
+Country: at, product: imac --> new items: 1
+Country: at, product: macbookair --> new items: 1
+Country: at, product: watch --> new items: 1
+Country: cx, product: watch --> new items: 1
+Country: ch, product: watch --> new items: 1
+------------------------------------------------------------
