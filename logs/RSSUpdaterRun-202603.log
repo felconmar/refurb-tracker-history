@@ -2562,3 +2562,14 @@ Country: de, product: macbookair --> new items: 1
 Country: ie, product: mini --> new items: 1
 Country: at, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2026/03/16 22:22:19
+Country: de, product: mini --> new items: 1
+Country: de, product: macbookair --> new items: 1
+Country: ie, product: macbookpro --> new items: 12
+Country: ie, product: macbookair --> new items: 24
+Country: at, product: mini --> new items: 1
+Country: at, product: macbookair --> new items: 1
+Country: uk, product: mini --> new items: 1
+Country: uk, product: macbookpro --> new items: 12
+Country: uk, product: macbookair --> new items: 1
+------------------------------------------------------------
