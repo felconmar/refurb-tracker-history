@@ -2701,3 +2701,12 @@ Country: uk, product: iphone --> new items: 1
 Country: us, product: mini --> new items: 24
 Country: us, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2026/03/17 19:47:28
+Country: ca, product: macbookair --> new items: 6
+Country: xf, product: macbookair --> new items: 1
+Country: de, product: macbookpro --> new items: 1
+Country: nl, product: macbookpro --> new items: 1
+Country: nl, product: macbookair --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+Country: us, product: macbookair --> new items: 6
+------------------------------------------------------------
