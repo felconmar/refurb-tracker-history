@@ -2597,3 +2597,10 @@ Country: ca, product: imac --> new items: 1
 Country: nz, product: macbookpro --> new items: 5
 Country: nz, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2026/03/17 05:51:42
+Country: au, product: macbookpro --> new items: 2
+Country: au, product: macbookair --> new items: 1
+Country: nz, product: macbookpro --> new items: 2
+Country: nz, product: macbookair --> new items: 1
+Country: sg, product: macbookair --> new items: 1
+------------------------------------------------------------
