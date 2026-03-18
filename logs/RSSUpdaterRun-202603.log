@@ -2763,3 +2763,8 @@ Country: xf, product: mini --> new items: 1
 Country: de, product: macbookpro --> new items: 2
 Country: at, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2026/03/18 04:13:02
+Country: au, product: macbookair --> new items: 2
+Country: nz, product: macbookair --> new items: 1
+Country: tw, product: imac --> new items: 21
+------------------------------------------------------------
