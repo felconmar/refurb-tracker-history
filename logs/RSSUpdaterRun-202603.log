@@ -2875,3 +2875,12 @@ Country: bx, product: macbookair --> new items: 1
 Country: xf, product: macbookpro --> new items: 8
 Country: sg, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2026/03/18 20:25:10
+Country: ca, product: macstudio --> new items: 1
+Country: ca, product: macbookpro --> new items: 34
+Country: xf, product: macstudio --> new items: 1
+Country: xf, product: macbookpro --> new items: 28
+Country: nl, product: macbookair --> new items: 1
+Country: us, product: macstudio --> new items: 1
+Country: us, product: macbookpro --> new items: 33
+------------------------------------------------------------
