@@ -2944,3 +2944,18 @@ Country: pl, product: ipad --> new items: 1
 Date: 2026/03/19 07:39:28
 Country: cn, product: ipad --> new items: 1
 ------------------------------------------------------------
+Date: 2026/03/19 08:30:02
+Country: au, product: ipad --> new items: 5
+Country: au, product: watch --> new items: 8
+Country: cn, product: ipad --> new items: 31
+Country: cn, product: watch --> new items: 19
+Country: hk, product: ipad --> new items: 11
+Country: hk, product: watch --> new items: 8
+Country: jp, product: ipad --> new items: 2
+Country: jp, product: macbookair --> new items: 1
+Country: nz, product: ipad --> new items: 5
+Country: nz, product: watch --> new items: 8
+Country: sg, product: ipad --> new items: 11
+Country: sg, product: mini --> new items: 1
+Country: sg, product: watch --> new items: 2
+------------------------------------------------------------
