@@ -3225,3 +3225,16 @@ Country: xf, product: mini --> new items: 6
 Country: es, product: macbookair --> new items: 1
 Country: nl, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2026/03/20 18:32:40
+Country: be, product: iphone --> new items: 1
+Country: ca, product: imac --> new items: 1
+Country: ca, product: mini --> new items: 4
+Country: xf, product: imac --> new items: 1
+Country: de, product: macbookpro --> new items: 1
+Country: fr, product: iphone --> new items: 1
+Country: nl, product: iphone --> new items: 1
+Country: nl, product: macbookpro --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+Country: us, product: imac --> new items: 1
+Country: us, product: mini --> new items: 4
+------------------------------------------------------------
