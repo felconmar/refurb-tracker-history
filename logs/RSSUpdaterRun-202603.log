@@ -3238,3 +3238,14 @@ Country: at, product: macbookpro --> new items: 1
 Country: us, product: imac --> new items: 1
 Country: us, product: mini --> new items: 4
 ------------------------------------------------------------
+Date: 2026/03/20 19:30:27
+Country: bx, product: macstudio --> new items: 1
+Country: be, product: macstudio --> new items: 1
+Country: cn, product: macbookair --> new items: 1
+Country: de, product: macstudio --> new items: 1
+Country: de, product: macbookpro --> new items: 1
+Country: nl, product: macstudio --> new items: 1
+Country: nl, product: macbookair --> new items: 1
+Country: at, product: macstudio --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+------------------------------------------------------------
