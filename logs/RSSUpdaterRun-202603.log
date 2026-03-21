@@ -3290,3 +3290,9 @@ Country: xf, product: macbookair --> new items: 30
 Country: es, product: macbookair --> new items: 1
 Country: us, product: macbookair --> new items: 23
 ------------------------------------------------------------
+Date: 2026/03/21 05:01:09
+Country: ca, product: macbookair --> new items: 18
+Country: xf, product: macbookair --> new items: 18
+Country: es, product: macbookpro --> new items: 1
+Country: us, product: macbookair --> new items: 27
+------------------------------------------------------------
