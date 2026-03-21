@@ -3276,3 +3276,11 @@ Country: at, product: macbookair --> new items: 1
 Country: us, product: mini --> new items: 1
 Country: us, product: macbookair --> new items: 2
 ------------------------------------------------------------
+Date: 2026/03/21 01:04:58
+Country: ca, product: iphone --> new items: 1
+Country: ca, product: macbookair --> new items: 7
+Country: xf, product: iphone --> new items: 1
+Country: xf, product: macbookair --> new items: 8
+Country: es, product: macbookair --> new items: 1
+Country: us, product: macbookair --> new items: 7
+------------------------------------------------------------
