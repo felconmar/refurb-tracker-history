@@ -3595,3 +3595,11 @@ Country: cx, product: iphone --> new items: 1
 Country: ch, product: iphone --> new items: 1
 Country: us, product: iphone --> new items: 1
 ------------------------------------------------------------
+Date: 2026/03/22 23:17:07
+Country: de, product: iphone --> new items: 1
+Country: de, product: macstudio --> new items: 1
+Country: nz, product: macbookpro --> new items: 1
+Country: nz, product: macbookair --> new items: 14
+Country: at, product: iphone --> new items: 1
+Country: us, product: ipad --> new items: 1
+------------------------------------------------------------
