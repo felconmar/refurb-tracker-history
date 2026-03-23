@@ -3661,3 +3661,16 @@ Date: 2026/03/23 11:36:09
 Country: de, product: macbookpro --> new items: 1
 Country: at, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2026/03/23 12:40:15
+Country: be, product: iphone --> new items: 1
+Country: de, product: iphone --> new items: 2
+Country: de, product: mini --> new items: 1
+Country: fr, product: mini --> new items: 1
+Country: ie, product: iphone --> new items: 1
+Country: nl, product: iphone --> new items: 1
+Country: at, product: iphone --> new items: 2
+Country: at, product: homepod --> new items: 1
+Country: at, product: mini --> new items: 1
+Country: ch, product: iphone --> new items: 1
+Country: uk, product: iphone --> new items: 1
+------------------------------------------------------------
