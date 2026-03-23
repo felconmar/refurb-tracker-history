@@ -3603,3 +3603,11 @@ Country: nz, product: macbookair --> new items: 14
 Country: at, product: iphone --> new items: 1
 Country: us, product: ipad --> new items: 1
 ------------------------------------------------------------
+Date: 2026/03/23 01:14:19
+Country: au, product: macstudio --> new items: 11
+Country: au, product: mini --> new items: 10
+Country: au, product: macbookpro --> new items: 1
+Country: au, product: macbookair --> new items: 10
+Country: nz, product: macstudio --> new items: 11
+Country: nz, product: mini --> new items: 10
+------------------------------------------------------------
