@@ -3923,3 +3923,12 @@ Country: at, product: iphone --> new items: 2
 Country: cx, product: iphone --> new items: 1
 Country: ch, product: iphone --> new items: 1
 ------------------------------------------------------------
+Date: 2026/03/24 20:30:28
+Country: ca, product: iphone --> new items: 1
+Country: xf, product: iphone --> new items: 1
+Country: de, product: macbookpro --> new items: 1
+Country: de, product: macbookair --> new items: 2
+Country: at, product: macbookpro --> new items: 1
+Country: pl, product: macbookpro --> new items: 1
+Country: us, product: iphone --> new items: 1
+------------------------------------------------------------
