@@ -3862,3 +3862,14 @@ Country: pl, product: acc --> new items: 1
 Country: cx, product: acc --> new items: 1
 Country: ch, product: acc --> new items: 1
 ------------------------------------------------------------
+Date: 2026/03/24 14:12:31
+Country: cn, product: macbookpro --> new items: 1
+Country: de, product: imac --> new items: 1
+Country: de, product: macstudio --> new items: 2
+Country: de, product: macbookair --> new items: 2
+Country: es, product: macbookair --> new items: 1
+Country: it, product: macbookair --> new items: 1
+Country: at, product: macstudio --> new items: 1
+Country: at, product: macbookair --> new items: 2
+Country: uk, product: iphone --> new items: 2
+------------------------------------------------------------
