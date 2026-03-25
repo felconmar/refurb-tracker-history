@@ -4150,3 +4150,23 @@ Country: ch, product: macbookair --> new items: 2
 Country: ch, product: watch --> new items: 1
 Country: ch, product: acc --> new items: 1
 ------------------------------------------------------------
+Date: 2026/03/25 22:24:40
+Country: bx, product: iphone --> new items: 1
+Country: bx, product: macbookair --> new items: 2
+Country: be, product: iphone --> new items: 1
+Country: be, product: macbookair --> new items: 2
+Country: ca, product: macbookair --> new items: 1
+Country: de, product: iphone --> new items: 1
+Country: de, product: macbookpro --> new items: 1
+Country: de, product: macbookair --> new items: 10
+Country: es, product: macbookair --> new items: 2
+Country: fr, product: macbookair --> new items: 8
+Country: it, product: macbookair --> new items: 3
+Country: nl, product: iphone --> new items: 1
+Country: nl, product: macbookair --> new items: 2
+Country: at, product: iphone --> new items: 1
+Country: at, product: macbookpro --> new items: 2
+Country: at, product: macbookair --> new items: 10
+Country: pl, product: macbookair --> new items: 4
+Country: cx, product: macbookair --> new items: 2
+------------------------------------------------------------
