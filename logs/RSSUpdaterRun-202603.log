@@ -4170,3 +4170,9 @@ Country: at, product: macbookair --> new items: 10
 Country: pl, product: macbookair --> new items: 4
 Country: cx, product: macbookair --> new items: 2
 ------------------------------------------------------------
+Date: 2026/03/25 23:23:37
+Country: ca, product: macbookpro --> new items: 1
+Country: de, product: macbookpro --> new items: 1
+Country: us, product: ipad --> new items: 1
+Country: us, product: macbookpro --> new items: 1
+------------------------------------------------------------
