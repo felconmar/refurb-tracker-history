@@ -4373,3 +4373,9 @@ Country: pl, product: macbookair --> new items: 1
 Date: 2026/03/27 11:34:10
 Country: jp, product: imac --> new items: 1
 ------------------------------------------------------------
+Date: 2026/03/27 12:38:26
+Country: de, product: macbookpro --> new items: 3
+Country: fr, product: imac --> new items: 1
+Country: fr, product: macbookair --> new items: 1
+Country: at, product: macbookpro --> new items: 3
+------------------------------------------------------------
