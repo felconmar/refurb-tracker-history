@@ -4842,3 +4842,13 @@ Country: xf, product: macstudio --> new items: 6
 Country: ch, product: imac --> new items: 1
 Country: us, product: macstudio --> new items: 5
 ------------------------------------------------------------
+Date: 2026/03/30 22:24:01
+Country: ca, product: imac --> new items: 1
+Country: ca, product: macstudio --> new items: 7
+Country: xf, product: imac --> new items: 1
+Country: xf, product: macstudio --> new items: 2
+Country: de, product: macbookair --> new items: 1
+Country: nl, product: iphone --> new items: 1
+Country: us, product: imac --> new items: 1
+Country: us, product: macstudio --> new items: 4
+------------------------------------------------------------
