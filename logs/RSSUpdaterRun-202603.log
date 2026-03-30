@@ -4749,3 +4749,7 @@ Country: at, product: iphone --> new items: 1
 Country: at, product: macbookpro --> new items: 1
 Country: sg, product: macbookpro --> new items: 2
 ------------------------------------------------------------
+Date: 2026/03/30 12:52:20
+Country: ie, product: iphone --> new items: 1
+Country: uk, product: iphone --> new items: 22
+------------------------------------------------------------
