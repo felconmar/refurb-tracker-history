@@ -4966,3 +4966,12 @@ Country: nl, product: iphone --> new items: 1
 Country: at, product: iphone --> new items: 1
 Country: us, product: mini --> new items: 1
 ------------------------------------------------------------
+Date: 2026/03/31 18:44:59
+Country: ca, product: iphone --> new items: 4
+Country: ca, product: macbookair --> new items: 1
+Country: xf, product: iphone --> new items: 1
+Country: xf, product: macbookair --> new items: 1
+Country: de, product: macbookpro --> new items: 1
+Country: de, product: macbookair --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+------------------------------------------------------------
