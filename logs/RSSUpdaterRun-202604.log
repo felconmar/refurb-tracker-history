@@ -416,3 +416,14 @@ Country: at, product: iphone --> new items: 1
 Country: at, product: homepod --> new items: 1
 Country: at, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2026/04/02 23:23:57
+Country: ca, product: imac --> new items: 3
+Country: xf, product: imac --> new items: 15
+Country: de, product: macbookpro --> new items: 1
+Country: de, product: macbookair --> new items: 1
+Country: fr, product: mini --> new items: 1
+Country: jp, product: iphone --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+Country: at, product: macbookair --> new items: 1
+Country: us, product: imac --> new items: 3
+------------------------------------------------------------
