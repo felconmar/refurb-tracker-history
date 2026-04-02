@@ -314,3 +314,15 @@ Date: 2026/04/02 14:15:20
 Country: ie, product: iphone --> new items: 1
 Country: uk, product: iphone --> new items: 5
 ------------------------------------------------------------
+Date: 2026/04/02 15:50:02
+Country: ca, product: ipad --> new items: 1
+Country: xf, product: ipad --> new items: 1
+Country: xf, product: macbookair --> new items: 1
+Country: es, product: imac --> new items: 1
+Country: fr, product: macbookair --> new items: 1
+Country: nl, product: macbookpro --> new items: 1
+Country: pl, product: macbookair --> new items: 1
+Country: kr, product: macbookpro --> new items: 1
+Country: uk, product: ipad --> new items: 3
+Country: uk, product: iphone --> new items: 7
+------------------------------------------------------------
