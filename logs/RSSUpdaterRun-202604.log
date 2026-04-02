@@ -390,3 +390,19 @@ Country: jp, product: iphone --> new items: 1
 Country: nl, product: imac --> new items: 1
 Country: pl, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2026/04/02 21:26:37
+Country: bx, product: macstudio --> new items: 1
+Country: bx, product: macbookair --> new items: 1
+Country: be, product: macstudio --> new items: 1
+Country: be, product: macbookair --> new items: 1
+Country: ca, product: macbookair --> new items: 10
+Country: xf, product: macbookair --> new items: 9
+Country: cn, product: macbookpro --> new items: 1
+Country: de, product: macbookpro --> new items: 1
+Country: de, product: macbookair --> new items: 1
+Country: nl, product: iphone --> new items: 1
+Country: nl, product: macstudio --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+Country: at, product: macbookair --> new items: 1
+Country: us, product: macbookair --> new items: 10
+------------------------------------------------------------
