@@ -528,3 +528,13 @@ Country: us, product: imac --> new items: 1
 Date: 2026/04/03 16:27:53
 Country: nl, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2026/04/03 17:24:40
+Country: ca, product: imac --> new items: 12
+Country: ca, product: macbookpro --> new items: 1
+Country: xf, product: imac --> new items: 11
+Country: xf, product: macbookpro --> new items: 1
+Country: de, product: macbookair --> new items: 1
+Country: at, product: macbookair --> new items: 1
+Country: us, product: imac --> new items: 12
+Country: us, product: macbookpro --> new items: 1
+------------------------------------------------------------
