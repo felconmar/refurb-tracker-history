@@ -595,3 +595,14 @@ Country: cx, product: ipad --> new items: 3
 Country: ch, product: ipad --> new items: 3
 Country: us, product: imac --> new items: 8
 ------------------------------------------------------------
+Date: 2026/04/03 22:21:58
+Country: ca, product: iphone --> new items: 1
+Country: ca, product: imac --> new items: 38
+Country: xf, product: iphone --> new items: 1
+Country: xf, product: imac --> new items: 24
+Country: de, product: macbookair --> new items: 1
+Country: nl, product: macbookair --> new items: 1
+Country: at, product: macbookair --> new items: 1
+Country: us, product: ipad --> new items: 1
+Country: us, product: imac --> new items: 39
+------------------------------------------------------------
