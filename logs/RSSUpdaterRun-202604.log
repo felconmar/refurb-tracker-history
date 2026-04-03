@@ -550,3 +550,15 @@ Country: at, product: macbookpro --> new items: 2
 Country: at, product: macbookair --> new items: 1
 Country: us, product: imac --> new items: 11
 ------------------------------------------------------------
+Date: 2026/04/03 19:31:28
+Country: bx, product: iphone --> new items: 1
+Country: be, product: iphone --> new items: 2
+Country: ca, product: iphone --> new items: 1
+Country: xf, product: ipad --> new items: 1
+Country: xf, product: iphone --> new items: 1
+Country: de, product: iphone --> new items: 2
+Country: de, product: macbookair --> new items: 1
+Country: es, product: macbookpro --> new items: 1
+Country: nl, product: iphone --> new items: 1
+Country: at, product: iphone --> new items: 1
+------------------------------------------------------------
