@@ -481,3 +481,13 @@ Country: nl, product: iphone --> new items: 3
 Country: nl, product: macbookpro --> new items: 1
 Country: at, product: iphone --> new items: 3
 ------------------------------------------------------------
+Date: 2026/04/03 12:38:16
+Country: bx, product: iphone --> new items: 1
+Country: be, product: iphone --> new items: 1
+Country: de, product: iphone --> new items: 1
+Country: de, product: macbookpro --> new items: 1
+Country: fr, product: iphone --> new items: 1
+Country: nl, product: iphone --> new items: 1
+Country: at, product: iphone --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+------------------------------------------------------------
