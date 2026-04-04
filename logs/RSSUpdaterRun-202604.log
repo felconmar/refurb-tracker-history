@@ -718,3 +718,16 @@ Country: at, product: macbookpro --> new items: 2
 Country: us, product: ipad --> new items: 5
 Country: us, product: iphone --> new items: 2
 ------------------------------------------------------------
+Date: 2026/04/04 19:23:36
+Country: bx, product: iphone --> new items: 1
+Country: be, product: iphone --> new items: 1
+Country: de, product: iphone --> new items: 1
+Country: de, product: homepod --> new items: 1
+Country: ie, product: iphone --> new items: 1
+Country: nl, product: iphone --> new items: 1
+Country: at, product: iphone --> new items: 1
+Country: at, product: homepod --> new items: 1
+Country: cx, product: iphone --> new items: 1
+Country: ch, product: iphone --> new items: 1
+Country: us, product: ipad --> new items: 2
+------------------------------------------------------------
