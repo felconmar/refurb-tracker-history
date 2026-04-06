@@ -911,3 +911,7 @@ Country: bx, product: iphone --> new items: 1
 Country: de, product: iphone --> new items: 1
 Country: us, product: iphone --> new items: 1
 ------------------------------------------------------------
+Date: 2026/04/06 10:56:17
+Country: uk, product: iphone --> new items: 1
+Country: us, product: ipad --> new items: 1
+------------------------------------------------------------
