@@ -1010,3 +1010,8 @@ Country: us, product: ipad --> new items: 2
 Country: us, product: iphone --> new items: 2
 Country: us, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2026/04/06 22:24:18
+Country: de, product: macbookair --> new items: 1
+Country: fr, product: macbookpro --> new items: 1
+Country: fr, product: macbookair --> new items: 1
+------------------------------------------------------------
