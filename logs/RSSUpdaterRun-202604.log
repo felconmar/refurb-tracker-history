@@ -1152,3 +1152,11 @@ Country: de, product: macbookair --> new items: 1
 Country: pl, product: macbookair --> new items: 1
 Country: uk, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2026/04/07 20:34:46
+Country: de, product: macbookpro --> new items: 3
+Country: fr, product: macbookair --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+Country: at, product: macbookair --> new items: 1
+Country: us, product: ipad --> new items: 1
+Country: us, product: iphone --> new items: 1
+------------------------------------------------------------
