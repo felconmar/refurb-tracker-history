@@ -1178,3 +1178,13 @@ Country: ch, product: watch --> new items: 1
 Country: us, product: ipad --> new items: 33
 Country: us, product: mini --> new items: 30
 ------------------------------------------------------------
+Date: 2026/04/07 22:27:47
+Country: ca, product: mini --> new items: 3
+Country: ca, product: macbookair --> new items: 9
+Country: xf, product: mini --> new items: 9
+Country: xf, product: macbookair --> new items: 9
+Country: de, product: watch --> new items: 1
+Country: us, product: ipad --> new items: 14
+Country: us, product: mini --> new items: 8
+Country: us, product: macbookair --> new items: 9
+------------------------------------------------------------
