@@ -1188,3 +1188,9 @@ Country: us, product: ipad --> new items: 14
 Country: us, product: mini --> new items: 8
 Country: us, product: macbookair --> new items: 9
 ------------------------------------------------------------
+Date: 2026/04/07 23:28:22
+Country: de, product: macbookpro --> new items: 1
+Country: ie, product: macbookair --> new items: 11
+Country: at, product: macbookpro --> new items: 1
+Country: uk, product: macbookair --> new items: 11
+------------------------------------------------------------
