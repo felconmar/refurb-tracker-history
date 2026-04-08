@@ -1263,3 +1263,19 @@ Country: tw, product: macbookpro --> new items: 1
 Country: uk, product: iphone --> new items: 1
 Country: us, product: mini --> new items: 1
 ------------------------------------------------------------
+Date: 2026/04/08 14:27:10
+Country: bx, product: iphone --> new items: 1
+Country: be, product: iphone --> new items: 1
+Country: cn, product: macbookair --> new items: 1
+Country: de, product: iphone --> new items: 1
+Country: de, product: macbookpro --> new items: 1
+Country: de, product: macbookair --> new items: 2
+Country: fr, product: macstudio --> new items: 1
+Country: ie, product: macbookair --> new items: 2
+Country: nl, product: iphone --> new items: 1
+Country: nl, product: macbookair --> new items: 1
+Country: at, product: iphone --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+Country: at, product: macbookair --> new items: 2
+Country: us, product: iphone --> new items: 1
+------------------------------------------------------------
