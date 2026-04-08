@@ -1295,3 +1295,28 @@ Country: uk, product: macbookair --> new items: 16
 Country: us, product: imac --> new items: 9
 Country: us, product: mini --> new items: 4
 ------------------------------------------------------------
+Date: 2026/04/08 17:57:48
+Country: bx, product: macbookpro --> new items: 1
+Country: bx, product: watch --> new items: 1
+Country: be, product: macbookpro --> new items: 1
+Country: be, product: watch --> new items: 1
+Country: ca, product: mini --> new items: 7
+Country: ca, product: macbookpro --> new items: 1
+Country: ca, product: acc --> new items: 1
+Country: xf, product: mini --> new items: 7
+Country: xf, product: macbookpro --> new items: 1
+Country: xf, product: acc --> new items: 1
+Country: de, product: watch --> new items: 1
+Country: ie, product: homepod --> new items: 2
+Country: jp, product: atv --> new items: 1
+Country: nl, product: macbookair --> new items: 1
+Country: nl, product: watch --> new items: 1
+Country: at, product: watch --> new items: 1
+Country: cx, product: watch --> new items: 1
+Country: ch, product: watch --> new items: 1
+Country: uk, product: homepod --> new items: 2
+Country: us, product: ipad --> new items: 1
+Country: us, product: mini --> new items: 7
+Country: us, product: macbookpro --> new items: 1
+Country: us, product: acc --> new items: 1
+------------------------------------------------------------
