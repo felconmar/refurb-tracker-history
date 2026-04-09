@@ -1468,3 +1468,10 @@ Country: ch, product: acc --> new items: 1
 Country: us, product: iphone --> new items: 1
 Country: us, product: imac --> new items: 4
 ------------------------------------------------------------
+Date: 2026/04/09 20:42:28
+Country: ca, product: macstudio --> new items: 1
+Country: xf, product: macstudio --> new items: 1
+Country: de, product: macbookair --> new items: 1
+Country: fr, product: macbookpro --> new items: 1
+Country: us, product: macstudio --> new items: 1
+------------------------------------------------------------
