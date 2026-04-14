@@ -2139,3 +2139,16 @@ Country: sg, product: macbookpro --> new items: 1
 Country: us, product: ipad --> new items: 1
 Country: us, product: mini --> new items: 2
 ------------------------------------------------------------
+Date: 2026/04/14 04:36:53
+Country: au, product: macbookpro --> new items: 7
+Country: bx, product: macstudio --> new items: 1
+Country: ca, product: imac --> new items: 11
+Country: xf, product: imac --> new items: 11
+Country: hk, product: ipad --> new items: 1
+Country: nz, product: macbookpro --> new items: 6
+Country: sg, product: ipad --> new items: 1
+Country: cx, product: macbookair --> new items: 1
+Country: ch, product: macbookair --> new items: 1
+Country: us, product: iphone --> new items: 1
+Country: us, product: imac --> new items: 11
+------------------------------------------------------------
