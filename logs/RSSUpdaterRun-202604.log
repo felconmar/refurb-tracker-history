@@ -2306,3 +2306,18 @@ Country: us, product: iphone --> new items: 3
 Country: us, product: macstudio --> new items: 1
 Country: us, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2026/04/14 21:40:57
+Country: be, product: iphone --> new items: 1
+Country: be, product: macbookair --> new items: 1
+Country: ca, product: ipad --> new items: 1
+Country: ca, product: imac --> new items: 1
+Country: ca, product: mini --> new items: 13
+Country: ca, product: macbookpro --> new items: 1
+Country: xf, product: ipad --> new items: 1
+Country: xf, product: imac --> new items: 1
+Country: xf, product: mini --> new items: 3
+Country: de, product: iphone --> new items: 1
+Country: at, product: iphone --> new items: 1
+Country: us, product: imac --> new items: 1
+Country: us, product: mini --> new items: 3
+------------------------------------------------------------
