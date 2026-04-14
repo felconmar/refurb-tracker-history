@@ -2321,3 +2321,13 @@ Country: at, product: iphone --> new items: 1
 Country: us, product: imac --> new items: 1
 Country: us, product: mini --> new items: 3
 ------------------------------------------------------------
+Date: 2026/04/14 22:36:10
+Country: ca, product: imac --> new items: 3
+Country: xf, product: imac --> new items: 3
+Country: xf, product: mini --> new items: 3
+Country: xf, product: macbookpro --> new items: 1
+Country: us, product: ipad --> new items: 1
+Country: us, product: imac --> new items: 3
+Country: us, product: mini --> new items: 4
+Country: us, product: macbookpro --> new items: 1
+------------------------------------------------------------
