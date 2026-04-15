@@ -2488,3 +2488,14 @@ Country: cx, product: iphone --> new items: 1
 Country: ch, product: iphone --> new items: 1
 Country: us, product: atv --> new items: 1
 ------------------------------------------------------------
+Date: 2026/04/15 23:32:48
+Country: ca, product: macstudio --> new items: 1
+Country: ca, product: macbookair --> new items: 2
+Country: xf, product: macstudio --> new items: 4
+Country: xf, product: macbookair --> new items: 1
+Country: de, product: macbookair --> new items: 1
+Country: es, product: mini --> new items: 1
+Country: at, product: macbookair --> new items: 1
+Country: us, product: macstudio --> new items: 1
+Country: us, product: macbookair --> new items: 2
+------------------------------------------------------------
