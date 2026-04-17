@@ -2796,3 +2796,15 @@ Date: 2026/04/17 22:27:48
 Country: xf, product: imac --> new items: 1
 Country: xf, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2026/04/17 23:29:43
+Country: bx, product: macbookair --> new items: 1
+Country: be, product: macbookair --> new items: 1
+Country: ca, product: imac --> new items: 7
+Country: xf, product: imac --> new items: 6
+Country: ie, product: mini --> new items: 1
+Country: ie, product: macbookair --> new items: 1
+Country: at, product: imac --> new items: 1
+Country: uk, product: mini --> new items: 1
+Country: uk, product: macbookair --> new items: 1
+Country: us, product: imac --> new items: 7
+------------------------------------------------------------
