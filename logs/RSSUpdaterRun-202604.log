@@ -2814,3 +2814,8 @@ Country: de, product: imac --> new items: 1
 Country: fr, product: macbookpro --> new items: 1
 Country: nz, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2026/04/18 04:22:44
+Country: ca, product: iphone --> new items: 1
+Country: xf, product: iphone --> new items: 1
+Country: us, product: ipad --> new items: 7
+------------------------------------------------------------
