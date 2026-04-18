@@ -2808,3 +2808,9 @@ Country: uk, product: mini --> new items: 1
 Country: uk, product: macbookair --> new items: 1
 Country: us, product: imac --> new items: 7
 ------------------------------------------------------------
+Date: 2026/04/18 01:18:39
+Country: au, product: macbookair --> new items: 1
+Country: de, product: imac --> new items: 1
+Country: fr, product: macbookpro --> new items: 1
+Country: nz, product: macbookair --> new items: 1
+------------------------------------------------------------
