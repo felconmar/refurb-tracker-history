@@ -3166,3 +3166,21 @@ Country: us, product: ipad --> new items: 1
 Country: us, product: iphone --> new items: 1
 Country: us, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2026/04/20 22:33:02
+Country: bx, product: macbookpro --> new items: 1
+Country: be, product: macbookpro --> new items: 1
+Country: be, product: macbookair --> new items: 1
+Country: de, product: mini --> new items: 1
+Country: de, product: macbookpro --> new items: 9
+Country: de, product: macbookair --> new items: 5
+Country: es, product: macbookair --> new items: 1
+Country: fr, product: macbookpro --> new items: 12
+Country: fr, product: macbookair --> new items: 16
+Country: it, product: macbookpro --> new items: 3
+Country: it, product: macbookair --> new items: 5
+Country: at, product: mini --> new items: 1
+Country: at, product: macbookpro --> new items: 9
+Country: at, product: macbookair --> new items: 5
+Country: ch, product: macbookpro --> new items: 1
+Country: ch, product: macbookair --> new items: 1
+------------------------------------------------------------
