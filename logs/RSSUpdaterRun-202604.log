@@ -3329,3 +3329,10 @@ Country: cx, product: iphone --> new items: 3
 Country: ch, product: iphone --> new items: 3
 Country: uk, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2026/04/21 23:27:05
+Country: be, product: iphone --> new items: 1
+Country: ca, product: macbookair --> new items: 1
+Country: de, product: macbookair --> new items: 2
+Country: at, product: macbookair --> new items: 1
+Country: us, product: macbookair --> new items: 1
+------------------------------------------------------------
