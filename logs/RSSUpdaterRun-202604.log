@@ -3447,3 +3447,13 @@ Country: at, product: macbookair --> new items: 1
 Country: pl, product: acc --> new items: 1
 Country: ch, product: acc --> new items: 1
 ------------------------------------------------------------
+Date: 2026/04/22 17:51:01
+Country: de, product: macbookpro --> new items: 2
+Country: de, product: acc --> new items: 1
+Country: ie, product: macbookpro --> new items: 1
+Country: at, product: macbookpro --> new items: 2
+Country: at, product: acc --> new items: 1
+Country: cx, product: acc --> new items: 1
+Country: uk, product: macbookpro --> new items: 1
+Country: us, product: ipad --> new items: 1
+------------------------------------------------------------
