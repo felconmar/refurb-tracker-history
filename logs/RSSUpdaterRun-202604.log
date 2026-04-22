@@ -3429,3 +3429,10 @@ Country: cx, product: macbookair --> new items: 1
 Country: ch, product: macbookpro --> new items: 2
 Country: ch, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2026/04/22 14:45:36
+Country: de, product: imac --> new items: 1
+Country: de, product: macbookair --> new items: 1
+Country: fr, product: macbookair --> new items: 3
+Country: at, product: imac --> new items: 1
+Country: at, product: macbookair --> new items: 1
+------------------------------------------------------------
