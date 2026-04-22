@@ -3471,3 +3471,31 @@ Country: at, product: iphone --> new items: 1
 Country: at, product: macstudio --> new items: 1
 Country: at, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2026/04/22 21:41:15
+Country: bx, product: ipad --> new items: 15
+Country: bx, product: watch --> new items: 1
+Country: be, product: ipad --> new items: 15
+Country: be, product: watch --> new items: 1
+Country: xf, product: imac --> new items: 1
+Country: de, product: ipad --> new items: 4
+Country: de, product: macbookair --> new items: 2
+Country: de, product: watch --> new items: 1
+Country: es, product: ipad --> new items: 4
+Country: fr, product: ipad --> new items: 1
+Country: ie, product: watch --> new items: 1
+Country: it, product: ipad --> new items: 4
+Country: nl, product: ipad --> new items: 4
+Country: nl, product: macbookpro --> new items: 1
+Country: nl, product: watch --> new items: 1
+Country: at, product: ipad --> new items: 4
+Country: at, product: macbookair --> new items: 2
+Country: at, product: watch --> new items: 1
+Country: pl, product: ipad --> new items: 5
+Country: cx, product: ipad --> new items: 4
+Country: cx, product: watch --> new items: 1
+Country: ch, product: ipad --> new items: 4
+Country: ch, product: watch --> new items: 1
+Country: uk, product: ipad --> new items: 1
+Country: uk, product: watch --> new items: 1
+Country: us, product: imac --> new items: 1
+------------------------------------------------------------
