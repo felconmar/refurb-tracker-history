@@ -3549,3 +3549,14 @@ Country: nl, product: macbookair --> new items: 1
 Country: sg, product: ipad --> new items: 1
 Country: uk, product: iphone --> new items: 6
 ------------------------------------------------------------
+Date: 2026/04/23 11:52:44
+Country: bx, product: iphone --> new items: 2
+Country: be, product: iphone --> new items: 2
+Country: de, product: iphone --> new items: 2
+Country: de, product: macbookair --> new items: 1
+Country: jp, product: macbookair --> new items: 1
+Country: nl, product: iphone --> new items: 2
+Country: at, product: iphone --> new items: 2
+Country: at, product: macbookair --> new items: 3
+Country: uk, product: iphone --> new items: 1
+------------------------------------------------------------
