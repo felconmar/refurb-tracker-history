@@ -3560,3 +3560,16 @@ Country: at, product: iphone --> new items: 2
 Country: at, product: macbookair --> new items: 3
 Country: uk, product: iphone --> new items: 1
 ------------------------------------------------------------
+Date: 2026/04/23 12:58:45
+Country: bx, product: watch --> new items: 1
+Country: be, product: watch --> new items: 1
+Country: de, product: macbookair --> new items: 2
+Country: de, product: watch --> new items: 1
+Country: fr, product: macbookair --> new items: 1
+Country: ie, product: macbookair --> new items: 2
+Country: nl, product: watch --> new items: 1
+Country: at, product: watch --> new items: 1
+Country: cx, product: watch --> new items: 1
+Country: ch, product: watch --> new items: 1
+Country: uk, product: macbookair --> new items: 2
+------------------------------------------------------------
