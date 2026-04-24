@@ -3739,3 +3739,8 @@ Country: us, product: ipad --> new items: 2
 Country: us, product: iphone --> new items: 1
 Country: us, product: macbookpro --> new items: 2
 ------------------------------------------------------------
+Date: 2026/04/24 16:49:56
+Country: ca, product: macbookpro --> new items: 1
+Country: xf, product: macbookpro --> new items: 1
+Country: us, product: macbookpro --> new items: 1
+------------------------------------------------------------
