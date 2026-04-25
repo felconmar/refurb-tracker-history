@@ -3875,3 +3875,13 @@ Country: ie, product: macbookair --> new items: 1
 Country: at, product: macbookair --> new items: 1
 Country: uk, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2026/04/25 15:31:31
+Country: bx, product: iphone --> new items: 1
+Country: be, product: iphone --> new items: 1
+Country: be, product: macbookpro --> new items: 1
+Country: de, product: iphone --> new items: 64
+Country: de, product: macbookair --> new items: 1
+Country: nl, product: iphone --> new items: 1
+Country: at, product: iphone --> new items: 1
+Country: us, product: iphone --> new items: 1
+------------------------------------------------------------
