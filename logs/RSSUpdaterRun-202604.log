@@ -4024,3 +4024,14 @@ Country: de, product: macbookair --> new items: 1
 Country: at, product: macbookair --> new items: 3
 Country: us, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2026/04/26 16:30:08
+Country: bx, product: iphone --> new items: 1
+Country: be, product: iphone --> new items: 1
+Country: de, product: iphone --> new items: 1
+Country: de, product: macbookair --> new items: 3
+Country: fr, product: homepod --> new items: 1
+Country: nl, product: iphone --> new items: 1
+Country: at, product: iphone --> new items: 1
+Country: at, product: macbookair --> new items: 1
+Country: pl, product: macbookair --> new items: 1
+------------------------------------------------------------
