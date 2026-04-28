@@ -4370,3 +4370,17 @@ Country: ch, product: macbookair --> new items: 2
 Country: uk, product: macbookpro --> new items: 1
 Country: us, product: mini --> new items: 4
 ------------------------------------------------------------
+Date: 2026/04/28 21:53:04
+Country: be, product: iphone --> new items: 1
+Country: ca, product: macbookpro --> new items: 1
+Country: ca, product: macbookair --> new items: 1
+Country: xf, product: macbookpro --> new items: 1
+Country: xf, product: macbookair --> new items: 1
+Country: de, product: iphone --> new items: 1
+Country: es, product: mini --> new items: 2
+Country: nl, product: iphone --> new items: 1
+Country: at, product: iphone --> new items: 1
+Country: us, product: ipad --> new items: 1
+Country: us, product: macbookpro --> new items: 1
+Country: us, product: macbookair --> new items: 1
+------------------------------------------------------------
