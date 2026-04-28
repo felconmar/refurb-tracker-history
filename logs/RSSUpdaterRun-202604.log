@@ -4310,3 +4310,34 @@ Country: uk, product: macbookair --> new items: 1
 Country: us, product: iphone --> new items: 1
 Country: us, product: macbookpro --> new items: 27
 ------------------------------------------------------------
+Date: 2026/04/28 19:17:26
+Country: au, product: macbookpro --> new items: 1
+Country: bx, product: iphone --> new items: 1
+Country: bx, product: watch --> new items: 2
+Country: be, product: iphone --> new items: 1
+Country: be, product: watch --> new items: 1
+Country: ca, product: macstudio --> new items: 2
+Country: ca, product: mini --> new items: 11
+Country: xf, product: iphone --> new items: 1
+Country: xf, product: macstudio --> new items: 2
+Country: xf, product: mini --> new items: 8
+Country: cn, product: watch --> new items: 1
+Country: de, product: iphone --> new items: 1
+Country: de, product: watch --> new items: 2
+Country: es, product: macbookair --> new items: 1
+Country: ie, product: macstudio --> new items: 3
+Country: ie, product: macbookpro --> new items: 1
+Country: ie, product: macbookair --> new items: 3
+Country: nl, product: iphone --> new items: 1
+Country: nl, product: watch --> new items: 1
+Country: nz, product: macbookpro --> new items: 1
+Country: at, product: iphone --> new items: 1
+Country: at, product: watch --> new items: 2
+Country: cx, product: watch --> new items: 2
+Country: ch, product: watch --> new items: 2
+Country: uk, product: macstudio --> new items: 3
+Country: uk, product: macbookpro --> new items: 1
+Country: uk, product: macbookair --> new items: 4
+Country: us, product: macstudio --> new items: 2
+Country: us, product: mini --> new items: 8
+------------------------------------------------------------
