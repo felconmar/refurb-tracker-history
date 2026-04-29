@@ -4443,3 +4443,20 @@ Country: ch, product: mini --> new items: 2
 Country: tw, product: homepod --> new items: 2
 Country: uk, product: watch --> new items: 1
 ------------------------------------------------------------
+Date: 2026/04/29 10:02:15
+Country: au, product: macbookair --> new items: 5
+Country: bx, product: imac --> new items: 3
+Country: be, product: imac --> new items: 3
+Country: cn, product: macbookpro --> new items: 1
+Country: de, product: imac --> new items: 4
+Country: es, product: imac --> new items: 1
+Country: fr, product: imac --> new items: 3
+Country: ie, product: imac --> new items: 1
+Country: it, product: imac --> new items: 2
+Country: nl, product: imac --> new items: 1
+Country: nz, product: macbookair --> new items: 5
+Country: at, product: imac --> new items: 4
+Country: cx, product: imac --> new items: 1
+Country: ch, product: imac --> new items: 1
+Country: uk, product: iphone --> new items: 1
+------------------------------------------------------------
