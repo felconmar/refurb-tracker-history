@@ -4553,3 +4553,13 @@ Country: uk, product: iphone --> new items: 1
 Country: us, product: iphone --> new items: 1
 Country: us, product: macstudio --> new items: 10
 ------------------------------------------------------------
+Date: 2026/04/29 23:42:44
+Country: ca, product: imac --> new items: 2
+Country: ca, product: macstudio --> new items: 2
+Country: xf, product: imac --> new items: 2
+Country: xf, product: macstudio --> new items: 4
+Country: de, product: macbookpro --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+Country: us, product: imac --> new items: 2
+Country: us, product: macstudio --> new items: 4
+------------------------------------------------------------
