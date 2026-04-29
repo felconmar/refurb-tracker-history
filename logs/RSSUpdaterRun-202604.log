@@ -4531,3 +4531,17 @@ Country: cx, product: macbookpro --> new items: 1
 Country: us, product: iphone --> new items: 3
 Country: us, product: imac --> new items: 2
 ------------------------------------------------------------
+Date: 2026/04/29 21:51:09
+Country: au, product: mini --> new items: 1
+Country: ca, product: macstudio --> new items: 1
+Country: ca, product: mini --> new items: 1
+Country: ca, product: macbookair --> new items: 1
+Country: nl, product: macbookpro --> new items: 1
+Country: nz, product: mini --> new items: 1
+Country: ch, product: macbookpro --> new items: 1
+Country: us, product: ipad --> new items: 1
+Country: us, product: iphone --> new items: 1
+Country: us, product: macstudio --> new items: 1
+Country: us, product: mini --> new items: 1
+Country: us, product: macbookair --> new items: 1
+------------------------------------------------------------
