@@ -4563,3 +4563,21 @@ Country: at, product: macbookpro --> new items: 1
 Country: us, product: imac --> new items: 2
 Country: us, product: macstudio --> new items: 4
 ------------------------------------------------------------
+Date: 2026/04/30 01:55:04
+Country: au, product: ipad --> new items: 4
+Country: au, product: mini --> new items: 2
+Country: au, product: macbookpro --> new items: 25
+Country: au, product: macbookair --> new items: 11
+Country: ca, product: imac --> new items: 5
+Country: ca, product: macstudio --> new items: 2
+Country: xf, product: imac --> new items: 5
+Country: ie, product: watch --> new items: 1
+Country: nz, product: ipad --> new items: 4
+Country: nz, product: mini --> new items: 2
+Country: nz, product: macbookpro --> new items: 25
+Country: nz, product: macbookair --> new items: 11
+Country: sg, product: macbookair --> new items: 1
+Country: uk, product: watch --> new items: 1
+Country: us, product: imac --> new items: 5
+Country: us, product: macstudio --> new items: 1
+------------------------------------------------------------
