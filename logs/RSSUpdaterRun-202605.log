@@ -347,3 +347,9 @@ Country: au, product: macbookpro --> new items: 1
 Country: nz, product: macbookpro --> new items: 1
 Country: at, product: mini --> new items: 1
 ------------------------------------------------------------
+Date: 2026/05/02 21:29:56
+Country: de, product: mini --> new items: 1
+Country: de, product: macbookpro --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+Country: at, product: macbookair --> new items: 1
+------------------------------------------------------------
