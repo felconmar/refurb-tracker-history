@@ -263,3 +263,16 @@ Country: at, product: watch --> new items: 1
 Country: cx, product: watch --> new items: 1
 Country: ch, product: watch --> new items: 1
 ------------------------------------------------------------
+Date: 2026/05/02 11:35:58
+Country: bx, product: ipad --> new items: 1
+Country: be, product: ipad --> new items: 1
+Country: de, product: ipad --> new items: 1
+Country: de, product: mini --> new items: 2
+Country: de, product: macbookpro --> new items: 1
+Country: ie, product: ipad --> new items: 1
+Country: jp, product: iphone --> new items: 1
+Country: nl, product: ipad --> new items: 1
+Country: at, product: ipad --> new items: 1
+Country: at, product: mini --> new items: 2
+Country: at, product: macbookpro --> new items: 1
+------------------------------------------------------------
