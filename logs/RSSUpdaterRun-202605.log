@@ -397,3 +397,8 @@ Country: at, product: macbookair --> new items: 1
 Date: 2026/05/03 11:34:24
 Country: de, product: watch --> new items: 34
 ------------------------------------------------------------
+Date: 2026/05/03 12:43:16
+Country: de, product: macbookair --> new items: 1
+Country: nl, product: macbookpro --> new items: 1
+Country: at, product: macbookair --> new items: 1
+------------------------------------------------------------
