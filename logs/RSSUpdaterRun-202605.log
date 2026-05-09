@@ -1362,3 +1362,11 @@ Country: us, product: iphone --> new items: 2
 Date: 2026/05/09 21:33:14
 Country: be, product: iphone --> new items: 74
 ------------------------------------------------------------
+Date: 2026/05/09 22:32:02
+Country: de, product: macbookpro --> new items: 1
+Country: de, product: macbookair --> new items: 1
+Country: nl, product: macbookair --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+Country: at, product: macbookair --> new items: 1
+Country: us, product: iphone --> new items: 1
+------------------------------------------------------------
