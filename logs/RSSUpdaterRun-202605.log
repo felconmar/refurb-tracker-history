@@ -1281,3 +1281,13 @@ Country: us, product: mini --> new items: 2
 Date: 2026/05/09 07:08:02
 Country: us, product: iphone --> new items: 2
 ------------------------------------------------------------
+Date: 2026/05/09 09:06:38
+Country: bx, product: iphone --> new items: 1
+Country: de, product: iphone --> new items: 1
+Country: de, product: macbookair --> new items: 1
+Country: ie, product: ipad --> new items: 2
+Country: at, product: macbookair --> new items: 1
+Country: pl, product: macbookpro --> new items: 1
+Country: uk, product: ipad --> new items: 2
+Country: uk, product: iphone --> new items: 3
+------------------------------------------------------------
