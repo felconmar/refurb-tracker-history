@@ -1310,3 +1310,20 @@ Country: xf, product: macbookair --> new items: 1
 Country: kr, product: macbookair --> new items: 1
 Country: us, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2026/05/09 14:12:39
+Country: bx, product: ipad --> new items: 1
+Country: be, product: ipad --> new items: 1
+Country: be, product: imac --> new items: 15
+Country: be, product: macbookpro --> new items: 114
+Country: be, product: macbookair --> new items: 80
+Country: de, product: ipad --> new items: 1
+Country: de, product: macbookair --> new items: 2
+Country: es, product: ipad --> new items: 1
+Country: it, product: ipad --> new items: 1
+Country: nl, product: ipad --> new items: 1
+Country: nl, product: macbookair --> new items: 1
+Country: at, product: ipad --> new items: 1
+Country: at, product: macbookair --> new items: 2
+Country: cx, product: ipad --> new items: 1
+Country: ch, product: ipad --> new items: 1
+------------------------------------------------------------
