@@ -1584,3 +1584,11 @@ Country: us, product: iphone --> new items: 3
 Country: us, product: macpro --> new items: 1
 Country: us, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2026/05/12 08:23:27
+Country: de, product: macbookpro --> new items: 1
+Country: de, product: macbookair --> new items: 1
+Country: jp, product: ipad --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+Country: at, product: macbookair --> new items: 1
+Country: us, product: ipad --> new items: 1
+------------------------------------------------------------
