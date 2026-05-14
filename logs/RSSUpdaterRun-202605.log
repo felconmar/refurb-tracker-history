@@ -1975,3 +1975,16 @@ Country: nl, product: macbookpro --> new items: 2
 Country: at, product: mini --> new items: 1
 Country: at, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2026/05/14 18:27:20
+Country: ca, product: iphone --> new items: 1
+Country: ca, product: macbookpro --> new items: 24
+Country: xf, product: iphone --> new items: 1
+Country: xf, product: macbookpro --> new items: 24
+Country: de, product: mini --> new items: 1
+Country: de, product: macbookpro --> new items: 1
+Country: jp, product: ipad --> new items: 70
+Country: at, product: mini --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+Country: us, product: iphone --> new items: 1
+Country: us, product: macbookpro --> new items: 24
+------------------------------------------------------------
