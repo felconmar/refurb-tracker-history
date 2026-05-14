@@ -1963,3 +1963,15 @@ Country: at, product: atv --> new items: 1
 Country: cx, product: atv --> new items: 1
 Country: ch, product: atv --> new items: 1
 ------------------------------------------------------------
+Date: 2026/05/14 16:03:24
+Country: bx, product: macbookpro --> new items: 1
+Country: be, product: macbookpro --> new items: 1
+Country: de, product: mini --> new items: 1
+Country: de, product: macbookpro --> new items: 1
+Country: de, product: macbookair --> new items: 1
+Country: de, product: atv --> new items: 1
+Country: fr, product: imac --> new items: 1
+Country: nl, product: macbookpro --> new items: 2
+Country: at, product: mini --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+------------------------------------------------------------
