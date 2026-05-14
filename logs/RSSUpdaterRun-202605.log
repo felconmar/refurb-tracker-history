@@ -1936,3 +1936,16 @@ Country: cx, product: atv --> new items: 1
 Country: ch, product: atv --> new items: 1
 Country: us, product: iphone --> new items: 4
 ------------------------------------------------------------
+Date: 2026/05/14 11:42:38
+Country: bx, product: watch --> new items: 1
+Country: cn, product: ipad --> new items: 54
+Country: de, product: macbookpro --> new items: 1
+Country: de, product: watch --> new items: 1
+Country: hk, product: watch --> new items: 1
+Country: nl, product: watch --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+Country: sg, product: macbookpro --> new items: 1
+Country: sg, product: macbookair --> new items: 1
+Country: cx, product: watch --> new items: 1
+Country: ch, product: watch --> new items: 1
+------------------------------------------------------------
