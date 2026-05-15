@@ -2046,3 +2046,18 @@ Country: cx, product: atv --> new items: 1
 Country: ch, product: atv --> new items: 1
 Country: uk, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2026/05/15 11:46:19
+Country: bx, product: ipad --> new items: 3
+Country: bx, product: macbookpro --> new items: 1
+Country: be, product: ipad --> new items: 3
+Country: de, product: ipad --> new items: 1
+Country: de, product: mini --> new items: 1
+Country: es, product: ipad --> new items: 2
+Country: it, product: ipad --> new items: 2
+Country: nl, product: ipad --> new items: 2
+Country: nl, product: macbookpro --> new items: 1
+Country: at, product: ipad --> new items: 2
+Country: at, product: mini --> new items: 1
+Country: cx, product: ipad --> new items: 2
+Country: ch, product: ipad --> new items: 3
+------------------------------------------------------------
