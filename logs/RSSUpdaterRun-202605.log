@@ -2109,3 +2109,17 @@ Country: cn, product: ipad --> new items: 1
 Country: de, product: macbookpro --> new items: 1
 Country: at, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2026/05/15 20:49:57
+Country: bx, product: macbookair --> new items: 1
+Country: be, product: macbookair --> new items: 1
+Country: ca, product: ipad --> new items: 1
+Country: ca, product: macbookpro --> new items: 1
+Country: xf, product: ipad --> new items: 1
+Country: xf, product: macbookpro --> new items: 1
+Country: de, product: macbookpro --> new items: 10
+Country: es, product: macbookpro --> new items: 12
+Country: fr, product: macbookpro --> new items: 14
+Country: at, product: macbookair --> new items: 1
+Country: pl, product: macbookpro --> new items: 1
+Country: us, product: macbookpro --> new items: 1
+------------------------------------------------------------
