@@ -2214,3 +2214,17 @@ Country: it, product: iphone --> new items: 1
 Country: cx, product: iphone --> new items: 1
 Country: ch, product: iphone --> new items: 1
 ------------------------------------------------------------
+Date: 2026/05/16 19:55:20
+Country: bx, product: ipad --> new items: 2
+Country: be, product: ipad --> new items: 2
+Country: de, product: ipad --> new items: 2
+Country: de, product: macbookair --> new items: 1
+Country: es, product: ipad --> new items: 1
+Country: ie, product: ipad --> new items: 1
+Country: it, product: ipad --> new items: 1
+Country: nl, product: ipad --> new items: 2
+Country: at, product: ipad --> new items: 2
+Country: at, product: macbookair --> new items: 1
+Country: cx, product: ipad --> new items: 1
+Country: ch, product: ipad --> new items: 1
+------------------------------------------------------------
