@@ -3150,3 +3150,11 @@ Country: bx, product: homepod --> new items: 2
 Country: bx, product: acc --> new items: 2
 Country: us, product: ipad --> new items: 1
 ------------------------------------------------------------
+Date: 2026/05/23 20:00:18
+Country: bx, product: ipad --> new items: 1
+Country: ca, product: mini --> new items: 1
+Country: xf, product: mini --> new items: 1
+Country: cn, product: macbookpro --> new items: 1
+Country: us, product: iphone --> new items: 2
+Country: us, product: mini --> new items: 1
+------------------------------------------------------------
