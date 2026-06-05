@@ -655,3 +655,20 @@ Country: pl, product: macbookair --> new items: 1
 Country: us, product: iphone --> new items: 14
 Country: us, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2026/06/05 17:45:56
+Country: bx, product: macbookpro --> new items: 1
+Country: be, product: macbookpro --> new items: 1
+Country: ca, product: macstudio --> new items: 1
+Country: ca, product: macbookpro --> new items: 1
+Country: xf, product: macstudio --> new items: 1
+Country: xf, product: macbookair --> new items: 1
+Country: de, product: macbookpro --> new items: 1
+Country: de, product: macbookair --> new items: 2
+Country: nl, product: macbookpro --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+Country: at, product: macbookair --> new items: 2
+Country: us, product: iphone --> new items: 3
+Country: us, product: macstudio --> new items: 1
+Country: us, product: macbookpro --> new items: 1
+Country: us, product: macbookair --> new items: 1
+------------------------------------------------------------
