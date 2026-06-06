@@ -775,3 +775,16 @@ Date: 2026/06/06 13:05:45
 Country: de, product: imac --> new items: 1
 Country: nl, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2026/06/06 15:04:34
+Country: ca, product: iphone --> new items: 1
+Country: ca, product: macstudio --> new items: 1
+Country: xf, product: ipad --> new items: 2
+Country: xf, product: iphone --> new items: 1
+Country: de, product: macbookair --> new items: 1
+Country: fr, product: macbookpro --> new items: 1
+Country: jp, product: iphone --> new items: 1
+Country: jp, product: homepod --> new items: 1
+Country: at, product: macbookair --> new items: 2
+Country: us, product: ipad --> new items: 3
+Country: us, product: macstudio --> new items: 2
+------------------------------------------------------------
