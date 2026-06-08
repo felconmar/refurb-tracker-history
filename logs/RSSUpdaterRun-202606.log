@@ -970,3 +970,11 @@ Country: uk, product: ipad --> new items: 1
 Country: uk, product: imac --> new items: 1
 Country: us, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2026/06/08 19:13:48
+Country: de, product: macbookair --> new items: 3
+Country: ie, product: macbookair --> new items: 1
+Country: at, product: macbookair --> new items: 3
+Country: pl, product: ipad --> new items: 1
+Country: uk, product: macbookair --> new items: 1
+Country: us, product: watch --> new items: 2
+------------------------------------------------------------
