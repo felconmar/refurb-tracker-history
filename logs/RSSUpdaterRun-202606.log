@@ -1019,3 +1019,15 @@ Country: us, product: iphone --> new items: 11
 Country: us, product: macbookpro --> new items: 18
 Country: us, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2026/06/09 06:38:27
+Country: au, product: watch --> new items: 3
+Country: xf, product: macbookpro --> new items: 1
+Country: cn, product: macbookpro --> new items: 10
+Country: cn, product: macbookair --> new items: 12
+Country: cn, product: watch --> new items: 31
+Country: jp, product: imac --> new items: 12
+Country: jp, product: watch --> new items: 9
+Country: nz, product: watch --> new items: 3
+Country: sg, product: macbookair --> new items: 1
+Country: us, product: macbookpro --> new items: 1
+------------------------------------------------------------
