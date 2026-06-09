@@ -1171,3 +1171,18 @@ Country: us, product: macbookpro --> new items: 11
 Country: us, product: macbookair --> new items: 13
 Country: us, product: watch --> new items: 5
 ------------------------------------------------------------
+Date: 2026/06/09 23:08:46
+Country: bx, product: macstudio --> new items: 1
+Country: ca, product: macbookpro --> new items: 8
+Country: ca, product: macbookair --> new items: 6
+Country: xf, product: macbookpro --> new items: 1
+Country: xf, product: macbookair --> new items: 1
+Country: de, product: macbookpro --> new items: 1
+Country: ie, product: macbookpro --> new items: 16
+Country: jp, product: iphone --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+Country: uk, product: macbookpro --> new items: 16
+Country: us, product: iphone --> new items: 1
+Country: us, product: macbookpro --> new items: 8
+Country: us, product: macbookair --> new items: 6
+------------------------------------------------------------
