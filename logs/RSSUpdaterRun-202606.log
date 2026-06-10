@@ -1316,3 +1316,23 @@ Country: us, product: mini --> new items: 1
 Country: us, product: macbookpro --> new items: 1
 Country: us, product: macbookair --> new items: 3
 ------------------------------------------------------------
+Date: 2026/06/10 22:46:01
+Country: bx, product: watch --> new items: 1
+Country: be, product: watch --> new items: 1
+Country: ca, product: iphone --> new items: 15
+Country: ca, product: macbookpro --> new items: 9
+Country: ca, product: macbookair --> new items: 5
+Country: xf, product: iphone --> new items: 15
+Country: xf, product: macbookpro --> new items: 9
+Country: xf, product: macbookair --> new items: 4
+Country: de, product: macbookpro --> new items: 1
+Country: de, product: watch --> new items: 1
+Country: nl, product: watch --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+Country: at, product: watch --> new items: 1
+Country: cx, product: watch --> new items: 1
+Country: ch, product: watch --> new items: 1
+Country: us, product: iphone --> new items: 14
+Country: us, product: macbookpro --> new items: 9
+Country: us, product: macbookair --> new items: 4
+------------------------------------------------------------
