@@ -1565,3 +1565,12 @@ Country: us, product: imac --> new items: 9
 Country: us, product: macbookpro --> new items: 1
 Country: us, product: watch --> new items: 3
 ------------------------------------------------------------
+Date: 2026/06/13 02:11:21
+Country: ca, product: iphone --> new items: 4
+Country: ca, product: imac --> new items: 8
+Country: xf, product: iphone --> new items: 4
+Country: xf, product: imac --> new items: 9
+Country: cn, product: macbookpro --> new items: 1
+Country: us, product: iphone --> new items: 1
+Country: us, product: imac --> new items: 9
+------------------------------------------------------------
