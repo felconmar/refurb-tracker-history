@@ -1607,3 +1607,42 @@ Country: pl, product: macbookair --> new items: 1
 Date: 2026/06/13 13:22:39
 Country: at, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2026/06/13 15:24:44
+Country: bx, product: ipad --> new items: 1
+Country: bx, product: macbookair --> new items: 1
+Country: bx, product: watch --> new items: 1
+Country: bx, product: atv --> new items: 1
+Country: be, product: ipad --> new items: 1
+Country: be, product: macbookair --> new items: 1
+Country: be, product: watch --> new items: 1
+Country: be, product: atv --> new items: 1
+Country: ca, product: macbookair --> new items: 1
+Country: xf, product: iphone --> new items: 1
+Country: xf, product: macbookair --> new items: 1
+Country: de, product: ipad --> new items: 1
+Country: de, product: mini --> new items: 1
+Country: de, product: macbookpro --> new items: 1
+Country: de, product: watch --> new items: 1
+Country: de, product: atv --> new items: 1
+Country: es, product: ipad --> new items: 1
+Country: ie, product: imac --> new items: 1
+Country: it, product: ipad --> new items: 1
+Country: nl, product: ipad --> new items: 1
+Country: nl, product: watch --> new items: 1
+Country: nl, product: atv --> new items: 1
+Country: at, product: ipad --> new items: 1
+Country: at, product: mini --> new items: 1
+Country: at, product: watch --> new items: 1
+Country: at, product: atv --> new items: 1
+Country: pl, product: macbookpro --> new items: 1
+Country: cx, product: ipad --> new items: 1
+Country: cx, product: watch --> new items: 1
+Country: cx, product: atv --> new items: 1
+Country: ch, product: ipad --> new items: 1
+Country: ch, product: watch --> new items: 1
+Country: ch, product: atv --> new items: 1
+Country: uk, product: imac --> new items: 1
+Country: us, product: iphone --> new items: 1
+Country: us, product: macbookair --> new items: 1
+Country: us, product: watch --> new items: 2
+------------------------------------------------------------
