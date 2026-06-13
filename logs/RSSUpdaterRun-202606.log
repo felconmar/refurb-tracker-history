@@ -1597,3 +1597,10 @@ Country: us, product: watch --> new items: 4
 Date: 2026/06/13 09:49:25
 Country: at, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2026/06/13 11:45:47
+Country: cn, product: ipad --> new items: 1
+Country: de, product: macbookpro --> new items: 1
+Country: de, product: macbookair --> new items: 3
+Country: at, product: macbookair --> new items: 3
+Country: pl, product: macbookair --> new items: 1
+------------------------------------------------------------
