@@ -1775,3 +1775,9 @@ Country: de, product: macbookpro --> new items: 1
 Country: ie, product: macbookpro --> new items: 1
 Country: uk, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2026/06/15 04:40:39
+Country: xf, product: macbookpro --> new items: 1
+Country: at, product: imac --> new items: 2
+Country: at, product: macbookpro --> new items: 97
+Country: at, product: macbookair --> new items: 5
+------------------------------------------------------------
