@@ -2320,3 +2320,23 @@ Country: us, product: imac --> new items: 1
 Date: 2026/06/19 00:18:48
 No new entries.
 ------------------------------------------------------------
+Date: 2026/06/19 06:06:47
+Country: au, product: watch --> new items: 32
+Country: ca, product: imac --> new items: 1
+Country: ca, product: macbookpro --> new items: 1
+Country: ca, product: macbookair --> new items: 4
+Country: xf, product: imac --> new items: 1
+Country: xf, product: macbookpro --> new items: 1
+Country: xf, product: macbookair --> new items: 4
+Country: cn, product: ipad --> new items: 1
+Country: de, product: macbookair --> new items: 3
+Country: jp, product: iphone --> new items: 15
+Country: jp, product: macbookair --> new items: 18
+Country: jp, product: watch --> new items: 10
+Country: nz, product: watch --> new items: 32
+Country: at, product: macbookair --> new items: 3
+Country: us, product: ipad --> new items: 1
+Country: us, product: imac --> new items: 1
+Country: us, product: macbookpro --> new items: 1
+Country: us, product: macbookair --> new items: 4
+------------------------------------------------------------
