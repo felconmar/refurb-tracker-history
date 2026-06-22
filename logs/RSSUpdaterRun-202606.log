@@ -2688,3 +2688,12 @@ Date: 2026/06/22 00:10:40
 Country: it, product: macbookpro --> new items: 1
 Country: us, product: iphone --> new items: 1
 ------------------------------------------------------------
+Date: 2026/06/22 06:19:35
+Country: au, product: macbookpro --> new items: 20
+Country: au, product: macbookair --> new items: 22
+Country: cn, product: macbookair --> new items: 1
+Country: es, product: macbookair --> new items: 1
+Country: nz, product: macbookpro --> new items: 1
+Country: nz, product: macbookair --> new items: 22
+Country: at, product: iphone --> new items: 81
+------------------------------------------------------------
