@@ -2697,3 +2697,28 @@ Country: nz, product: macbookpro --> new items: 1
 Country: nz, product: macbookair --> new items: 22
 Country: at, product: iphone --> new items: 81
 ------------------------------------------------------------
+Date: 2026/06/22 12:41:20
+Country: au, product: mini --> new items: 5
+Country: bx, product: imac --> new items: 3
+Country: be, product: imac --> new items: 3
+Country: de, product: homepod --> new items: 1
+Country: de, product: imac --> new items: 10
+Country: de, product: macbookpro --> new items: 1
+Country: es, product: imac --> new items: 1
+Country: fr, product: imac --> new items: 8
+Country: ie, product: imac --> new items: 5
+Country: it, product: imac --> new items: 2
+Country: jp, product: homepod --> new items: 1
+Country: jp, product: macbookair --> new items: 16
+Country: nl, product: imac --> new items: 2
+Country: nl, product: macbookair --> new items: 1
+Country: nz, product: mini --> new items: 5
+Country: nz, product: macbookpro --> new items: 19
+Country: at, product: homepod --> new items: 1
+Country: at, product: imac --> new items: 10
+Country: at, product: macbookpro --> new items: 1
+Country: cx, product: imac --> new items: 2
+Country: ch, product: imac --> new items: 2
+Country: uk, product: imac --> new items: 5
+Country: us, product: iphone --> new items: 1
+------------------------------------------------------------
