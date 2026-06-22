@@ -2772,3 +2772,32 @@ Country: us, product: imac --> new items: 2
 Country: us, product: macbookpro --> new items: 64
 Country: us, product: macbookair --> new items: 10
 ------------------------------------------------------------
+Date: 2026/06/22 22:40:31
+Country: bx, product: atv --> new items: 1
+Country: be, product: atv --> new items: 2
+Country: ca, product: imac --> new items: 1
+Country: ca, product: macstudio --> new items: 1
+Country: ca, product: macbookpro --> new items: 12
+Country: ca, product: macbookair --> new items: 34
+Country: xf, product: imac --> new items: 1
+Country: xf, product: macstudio --> new items: 1
+Country: xf, product: macbookpro --> new items: 4
+Country: xf, product: macbookair --> new items: 32
+Country: de, product: imac --> new items: 1
+Country: de, product: macbookair --> new items: 1
+Country: de, product: atv --> new items: 2
+Country: ie, product: macbookair --> new items: 1
+Country: nl, product: imac --> new items: 1
+Country: nl, product: macbookair --> new items: 1
+Country: nl, product: atv --> new items: 2
+Country: at, product: imac --> new items: 1
+Country: at, product: macbookair --> new items: 1
+Country: at, product: atv --> new items: 1
+Country: cx, product: atv --> new items: 1
+Country: ch, product: atv --> new items: 2
+Country: uk, product: macbookair --> new items: 1
+Country: us, product: imac --> new items: 1
+Country: us, product: macstudio --> new items: 1
+Country: us, product: macbookpro --> new items: 12
+Country: us, product: macbookair --> new items: 34
+------------------------------------------------------------
