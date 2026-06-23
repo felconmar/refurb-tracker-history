@@ -2964,3 +2964,8 @@ Country: at, product: homepod --> new items: 1
 Country: at, product: macbookair --> new items: 2
 Country: us, product: atv --> new items: 1
 ------------------------------------------------------------
+Date: 2026/06/23 23:53:19
+Country: ca, product: macbookair --> new items: 1
+Country: xf, product: macbookair --> new items: 1
+Country: us, product: macbookair --> new items: 1
+------------------------------------------------------------
