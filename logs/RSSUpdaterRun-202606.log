@@ -2801,3 +2801,16 @@ Country: us, product: macstudio --> new items: 1
 Country: us, product: macbookpro --> new items: 12
 Country: us, product: macbookair --> new items: 34
 ------------------------------------------------------------
+Date: 2026/06/22 23:58:57
+Country: ca, product: imac --> new items: 1
+Country: ca, product: macbookpro --> new items: 3
+Country: ca, product: macbookair --> new items: 1
+Country: xf, product: imac --> new items: 1
+Country: xf, product: macbookpro --> new items: 3
+Country: xf, product: macbookair --> new items: 1
+Country: de, product: macbookpro --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+Country: us, product: imac --> new items: 1
+Country: us, product: macbookpro --> new items: 3
+Country: us, product: macbookair --> new items: 1
+------------------------------------------------------------
