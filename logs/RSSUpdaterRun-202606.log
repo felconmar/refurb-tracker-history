@@ -3535,3 +3535,15 @@ Country: it, product: mini --> new items: 2
 Country: it, product: atv --> new items: 2
 Country: at, product: mini --> new items: 1
 ------------------------------------------------------------
+Date: 2026/06/26 20:25:30
+Country: ca, product: iphone --> new items: 3
+Country: xf, product: iphone --> new items: 3
+Country: de, product: imac --> new items: 1
+Country: de, product: macbookair --> new items: 1
+Country: fr, product: mini --> new items: 3
+Country: fr, product: macbookpro --> new items: 1
+Country: nl, product: macbookpro --> new items: 1
+Country: at, product: imac --> new items: 1
+Country: at, product: macbookair --> new items: 1
+Country: us, product: iphone --> new items: 1
+------------------------------------------------------------
