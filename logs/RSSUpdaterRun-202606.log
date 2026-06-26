@@ -3509,3 +3509,22 @@ Country: at, product: macbookair --> new items: 1
 Country: cx, product: ipad --> new items: 1
 Country: ch, product: ipad --> new items: 1
 ------------------------------------------------------------
+Date: 2026/06/26 16:19:26
+Country: bx, product: ipad --> new items: 1
+Country: bx, product: macbookair --> new items: 1
+Country: be, product: ipad --> new items: 1
+Country: be, product: macbookair --> new items: 1
+Country: de, product: ipad --> new items: 1
+Country: es, product: ipad --> new items: 1
+Country: es, product: macbookpro --> new items: 1
+Country: fr, product: macbookpro --> new items: 1
+Country: it, product: ipad --> new items: 1
+Country: nl, product: ipad --> new items: 1
+Country: nl, product: imac --> new items: 1
+Country: at, product: ipad --> new items: 1
+Country: cx, product: ipad --> new items: 1
+Country: cx, product: macbookpro --> new items: 1
+Country: ch, product: ipad --> new items: 1
+Country: ch, product: macbookpro --> new items: 1
+Country: uk, product: ipad --> new items: 1
+------------------------------------------------------------
