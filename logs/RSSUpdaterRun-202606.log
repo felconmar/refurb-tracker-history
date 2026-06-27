@@ -3575,3 +3575,12 @@ Country: ie, product: imac --> new items: 1
 Country: uk, product: imac --> new items: 1
 Country: us, product: iphone --> new items: 3
 ------------------------------------------------------------
+Date: 2026/06/27 06:20:04
+Country: ca, product: iphone --> new items: 1
+Country: xf, product: iphone --> new items: 1
+Country: hk, product: macbookpro --> new items: 1
+Country: it, product: macbookair --> new items: 1
+Country: jp, product: macbookpro --> new items: 15
+Country: jp, product: macbookair --> new items: 22
+Country: pl, product: macbookair --> new items: 1
+------------------------------------------------------------
