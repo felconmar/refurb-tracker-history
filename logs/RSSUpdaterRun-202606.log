@@ -3824,3 +3824,9 @@ Country: sg, product: macbookpro --> new items: 1
 Country: us, product: ipad --> new items: 1
 Country: us, product: iphone --> new items: 1
 ------------------------------------------------------------
+Date: 2026/06/29 22:02:53
+Country: be, product: macbookair --> new items: 1
+Country: de, product: macbookair --> new items: 1
+Country: nl, product: iphone --> new items: 80
+Country: nl, product: atv --> new items: 2
+------------------------------------------------------------
