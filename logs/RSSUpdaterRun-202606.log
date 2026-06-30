@@ -3857,3 +3857,16 @@ Country: at, product: mini --> new items: 1
 Country: us, product: imac --> new items: 3
 Country: us, product: macbookair --> new items: 3
 ------------------------------------------------------------
+Date: 2026/06/30 06:44:32
+Country: au, product: macbookpro --> new items: 6
+Country: au, product: macbookair --> new items: 7
+Country: cn, product: macbookair --> new items: 11
+Country: de, product: macbookpro --> new items: 1
+Country: hk, product: watch --> new items: 23
+Country: nl, product: macbookair --> new items: 1
+Country: nz, product: macbookpro --> new items: 6
+Country: nz, product: macbookair --> new items: 7
+Country: at, product: macbookpro --> new items: 1
+Country: sg, product: watch --> new items: 23
+Country: tw, product: macbookpro --> new items: 2
+------------------------------------------------------------
