@@ -141,3 +141,13 @@ Country: us, product: imac --> new items: 1
 Country: us, product: macstudio --> new items: 1
 Country: us, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2026/07/02 06:28:43
+Country: ca, product: macbookpro --> new items: 1
+Country: ca, product: macbookair --> new items: 1
+Country: xf, product: macbookair --> new items: 1
+Country: de, product: mini --> new items: 1
+Country: at, product: mini --> new items: 1
+Country: kr, product: macbookpro --> new items: 1
+Country: kr, product: macbookair --> new items: 1
+Country: us, product: macbookair --> new items: 1
+------------------------------------------------------------
