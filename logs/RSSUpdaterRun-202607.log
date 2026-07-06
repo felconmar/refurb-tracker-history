@@ -641,3 +641,24 @@ Country: us, product: iphone --> new items: 1
 Country: us, product: imac --> new items: 1
 Country: us, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2026/07/06 17:34:07
+Country: bx, product: acc --> new items: 1
+Country: be, product: acc --> new items: 1
+Country: ca, product: macbookair --> new items: 1
+Country: xf, product: macbookair --> new items: 1
+Country: de, product: macbookair --> new items: 1
+Country: de, product: acc --> new items: 1
+Country: es, product: acc --> new items: 1
+Country: fr, product: macbookpro --> new items: 1
+Country: ie, product: imac --> new items: 17
+Country: it, product: acc --> new items: 1
+Country: nl, product: macbookpro --> new items: 1
+Country: nl, product: acc --> new items: 1
+Country: at, product: macbookair --> new items: 1
+Country: at, product: acc --> new items: 1
+Country: pl, product: acc --> new items: 1
+Country: cx, product: acc --> new items: 1
+Country: ch, product: acc --> new items: 1
+Country: uk, product: imac --> new items: 17
+Country: us, product: macbookair --> new items: 1
+------------------------------------------------------------
