@@ -741,3 +741,25 @@ Country: nz, product: macbookair --> new items: 1
 Country: kr, product: mini --> new items: 1
 Country: us, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2026/07/07 10:43:57
+Country: au, product: mini --> new items: 3
+Country: au, product: macbookpro --> new items: 15
+Country: bx, product: ipad --> new items: 1
+Country: bx, product: macbookpro --> new items: 1
+Country: be, product: ipad --> new items: 1
+Country: be, product: macbookpro --> new items: 1
+Country: cn, product: imac --> new items: 1
+Country: cn, product: macbookpro --> new items: 1
+Country: de, product: ipad --> new items: 1
+Country: es, product: ipad --> new items: 1
+Country: it, product: ipad --> new items: 1
+Country: nl, product: ipad --> new items: 1
+Country: nl, product: macbookair --> new items: 1
+Country: nz, product: mini --> new items: 3
+Country: nz, product: macbookpro --> new items: 15
+Country: at, product: ipad --> new items: 1
+Country: kr, product: mini --> new items: 3
+Country: kr, product: macbookair --> new items: 1
+Country: cx, product: ipad --> new items: 1
+Country: ch, product: ipad --> new items: 1
+------------------------------------------------------------
