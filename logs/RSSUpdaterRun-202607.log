@@ -720,3 +720,10 @@ Country: us, product: iphone --> new items: 2
 Date: 2026/07/06 23:59:54
 Country: fr, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2026/07/07 03:34:21
+Country: ca, product: macbookair --> new items: 1
+Country: jp, product: macbookpro --> new items: 53
+Country: jp, product: macbookair --> new items: 14
+Country: tw, product: macbookair --> new items: 22
+Country: us, product: macbookair --> new items: 1
+------------------------------------------------------------
