@@ -927,3 +927,12 @@ Country: at, product: macbookair --> new items: 3
 Country: pl, product: macbookpro --> new items: 1
 Country: uk, product: iphone --> new items: 1
 ------------------------------------------------------------
+Date: 2026/07/08 17:17:34
+Country: de, product: macbookair --> new items: 6
+Country: es, product: macbookair --> new items: 5
+Country: fr, product: mini --> new items: 2
+Country: fr, product: macbookair --> new items: 3
+Country: it, product: mini --> new items: 1
+Country: it, product: macbookair --> new items: 6
+Country: at, product: macbookair --> new items: 5
+------------------------------------------------------------
