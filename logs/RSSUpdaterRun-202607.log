@@ -1308,3 +1308,12 @@ Country: ca, product: macbookpro --> new items: 6
 Country: xf, product: macbookpro --> new items: 6
 Country: us, product: macbookpro --> new items: 6
 ------------------------------------------------------------
+Date: 2026/07/11 04:52:38
+Country: ca, product: macbookpro --> new items: 5
+Country: xf, product: macbookpro --> new items: 5
+Country: jp, product: macbookpro --> new items: 1
+Country: jp, product: macbookair --> new items: 17
+Country: us, product: ipad --> new items: 3
+Country: us, product: iphone --> new items: 1
+Country: us, product: macbookpro --> new items: 5
+------------------------------------------------------------
