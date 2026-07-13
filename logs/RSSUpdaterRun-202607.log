@@ -1648,3 +1648,15 @@ Country: kr, product: ipad --> new items: 1
 Country: uk, product: macbookpro --> new items: 2
 Country: uk, product: macbookair --> new items: 10
 ------------------------------------------------------------
+Date: 2026/07/13 22:43:20
+Country: ca, product: iphone --> new items: 2
+Country: ca, product: macbookpro --> new items: 2
+Country: ca, product: atv --> new items: 2
+Country: xf, product: iphone --> new items: 2
+Country: xf, product: macbookair --> new items: 15
+Country: xf, product: atv --> new items: 2
+Country: us, product: iphone --> new items: 3
+Country: us, product: macbookpro --> new items: 2
+Country: us, product: macbookair --> new items: 15
+Country: us, product: atv --> new items: 2
+------------------------------------------------------------
