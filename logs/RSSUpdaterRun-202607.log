@@ -1540,3 +1540,16 @@ Country: jp, product: macbookair --> new items: 14
 Country: at, product: macbookair --> new items: 2
 Country: sg, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2026/07/13 11:49:36
+Country: bx, product: iphone --> new items: 1
+Country: be, product: iphone --> new items: 1
+Country: cn, product: ipad --> new items: 1
+Country: de, product: iphone --> new items: 1
+Country: de, product: macbookpro --> new items: 1
+Country: es, product: imac --> new items: 1
+Country: jp, product: iphone --> new items: 1
+Country: nl, product: iphone --> new items: 1
+Country: nl, product: macbookair --> new items: 1
+Country: at, product: iphone --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+------------------------------------------------------------
