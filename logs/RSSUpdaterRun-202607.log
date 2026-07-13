@@ -1637,3 +1637,14 @@ Country: cx, product: ipad --> new items: 1
 Country: ch, product: ipad --> new items: 1
 Country: us, product: iphone --> new items: 10
 ------------------------------------------------------------
+Date: 2026/07/13 21:43:14
+Country: xf, product: macbookpro --> new items: 2
+Country: de, product: macbookair --> new items: 1
+Country: ie, product: macbookpro --> new items: 2
+Country: ie, product: macbookair --> new items: 10
+Country: at, product: macbookair --> new items: 1
+Country: sg, product: acc --> new items: 1
+Country: kr, product: ipad --> new items: 1
+Country: uk, product: macbookpro --> new items: 2
+Country: uk, product: macbookair --> new items: 10
+------------------------------------------------------------
