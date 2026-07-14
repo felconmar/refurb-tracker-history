@@ -1803,3 +1803,16 @@ Country: us, product: ipad --> new items: 1
 Country: us, product: iphone --> new items: 1
 Country: us, product: macbookair --> new items: 2
 ------------------------------------------------------------
+Date: 2026/07/14 21:45:41
+Country: ca, product: macbookair --> new items: 9
+Country: xf, product: macbookair --> new items: 9
+Country: de, product: macbookair --> new items: 1
+Country: ie, product: macbookpro --> new items: 6
+Country: ie, product: macbookair --> new items: 11
+Country: at, product: macbookair --> new items: 1
+Country: pl, product: macbookair --> new items: 1
+Country: uk, product: macbookpro --> new items: 6
+Country: uk, product: macbookair --> new items: 11
+Country: us, product: ipad --> new items: 1
+Country: us, product: macbookair --> new items: 9
+------------------------------------------------------------
