@@ -1666,3 +1666,15 @@ Country: ca, product: macbookair --> new items: 15
 Date: 2026/07/14 01:21:23
 No new entries.
 ------------------------------------------------------------
+Date: 2026/07/14 04:39:12
+Country: au, product: ipad --> new items: 3
+Country: ca, product: macbookpro --> new items: 1
+Country: xf, product: macbookpro --> new items: 1
+Country: cn, product: ipad --> new items: 20
+Country: cn, product: macbookpro --> new items: 9
+Country: cn, product: macbookair --> new items: 6
+Country: nz, product: ipad --> new items: 3
+Country: tw, product: macbookpro --> new items: 21
+Country: tw, product: macbookair --> new items: 12
+Country: us, product: macbookpro --> new items: 1
+------------------------------------------------------------
