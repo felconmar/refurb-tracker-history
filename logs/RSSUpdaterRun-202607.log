@@ -2147,3 +2147,29 @@ Country: nz, product: macbookpro --> new items: 1
 Country: uk, product: iphone --> new items: 1
 Country: uk, product: macbookair --> new items: 12
 ------------------------------------------------------------
+Date: 2026/07/16 21:54:19
+Country: bx, product: ipad --> new items: 1
+Country: bx, product: iphone --> new items: 1
+Country: be, product: ipad --> new items: 1
+Country: be, product: iphone --> new items: 1
+Country: ca, product: ipad --> new items: 2
+Country: ca, product: macbookpro --> new items: 1
+Country: ca, product: macbookair --> new items: 1
+Country: xf, product: ipad --> new items: 2
+Country: xf, product: macbookpro --> new items: 1
+Country: xf, product: macbookair --> new items: 1
+Country: de, product: ipad --> new items: 1
+Country: de, product: iphone --> new items: 1
+Country: es, product: ipad --> new items: 1
+Country: es, product: macbookair --> new items: 1
+Country: nl, product: ipad --> new items: 1
+Country: nl, product: iphone --> new items: 1
+Country: at, product: ipad --> new items: 1
+Country: at, product: iphone --> new items: 1
+Country: cx, product: ipad --> new items: 1
+Country: ch, product: ipad --> new items: 1
+Country: uk, product: macbookpro --> new items: 6
+Country: us, product: ipad --> new items: 1
+Country: us, product: macbookpro --> new items: 1
+Country: us, product: macbookair --> new items: 1
+------------------------------------------------------------
