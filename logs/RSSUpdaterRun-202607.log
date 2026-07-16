@@ -2055,3 +2055,41 @@ Date: 2026/07/16 11:25:52
 Country: de, product: macbookpro --> new items: 1
 Country: at, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2026/07/16 13:16:35
+Country: bx, product: ipad --> new items: 1
+Country: bx, product: macbookair --> new items: 4
+Country: be, product: ipad --> new items: 1
+Country: be, product: macbookair --> new items: 4
+Country: de, product: ipad --> new items: 1
+Country: de, product: macstudio --> new items: 1
+Country: de, product: macbookpro --> new items: 3
+Country: de, product: macbookair --> new items: 6
+Country: es, product: ipad --> new items: 1
+Country: es, product: macbookpro --> new items: 5
+Country: es, product: macbookair --> new items: 2
+Country: fr, product: macbookpro --> new items: 5
+Country: fr, product: macbookair --> new items: 14
+Country: ie, product: ipad --> new items: 1
+Country: ie, product: watch --> new items: 1
+Country: it, product: ipad --> new items: 1
+Country: it, product: macstudio --> new items: 1
+Country: it, product: macbookpro --> new items: 4
+Country: it, product: macbookair --> new items: 4
+Country: nl, product: ipad --> new items: 1
+Country: nl, product: macbookpro --> new items: 6
+Country: nl, product: macbookair --> new items: 4
+Country: at, product: ipad --> new items: 1
+Country: at, product: macstudio --> new items: 1
+Country: at, product: macbookpro --> new items: 3
+Country: at, product: macbookair --> new items: 6
+Country: pl, product: macbookpro --> new items: 5
+Country: pl, product: macbookair --> new items: 4
+Country: cx, product: ipad --> new items: 1
+Country: cx, product: macbookpro --> new items: 4
+Country: cx, product: macbookair --> new items: 10
+Country: ch, product: ipad --> new items: 1
+Country: ch, product: macbookpro --> new items: 4
+Country: ch, product: macbookair --> new items: 10
+Country: uk, product: ipad --> new items: 6
+Country: uk, product: watch --> new items: 1
+------------------------------------------------------------
