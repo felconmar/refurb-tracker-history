@@ -2421,3 +2421,9 @@ Country: be, product: macbookpro --> new items: 1
 Country: de, product: macbookair --> new items: 2
 Country: at, product: macbookair --> new items: 2
 ------------------------------------------------------------
+Date: 2026/07/18 14:14:32
+Country: ca, product: imac --> new items: 1
+Country: de, product: macbookair --> new items: 1
+Country: at, product: macbookair --> new items: 1
+Country: us, product: imac --> new items: 1
+------------------------------------------------------------
