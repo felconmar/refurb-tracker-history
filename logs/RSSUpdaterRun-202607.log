@@ -2694,3 +2694,17 @@ Country: cx, product: atv --> new items: 1
 Country: ch, product: ipad --> new items: 1
 Country: ch, product: atv --> new items: 1
 ------------------------------------------------------------
+Date: 2026/07/20 15:43:42
+Country: bx, product: macbookair --> new items: 1
+Country: be, product: macbookair --> new items: 1
+Country: ca, product: imac --> new items: 11
+Country: ca, product: macbookair --> new items: 3
+Country: xf, product: imac --> new items: 11
+Country: xf, product: macbookair --> new items: 3
+Country: de, product: macbookair --> new items: 1
+Country: es, product: macbookair --> new items: 1
+Country: nl, product: macbookpro --> new items: 1
+Country: at, product: macbookair --> new items: 1
+Country: us, product: imac --> new items: 11
+Country: us, product: macbookair --> new items: 3
+------------------------------------------------------------
