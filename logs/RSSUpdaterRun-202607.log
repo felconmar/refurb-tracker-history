@@ -2628,3 +2628,9 @@ Country: jp, product: macbookpro --> new items: 1
 Country: nl, product: iphone --> new items: 1
 Country: at, product: iphone --> new items: 1
 ------------------------------------------------------------
+Date: 2026/07/20 05:29:11
+Country: au, product: macbookpro --> new items: 2
+Country: au, product: macbookair --> new items: 8
+Country: nz, product: macbookpro --> new items: 2
+Country: nz, product: macbookair --> new items: 8
+------------------------------------------------------------
