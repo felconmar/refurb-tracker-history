@@ -3197,3 +3197,8 @@ Country: at, product: macbookair --> new items: 1
 Country: us, product: imac --> new items: 4
 Country: us, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2026/07/23 01:46:30
+Country: ca, product: macbookair --> new items: 1
+Country: xf, product: macbookair --> new items: 1
+Country: us, product: macbookair --> new items: 1
+------------------------------------------------------------
