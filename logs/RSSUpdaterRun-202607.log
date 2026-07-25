@@ -3526,3 +3526,11 @@ Country: cn, product: macbookpro --> new items: 1
 Country: jp, product: macbookpro --> new items: 17
 Country: jp, product: macbookair --> new items: 3
 ------------------------------------------------------------
+Date: 2026/07/25 09:26:49
+Country: de, product: mini --> new items: 1
+Country: de, product: macbookpro --> new items: 1
+Country: fr, product: macbookpro --> new items: 1
+Country: jp, product: macbookair --> new items: 1
+Country: at, product: mini --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+------------------------------------------------------------
