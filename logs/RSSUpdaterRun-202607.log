@@ -3777,3 +3777,16 @@ Country: at, product: macbookair --> new items: 1
 Country: uk, product: macbookpro --> new items: 10
 Country: uk, product: macbookair --> new items: 2
 ------------------------------------------------------------
+Date: 2026/07/27 12:48:47
+Country: de, product: mini --> new items: 2
+Country: de, product: macbookpro --> new items: 2
+Country: de, product: macbookair --> new items: 1
+Country: ie, product: macbookpro --> new items: 12
+Country: ie, product: macbookair --> new items: 3
+Country: at, product: mini --> new items: 2
+Country: at, product: macbookpro --> new items: 3
+Country: at, product: macbookair --> new items: 1
+Country: uk, product: iphone --> new items: 1
+Country: uk, product: macbookpro --> new items: 12
+Country: uk, product: macbookair --> new items: 3
+------------------------------------------------------------
