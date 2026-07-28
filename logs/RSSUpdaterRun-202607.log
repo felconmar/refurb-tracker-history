@@ -3943,3 +3943,17 @@ Country: ch, product: mini --> new items: 1
 Country: us, product: imac --> new items: 10
 Country: us, product: macbookair --> new items: 5
 ------------------------------------------------------------
+Date: 2026/07/28 10:22:24
+Country: bx, product: iphone --> new items: 1
+Country: be, product: iphone --> new items: 1
+Country: cn, product: macbookpro --> new items: 2
+Country: cn, product: macbookair --> new items: 3
+Country: de, product: iphone --> new items: 1
+Country: de, product: imac --> new items: 1
+Country: de, product: macbookpro --> new items: 3
+Country: es, product: macbookair --> new items: 1
+Country: nl, product: iphone --> new items: 1
+Country: at, product: iphone --> new items: 1
+Country: at, product: imac --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+------------------------------------------------------------
