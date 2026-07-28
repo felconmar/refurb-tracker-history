@@ -3957,3 +3957,20 @@ Country: at, product: iphone --> new items: 1
 Country: at, product: imac --> new items: 1
 Country: at, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2026/07/28 12:29:23
+Country: bx, product: ipad --> new items: 1
+Country: be, product: ipad --> new items: 1
+Country: de, product: ipad --> new items: 1
+Country: de, product: macbookpro --> new items: 3
+Country: de, product: macbookair --> new items: 3
+Country: es, product: ipad --> new items: 1
+Country: hk, product: macbookpro --> new items: 9
+Country: it, product: ipad --> new items: 1
+Country: nl, product: ipad --> new items: 1
+Country: at, product: ipad --> new items: 1
+Country: at, product: macbookpro --> new items: 3
+Country: at, product: macbookair --> new items: 3
+Country: pl, product: macbookair --> new items: 1
+Country: cx, product: ipad --> new items: 1
+Country: ch, product: ipad --> new items: 1
+------------------------------------------------------------
