@@ -4281,3 +4281,14 @@ Country: uk, product: macbookair --> new items: 4
 Country: us, product: iphone --> new items: 13
 Country: us, product: macbookair --> new items: 3
 ------------------------------------------------------------
+Date: 2026/07/29 22:47:27
+Country: bx, product: iphone --> new items: 1
+Country: ca, product: macbookpro --> new items: 1
+Country: ca, product: macbookair --> new items: 1
+Country: xf, product: macbookpro --> new items: 1
+Country: xf, product: macbookair --> new items: 1
+Country: nl, product: iphone --> new items: 1
+Country: at, product: iphone --> new items: 1
+Country: us, product: macbookpro --> new items: 1
+Country: us, product: macbookair --> new items: 1
+------------------------------------------------------------
