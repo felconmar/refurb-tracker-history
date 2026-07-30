@@ -4315,3 +4315,28 @@ Country: us, product: imac --> new items: 14
 Country: us, product: macbookpro --> new items: 4
 Country: us, product: macbookair --> new items: 2
 ------------------------------------------------------------
+Date: 2026/07/30 07:26:11
+Country: bx, product: iphone --> new items: 1
+Country: be, product: iphone --> new items: 1
+Country: ca, product: imac --> new items: 3
+Country: ca, product: mini --> new items: 9
+Country: ca, product: macbookpro --> new items: 15
+Country: ca, product: macbookair --> new items: 9
+Country: xf, product: imac --> new items: 3
+Country: xf, product: mini --> new items: 8
+Country: xf, product: macbookpro --> new items: 14
+Country: xf, product: macbookair --> new items: 9
+Country: de, product: iphone --> new items: 1
+Country: de, product: macbookair --> new items: 1
+Country: fr, product: macbookpro --> new items: 1
+Country: fr, product: macbookair --> new items: 2
+Country: nl, product: iphone --> new items: 1
+Country: at, product: iphone --> new items: 1
+Country: at, product: macbookair --> new items: 1
+Country: us, product: ipad --> new items: 1
+Country: us, product: imac --> new items: 3
+Country: us, product: macstudio --> new items: 2
+Country: us, product: mini --> new items: 8
+Country: us, product: macbookpro --> new items: 14
+Country: us, product: macbookair --> new items: 9
+------------------------------------------------------------
