@@ -4540,3 +4540,20 @@ Country: uk, product: macbookair --> new items: 1
 Country: us, product: iphone --> new items: 2
 Country: us, product: mini --> new items: 5
 ------------------------------------------------------------
+Date: 2026/07/31 11:17:43
+Country: bx, product: iphone --> new items: 1
+Country: bx, product: imac --> new items: 1
+Country: be, product: iphone --> new items: 1
+Country: be, product: imac --> new items: 1
+Country: de, product: iphone --> new items: 1
+Country: de, product: imac --> new items: 1
+Country: fr, product: imac --> new items: 2
+Country: jp, product: iphone --> new items: 1
+Country: nl, product: iphone --> new items: 1
+Country: nl, product: imac --> new items: 1
+Country: at, product: iphone --> new items: 1
+Country: at, product: imac --> new items: 1
+Country: at, product: macbookpro --> new items: 2
+Country: cx, product: imac --> new items: 2
+Country: ch, product: imac --> new items: 2
+------------------------------------------------------------
