@@ -4637,3 +4637,13 @@ Country: cx, product: atv --> new items: 1
 Country: ch, product: atv --> new items: 1
 Country: us, product: imac --> new items: 7
 ------------------------------------------------------------
+Date: 2026/07/31 20:51:59
+Country: ca, product: iphone --> new items: 1
+Country: ca, product: imac --> new items: 1
+Country: xf, product: iphone --> new items: 1
+Country: xf, product: imac --> new items: 3
+Country: fr, product: iphone --> new items: 1
+Country: fr, product: macbookair --> new items: 1
+Country: jp, product: watch --> new items: 1
+Country: us, product: imac --> new items: 4
+------------------------------------------------------------
