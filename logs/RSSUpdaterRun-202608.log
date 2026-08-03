@@ -340,3 +340,29 @@ Date: 2026/08/03 08:59:55
 Country: cn, product: macbookair --> new items: 1
 Country: hk, product: macbookair --> new items: 11
 ------------------------------------------------------------
+Date: 2026/08/03 12:24:00
+Country: bx, product: ipad --> new items: 1
+Country: bx, product: iphone --> new items: 2
+Country: bx, product: atv --> new items: 1
+Country: be, product: ipad --> new items: 1
+Country: be, product: iphone --> new items: 2
+Country: be, product: atv --> new items: 2
+Country: de, product: ipad --> new items: 1
+Country: de, product: iphone --> new items: 2
+Country: de, product: macbookpro --> new items: 2
+Country: de, product: atv --> new items: 1
+Country: es, product: ipad --> new items: 1
+Country: it, product: ipad --> new items: 1
+Country: nl, product: ipad --> new items: 1
+Country: nl, product: iphone --> new items: 2
+Country: nl, product: atv --> new items: 1
+Country: at, product: ipad --> new items: 1
+Country: at, product: iphone --> new items: 2
+Country: at, product: macbookpro --> new items: 3
+Country: at, product: atv --> new items: 1
+Country: sg, product: macbookair --> new items: 35
+Country: cx, product: ipad --> new items: 1
+Country: cx, product: atv --> new items: 1
+Country: ch, product: ipad --> new items: 1
+Country: ch, product: atv --> new items: 1
+------------------------------------------------------------
