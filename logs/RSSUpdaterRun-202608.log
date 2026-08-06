@@ -816,3 +816,15 @@ Date: 2026/08/06 01:25:01
 Country: us, product: macbookair --> new items: 1
 Country: us, product: watch --> new items: 1
 ------------------------------------------------------------
+Date: 2026/08/06 04:54:02
+Country: ca, product: imac --> new items: 1
+Country: ca, product: macbookair --> new items: 13
+Country: xf, product: imac --> new items: 1
+Country: xf, product: mini --> new items: 12
+Country: xf, product: macbookair --> new items: 13
+Country: jp, product: macbookpro --> new items: 8
+Country: jp, product: macbookair --> new items: 14
+Country: us, product: imac --> new items: 1
+Country: us, product: mini --> new items: 17
+Country: us, product: macbookair --> new items: 13
+------------------------------------------------------------
