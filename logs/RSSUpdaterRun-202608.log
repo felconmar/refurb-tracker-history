@@ -1129,3 +1129,13 @@ Country: at, product: iphone --> new items: 1
 Country: at, product: macbookpro --> new items: 1
 Country: at, product: macbookair --> new items: 2
 ------------------------------------------------------------
+Date: 2026/08/07 18:37:50
+Country: bx, product: iphone --> new items: 1
+Country: be, product: iphone --> new items: 1
+Country: de, product: iphone --> new items: 1
+Country: de, product: macbookpro --> new items: 2
+Country: nl, product: iphone --> new items: 1
+Country: at, product: iphone --> new items: 1
+Country: at, product: macbookpro --> new items: 2
+Country: at, product: macbookair --> new items: 1
+------------------------------------------------------------
