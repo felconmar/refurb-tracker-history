@@ -1014,3 +1014,17 @@ Country: jp, product: iphone --> new items: 1
 Country: at, product: iphone --> new items: 1
 Country: at, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2026/08/07 09:49:23
+Country: bx, product: iphone --> new items: 1
+Country: be, product: iphone --> new items: 1
+Country: de, product: iphone --> new items: 1
+Country: de, product: imac --> new items: 1
+Country: de, product: macbookpro --> new items: 2
+Country: de, product: macbookair --> new items: 3
+Country: jp, product: iphone --> new items: 3
+Country: nl, product: iphone --> new items: 1
+Country: at, product: iphone --> new items: 1
+Country: at, product: imac --> new items: 1
+Country: at, product: macbookpro --> new items: 2
+Country: at, product: macbookair --> new items: 3
+------------------------------------------------------------
