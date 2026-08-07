@@ -1037,3 +1037,17 @@ Country: hk, product: macbookpro --> new items: 1
 Country: nl, product: iphone --> new items: 2
 Country: at, product: iphone --> new items: 1
 ------------------------------------------------------------
+Date: 2026/08/07 11:36:41
+Country: bx, product: iphone --> new items: 1
+Country: be, product: iphone --> new items: 1
+Country: de, product: iphone --> new items: 2
+Country: de, product: imac --> new items: 1
+Country: de, product: macbookair --> new items: 2
+Country: es, product: macbookair --> new items: 1
+Country: hk, product: macbookpro --> new items: 3
+Country: hk, product: macbookair --> new items: 20
+Country: nl, product: iphone --> new items: 1
+Country: at, product: iphone --> new items: 2
+Country: at, product: imac --> new items: 1
+Country: at, product: macbookair --> new items: 2
+------------------------------------------------------------
