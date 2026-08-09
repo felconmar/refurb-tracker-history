@@ -1443,3 +1443,15 @@ Country: at, product: macbookair --> new items: 1
 Country: at, product: atv --> new items: 1
 Country: cx, product: atv --> new items: 1
 ------------------------------------------------------------
+Date: 2026/08/09 17:20:19
+Country: bx, product: iphone --> new items: 3
+Country: bx, product: atv --> new items: 1
+Country: de, product: iphone --> new items: 3
+Country: de, product: mini --> new items: 1
+Country: de, product: atv --> new items: 1
+Country: nl, product: iphone --> new items: 3
+Country: at, product: iphone --> new items: 3
+Country: at, product: mini --> new items: 1
+Country: kr, product: macbookair --> new items: 1
+Country: ch, product: atv --> new items: 1
+------------------------------------------------------------
