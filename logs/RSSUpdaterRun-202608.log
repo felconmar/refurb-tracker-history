@@ -1614,3 +1614,12 @@ Country: uk, product: iphone --> new items: 6
 Country: uk, product: macbookpro --> new items: 1
 Country: uk, product: atv --> new items: 1
 ------------------------------------------------------------
+Date: 2026/08/10 16:41:29
+Country: be, product: iphone --> new items: 2
+Country: de, product: iphone --> new items: 2
+Country: de, product: macbookpro --> new items: 1
+Country: de, product: macbookair --> new items: 2
+Country: nl, product: iphone --> new items: 2
+Country: at, product: iphone --> new items: 2
+Country: at, product: macbookair --> new items: 2
+------------------------------------------------------------
