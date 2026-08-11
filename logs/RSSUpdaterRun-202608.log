@@ -1708,3 +1708,13 @@ Country: fr, product: atv --> new items: 1
 Country: it, product: macbookair --> new items: 1
 Country: us, product: imac --> new items: 6
 ------------------------------------------------------------
+Date: 2026/08/11 02:58:33
+Country: ca, product: imac --> new items: 13
+Country: xf, product: imac --> new items: 13
+Country: cn, product: imac --> new items: 2
+Country: cn, product: macbookpro --> new items: 1
+Country: cn, product: macbookair --> new items: 1
+Country: jp, product: macbookpro --> new items: 1
+Country: us, product: imac --> new items: 13
+Country: us, product: macbookpro --> new items: 3
+------------------------------------------------------------
