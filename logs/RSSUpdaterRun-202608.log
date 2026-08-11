@@ -1835,3 +1835,25 @@ Country: us, product: iphone --> new items: 14
 Country: us, product: imac --> new items: 5
 Country: us, product: macbookair --> new items: 2
 ------------------------------------------------------------
+Date: 2026/08/11 16:44:45
+Country: bx, product: watch --> new items: 1
+Country: bx, product: acc --> new items: 1
+Country: be, product: watch --> new items: 1
+Country: be, product: acc --> new items: 1
+Country: ca, product: imac --> new items: 11
+Country: xf, product: imac --> new items: 11
+Country: de, product: macbookair --> new items: 1
+Country: es, product: acc --> new items: 1
+Country: it, product: acc --> new items: 1
+Country: nl, product: macbookair --> new items: 1
+Country: nl, product: acc --> new items: 1
+Country: at, product: macbookair --> new items: 1
+Country: at, product: watch --> new items: 1
+Country: at, product: acc --> new items: 1
+Country: pl, product: acc --> new items: 1
+Country: cx, product: watch --> new items: 1
+Country: cx, product: acc --> new items: 1
+Country: ch, product: acc --> new items: 1
+Country: us, product: iphone --> new items: 1
+Country: us, product: imac --> new items: 11
+------------------------------------------------------------
