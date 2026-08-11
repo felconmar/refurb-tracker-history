@@ -1857,3 +1857,25 @@ Country: ch, product: acc --> new items: 1
 Country: us, product: iphone --> new items: 1
 Country: us, product: imac --> new items: 11
 ------------------------------------------------------------
+Date: 2026/08/11 17:47:32
+Country: bx, product: iphone --> new items: 1
+Country: be, product: iphone --> new items: 1
+Country: cn, product: imac --> new items: 1
+Country: cn, product: macbookpro --> new items: 1
+Country: de, product: iphone --> new items: 1
+Country: de, product: mini --> new items: 3
+Country: de, product: watch --> new items: 1
+Country: de, product: acc --> new items: 1
+Country: fr, product: mini --> new items: 3
+Country: ie, product: macbookpro --> new items: 25
+Country: ie, product: macbookair --> new items: 5
+Country: nl, product: iphone --> new items: 1
+Country: nl, product: watch --> new items: 1
+Country: at, product: iphone --> new items: 1
+Country: at, product: mini --> new items: 3
+Country: cx, product: mini --> new items: 1
+Country: ch, product: mini --> new items: 1
+Country: ch, product: watch --> new items: 1
+Country: uk, product: macbookpro --> new items: 25
+Country: uk, product: macbookair --> new items: 5
+------------------------------------------------------------
