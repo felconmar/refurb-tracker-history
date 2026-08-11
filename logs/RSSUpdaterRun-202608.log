@@ -1763,3 +1763,17 @@ Country: at, product: macbookpro --> new items: 1
 Country: at, product: macbookair --> new items: 1
 Country: us, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2026/08/11 11:35:59
+Country: bx, product: watch --> new items: 1
+Country: be, product: watch --> new items: 1
+Country: de, product: macbookpro --> new items: 1
+Country: de, product: macbookair --> new items: 1
+Country: de, product: watch --> new items: 1
+Country: fr, product: macbookpro --> new items: 1
+Country: nl, product: macbookair --> new items: 3
+Country: nl, product: watch --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+Country: at, product: watch --> new items: 1
+Country: cx, product: watch --> new items: 1
+Country: ch, product: watch --> new items: 1
+------------------------------------------------------------
