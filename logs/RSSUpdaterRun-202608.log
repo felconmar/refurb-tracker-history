@@ -1794,3 +1794,44 @@ Country: kr, product: macbookpro --> new items: 2
 Country: uk, product: macbookair --> new items: 1
 Country: us, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2026/08/11 15:48:02
+Country: bx, product: ipad --> new items: 29
+Country: bx, product: macbookpro --> new items: 1
+Country: bx, product: macbookair --> new items: 1
+Country: be, product: ipad --> new items: 29
+Country: be, product: macbookpro --> new items: 1
+Country: be, product: macbookair --> new items: 1
+Country: ca, product: iphone --> new items: 5
+Country: ca, product: imac --> new items: 5
+Country: ca, product: macbookair --> new items: 2
+Country: xf, product: iphone --> new items: 5
+Country: xf, product: imac --> new items: 5
+Country: xf, product: macbookair --> new items: 2
+Country: de, product: ipad --> new items: 29
+Country: de, product: mini --> new items: 1
+Country: de, product: macbookpro --> new items: 9
+Country: de, product: macbookair --> new items: 4
+Country: es, product: ipad --> new items: 26
+Country: fr, product: ipad --> new items: 5
+Country: fr, product: macbookpro --> new items: 4
+Country: fr, product: macbookair --> new items: 3
+Country: ie, product: ipad --> new items: 10
+Country: it, product: ipad --> new items: 26
+Country: it, product: macbookair --> new items: 1
+Country: nl, product: ipad --> new items: 29
+Country: nl, product: macbookpro --> new items: 1
+Country: nl, product: macbookair --> new items: 1
+Country: at, product: ipad --> new items: 29
+Country: at, product: mini --> new items: 1
+Country: at, product: macbookpro --> new items: 9
+Country: at, product: macbookair --> new items: 4
+Country: pl, product: ipad --> new items: 10
+Country: cx, product: ipad --> new items: 26
+Country: cx, product: macbookpro --> new items: 1
+Country: ch, product: ipad --> new items: 26
+Country: ch, product: macbookpro --> new items: 1
+Country: us, product: ipad --> new items: 1
+Country: us, product: iphone --> new items: 14
+Country: us, product: imac --> new items: 5
+Country: us, product: macbookair --> new items: 2
+------------------------------------------------------------
