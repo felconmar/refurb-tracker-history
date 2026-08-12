@@ -1973,3 +1973,14 @@ Country: xf, product: macbookair --> new items: 12
 Country: us, product: macbookpro --> new items: 9
 Country: us, product: macbookair --> new items: 13
 ------------------------------------------------------------
+Date: 2026/08/12 05:22:21
+Country: au, product: macbookair --> new items: 3
+Country: ca, product: imac --> new items: 12
+Country: ca, product: macbookair --> new items: 9
+Country: xf, product: imac --> new items: 12
+Country: xf, product: macbookair --> new items: 9
+Country: cn, product: imac --> new items: 1
+Country: nz, product: macbookair --> new items: 3
+Country: us, product: imac --> new items: 12
+Country: us, product: macbookair --> new items: 8
+------------------------------------------------------------
