@@ -2292,3 +2292,8 @@ Country: at, product: macbookair --> new items: 2
 Country: us, product: imac --> new items: 12
 Country: us, product: mini --> new items: 3
 ------------------------------------------------------------
+Date: 2026/08/13 18:45:54
+Country: de, product: macbookair --> new items: 1
+Country: at, product: macbookair --> new items: 1
+Country: us, product: macbookair --> new items: 1
+------------------------------------------------------------
