@@ -2536,3 +2536,8 @@ Country: uk, product: macbookpro --> new items: 3
 Country: uk, product: macbookair --> new items: 8
 Country: us, product: ipad --> new items: 1
 ------------------------------------------------------------
+Date: 2026/08/14 23:10:53
+Country: de, product: macbookair --> new items: 1
+Country: fr, product: imac --> new items: 1
+Country: at, product: macbookair --> new items: 1
+------------------------------------------------------------
