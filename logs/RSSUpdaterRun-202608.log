@@ -2493,3 +2493,9 @@ Country: fr, product: macstudio --> new items: 2
 Country: at, product: macstudio --> new items: 1
 Country: at, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2026/08/14 19:40:51
+Country: de, product: macbookair --> new items: 1
+Country: ie, product: macbookpro --> new items: 13
+Country: at, product: macbookair --> new items: 1
+Country: uk, product: macbookpro --> new items: 13
+------------------------------------------------------------
