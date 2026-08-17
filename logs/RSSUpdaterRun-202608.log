@@ -2829,3 +2829,8 @@ Country: fr, product: iphone --> new items: 1
 Country: nl, product: iphone --> new items: 2
 Country: at, product: iphone --> new items: 2
 ------------------------------------------------------------
+Date: 2026/08/17 00:35:52
+Country: au, product: macbookair --> new items: 1
+Country: de, product: macbookair --> new items: 1
+Country: at, product: macbookair --> new items: 1
+------------------------------------------------------------
