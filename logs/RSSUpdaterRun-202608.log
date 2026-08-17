@@ -2905,3 +2905,12 @@ Country: at, product: atv --> new items: 1
 Country: cx, product: atv --> new items: 1
 Country: ch, product: atv --> new items: 1
 ------------------------------------------------------------
+Date: 2026/08/17 13:31:00
+Country: bx, product: macbookair --> new items: 2
+Country: be, product: macbookair --> new items: 1
+Country: cn, product: macstudio --> new items: 1
+Country: cn, product: macbookpro --> new items: 1
+Country: de, product: macbookair --> new items: 1
+Country: fr, product: macbookpro --> new items: 1
+Country: at, product: macbookair --> new items: 1
+------------------------------------------------------------
