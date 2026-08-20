@@ -3697,3 +3697,40 @@ Country: it, product: macbookpro --> new items: 2
 Country: at, product: imac --> new items: 1
 Country: at, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2026/08/20 17:18:10
+Country: bx, product: iphone --> new items: 2
+Country: bx, product: macbookair --> new items: 1
+Country: bx, product: watch --> new items: 2
+Country: be, product: iphone --> new items: 2
+Country: be, product: macbookair --> new items: 1
+Country: be, product: watch --> new items: 2
+Country: ca, product: macbookpro --> new items: 19
+Country: ca, product: macbookair --> new items: 11
+Country: xf, product: macbookpro --> new items: 20
+Country: xf, product: macbookair --> new items: 9
+Country: de, product: iphone --> new items: 2
+Country: de, product: imac --> new items: 1
+Country: de, product: macbookpro --> new items: 1
+Country: de, product: watch --> new items: 2
+Country: es, product: macbookpro --> new items: 1
+Country: es, product: macbookair --> new items: 1
+Country: ie, product: iphone --> new items: 1
+Country: it, product: macbookpro --> new items: 3
+Country: nl, product: iphone --> new items: 2
+Country: nl, product: macbookpro --> new items: 4
+Country: nl, product: watch --> new items: 2
+Country: at, product: iphone --> new items: 3
+Country: at, product: imac --> new items: 1
+Country: at, product: macbookpro --> new items: 4
+Country: at, product: watch --> new items: 2
+Country: pl, product: macbookpro --> new items: 1
+Country: cx, product: iphone --> new items: 1
+Country: cx, product: macbookpro --> new items: 1
+Country: cx, product: watch --> new items: 2
+Country: ch, product: iphone --> new items: 1
+Country: ch, product: macbookpro --> new items: 1
+Country: ch, product: watch --> new items: 2
+Country: us, product: ipad --> new items: 1
+Country: us, product: macbookpro --> new items: 20
+Country: us, product: macbookair --> new items: 9
+------------------------------------------------------------
