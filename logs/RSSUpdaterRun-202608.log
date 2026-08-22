@@ -4109,3 +4109,14 @@ Country: at, product: macbookair --> new items: 1
 Country: pl, product: macbookair --> new items: 1
 Country: sg, product: macstudio --> new items: 1
 ------------------------------------------------------------
+Date: 2026/08/22 14:10:17
+Country: bx, product: iphone --> new items: 1
+Country: bx, product: macbookpro --> new items: 1
+Country: be, product: iphone --> new items: 1
+Country: ca, product: atv --> new items: 1
+Country: de, product: iphone --> new items: 1
+Country: nl, product: iphone --> new items: 1
+Country: nl, product: macbookpro --> new items: 2
+Country: at, product: iphone --> new items: 1
+Country: us, product: atv --> new items: 1
+------------------------------------------------------------
