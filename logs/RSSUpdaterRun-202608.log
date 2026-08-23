@@ -4242,3 +4242,17 @@ Country: nz, product: watch --> new items: 1
 Country: at, product: watch --> new items: 1
 Country: cx, product: watch --> new items: 1
 ------------------------------------------------------------
+Date: 2026/08/23 13:24:14
+Country: au, product: watch --> new items: 4
+Country: bx, product: atv --> new items: 1
+Country: be, product: atv --> new items: 1
+Country: de, product: atv --> new items: 1
+Country: fr, product: macbookpro --> new items: 1
+Country: nl, product: atv --> new items: 1
+Country: nz, product: watch --> new items: 3
+Country: at, product: iphone --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+Country: at, product: atv --> new items: 1
+Country: cx, product: atv --> new items: 1
+Country: ch, product: atv --> new items: 1
+------------------------------------------------------------
