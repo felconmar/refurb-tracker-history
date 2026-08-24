@@ -4425,3 +4425,19 @@ Country: ch, product: ipad --> new items: 1
 Date: 2026/08/24 12:23:57
 Country: bx, product: iphone --> new items: 1
 ------------------------------------------------------------
+Date: 2026/08/24 13:41:04
+Country: be, product: iphone --> new items: 1
+Country: ca, product: macbookpro --> new items: 2
+Country: xf, product: macbookpro --> new items: 2
+Country: de, product: iphone --> new items: 1
+Country: de, product: macbookpro --> new items: 1
+Country: de, product: macbookair --> new items: 2
+Country: fr, product: macstudio --> new items: 1
+Country: nl, product: iphone --> new items: 1
+Country: at, product: iphone --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+Country: at, product: macbookair --> new items: 2
+Country: pl, product: macstudio --> new items: 1
+Country: pl, product: macbookpro --> new items: 1
+Country: us, product: macbookpro --> new items: 2
+------------------------------------------------------------
