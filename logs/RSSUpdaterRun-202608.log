@@ -4441,3 +4441,15 @@ Country: pl, product: macstudio --> new items: 1
 Country: pl, product: macbookpro --> new items: 1
 Country: us, product: macbookpro --> new items: 2
 ------------------------------------------------------------
+Date: 2026/08/24 14:30:35
+Country: bx, product: iphone --> new items: 1
+Country: be, product: iphone --> new items: 1
+Country: ca, product: macbookpro --> new items: 1
+Country: ca, product: macbookair --> new items: 1
+Country: de, product: iphone --> new items: 1
+Country: fr, product: macbookpro --> new items: 1
+Country: nl, product: iphone --> new items: 1
+Country: at, product: iphone --> new items: 1
+Country: us, product: macbookpro --> new items: 1
+Country: us, product: watch --> new items: 1
+------------------------------------------------------------
