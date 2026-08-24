@@ -4561,3 +4561,9 @@ Country: ch, product: atv --> new items: 1
 Country: us, product: ipad --> new items: 1
 Country: us, product: macbookpro --> new items: 2
 ------------------------------------------------------------
+Date: 2026/08/24 21:18:01
+Country: ca, product: macbookpro --> new items: 2
+Country: ie, product: mini --> new items: 5
+Country: uk, product: mini --> new items: 5
+Country: us, product: macbookpro --> new items: 1
+------------------------------------------------------------
