@@ -4596,3 +4596,9 @@ Country: xf, product: macbookpro --> new items: 39
 Country: us, product: iphone --> new items: 3
 Country: us, product: macbookpro --> new items: 39
 ------------------------------------------------------------
+Date: 2026/08/25 02:11:06
+Country: ca, product: macbookpro --> new items: 50
+Country: xf, product: macbookpro --> new items: 32
+Country: jp, product: ipad --> new items: 24
+Country: us, product: macbookpro --> new items: 31
+------------------------------------------------------------
