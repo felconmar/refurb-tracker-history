@@ -4802,3 +4802,19 @@ Country: cx, product: watch --> new items: 1
 Country: ch, product: watch --> new items: 1
 Country: us, product: mini --> new items: 1
 ------------------------------------------------------------
+Date: 2026/08/25 20:15:54
+Country: au, product: macbookpro --> new items: 1
+Country: bx, product: iphone --> new items: 3
+Country: be, product: iphone --> new items: 3
+Country: ca, product: macbookair --> new items: 1
+Country: xf, product: macbookair --> new items: 1
+Country: de, product: iphone --> new items: 4
+Country: de, product: macbookair --> new items: 1
+Country: nl, product: iphone --> new items: 3
+Country: nz, product: macbookpro --> new items: 1
+Country: at, product: iphone --> new items: 3
+Country: at, product: macbookpro --> new items: 1
+Country: at, product: macbookair --> new items: 1
+Country: us, product: iphone --> new items: 1
+Country: us, product: macbookair --> new items: 1
+------------------------------------------------------------
