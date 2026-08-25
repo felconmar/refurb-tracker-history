@@ -4659,3 +4659,16 @@ Country: nl, product: macbookair --> new items: 1
 Country: at, product: iphone --> new items: 1
 Country: sg, product: macbookpro --> new items: 2
 ------------------------------------------------------------
+Date: 2026/08/25 09:23:17
+Country: cn, product: macstudio --> new items: 2
+Country: cn, product: mini --> new items: 8
+Country: cn, product: macbookpro --> new items: 23
+Country: de, product: macbookair --> new items: 2
+Country: jp, product: iphone --> new items: 2
+Country: jp, product: watch --> new items: 1
+Country: nl, product: macbookpro --> new items: 1
+Country: at, product: macbookair --> new items: 2
+Country: sg, product: macstudio --> new items: 4
+Country: sg, product: mini --> new items: 4
+Country: sg, product: macbookair --> new items: 13
+------------------------------------------------------------
