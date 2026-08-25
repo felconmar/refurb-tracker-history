@@ -4753,3 +4753,12 @@ Country: at, product: macbookpro --> new items: 1
 Country: at, product: macbookair --> new items: 1
 Country: sg, product: macstudio --> new items: 2
 ------------------------------------------------------------
+Date: 2026/08/25 16:22:56
+Country: ca, product: imac --> new items: 1
+Country: ca, product: macbookair --> new items: 1
+Country: xf, product: imac --> new items: 1
+Country: xf, product: macbookair --> new items: 1
+Country: de, product: macbookair --> new items: 2
+Country: at, product: macbookair --> new items: 2
+Country: us, product: macbookair --> new items: 1
+------------------------------------------------------------
