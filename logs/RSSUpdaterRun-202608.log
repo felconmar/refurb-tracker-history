@@ -4917,3 +4917,17 @@ Country: hk, product: imac --> new items: 5
 Country: uk, product: iphone --> new items: 1
 Country: us, product: ipad --> new items: 3
 ------------------------------------------------------------
+Date: 2026/08/26 08:29:22
+Country: bx, product: iphone --> new items: 1
+Country: be, product: iphone --> new items: 1
+Country: de, product: iphone --> new items: 1
+Country: de, product: macbookpro --> new items: 1
+Country: de, product: macbookair --> new items: 1
+Country: ie, product: macbookpro --> new items: 1
+Country: nl, product: iphone --> new items: 1
+Country: at, product: iphone --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+Country: at, product: macbookair --> new items: 1
+Country: sg, product: macstudio --> new items: 1
+Country: uk, product: macbookpro --> new items: 1
+------------------------------------------------------------
