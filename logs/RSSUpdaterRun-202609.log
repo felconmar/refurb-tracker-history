@@ -127,3 +127,12 @@ Country: us, product: imac --> new items: 11
 Country: us, product: macbookpro --> new items: 24
 Country: us, product: macbookair --> new items: 18
 ------------------------------------------------------------
+Date: 2026/09/01 23:39:19
+Country: bx, product: macbookair --> new items: 1
+Country: be, product: macbookair --> new items: 1
+Country: ca, product: macbookair --> new items: 2
+Country: xf, product: macbookair --> new items: 1
+Country: de, product: macbookair --> new items: 1
+Country: at, product: macbookair --> new items: 1
+Country: us, product: macbookair --> new items: 2
+------------------------------------------------------------
