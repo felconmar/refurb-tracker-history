@@ -6,3 +6,27 @@ Country: xf, product: macbookpro --> new items: 57
 Country: us, product: imac --> new items: 1
 Country: us, product: macbookpro --> new items: 58
 ------------------------------------------------------------
+Date: 2026/09/01 05:50:38
+Country: au, product: macbookpro --> new items: 27
+Country: au, product: macbookair --> new items: 19
+Country: ca, product: macstudio --> new items: 5
+Country: ca, product: macbookpro --> new items: 27
+Country: ca, product: macbookair --> new items: 1
+Country: xf, product: macstudio --> new items: 6
+Country: xf, product: macbookpro --> new items: 8
+Country: xf, product: macbookair --> new items: 1
+Country: cn, product: mini --> new items: 6
+Country: cn, product: macbookpro --> new items: 9
+Country: de, product: macbookair --> new items: 1
+Country: jp, product: iphone --> new items: 1
+Country: jp, product: macbookpro --> new items: 3
+Country: jp, product: macbookair --> new items: 16
+Country: nz, product: macbookpro --> new items: 27
+Country: nz, product: macbookair --> new items: 18
+Country: at, product: macstudio --> new items: 2
+Country: at, product: macbookpro --> new items: 1
+Country: at, product: macbookair --> new items: 1
+Country: us, product: macstudio --> new items: 6
+Country: us, product: macbookpro --> new items: 27
+Country: us, product: macbookair --> new items: 1
+------------------------------------------------------------
