@@ -145,3 +145,14 @@ Country: jp, product: ipad --> new items: 1
 Country: us, product: macbookpro --> new items: 6
 Country: us, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2026/09/02 06:35:24
+Country: au, product: ipad --> new items: 1
+Country: ca, product: macbookair --> new items: 22
+Country: xf, product: macbookair --> new items: 21
+Country: cn, product: mini --> new items: 1
+Country: cn, product: macbookpro --> new items: 1
+Country: nz, product: ipad --> new items: 1
+Country: sg, product: macbookpro --> new items: 10
+Country: sg, product: macbookair --> new items: 18
+Country: us, product: macbookair --> new items: 21
+------------------------------------------------------------
