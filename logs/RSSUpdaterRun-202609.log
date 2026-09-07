@@ -991,3 +991,23 @@ Country: uk, product: macbookpro --> new items: 9
 Country: uk, product: macbookair --> new items: 1
 Country: us, product: imac --> new items: 1
 ------------------------------------------------------------
+Date: 2026/09/07 23:08:38
+Country: bx, product: ipad --> new items: 2
+Country: bx, product: iphone --> new items: 1
+Country: be, product: ipad --> new items: 2
+Country: be, product: iphone --> new items: 1
+Country: de, product: ipad --> new items: 2
+Country: de, product: iphone --> new items: 1
+Country: de, product: imac --> new items: 1
+Country: de, product: macbookair --> new items: 1
+Country: es, product: ipad --> new items: 2
+Country: it, product: ipad --> new items: 2
+Country: nl, product: ipad --> new items: 2
+Country: nl, product: iphone --> new items: 1
+Country: at, product: ipad --> new items: 2
+Country: at, product: iphone --> new items: 1
+Country: at, product: imac --> new items: 1
+Country: at, product: macbookair --> new items: 1
+Country: cx, product: ipad --> new items: 2
+Country: ch, product: ipad --> new items: 2
+------------------------------------------------------------
