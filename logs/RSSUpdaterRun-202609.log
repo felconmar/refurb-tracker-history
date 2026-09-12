@@ -1690,3 +1690,15 @@ Country: ch, product: watch --> new items: 1
 Country: tw, product: macbookpro --> new items: 4
 Country: us, product: iphone --> new items: 6
 ------------------------------------------------------------
+Date: 2026/09/12 16:35:56
+Country: bx, product: ipad --> new items: 1
+Country: de, product: ipad --> new items: 1
+Country: de, product: macbookair --> new items: 2
+Country: es, product: ipad --> new items: 1
+Country: ie, product: macbookpro --> new items: 1
+Country: nl, product: ipad --> new items: 1
+Country: at, product: macbookair --> new items: 2
+Country: cx, product: ipad --> new items: 1
+Country: ch, product: ipad --> new items: 2
+Country: uk, product: macbookpro --> new items: 1
+------------------------------------------------------------
