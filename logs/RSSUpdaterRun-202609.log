@@ -2354,3 +2354,17 @@ Country: uk, product: macbookpro --> new items: 1
 Country: us, product: macbookpro --> new items: 6
 Country: us, product: macbookair --> new items: 3
 ------------------------------------------------------------
+Date: 2026/09/17 08:07:04
+Country: au, product: macbookair --> new items: 1
+Country: ca, product: imac --> new items: 7
+Country: ca, product: macbookpro --> new items: 24
+Country: ca, product: macbookair --> new items: 10
+Country: xf, product: imac --> new items: 7
+Country: xf, product: macbookpro --> new items: 24
+Country: xf, product: macbookair --> new items: 10
+Country: cn, product: macbookpro --> new items: 1
+Country: nz, product: macbookair --> new items: 1
+Country: us, product: imac --> new items: 9
+Country: us, product: macbookpro --> new items: 24
+Country: us, product: macbookair --> new items: 10
+------------------------------------------------------------
