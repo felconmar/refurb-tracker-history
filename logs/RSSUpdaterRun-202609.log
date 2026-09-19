@@ -2651,3 +2651,14 @@ Country: at, product: macbookair --> new items: 2
 Country: kr, product: macbookpro --> new items: 1
 Country: us, product: iphone --> new items: 1
 ------------------------------------------------------------
+Date: 2026/09/19 13:33:11
+Country: bx, product: macbookair --> new items: 2
+Country: be, product: iphone --> new items: 1
+Country: be, product: macbookair --> new items: 2
+Country: de, product: macbookpro --> new items: 1
+Country: de, product: macbookair --> new items: 2
+Country: jp, product: imac --> new items: 1
+Country: nl, product: macbookpro --> new items: 2
+Country: at, product: macbookpro --> new items: 1
+Country: at, product: macbookair --> new items: 3
+------------------------------------------------------------
