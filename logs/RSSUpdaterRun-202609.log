@@ -3536,3 +3536,12 @@ Country: uk, product: macbookpro --> new items: 1
 Country: us, product: iphone --> new items: 8
 Country: us, product: macbookpro --> new items: 1
 ------------------------------------------------------------
+Date: 2026/09/26 01:03:00
+Country: ca, product: iphone --> new items: 1
+Country: ca, product: macbookair --> new items: 1
+Country: xf, product: iphone --> new items: 1
+Country: xf, product: macbookair --> new items: 1
+Country: cn, product: macbookpro --> new items: 1
+Country: us, product: iphone --> new items: 4
+Country: us, product: macbookair --> new items: 1
+------------------------------------------------------------
