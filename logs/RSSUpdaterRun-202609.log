@@ -3686,3 +3686,12 @@ Country: ch, product: ipad --> new items: 1
 Country: us, product: ipad --> new items: 1
 Country: us, product: iphone --> new items: 6
 ------------------------------------------------------------
+Date: 2026/09/27 05:57:38
+Country: cn, product: macbookpro --> new items: 1
+Country: de, product: macbookpro --> new items: 1
+Country: nl, product: macbookair --> new items: 1
+Country: at, product: macbookpro --> new items: 1
+Country: uk, product: iphone --> new items: 1
+Country: us, product: ipad --> new items: 1
+Country: us, product: iphone --> new items: 1
+------------------------------------------------------------
