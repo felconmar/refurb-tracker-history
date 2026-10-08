@@ -736,3 +736,15 @@ Country: kr, product: mini --> new items: 1
 Country: us, product: ipad --> new items: 10
 Country: us, product: iphone --> new items: 20
 ------------------------------------------------------------
+Date: 2026/10/08 06:47:09
+Country: ca, product: iphone --> new items: 1
+Country: ca, product: imac --> new items: 38
+Country: ca, product: macbookair --> new items: 1
+Country: xf, product: iphone --> new items: 1
+Country: xf, product: imac --> new items: 38
+Country: xf, product: macbookair --> new items: 1
+Country: cn, product: macbookair --> new items: 4
+Country: nl, product: macbookpro --> new items: 1
+Country: us, product: imac --> new items: 38
+Country: us, product: macbookair --> new items: 1
+------------------------------------------------------------
