@@ -1218,3 +1218,46 @@ Country: tw, product: mini --> new items: 9
 Country: tw, product: macbookair --> new items: 11
 Country: uk, product: imac --> new items: 6
 ------------------------------------------------------------
+Date: 2026/10/12 23:20:09
+Country: au, product: macbookpro --> new items: 1
+Country: bx, product: ipad --> new items: 1
+Country: bx, product: iphone --> new items: 2
+Country: bx, product: macbookpro --> new items: 2
+Country: bx, product: macbookair --> new items: 1
+Country: bx, product: watch --> new items: 1
+Country: be, product: ipad --> new items: 1
+Country: be, product: iphone --> new items: 2
+Country: be, product: macbookpro --> new items: 2
+Country: be, product: macbookair --> new items: 1
+Country: be, product: watch --> new items: 2
+Country: ca, product: imac --> new items: 2
+Country: ca, product: macbookpro --> new items: 1
+Country: xf, product: imac --> new items: 2
+Country: xf, product: macbookpro --> new items: 1
+Country: de, product: ipad --> new items: 1
+Country: de, product: iphone --> new items: 1
+Country: de, product: macbookpro --> new items: 8
+Country: de, product: watch --> new items: 2
+Country: es, product: ipad --> new items: 1
+Country: fr, product: macbookpro --> new items: 7
+Country: ie, product: macbookpro --> new items: 1
+Country: ie, product: macbookair --> new items: 2
+Country: it, product: ipad --> new items: 1
+Country: nl, product: ipad --> new items: 1
+Country: nl, product: iphone --> new items: 1
+Country: nl, product: macbookpro --> new items: 1
+Country: nl, product: watch --> new items: 1
+Country: nz, product: macbookpro --> new items: 1
+Country: at, product: ipad --> new items: 1
+Country: at, product: iphone --> new items: 2
+Country: at, product: macbookpro --> new items: 8
+Country: at, product: watch --> new items: 1
+Country: cx, product: ipad --> new items: 1
+Country: cx, product: watch --> new items: 1
+Country: ch, product: ipad --> new items: 1
+Country: ch, product: watch --> new items: 1
+Country: uk, product: macbookpro --> new items: 1
+Country: uk, product: macbookair --> new items: 2
+Country: us, product: imac --> new items: 2
+Country: us, product: macbookpro --> new items: 1
+------------------------------------------------------------
