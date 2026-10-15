@@ -1467,3 +1467,11 @@ Country: us, product: ipad --> new items: 1
 Country: us, product: iphone --> new items: 1
 Country: us, product: acc --> new items: 1
 ------------------------------------------------------------
+Date: 2026/10/15 01:03:39
+Country: bx, product: iphone --> new items: 1
+Country: ca, product: macbookair --> new items: 16
+Country: xf, product: macbookair --> new items: 16
+Country: de, product: macbookair --> new items: 1
+Country: at, product: macbookair --> new items: 1
+Country: us, product: macbookair --> new items: 16
+------------------------------------------------------------
