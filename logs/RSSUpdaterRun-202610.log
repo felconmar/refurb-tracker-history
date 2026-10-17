@@ -1756,3 +1756,14 @@ Country: us, product: macbookpro --> new items: 1
 Date: 2026/10/17 02:00:14
 Country: it, product: macbookair --> new items: 1
 ------------------------------------------------------------
+Date: 2026/10/17 06:42:31
+Country: bx, product: iphone --> new items: 1
+Country: be, product: iphone --> new items: 1
+Country: de, product: iphone --> new items: 1
+Country: jp, product: ipad --> new items: 8
+Country: jp, product: macstudio --> new items: 5
+Country: jp, product: macbookpro --> new items: 1
+Country: nl, product: iphone --> new items: 1
+Country: at, product: iphone --> new items: 1
+Country: us, product: iphone --> new items: 2
+------------------------------------------------------------
