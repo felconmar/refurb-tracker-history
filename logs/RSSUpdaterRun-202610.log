@@ -1948,3 +1948,12 @@ Country: cx, product: acc --> new items: 1
 Country: ch, product: ipad --> new items: 2
 Country: ch, product: acc --> new items: 1
 ------------------------------------------------------------
+Date: 2026/10/18 22:00:43
+Country: bx, product: macbookair --> new items: 1
+Country: be, product: macbookair --> new items: 1
+Country: ca, product: macbookpro --> new items: 1
+Country: xf, product: macbookpro --> new items: 1
+Country: cn, product: ipad --> new items: 1
+Country: es, product: macbookpro --> new items: 1
+Country: us, product: macbookpro --> new items: 1
+------------------------------------------------------------
