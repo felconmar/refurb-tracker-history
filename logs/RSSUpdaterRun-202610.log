@@ -1903,3 +1903,24 @@ Country: at, product: imac --> new items: 1
 Country: cx, product: ipad --> new items: 1
 Country: ch, product: ipad --> new items: 1
 ------------------------------------------------------------
+Date: 2026/10/18 16:11:39
+Country: bx, product: ipad --> new items: 1
+Country: bx, product: watch --> new items: 11
+Country: be, product: watch --> new items: 11
+Country: xf, product: iphone --> new items: 1
+Country: de, product: ipad --> new items: 1
+Country: de, product: macbookair --> new items: 3
+Country: de, product: watch --> new items: 11
+Country: es, product: macbookair --> new items: 1
+Country: it, product: ipad --> new items: 1
+Country: nl, product: macbookpro --> new items: 1
+Country: nl, product: macbookair --> new items: 1
+Country: nl, product: watch --> new items: 11
+Country: at, product: ipad --> new items: 1
+Country: at, product: macbookair --> new items: 3
+Country: at, product: watch --> new items: 11
+Country: cx, product: ipad --> new items: 1
+Country: cx, product: watch --> new items: 11
+Country: ch, product: watch --> new items: 11
+Country: us, product: ipad --> new items: 1
+------------------------------------------------------------
