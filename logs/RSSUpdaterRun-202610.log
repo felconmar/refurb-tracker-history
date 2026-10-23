@@ -2521,3 +2521,18 @@ Country: jp, product: acc --> new items: 1
 Country: nz, product: watch --> new items: 1
 Country: us, product: iphone --> new items: 4
 ------------------------------------------------------------
+Date: 2026/10/23 12:14:49
+Country: bx, product: macbookair --> new items: 1
+Country: ca, product: iphone --> new items: 1
+Country: ca, product: mini --> new items: 1
+Country: xf, product: iphone --> new items: 1
+Country: xf, product: mini --> new items: 1
+Country: de, product: macbookpro --> new items: 3
+Country: de, product: macbookair --> new items: 3
+Country: it, product: macstudio --> new items: 1
+Country: at, product: macbookpro --> new items: 3
+Country: at, product: macbookair --> new items: 3
+Country: cx, product: mini --> new items: 1
+Country: ch, product: mini --> new items: 1
+Country: us, product: mini --> new items: 1
+------------------------------------------------------------
