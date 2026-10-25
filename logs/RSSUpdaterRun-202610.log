@@ -2791,3 +2791,22 @@ Country: cx, product: ipad --> new items: 2
 Country: ch, product: ipad --> new items: 2
 Country: us, product: macbookair --> new items: 3
 ------------------------------------------------------------
+Date: 2026/10/25 22:54:14
+Country: bx, product: watch --> new items: 1
+Country: bx, product: acc --> new items: 1
+Country: be, product: acc --> new items: 1
+Country: de, product: macbookpro --> new items: 1
+Country: de, product: watch --> new items: 1
+Country: de, product: acc --> new items: 1
+Country: es, product: acc --> new items: 1
+Country: it, product: acc --> new items: 1
+Country: nl, product: watch --> new items: 1
+Country: nl, product: acc --> new items: 1
+Country: at, product: watch --> new items: 1
+Country: at, product: acc --> new items: 1
+Country: pl, product: acc --> new items: 1
+Country: cx, product: watch --> new items: 1
+Country: cx, product: acc --> new items: 1
+Country: ch, product: watch --> new items: 1
+Country: ch, product: acc --> new items: 1
+------------------------------------------------------------
