@@ -2810,3 +2810,8 @@ Country: cx, product: acc --> new items: 1
 Country: ch, product: watch --> new items: 1
 Country: ch, product: acc --> new items: 1
 ------------------------------------------------------------
+Date: 2026/10/26 00:50:04
+Country: ca, product: macbookair --> new items: 6
+Country: xf, product: macbookair --> new items: 6
+Country: us, product: macbookair --> new items: 6
+------------------------------------------------------------
