@@ -2954,3 +2954,28 @@ Country: us, product: macstudio --> new items: 6
 Country: us, product: mini --> new items: 6
 Country: us, product: macbookpro --> new items: 6
 ------------------------------------------------------------
+Date: 2026/10/27 12:59:36
+Country: bx, product: ipad --> new items: 1
+Country: bx, product: iphone --> new items: 2
+Country: bx, product: imac --> new items: 1
+Country: be, product: ipad --> new items: 1
+Country: be, product: iphone --> new items: 2
+Country: be, product: imac --> new items: 1
+Country: cn, product: macbookpro --> new items: 1
+Country: de, product: ipad --> new items: 1
+Country: de, product: iphone --> new items: 2
+Country: de, product: macstudio --> new items: 1
+Country: de, product: macbookpro --> new items: 2
+Country: de, product: macbookair --> new items: 1
+Country: ie, product: ipad --> new items: 1
+Country: nl, product: ipad --> new items: 1
+Country: nl, product: iphone --> new items: 2
+Country: at, product: ipad --> new items: 1
+Country: at, product: iphone --> new items: 2
+Country: at, product: macstudio --> new items: 1
+Country: at, product: macbookpro --> new items: 2
+Country: at, product: macbookair --> new items: 2
+Country: tw, product: macbookpro --> new items: 4
+Country: tw, product: macbookair --> new items: 15
+Country: uk, product: iphone --> new items: 1
+------------------------------------------------------------
