@@ -960,3 +960,12 @@ Country: us, product: iphone --> new items: 1
 Country: us, product: macbookpro --> new items: 6
 Country: us, product: macbookair --> new items: 2
 ------------------------------------------------------------
+Date: 2026/11/10 08:02:58
+Country: au, product: macbookpro --> new items: 17
+Country: cn, product: ipad --> new items: 2
+Country: de, product: macbookair --> new items: 1
+Country: nl, product: macbookair --> new items: 1
+Country: nz, product: macbookpro --> new items: 17
+Country: at, product: macbookair --> new items: 1
+Country: pl, product: macbookair --> new items: 1
+------------------------------------------------------------
