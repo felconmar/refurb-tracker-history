@@ -1060,3 +1060,9 @@ Country: us, product: imac --> new items: 1
 Country: us, product: macbookpro --> new items: 1
 Country: us, product: macbookair --> new items: 3
 ------------------------------------------------------------
+Date: 2026/11/11 02:21:10
+Country: au, product: macbookpro --> new items: 12
+Country: au, product: macbookair --> new items: 6
+Country: nz, product: macbookpro --> new items: 12
+Country: nz, product: macbookair --> new items: 6
+------------------------------------------------------------
