@@ -8,6 +8,12 @@ This project captures snapshots from the website [Refurb Tracker][refurb_tracker
 
 [refurb_tracker_url]: https://refurb-tracker.com
 
+### Web interface
+
+The site is a single self-contained page (`index.html`, no external libraries) where you can browse and search the full history: search by product name or model number, filter by price, view the complete price history of each model with a sparkline chart, check the latest price per model, or see only models with recent price drops. It remembers your filters between visits, supports light and dark themes, and picks your country automatically on your first visit (defaulting to France).
+
+> **Transparency note:** the web interface was designed and built with AI assistance.
+
 
 
 ### Countries:

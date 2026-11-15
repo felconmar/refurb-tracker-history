@@ -3,148 +3,1228 @@
 
 <head>
     <meta charset="utf-8">
-    <meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Refurb Tracker Historic Data</title>
-    <meta name="author" content="Derek Eder">
-    <meta content="Look at the historic data from the Refurb Tracker rss feed.">
+    <meta content="width=device-width, initial-scale=1" name="viewport">
+    <title>Refurb Tracker History</title>
+    <meta name="description" content="Browse and search the historic data from the Refurb Tracker RSS feeds.">
+    <style>
+        :root {
+            color-scheme: dark;
+            --bg: #0f0d0a;
+            --bg-soft: #16130e;
+            --card: #1a1611;
+            --card-2: #211c15;
+            --border: #322b21;
+            --border-soft: #282217;
+            --text: #ede7dc;
+            --muted: #a59b8c;
+            --faint: #746c5e;
+            /* refurb-tracker.com brand orange: hsl(10,100%,55%) = #ff401a (lifted for dark bg) */
+            --accent: #ff5c1a;
+            --accent-2: #ffa235;
+            --green: #34d399;
+            --red: #f87171;
+            --amber: #fbbf24;
+            --mark-bg: rgba(255, 92, 26, .26);
+            --model-chip: #ffab7e;
+            --glow-1: rgba(255, 92, 26, .10);
+            --glow-2: rgba(255, 162, 53, .07);
+            --shadow: 0 8px 24px rgba(0, 0, 0, .25);
+            --radius: 12px;
+            --font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            --mono: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+        }
 
-    <!-- Bootstrap core CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css"
-        integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/dataTables.bootstrap4.min.css">
+        :root[data-theme="light"] {
+            color-scheme: light;
+            --bg: #faf7f1;
+            --bg-soft: #f2ede4;
+            --card: #ffffff;
+            --card-2: #f7f2e9;
+            --border: #e4dbcd;
+            --border-soft: #ece4d7;
+            --text: #292019;
+            --muted: #6f6558;
+            --faint: #a29685;
+            --accent: #e03e0a;
+            --accent-2: #f68a22;
+            --green: #157347;
+            --red: #d92d20;
+            --amber: #b45309;
+            --mark-bg: rgba(255, 145, 60, .35);
+            --model-chip: #b34a0e;
+            --glow-1: rgba(246, 138, 34, .14);
+            --glow-2: rgba(255, 92, 26, .08);
+            --shadow: 0 4px 16px rgba(80, 50, 10, .08);
+        }
+
+        * { box-sizing: border-box; }
+
+        html, body { margin: 0; padding: 0; }
+
+        body {
+            background:
+                radial-gradient(1200px 500px at 80% -10%, var(--glow-1), transparent 60%),
+                radial-gradient(1000px 500px at 10% -20%, var(--glow-2), transparent 60%),
+                var(--bg);
+            color: var(--text);
+            font-family: var(--font);
+            font-size: 15px;
+            line-height: 1.5;
+            min-height: 100vh;
+        }
+
+        .wrap { max-width: 1240px; margin: 0 auto; padding: 28px 20px 60px; }
+
+        /* ---------- header ---------- */
+        header.page { display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 14px; margin-bottom: 22px; }
+        header.page h1 {
+            margin: 0;
+            font-size: 28px;
+            letter-spacing: -.02em;
+            color: var(--accent);
+        }
+        .title-row { display: flex; align-items: center; justify-content: space-between; gap: 14px; width: 100%; }
+        .theme-toggle {
+            flex: none;
+            width: 38px; height: 38px;
+            display: inline-flex; align-items: center; justify-content: center;
+            background: var(--card); color: var(--muted);
+            border: 1px solid var(--border); border-radius: 50%;
+            cursor: pointer;
+            transition: border-color .15s, color .15s, transform .15s;
+        }
+        .theme-toggle:hover { border-color: var(--accent); color: var(--text); transform: rotate(15deg); }
+        .theme-toggle svg { width: 18px; height: 18px; }
+        :root:not([data-theme="light"]) .theme-toggle .icon-moon { display: none; }
+        :root[data-theme="light"] .theme-toggle .icon-sun { display: none; }
+
+        header.page p { width: 100%; margin: 2px 0 0; color: var(--muted); font-size: 14px; }
+        header.page a { color: var(--accent); text-decoration: none; }
+        header.page a:hover { text-decoration: underline; }
+
+        /* ---------- cards / controls ---------- */
+        .card {
+            background: var(--card);
+            border: 1px solid var(--border-soft);
+            border-radius: var(--radius);
+            box-shadow: var(--shadow);
+        }
+
+        .controls { padding: 16px; display: flex; flex-wrap: wrap; gap: 14px 16px; align-items: flex-end; }
+        .field { display: flex; flex-direction: column; gap: 5px; min-width: 0; }
+        .field > label { font-size: 11.5px; font-weight: 600; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); }
+        .field input, .field select {
+            background: var(--bg-soft);
+            color: var(--text);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            padding: 8px 10px;
+            font: inherit;
+            outline: none;
+            transition: border-color .15s, box-shadow .15s;
+        }
+        .field input:focus, .field select:focus {
+            border-color: var(--accent);
+            box-shadow: 0 0 0 3px color-mix(in srgb, var(--accent) 22%, transparent);
+        }
+        .field select { cursor: pointer; }
+        .field.grow { flex: 1 1 260px; }
+        .field input.search { width: 100%; }
+        .field .hint { font-size: 11.5px; color: var(--faint); }
+
+        .price-field { flex-direction: row; align-items: center; gap: 6px; }
+        .price-field input { width: 90px; }
+        .price-field .dash { color: var(--faint); }
+
+        .seg { display: inline-flex; background: var(--bg-soft); border: 1px solid var(--border); border-radius: 9px; padding: 3px; gap: 2px; }
+        .seg button {
+            border: 0; background: transparent; color: var(--muted);
+            padding: 6px 12px; border-radius: 7px; cursor: pointer;
+            font: inherit; font-size: 13.5px; white-space: nowrap;
+            display: inline-flex; align-items: center; gap: 7px;
+            transition: background .15s, color .15s;
+        }
+        .seg button:hover { color: var(--text); }
+        .seg button.active { background: linear-gradient(135deg, color-mix(in srgb, var(--accent) 22%, transparent), color-mix(in srgb, var(--accent-2) 22%, transparent)); color: var(--text); box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--accent) 45%, transparent); }
+        .seg .count { font-size: 11px; color: var(--faint); background: var(--card-2); border-radius: 999px; padding: 1px 7px; }
+        .seg button.active .count { color: var(--text); }
+
+        .btn {
+            display: inline-flex; align-items: center; gap: 7px;
+            background: var(--bg-soft); color: var(--text);
+            border: 1px solid var(--border); border-radius: 8px;
+            padding: 8px 14px; font: inherit; font-size: 14px;
+            cursor: pointer; text-decoration: none;
+            transition: border-color .15s, background .15s;
+        }
+        .btn:hover { border-color: var(--accent); background: var(--card-2); }
+        .btn.primary { background: linear-gradient(135deg, var(--accent), var(--accent-2)); border: 0; color: #fff; font-weight: 600; }
+        .btn.primary:hover { filter: brightness(1.08); }
+
+        .reset-link { background: none; border: none; color: var(--faint); font: inherit; font-size: 12.5px; cursor: pointer; padding: 4px 2px; text-decoration: underline dotted; }
+        .reset-link:hover { color: var(--muted); }
+
+        /* ---------- stats ---------- */
+        .stats { display: flex; flex-wrap: wrap; gap: 8px 10px; margin: 16px 2px; }
+        .stat {
+            display: inline-flex; align-items: center; gap: 7px;
+            background: var(--card); border: 1px solid var(--border-soft);
+            border-radius: 999px; padding: 5px 13px;
+            font-size: 13px; color: var(--muted);
+        }
+        .stat b { color: var(--text); font-weight: 600; font-variant-numeric: tabular-nums; }
+        .stat .dot { width: 7px; height: 7px; border-radius: 50%; }
+
+        /* ---------- table ---------- */
+        .table-card { overflow: hidden; }
+        .table-scroll { overflow: auto; max-height: 68vh; }
+        table.grid { width: 100%; border-collapse: separate; border-spacing: 0; min-width: 860px; }
+        table.grid thead th {
+            position: sticky; top: 0; z-index: 2;
+            background: var(--card-2);
+            border-bottom: 1px solid var(--border);
+            color: var(--muted);
+            font-size: 11.5px; font-weight: 700; text-transform: uppercase; letter-spacing: .07em;
+            padding: 10px 14px; text-align: left; white-space: nowrap;
+            cursor: pointer; user-select: none;
+        }
+        table.grid thead th.no-sort { cursor: default; }
+        table.grid thead th:hover:not(.no-sort) { color: var(--text); }
+        table.grid thead th .arrow { font-size: 9px; margin-left: 5px; color: var(--accent); }
+        table.grid thead th.right, table.grid td.right { text-align: right; }
+
+        table.grid tbody td { padding: 9px 14px; border-bottom: 1px solid var(--border-soft); vertical-align: top; }
+        table.grid tbody tr.row:hover td { background: color-mix(in srgb, var(--accent) 6%, transparent); }
+        table.grid tbody tr.row { cursor: default; }
+
+        .date-cell { white-space: nowrap; }
+        .date-cell .d { display: block; color: var(--text); font-variant-numeric: tabular-nums; }
+        .date-cell .t { display: block; color: var(--faint); font-size: 12px; font-variant-numeric: tabular-nums; }
+
+        .item-link { color: var(--text); text-decoration: none; display: inline-block; }
+        .item-link:hover { color: var(--accent); text-decoration: underline; }
+        .item-link .ext { color: var(--faint); font-size: 11px; margin-left: 4px; }
+        .item-link:hover .ext { color: var(--accent); }
+
+        mark { background: var(--mark-bg); color: inherit; border-radius: 3px; padding: 0 1px; }
+
+        .chip {
+            display: inline-block; font-family: var(--mono); font-size: 12px;
+            background: var(--bg-soft); border: 1px solid var(--border);
+            border-radius: 6px; padding: 2px 8px; color: var(--muted);
+            white-space: nowrap;
+        }
+        .chip.storage { color: var(--muted); }
+        .chip.model { color: var(--model-chip); }
+
+        .price-cell { white-space: nowrap; font-variant-numeric: tabular-nums; font-weight: 600; }
+        .badge-drop {
+            display: inline-block; margin-left: 8px; font-size: 11px; font-weight: 700;
+            color: var(--green); background: color-mix(in srgb, var(--green) 14%, transparent);
+            border: 1px solid color-mix(in srgb, var(--green) 40%, transparent); border-radius: 999px; padding: 1px 8px;
+            white-space: nowrap;
+        }
+
+        .expander {
+            background: none; border: 1px solid var(--border); color: var(--muted);
+            width: 28px; height: 28px; border-radius: 7px; cursor: pointer;
+            display: inline-flex; align-items: center; justify-content: center;
+            transition: transform .15s, border-color .15s, color .15s;
+        }
+        .expander:hover { border-color: var(--accent); color: var(--text); }
+        .expander.open { transform: rotate(90deg); color: var(--accent); border-color: var(--accent); }
+
+        /* ---------- detail (history) row ---------- */
+        tr.detail td { background: var(--bg-soft); border-bottom: 1px solid var(--border); padding: 14px 18px 18px; }
+        .detail-inner { display: flex; flex-wrap: wrap; gap: 18px 28px; align-items: flex-start; }
+        .detail-head { font-size: 12px; text-transform: uppercase; letter-spacing: .06em; color: var(--faint); font-weight: 700; margin-bottom: 8px; }
+        .spark { display: flex; flex-direction: column; gap: 6px; }
+        .spark svg { display: block; }
+        .spark .caption { font-size: 12.5px; color: var(--muted); }
+        .trend-down { color: var(--green); font-weight: 700; }
+        .trend-up { color: var(--red); font-weight: 700; }
+        .trend-flat { color: var(--muted); font-weight: 700; }
+        .spark-color { display: inline-flex; line-height: 0; }
+
+        .hist-wrap { flex: 1 1 300px; max-height: 280px; overflow: auto; border: 1px solid var(--border-soft); border-radius: 8px; }
+        table.hist { width: 100%; border-collapse: collapse; font-size: 13px; }
+        table.hist td { padding: 5px 12px; border-bottom: 1px solid var(--border-soft); }
+        table.hist tr:last-child td { border-bottom: 0; }
+        table.hist td.h-date { color: var(--muted); font-variant-numeric: tabular-nums; white-space: nowrap; }
+        table.hist td.h-price { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+        .p-old { color: var(--faint); }
+        .p-lower { color: var(--green); font-weight: 600; }
+        .p-higher { color: var(--red); font-weight: 600; }
+
+        /* ---------- states ---------- */
+        .state-box { padding: 60px 20px; text-align: center; color: var(--muted); }
+        .state-box .big { font-size: 34px; margin-bottom: 8px; }
+        .state-box h3 { margin: 0 0 6px; color: var(--text); }
+        .state-box p { margin: 0; font-size: 14px; }
+
+        .spinner {
+            width: 34px; height: 34px; margin: 0 auto 14px;
+            border: 3px solid var(--border); border-top-color: var(--accent);
+            border-radius: 50%; animation: spin .8s linear infinite;
+        }
+        @keyframes spin { to { transform: rotate(360deg); } }
+
+        /* ---------- pagination ---------- */
+        .pager { display: flex; flex-wrap: wrap; align-items: center; gap: 10px; padding: 12px 16px; border-top: 1px solid var(--border-soft); }
+        .pager .info { color: var(--muted); font-size: 13px; font-variant-numeric: tabular-nums; }
+        .pager .pages { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+        .pager button {
+            background: var(--bg-soft); color: var(--muted); border: 1px solid var(--border);
+            min-width: 32px; height: 30px; padding: 0 9px; border-radius: 7px;
+            cursor: pointer; font: inherit; font-size: 13px; font-variant-numeric: tabular-nums;
+        }
+        .pager button:hover:not(:disabled):not(.active) { color: var(--text); border-color: var(--accent); }
+        .pager button.active { background: linear-gradient(135deg, var(--accent), var(--accent-2)); color: #fff; border-color: transparent; font-weight: 600; }
+        .pager button:disabled { opacity: .35; cursor: default; }
+        .pager .ellipsis { color: var(--faint); align-self: center; padding: 0 2px; }
+
+        footer.page { margin-top: 34px; color: var(--faint); font-size: 13px; display: flex; flex-wrap: wrap; gap: 6px 18px; }
+        footer.page a { color: var(--muted); text-decoration: none; }
+        footer.page a:hover { color: var(--accent); }
+
+        @media (max-width: 720px) {
+            header.page h1 { font-size: 22px; }
+            .table-scroll { max-height: none; }
+            .pager .pages { margin-left: 0; }
+        }
+    </style>
+    <script>
+        // Apply saved/system theme before first paint to avoid a flash of the wrong theme
+        (function () {
+            var t = 'dark';
+            try {
+                var saved = localStorage.getItem('refurb-tracker-history:theme');
+                if (saved === 'light' || saved === 'dark') t = saved;
+                else t = window.matchMedia && window.matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark';
+            } catch (e) { }
+            document.documentElement.dataset.theme = t;
+        })();
+    </script>
 </head>
 
 <body>
-    <div class="container-fluid">
-        <main class="row">
-            <div class="col">
-                <h1>Refurb Tracker Historic Data</h1>
-
-                <p>The system started doing snapshots to the RSS feeds from <a
-                        href="https://refurb-tracker.com">refurb-tracker</a> on the 24th of March 2024.</p>
-
-                <!-- Selector for country -->
-                <label for="countrySelector">Select Country:</label>
-                <select id="countrySelector">
-                    <option value="au">Australia</option>
-                    <option value="bx">Belgium (Dutch)</option>
-                    <option value="be">Belgium (French)</option>
-                    <option value="ca">Canada (English)</option>
-                    <option value="xf">Canada (French)</option>
-                    <option value="cn">China</option>
-                    <option value="de">Germany</option>
-                    <option value="es" selected="selected">Spain</option>
-                    <option value="fr">France</option>
-                    <option value="hk">Hong Kong</option>
-                    <option value="ie">Ireland</option>
-                    <option value="it">Italy</option>
-                    <option value="jp">Japan</option>
-                    <option value="nl">Netherlands</option>
-                    <option value="nz">New Zealand</option>
-                    <option value="at">Austria</option>
-                    <option value="pl">Poland</option>
-                    <option value="sg">Singapore</option>
-                    <option value="kr">South Korea</option>
-                    <option value="cx">Switzerland (German)</option>
-                    <option value="ch">Switzerland (French)</option>
-                    <option value="tw">Taiwan</option>
-                    <option value="uk">United Kingdom</option>
-                    <option value="us">United States</option>
-                </select>
-
-                <!-- Selector for product -->
-                <label for="productSelector">Select Product:</label>
-                <select id="productSelector">
-                    <option value="ipad">iPad</option>
-                    <option value="iphone" selected="selected">iPhone</option>
-                    <option value="ipod">iPod</option>
-                    <option value="homepod">HomePod</option>
-                    <option value="imac">iMac</option>
-                    <option value="imacpro">iMac Pro</option>
-                    <option value="macpro">Mac Pro</option>
-                    <option value="macstudio">Mac Studio</option>
-                    <option value="mini">Mac Mini</option>
-                    <option value="macbookpro">MacBook Pro</option>
-                    <option value="macbookair">MacBook Air</option>
-                    <option value="watch">Apple Watch</option>
-                    <option value="atv">Apple TV</option>
-                    <option value="acc">Accessories</option>
-                </select>
-
-                <button onclick="updateCsvPath()">Refresh Table</button> <!-- Button to refresh table -->
-
-                <div id="table-container"></div>
+    <div class="wrap">
+        <header class="page">
+            <div class="title-row">
+                <h1>Refurb Tracker History</h1>
+                <button id="themeToggle" class="theme-toggle" type="button" aria-label="Toggle light/dark theme" title="Switch to light theme">
+                    <svg class="icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true">
+                        <circle cx="12" cy="12" r="4"></circle>
+                        <path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"></path>
+                    </svg>
+                    <svg class="icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" aria-hidden="true">
+                        <path d="M21 12.8A9 9 0 1 1 11.2 3 7 7 0 0 0 21 12.8z"></path>
+                    </svg>
+                </button>
             </div>
-        </main>
-        <footer class="row">
-            <div class="col">
-                <hr>
-                <p class="text-right"><a href="https://github.com/derekeder/csv-to-html-table">CSV to HTML Table</a> by
-                    <a href="http://derekeder.com">Derek
-                        Eder</a>
-                </p>
+            <p>Historic snapshots of the <a href="https://refurb-tracker.com" target="_blank" rel="noopener">refurb-tracker.com</a>
+                RSS feeds since 24 March 2024. Search matches product names and model numbers only &mdash; never prices.</p>
+        </header>
+
+        <section class="card controls" aria-label="Filters">
+            <div class="field">
+                <label for="countrySelector">Country</label>
+                <select id="countrySelector"></select>
             </div>
+            <div class="field">
+                <label for="productSelector">Product</label>
+                <select id="productSelector"></select>
+            </div>
+            <div class="field grow">
+                <label for="searchBox">Search <span style="font-weight:400;text-transform:none;letter-spacing:0">(press / to focus)</span></label>
+                <input class="search" id="searchBox" type="search" placeholder="e.g. iphone 16 pro, or a model number like FLQG3QL/A" autocomplete="off">
+            </div>
+            <div class="field">
+                <label for="minPrice">Price <span id="currencyLabel"></span></label>
+                <div class="price-field" style="display:flex">
+                    <input id="minPrice" type="text" inputmode="decimal" placeholder="min">
+                    <span class="dash">&ndash;</span>
+                    <input id="maxPrice" type="text" inputmode="decimal" placeholder="max">
+                </div>
+            </div>
+            <div class="field">
+                <label>View</label>
+                <div class="seg" id="viewSeg" role="tablist">
+                    <button type="button" data-view="all" class="active">All snapshots <span class="count" id="countAll">&ndash;</span></button>
+                    <button type="button" data-view="latest">Latest per model <span class="count" id="countLatest">&ndash;</span></button>
+                    <button type="button" data-view="drops">Price drops <span class="count" id="countDrops">&ndash;</span></button>
+                </div>
+            </div>
+            <div class="field">
+                <label for="perPage">Per page</label>
+                <select id="perPage">
+                    <option value="25">25</option>
+                    <option value="50" selected>50</option>
+                    <option value="100">100</option>
+                    <option value="250">250</option>
+                </select>
+            </div>
+            <div class="field">
+                <label>&nbsp;</label>
+                <a class="btn" id="downloadBtn" title="Download the raw CSV for this selection">
+                    &#8681; CSV
+                </a>
+            </div>
+        </section>
+
+        <div class="stats" id="statsBar"></div>
+
+        <section class="card table-card">
+            <div class="table-scroll">
+                <table class="grid" id="gridTable">
+                    <thead>
+                        <tr>
+                            <th data-key="date" class="sortable right">Date <span class="arrow" id="arrow-date">&#9660;</span></th>
+                            <th data-key="title">Item <span class="arrow" id="arrow-title"></span></th>
+                            <th data-key="model">Model <span class="arrow" id="arrow-model"></span></th>
+                            <th data-key="storage">Storage <span class="arrow" id="arrow-storage"></span></th>
+                            <th data-key="price" class="sortable right">Price <span class="arrow" id="arrow-price"></span></th>
+                            <th class="no-sort right" title="Show price history for this model">&#9776;</th>
+                        </tr>
+                    </thead>
+                    <tbody id="tableBody"></tbody>
+                </table>
+                <div id="stateBox" class="state-box" hidden>
+                    <div class="spinner" id="stateSpinner"></div>
+                    <h3 id="stateTitle"></h3>
+                    <p id="stateText"></p>
+                </div>
+            </div>
+            <div class="pager" id="pager" hidden>
+                <span class="info" id="pageInfo"></span>
+                <div class="pages" id="pageButtons"></div>
+            </div>
+        </section>
+
+        <footer class="page">
+            <span>Data from <a href="https://refurb-tracker.com" target="_blank" rel="noopener">refurb-tracker.com</a></span>
+            <span><a href="https://github.com/felconmar/refurb-tracker-history" target="_blank" rel="noopener">GitHub</a></span>
         </footer>
     </div>
-    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.2.1/js/bootstrap.bundle.min.js"></script>
-    <script src="js/jquery.csv.min.js"></script>
-    <script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
-    <script src="https://cdn.datatables.net/1.10.19/js/dataTables.bootstrap4.min.js"></script>
-    <script src="js/csv_to_html_table.js"></script>
 
     <script>
-        function format_link(link) {
-            if (link)
-                return "<a href='" + link + "' target='_blank'>" + link + "</a>";
-            else return "";
+        'use strict';
+
+        /* ================= configuration ================= */
+
+        const COUNTRIES = [
+            ['au', 'Australia'], ['bx', 'Belgium (Dutch)'], ['be', 'Belgium (French)'],
+            ['ca', 'Canada (English)'], ['xf', 'Canada (French)'], ['cn', 'China'],
+            ['de', 'Germany'], ['es', 'Spain'], ['fr', 'France'], ['hk', 'Hong Kong'],
+            ['ie', 'Ireland'], ['it', 'Italy'], ['jp', 'Japan'], ['nl', 'Netherlands'],
+            ['nz', 'New Zealand'], ['at', 'Austria'], ['pl', 'Poland'], ['sg', 'Singapore'],
+            ['kr', 'South Korea'], ['cx', 'Switzerland (German)'], ['ch', 'Switzerland (French)'],
+            ['tw', 'Taiwan'], ['uk', 'United Kingdom'], ['us', 'United States']
+        ];
+
+        const PRODUCTS = [
+            ['iphone', 'iPhone'], ['ipad', 'iPad'], ['macbookpro', 'MacBook Pro'],
+            ['macbookair', 'MacBook Air'], ['imac', 'iMac'], ['imacpro', 'iMac Pro'],
+            ['macpro', 'Mac Pro'], ['macstudio', 'Mac Studio'], ['mini', 'Mac mini'],
+            ['watch', 'Apple Watch'], ['atv', 'Apple TV'], ['homepod', 'HomePod'],
+            ['ipod', 'iPod'], ['acc', 'Accessories'], ['all', 'All products (Spain only)']
+        ];
+
+        const DEFAULTS = {
+            // default country is France (home of the refurb-tracker team);
+            // on a visitor's first load, geolocation may override it
+            c: 'fr', p: 'iphone', q: '', min: '', max: '',
+            view: 'all', sort: 'date', dir: 'desc', page: 1, per: 50
+        };
+
+        /* ================= state ================= */
+
+        const state = { ...DEFAULTS, expanded: new Set() };
+        let dataset = null;          // { rows, byModel, currency, csvPath }
+        let fetchCtrl = null;
+        let searchTokens = [];
+
+        /* ================= tiny helpers ================= */
+
+        const $ = (id) => document.getElementById(id);
+        const esc = (s) => String(s).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+
+        function fmtNum(v) {
+            return new Intl.NumberFormat('en-US', { maximumFractionDigits: 2 }).format(v);
+        }
+        function fmtPrice(v, cur) { return fmtNum(v) + (cur ? ' ' + cur : ''); }
+
+        function parseUserNumber(s) {
+            if (s == null) return null;
+            s = String(s).trim().replace(/\s/g, '');
+            if (!s) return null;
+            if (/^\d{1,3}([. ]\d{3})+(,\d+)?$/.test(s)) s = s.replace(/[. ]/g, '').replace(',', '.'); // 1.234,56
+            else if (/^\d+,\d+$/.test(s)) s = s.replace(',', '.');
+            else s = s.replace(/[^\d.]/g, '');
+            const n = parseFloat(s);
+            return isFinite(n) ? n : null;
         }
 
-        // Function to update CSV path based on selectors
-        function updateCsvPath() {
-            var country = document.getElementById("countrySelector").value;
-            var product = document.getElementById("productSelector").value;
-            var csvPath = "data/" + country + "/refurb_tracker_" + product + ".csv";
-            CsvToHtmlTable.update({
-                csv_path: csvPath,
-                element: "table-container",
-                allow_download: true,
-                csv_options: {
-                    separator: ",",
-                    delimiter: '"'
-                },
-                datatables_options: {
-                    paging: true
-                },
-                custom_formatting: [
-                    [2, format_link]
-                ]
+        /* ================= CSV parsing ================= */
+
+        function parseCSV(text) {
+            const rows = [];
+            let row = [], field = '', inQ = false;
+            for (let i = 0; i < text.length; i++) {
+                const c = text[i];
+                if (inQ) {
+                    if (c === '"') {
+                        if (text[i + 1] === '"') { field += '"'; i++; }
+                        else inQ = false;
+                    } else field += c;
+                } else if (c === '"') inQ = true;
+                else if (c === ',') { row.push(field); field = ''; }
+                else if (c === '\n') { row.push(field); rows.push(row); row = []; field = ''; }
+                else if (c !== '\r') field += c;
+            }
+            if (field !== '' || row.length) { row.push(field); rows.push(row); }
+            return rows;
+        }
+
+        /* ================= title parsing ================= */
+
+        const MODEL_RE = /(?:^|[\s\-[(\/])([A-Z]{1,2}[A-Z0-9]{3,10}\/[A-Z]{1,2})(?=$|[\s\])[.,\-\/])/;
+        const NUM_RE = /\d[\d'\u2019.,\u00A0\u202F]*/;
+        const CURRENCY_KNOWN = /^(chf|fr|z\u0142|kr|k\u010d|nt\$|hk\$|s\$|c\$|a\$|nz\$|us\$)$/i;
+
+        function parsePriceNumber(s) {
+            s = s.replace(/[\u00A0\u202F\s'\u2019]/g, '');
+            const hasC = s.includes(','), hasD = s.includes('.');
+            if (hasC && hasD) {
+                if (s.lastIndexOf(',') > s.lastIndexOf('.')) s = s.replace(/\./g, '').replace(/,/g, '.');
+                else s = s.replace(/,/g, '');
+            } else if (hasC) {
+                const p = s.split(',');
+                if (p.length === 2 && p[1].length <= 2) s = p.join('.');
+                else s = s.replace(/,/g, '');
+            } else if (hasD) {
+                const p = s.split('.');
+                if (p.length > 2 || p[1].length === 3) s = s.replace(/\./g, '');
+            }
+            const n = parseFloat(s);
+            return isFinite(n) ? n : null;
+        }
+
+        function parseTitle(title) {
+            const out = { model: null, storage: null, storageLabel: null, price: null, priceRaw: null, currency: '', searchText: title };
+            const m = title.match(MODEL_RE);
+            if (m) out.model = m[1];
+
+            const parts = title.split(' - ');
+            let priceIdx = -1;
+            for (let i = parts.length - 1; i >= 0; i--) {
+                const p = parts[i].trim();
+                if (!/\d/.test(p)) continue;
+                if (out.model && (p === out.model || p.replace(/^[\u00A5\uFFE5$]+/, '') === out.model)) continue;
+                const num = p.match(NUM_RE);
+                if (!num) continue;
+                const rest = p.replace(num[0], '').replace(/[\s]/g, '');
+                const symbolOnly = rest === '' && /[.,']/.test(num[0]);  // bare number with separators
+                const hasCurSymbol = /^[$\u20AC\u00A3\u00A5\u20A9\uFFE5\uFFE0]+$/.test(rest);
+                const knownCur = CURRENCY_KNOWN.test(rest);
+                if (symbolOnly || hasCurSymbol || knownCur) {
+                    out.price = parsePriceNumber(num[0]);
+                    out.currency = rest;
+                    out.priceRaw = p;
+                    priceIdx = i;
+                    break;
+                }
+            }
+
+            // storage
+            const st = title.match(/(\d+(?:[.,]\d+)?)\s?(GB|TB)(?![A-Za-z0-9])/i);
+            if (st) {
+                const v = parseFloat(st[1].replace(',', '.'));
+                out.storage = st[2].toUpperCase() === 'TB' ? v * 1024 : v;
+                out.storageLabel = st[1] + ' ' + st[2].toUpperCase();
+            }
+
+            // search text: title without the price segment, plus the model code
+            if (priceIdx >= 0) {
+                const kept = parts.slice(0, priceIdx).concat(parts.slice(priceIdx + 1));
+                out.searchText = kept.join(' - ');
+            }
+            if (out.model) out.searchText += ' ' + out.model;
+            return out;
+        }
+
+        function parseRow(cells) {
+            const title = cells[1] || '';
+            const t = parseTitle(title);
+            const dateStr = (cells[0] || '').trim();
+            const ts = Date.parse(dateStr) || 0;
+            return {
+                ts, dateStr, title,
+                link: (cells[2] || '').trim(),
+                model: t.model, storage: t.storage, storageLabel: t.storageLabel,
+                price: t.price, priceRaw: t.priceRaw, currency: t.currency,
+                searchLower: t.searchText.toLowerCase()
+            };
+        }
+
+        function buildDataset(csvText, csvPath) {
+            const rows = parseCSV(csvText.replace(/^\uFEFF/, ''));
+            const dataRows = [];
+            for (let i = 1; i < rows.length; i++) {
+                const r = rows[i];
+                if (!r || r.length < 2 || !r[1]) continue;
+                dataRows.push(parseRow(r));
+            }
+            const byModel = new Map();
+            let currency = '';
+            for (const r of dataRows) {
+                const key = r.model || 'T:' + r.title;
+                r.key = key;
+                if (!byModel.has(key)) byModel.set(key, []);
+                byModel.get(key).push(r);
+                if (!currency && r.currency) currency = r.currency;
+            }
+            for (const g of byModel.values()) g.sort((a, b) => a.ts - b.ts);
+            return { rows: dataRows, byModel, currency, csvPath };
+        }
+
+        /* ================= search matching ================= */
+
+        function matchToken(hay, tok) {
+            let i = 0;
+            while ((i = hay.indexOf(tok, i)) !== -1) {
+                const before = i > 0 ? hay[i - 1] : '';
+                const after = i + tok.length < hay.length ? hay[i + tok.length] : '';
+                if (!/[a-z0-9]/.test(before) && !/[a-z0-9]/.test(after)) return true;
+                i += tok.length;
+            }
+            return false;
+        }
+
+        function rowMatches(r) {
+            for (const t of searchTokens) if (!matchToken(r.searchLower, t)) return false;
+            return true;
+        }
+
+        function highlight(raw, tokens) {
+            if (!tokens.length) return esc(raw);
+            const low = raw.toLowerCase();
+            const ranges = [];
+            for (const t of tokens) {
+                let i = 0;
+                while ((i = low.indexOf(t, i)) !== -1) {
+                    const before = i > 0 ? low[i - 1] : '';
+                    const after = i + t.length < low.length ? low[i + t.length] : '';
+                    if (!/[a-z0-9]/.test(before) && !/[a-z0-9]/.test(after)) ranges.push([i, i + t.length]);
+                    i += t.length;
+                }
+            }
+            if (!ranges.length) return esc(raw);
+            ranges.sort((a, b) => a[0] - b[0]);
+            const merged = [ranges[0].slice()];
+            for (let k = 1; k < ranges.length; k++) {
+                const last = merged[merged.length - 1];
+                if (ranges[k][0] <= last[1]) last[1] = Math.max(last[1], ranges[k][1]);
+                else merged.push(ranges[k].slice());
+            }
+            let out = '', pos = 0;
+            for (const rg of merged) {
+                out += esc(raw.slice(pos, rg[0])) + '<mark>' + esc(raw.slice(rg[0], rg[1])) + '</mark>';
+                pos = rg[1];
+            }
+            return out + esc(raw.slice(pos));
+        }
+
+        /* ================= filtering / views / sorting ================= */
+
+        function baseFiltered() {
+            let rows = dataset.rows;
+            if (searchTokens.length) rows = rows.filter(rowMatches);
+            if (state.min != null || state.max != null)
+                rows = rows.filter(r => r.price != null &&
+                    (state.min == null || r.price >= state.min) &&
+                    (state.max == null || r.price <= state.max));
+            return rows;
+        }
+
+        function latestPerModel(rows) {
+            const best = new Map();
+            for (const r of rows) {
+                const b = best.get(r.key);
+                if (!b || r.ts >= b.ts) best.set(r.key, r);
+            }
+            return [...best.values()];
+        }
+
+        function computeDropInfo(rows) {
+            // per model: compare newest price vs the most recent *different* price
+            const groups = new Map();
+            for (const r of rows) {
+                if (!groups.has(r.key)) groups.set(r.key, []);
+                groups.get(r.key).push(r); // rows already in file order; sort anyway below
+            }
+            const out = new Map();
+            for (const g of groups.values()) {
+                const asc = g.slice().sort((a, b) => a.ts - b.ts);
+                const last = asc[asc.length - 1];
+                if (!last || last.price == null) continue;
+                let prev = null;
+                for (let i = asc.length - 2; i >= 0; i--) {
+                    if (asc[i].price != null && asc[i].price !== last.price) { prev = asc[i]; break; }
+                }
+                if (prev && last.price < prev.price) out.set(last.key, { from: prev.price, to: last.price, at: prev.ts });
+            }
+            return out;
+        }
+
+        function getVisible() {
+            const base = baseFiltered();
+            let rows;
+            if (state.view === 'latest') rows = latestPerModel(base);
+            else if (state.view === 'drops') {
+                const drops = computeDropInfo(base);
+                rows = latestPerModel(base).filter(r => drops.has(r.key));
+                for (const r of rows) r.dropInfo = drops.get(r.key);
+            } else rows = base;
+            sortRows(rows);
+            return { rows, baseCount: base.length };
+        }
+
+        function sortRows(rows) {
+            const s = state.dir === 'asc' ? 1 : -1;
+            const val = {
+                date: r => r.ts,
+                price: r => r.price,
+                title: r => r.title.toLowerCase(),
+                model: r => r.model ? r.model.toLowerCase() : '\uffff' + r.title.toLowerCase(),
+                storage: r => r.storage
+            }[state.sort] || (r => r.ts);
+            rows.sort((a, b) => {
+                const va = val(a), vb = val(b);
+                if (va == null && vb == null) return 0;
+                if (va == null) return 1;   // nulls always last
+                if (vb == null) return -1;
+                if (typeof va === 'string') return va < vb ? -s : va > vb ? s : 0;
+                return (va - vb) * s;
             });
         }
 
-        // Auto-refresh the table when either selector changes
-        document.getElementById("countrySelector").addEventListener("change", updateCsvPath);
-        document.getElementById("productSelector").addEventListener("change", updateCsvPath);
+        /* ================= rendering ================= */
 
-        CsvToHtmlTable.init({
-            csv_path: "data/es/refurb_tracker_iphone.csv",
-            element: "table-container",
-            allow_download: true,
-            csv_options: {
-                separator: ",",
-                delimiter: '"'
-            },
-            datatables_options: {
-                paging: true
-            },
-            custom_formatting: [
-                [2, format_link]
-            ]
-        });
+        function fmtDate(ts) {
+            const d = new Date(ts);
+            return {
+                d: d.toLocaleDateString('en-GB', { day: '2-digit', month: 'short', year: 'numeric', timeZone: 'UTC' }),
+                t: d.toLocaleTimeString('en-GB', { hour: '2-digit', minute: '2-digit', timeZone: 'UTC' }) + ' UTC'
+            };
+        }
 
+        function renderStats(vis) {
+            const bar = $('statsBar');
+            const chips = [];
+            const cur = dataset.currency || '';
+            if (searchTokens.length || state.min != null || state.max != null) {
+                chips.push(`<span class="stat"><span class="dot" style="background:var(--accent)"></span>Showing <b>${fmtNum(vis.rows.length)}</b> of <b>${fmtNum(vis.baseCount)}</b> matches</span>`);
+            } else {
+                chips.push(`<span class="stat"><span class="dot" style="background:var(--accent)"></span><b>${fmtNum(vis.rows.length)}</b> entries</span>`);
+            }
+            chips.push(`<span class="stat"><span class="dot" style="background:var(--accent-2)"></span><b>${fmtNum(dataset.byModel.size)}</b> unique models</span>`);
+            let minTs = Infinity, maxTs = -Infinity, minP = Infinity, maxP = -Infinity;
+            for (const r of dataset.rows) {
+                if (r.ts && r.ts < minTs) minTs = r.ts;
+                if (r.ts > maxTs) maxTs = r.ts;
+                if (r.price != null) { if (r.price < minP) minP = r.price; if (r.price > maxP) maxP = r.price; }
+            }
+            if (minTs <= maxTs) {
+                const a = fmtDate(minTs).d, b = fmtDate(maxTs).d;
+                chips.push(`<span class="stat">&#128197; <b>${a}</b> &rarr; <b>${b}</b></span>`);
+            }
+            if (minP <= maxP) chips.push(`<span class="stat">&#181; <b>${fmtPrice(minP, cur)}</b> &ndash; <b>${fmtPrice(maxP, cur)}</b></span>`);
+            bar.innerHTML = chips.join('');
+        }
 
+        function sparklineSVG(prices, w, h) {
+            if (prices.length < 2) return '';
+            const pad = 5;
+            const min = Math.min(...prices), max = Math.max(...prices);
+            const span = max - min || 1;
+            const pts = prices.map((p, i) => {
+                const x = pad + (i / (prices.length - 1)) * (w - 2 * pad);
+                const y = h - pad - ((p - min) / span) * (h - 2 * pad);
+                return [x, y];
+            });
+            const line = pts.map(p => p.map(v => v.toFixed(1)).join(',')).join(' ');
+            const area = `${pad},${h - pad} ${line} ${w - pad},${h - pad}`;
+            const first = pts[0], last = pts[pts.length - 1];
+            return `<svg width="${w}" height="${h}" viewBox="0 0 ${w} ${h}" role="img" aria-label="price trend">
+                <polygon points="${area}" fill="currentColor" fill-opacity=".12"/>
+                <polyline points="${line}" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+                <circle cx="${first[0]}" cy="${first[1]}" r="3" fill="currentColor"/>
+                <circle cx="${last[0]}" cy="${last[1]}" r="3.5" fill="currentColor"/>
+            </svg>`;
+        }
 
+        function renderDetail(group) {
+            const asc = group.slice().sort((a, b) => a.ts - b.ts);
+            const withPrice = asc.filter(r => r.price != null);
+            const cur = dataset.currency || '';
+            let html = `<td colspan="6"><div class="detail-inner"><div class="spark" style="min-width:300px">`;
+            html += `<div class="detail-head">Price history &mdash; ${group.length} snapshot${group.length === 1 ? '' : 's'}</div>`;
+            if (withPrice.length >= 2) {
+                const first = withPrice[0], last = withPrice[withPrice.length - 1];
+                const diff = last.price - first.price;
+                const cls = diff < 0 ? 'trend-down' : diff > 0 ? 'trend-up' : 'trend-flat';
+                const arrow = diff < 0 ? '&#9660;' : diff > 0 ? '&#9650;' : '&#9644;';
+                const delta = (diff < 0 ? '\u2212' : '+') + fmtPrice(Math.abs(diff), cur);
+                html += `<span class="spark-color ${cls}">${sparklineSVG(withPrice.map(r => r.price), 280, 56)}</span>`;
+                html += `<div class="caption">${fmtDate(first.ts).d}: <b>${fmtPrice(first.price, cur)}</b> &rarr;
+                    ${fmtDate(last.ts).d}: <b>${fmtPrice(last.price, cur)}</b>
+                    <span class="${cls}">${arrow} ${delta}</span></div>`;
+            } else {
+                html += `<div class="caption" style="color:var(--faint)">Not enough priced snapshots to draw a trend.</div>`;
+            }
+            html += `</div>`;
+            const histRows = asc.slice().reverse().map((r, idx, arr) => {
+                const prev = arr[idx + 1];
+                let cls = '';
+                if (prev && r.price != null && prev.price != null) {
+                    if (r.price < prev.price) cls = 'p-lower';
+                    else if (r.price > prev.price) cls = 'p-higher';
+                    else cls = 'p-old';
+                }
+                const dt = fmtDate(r.ts);
+                return `<tr><td class="h-date">${dt.d} ${dt.t}</td><td class="h-price ${cls}">${r.priceRaw ? esc(r.priceRaw) : '&ndash;'}</td></tr>`;
+            }).join('');
+            html += `<div class="hist-wrap"><table class="hist">${histRows}</table></div>`;
+            return html + `</div></td>`;
+        }
+
+        function renderRowHTML(r) {
+            const dt = fmtDate(r.ts);
+            const expanded = state.expanded.has(r.key);
+            const dropBadge = (state.view === 'drops' && r.dropInfo)
+                ? `<span class="badge-drop" title="Was ${fmtPrice(r.dropInfo.from, dataset.currency)} at an earlier snapshot">&#9660; ${esc(fmtPrice(r.dropInfo.to - r.dropInfo.from, dataset.currency))}</span>` : '';
+            const item = r.link
+                ? `<a class="item-link" href="${esc(r.link)}" target="_blank" rel="noopener">${highlight(r.title, searchTokens)}<span class="ext">&#8599;</span></a>${dropBadge}`
+                : `<span class="item-link">${highlight(r.title, searchTokens)}</span>${dropBadge}`;
+            return `<tr class="row" data-key="${esc(r.key)}">
+                <td class="date-cell right"><span class="d">${dt.d}</span><span class="t">${dt.t}</span></td>
+                <td>${item}</td>
+                <td>${r.model ? `<span class="chip model">${highlight(r.model, searchTokens)}</span>` : '<span style="color:var(--faint)">&ndash;</span>'}</td>
+                <td>${r.storageLabel ? `<span class="chip storage">${esc(r.storageLabel)}</span>` : '<span style="color:var(--faint)">&ndash;</span>'}</td>
+                <td class="price-cell right">${r.priceRaw ? esc(r.priceRaw) : '<span style="color:var(--faint);font-weight:400">&ndash;</span>'}</td>
+                <td class="right"><button class="expander ${expanded ? 'open' : ''}" data-key="${esc(r.key)}" aria-expanded="${expanded}" title="Price history for this model">&#9654;</button></td>
+            </tr>` + (expanded ? `<tr class="detail" data-detail="${esc(r.key)}">${renderDetail(dataset.byModel.get(r.key) || [r])}</tr>` : '');
+        }
+
+        function showState(mode, title, text) {
+            const box = $('stateBox'), tb = $('tableBody'), grid = $('gridTable'), pager = $('pager');
+            if (mode === 'hide') { box.hidden = true; grid.style.display = ''; tb.innerHTML = ''; return; }
+            box.hidden = false; grid.style.display = 'none'; pager.hidden = true; tb.innerHTML = '';
+            $('stateSpinner').style.display = mode === 'loading' ? '' : 'none';
+            box.querySelector('.big')?.remove();
+            if (mode !== 'loading') box.insertAdjacentHTML('afterbegin', `<div class="big">${mode === 'error' ? '&#9888;&#65039;' : '&#128269;'}</div>`);
+            $('stateTitle').textContent = title;
+            $('stateText').innerHTML = text || '';
+        }
+
+        function renderPager(total, page, per) {
+            const pager = $('pager');
+            const pages = Math.max(1, Math.ceil(total / per));
+            if (total === 0) { pager.hidden = true; return; }
+            pager.hidden = false;
+            $('pageInfo').textContent = `Showing ${(page - 1) * per + 1}\u2013${Math.min(page * per, total)} of ${fmtNum(total)}`;
+            const btns = [];
+            const mk = (p, label, opts = {}) =>
+                `<button data-page="${p}" ${opts.active ? 'class="active"' : ''} ${opts.disabled ? 'disabled' : ''}>${label}</button>`;
+            btns.push(mk(page - 1, '&lsaquo; Prev', { disabled: page <= 1 }));
+            const win = 2;
+            const add = p => btns.push(mk(p, p, { active: p === page }));
+            if (pages <= 9) { for (let p = 1; p <= pages; p++) add(p); }
+            else {
+                add(1);
+                if (page - win > 2) btns.push('<span class="ellipsis">&hellip;</span>');
+                for (let p = Math.max(2, page - win); p <= Math.min(pages - 1, page + win); p++) add(p);
+                if (page + win < pages - 1) btns.push('<span class="ellipsis">&hellip;</span>');
+                add(pages);
+            }
+            btns.push(mk(page + 1, 'Next &rsaquo;', { disabled: page >= pages }));
+            btns.push(mk(pages, 'Last &raquo;&raquo;', { disabled: page >= pages }));
+            $('pageButtons').innerHTML = btns.join('');
+        }
+
+        function updateSortArrows() {
+            for (const k of ['date', 'title', 'model', 'storage', 'price']) {
+                const el = $('arrow-' + k);
+                if (!el) continue;
+                el.innerHTML = (state.sort === k) ? (state.dir === 'asc' ? '&#9650;' : '&#9660;') : '';
+            }
+            document.querySelectorAll('#gridTable thead th.sortable, #gridTable thead th[data-key]').forEach(th => {
+                if (!th.dataset.key) return;
+                th.setAttribute('aria-sort', state.sort === th.dataset.key ? (state.dir === 'asc' ? 'ascending' : 'descending') : 'none');
+            });
+        }
+
+        function render() {
+            if (!dataset) return;
+            updateSortArrows();
+            searchTokens = state.q.trim().toLowerCase().split(/\s+/).filter(t => t.length > 0);
+
+            // segment counts (based on search+price filters only)
+            const base = baseFiltered();
+            const cntAll = base.length;
+            const cntLatest = latestPerModel(base).length;
+            const drops = computeDropInfo(base);
+            const cntDrops = latestPerModel(base).filter(r => drops.has(r.key)).length;
+            $('countAll').textContent = fmtNum(cntAll);
+            $('countLatest').textContent = fmtNum(cntLatest);
+            $('countDrops').textContent = fmtNum(cntDrops);
+
+            const vis = getVisible();
+            renderStats(vis);
+
+            if (vis.rows.length === 0) {
+                showState('empty', 'No matching entries',
+                    'Try clearing the search or price filters, or pick another country/product combination.');
+                $('statsBar').innerHTML = `<span class="stat">No matches for the current filters</span>`;
+                return;
+            }
+            showState('hide');
+
+            const per = state.per;
+            const pages = Math.max(1, Math.ceil(vis.rows.length / per));
+            if (state.page > pages) state.page = pages;
+            const start = (state.page - 1) * per;
+            const slice = vis.rows.slice(start, start + per);
+            $('tableBody').innerHTML = slice.map(renderRowHTML).join('');
+            renderPager(vis.rows.length, state.page, per);
+            syncURL();
+        }
+
+        /* ================= data loading ================= */
+
+        function loadDataset() {
+            const csvPath = `data/${state.c}/refurb_tracker_${state.p}.csv`;
+            syncURL();
+            $('downloadBtn').href = csvPath;
+            $('downloadBtn').setAttribute('download', `refurb_tracker_${state.p}_${state.c}.csv`);
+            if (fetchCtrl) fetchCtrl.abort();
+            fetchCtrl = new AbortController();
+            showState('loading', 'Loading data', `Fetching <code>${esc(csvPath)}</code>&hellip;`);
+            $('statsBar').innerHTML = '';
+            $('pager').hidden = true;
+            fetch(csvPath, { signal: fetchCtrl.signal })
+                .then(resp => {
+                    if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+                    return resp.text();
+                })
+                .then(text => {
+                    dataset = buildDataset(text, csvPath);
+                    $('currencyLabel').textContent = dataset.currency ? `(${esc(dataset.currency)})` : '';
+                    if (dataset.rows.length === 0) {
+                        showState('empty', 'No data', 'This file does not contain any entries yet.');
+                        return;
+                    }
+                    render();
+                })
+                .catch(err => {
+                    if (err.name === 'AbortError') return;
+                    dataset = null;
+                    showState('error', 'Could not load data',
+                        `There is no snapshot data for <b>${esc(state.c)} / ${esc(state.p)}</b> yet (or it could not be fetched). Try another country or product.`);
+                });
+        }
+
+        /* ================= URL + localStorage state ================= */
+
+        const STORE_KEY = 'refurb-tracker-history:prefs';
+        const STORE_KEY_LEGACY = 'refurb-tracker-history:v2'; // from when this page was indexv2.html
+
+        function loadSaved() {
+            try {
+                const raw = localStorage.getItem(STORE_KEY) || localStorage.getItem(STORE_KEY_LEGACY);
+                return JSON.parse(raw) || {};
+            } catch (e) { return {}; }
+        }
+
+        function persist() {
+            try {
+                localStorage.setItem(STORE_KEY, JSON.stringify({
+                    c: state.c, p: state.p, q: state.q,
+                    min: state.min, max: state.max,
+                    view: state.view, sort: state.sort, dir: state.dir, per: state.per
+                }));
+            } catch (e) { /* storage unavailable (private mode etc.) — ignore */ }
+        }
+
+        function syncURL() {
+            const params = new URLSearchParams();
+            const entries = [
+                ['c', state.c], ['p', state.p], ['q', state.q],
+                ['min', state.min != null ? String(state.min) : ''],
+                ['max', state.max != null ? String(state.max) : ''],
+                ['view', state.view], ['sort', state.sort], ['dir', state.dir],
+                ['page', state.page], ['per', state.per]
+            ];
+            for (const [k, v] of entries) if (String(v) !== String(DEFAULTS[k])) params.set(k, v);
+            const qs = params.toString();
+            history.replaceState(null, '', window.location.pathname + (qs ? '?' + qs : ''));
+            persist();
+        }
+
+        function readURL() {
+            const params = new URLSearchParams(window.location.search);
+            const saved = loadSaved();
+            // URL params win (shareable links); otherwise saved prefs; otherwise defaults
+            const get = (k) => params.has(k) ? params.get(k) : (k in saved ? saved[k] : DEFAULTS[k]);
+            state.c = COUNTRIES.some(c => c[0] === get('c')) ? get('c') : DEFAULTS.c;
+            state.p = PRODUCTS.some(p => p[0] === get('p')) ? get('p') : DEFAULTS.p;
+            state.q = String(get('q')).slice(0, 200);
+            state.min = parseUserNumber(get('min'));
+            state.max = parseUserNumber(get('max'));
+            state.view = ['all', 'latest', 'drops'].includes(get('view')) ? get('view') : 'all';
+            state.sort = ['date', 'title', 'model', 'storage', 'price'].includes(get('sort')) ? get('sort') : 'date';
+            state.dir = get('dir') === 'asc' ? 'asc' : 'desc';
+            state.per = [25, 50, 100, 250].includes(+get('per')) ? +get('per') : 50;
+            state.page = Math.max(1, parseInt(get('page'), 10) || 1);
+        }
+
+        /* ================= theme ================= */
+
+        const THEME_KEY = 'refurb-tracker-history:theme';
+
+        function applyTheme(t) {
+            document.documentElement.dataset.theme = t;
+            const btn = $('themeToggle');
+            if (btn) btn.title = t === 'light' ? 'Switch to dark theme' : 'Switch to light theme';
+        }
+
+        function storedTheme() {
+            try {
+                const v = localStorage.getItem(THEME_KEY);
+                return (v === 'light' || v === 'dark') ? v : null;
+            } catch (e) { return null; }
+        }
+
+        /* ================= country auto-detection ================= */
+
+        const GEO_TIMEOUT = 8000;
+
+        // ISO alpha-2 -> refurb-tracker country code.
+        // For multilingual stores (BE/CA/CH) the browser language picks the right variant.
+        function countryFromISO(iso2, lang) {
+            lang = (lang || '').toLowerCase();
+            switch (String(iso2 || '').toUpperCase()) {
+                case 'AU': return 'au';
+                case 'AT': return 'at';
+                case 'BE': return lang.startsWith('nl') ? 'bx' : 'be';
+                case 'CA': return lang.startsWith('fr') ? 'xf' : 'ca';
+                case 'CH': return lang.startsWith('fr') ? 'ch' : 'cx';
+                case 'CN': return 'cn';
+                case 'DE': return 'de';
+                case 'ES': return 'es';
+                case 'FR': return 'fr';
+                case 'HK': return 'hk';
+                case 'IE': return 'ie';
+                case 'IT': return 'it';
+                case 'JP': return 'jp';
+                case 'KR': return 'kr';
+                case 'NL': return 'nl';
+                case 'NZ': return 'nz';
+                case 'PL': return 'pl';
+                case 'SG': return 'sg';
+                case 'TW': return 'tw';
+                case 'GB': case 'UK': return 'uk';
+                case 'US': return 'us';
+                default: return null; // not a tracked country
+            }
+        }
+
+        // Resolves to a refurb-tracker country code, or null if location is
+        // unavailable/denied/timeout or the country is not tracked.
+        function detectCountry() {
+            return new Promise((resolve) => {
+                if (!navigator.geolocation) return resolve(null);
+                navigator.geolocation.getCurrentPosition(
+                    (pos) => {
+                        const { latitude, longitude } = pos.coords;
+                        const url = `https://api.bigdatacloud.net/data/reverse-geocode-client?latitude=${latitude}&longitude=${longitude}&localityLanguage=en`;
+                        const opts = {};
+                        if (typeof AbortSignal !== 'undefined' && AbortSignal.timeout) opts.signal = AbortSignal.timeout(GEO_TIMEOUT);
+                        fetch(url, opts)
+                            .then(r => r.ok ? r.json() : Promise.reject(new Error('geocode http ' + r.status)))
+                            .then(data => resolve(countryFromISO(data.countryCode, navigator.language)))
+                            .catch(() => resolve(null));
+                    },
+                    () => resolve(null), // denied, unavailable or timed out
+                    { timeout: GEO_TIMEOUT, maximumAge: 600000 }
+                );
+            });
+        }
+
+        // Runs geo detection and applies the result. Whether it should run at all
+        // (first visit only) is decided by init() BEFORE the initial load —
+        // loadDataset() persists prefs, which would otherwise make every visit
+        // look like a returning one.
+        function maybeAutoDetectCountry(userActed) {
+            detectCountry().then(code => {
+                if (code && !userActed()) {
+                    state.c = code;
+                    resetPage();
+                    $('countrySelector').value = code;
+                    loadDataset(); // persists the choice via syncURL
+                } else {
+                    persist(); // remember the attempt so the permission prompt is only shown once
+                }
+            });
+        }
+
+        // True when no shared URL country and no saved prefs exist yet.
+        function isFirstVisitCountry() {
+            return !new URLSearchParams(window.location.search).has('c') && !('c' in loadSaved());
+        }
+
+        /* ================= wiring ================= */
+
+        function fillSelect(sel, options, value) {
+            sel.innerHTML = options.map(([v, l]) => `<option value="${v}">${l}</option>`).join('');
+            sel.value = value;
+        }
+
+        function applyStateToControls() {
+            $('countrySelector').value = state.c;
+            $('productSelector').value = state.p;
+            $('searchBox').value = state.q;
+            $('minPrice').value = state.min != null ? state.min : '';
+            $('maxPrice').value = state.max != null ? state.max : '';
+            $('perPage').value = String(state.per);
+            document.querySelectorAll('#viewSeg button').forEach(b =>
+                b.classList.toggle('active', b.dataset.view === state.view));
+        }
+
+        function debounce(fn, ms) {
+            let t;
+            return (...a) => { clearTimeout(t); t = setTimeout(() => fn(...a), ms); };
+        }
+
+        function resetPage() { state.page = 1; }
+
+        function init() {
+            readURL();
+            fillSelect($('countrySelector'), COUNTRIES, state.c);
+            fillSelect($('productSelector'), PRODUCTS, state.p);
+            applyStateToControls();
+
+            $('countrySelector').addEventListener('change', e => { state.c = e.target.value; resetPage(); loadDataset(); });
+            $('productSelector').addEventListener('change', e => { state.p = e.target.value; resetPage(); loadDataset(); });
+
+            const onSearch = debounce(() => {
+                state.q = $('searchBox').value; resetPage(); render();
+            }, 180);
+            $('searchBox').addEventListener('input', onSearch);
+
+            const onPrice = debounce(() => {
+                state.min = parseUserNumber($('minPrice').value);
+                state.max = parseUserNumber($('maxPrice').value);
+                resetPage(); render();
+            }, 350);
+            $('minPrice').addEventListener('input', onPrice);
+            $('maxPrice').addEventListener('input', onPrice);
+
+            document.querySelectorAll('#viewSeg button').forEach(b =>
+                b.addEventListener('click', () => {
+                    state.view = b.dataset.view; resetPage();
+                    document.querySelectorAll('#viewSeg button').forEach(x => x.classList.toggle('active', x === b));
+                    render();
+                }));
+
+            $('perPage').addEventListener('change', e => {
+                state.per = +e.target.value; resetPage(); render();
+            });
+
+            document.querySelectorAll('#gridTable thead th[data-key]').forEach(th =>
+                th.addEventListener('click', () => {
+                    const key = th.dataset.key;
+                    if (!key) return;
+                    if (state.sort === key) state.dir = state.dir === 'asc' ? 'desc' : 'asc';
+                    else { state.sort = key; state.dir = key === 'date' ? 'desc' : 'asc'; }
+                    render();
+                }));
+
+            // expander + detail rows (event delegation)
+            $('tableBody').addEventListener('click', e => {
+                const btn = e.target.closest('.expander');
+                if (btn) {
+                    const key = btn.dataset.key;
+                    const rowTr = btn.closest('tr');
+                    const detailTr = rowTr.nextElementSibling;
+                    if (state.expanded.has(key)) {
+                        state.expanded.delete(key);
+                        btn.classList.remove('open'); btn.setAttribute('aria-expanded', 'false');
+                        if (detailTr && detailTr.classList.contains('detail')) detailTr.remove();
+                    } else {
+                        state.expanded.add(key);
+                        btn.classList.add('open'); btn.setAttribute('aria-expanded', 'true');
+                        const group = dataset.byModel.get(key) || [];
+                        rowTr.insertAdjacentHTML('afterend',
+                            `<tr class="detail" data-detail="${esc(key)}">${renderDetail(group)}</tr>`);
+                    }
+                    return;
+                }
+                // reset filters link inside empty state is handled below
+            });
+
+            $('pageButtons').addEventListener('click', e => {
+                const b = e.target.closest('button[data-page]');
+                if (!b || b.disabled) return;
+                state.page = +b.dataset.page;
+                render();
+                const scroller = document.querySelector('.table-scroll');
+                if (scroller) scroller.scrollTop = 0;
+            });
+
+            // keyboard: "/" focuses search, Esc clears it
+            document.addEventListener('keydown', e => {
+                if (e.key === '/' && document.activeElement !== $('searchBox') &&
+                    !/^(INPUT|SELECT|TEXTAREA)$/.test(document.activeElement.tagName)) {
+                    e.preventDefault(); $('searchBox').focus();
+                } else if (e.key === 'Escape' && document.activeElement === $('searchBox')) {
+                    $('searchBox').value = ''; state.q = ''; resetPage(); render(); $('searchBox').blur();
+                }
+            });
+
+            // theme toggle
+            applyTheme(document.documentElement.dataset.theme === 'light' ? 'light' : 'dark');
+            $('themeToggle').addEventListener('click', () => {
+                const next = document.documentElement.dataset.theme === 'light' ? 'dark' : 'light';
+                applyTheme(next);
+                try { localStorage.setItem(THEME_KEY, next); } catch (e) { }
+            });
+            // follow OS theme changes only while the user has not picked a theme manually
+            if (window.matchMedia) {
+                const mq = window.matchMedia('(prefers-color-scheme: light)');
+                const onSys = (e) => { if (!storedTheme()) applyTheme(e.matches ? 'light' : 'dark'); };
+                if (mq.addEventListener) mq.addEventListener('change', onSys);
+                else if (mq.addListener) mq.addListener(onSys);
+            }
+
+            // track any interaction so late-arriving geo detection never yanks
+            // the data out from under an active user
+            let acted = false;
+            const markActed = () => { acted = true; };
+            document.addEventListener('input', markActed, true);
+            document.addEventListener('change', markActed, true);
+            document.addEventListener('click', markActed, true);
+
+            // decide BEFORE the initial load: loadDataset() persists prefs via
+            // syncURL(), which would make every visit look like a returning one
+            const geoFirstVisit = isFirstVisitCountry();
+
+            loadDataset();
+            if (geoFirstVisit) maybeAutoDetectCountry(() => acted);
+        }
+
+        init();
     </script>
 </body>
 
