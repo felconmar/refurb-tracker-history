@@ -1,3 +1,4 @@
+from pathlib import Path
 from typing import Final
 
 
@@ -7,6 +8,8 @@ BASE_URL: Final = "https://refurb-tracker.com/feeds"
 BASE_DIR: Final = "data"
 
 # Supported countries
+# Non-obvious codes: bx = Belgium (Dutch), be = Belgium (French),
+#                     xf = Canada (French), cx = Switzerland (German), ch = Switzerland (French)
 COUNTRIES: Final = [
     "au",
     "bx",
@@ -53,7 +56,7 @@ PRODUCTS: Final = [
 ]
 
 
-def logMessage(message: str, file: str = None):
+def logMessage(message: str, file: Path | None = None):
     print(message)
     if file:
         with open(file, "a+") as outfile:

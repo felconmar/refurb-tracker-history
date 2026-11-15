@@ -13,7 +13,8 @@ This project captures snapshots from the website [Refurb Tracker][refurb_tracker
 ### Countries:
 
 * Australia
-* Belgium
+* Belgium (Dutch)
+* Belgium (French)
 * Canada (English)
 * Canada (French)
 * China
@@ -30,7 +31,8 @@ This project captures snapshots from the website [Refurb Tracker][refurb_tracker
 * Poland
 * Singapore
 * South Korea
-* Switzerland
+* Switzerland (German)
+* Switzerland (French)
 * Taiwan
 * United Kingdom
 * United States

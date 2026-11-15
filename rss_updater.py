@@ -8,9 +8,9 @@ from config import BASE_URL, BASE_DIR, COUNTRIES, PRODUCTS, logMessage
 
 
 def process_feed(country, product, base_dir, base_url, log_file):
-    dir = Path(base_dir) / country
+    feed_dir = Path(base_dir) / country
     url = f"{base_url}/{country}_in_{product}.xml"
-    target_csv = dir / f"refurb_tracker_{product}.csv"
+    target_csv = feed_dir / f"refurb_tracker_{product}.csv"
 
     # Read the rss feed
     feed = feedparser.parse(url)
@@ -48,8 +48,9 @@ def check_log_file(log_file_path):
                 return True
             else:
                 return False
-    except FileNotFoundError:
-        print("Log file not found.")
+    except (FileNotFoundError, IndexError):
+        print("Log file not found or empty.")
+        return False
 
 
 def main():

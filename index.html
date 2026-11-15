@@ -28,8 +28,8 @@
                 <label for="countrySelector">Select Country:</label>
                 <select id="countrySelector">
                     <option value="au">Australia</option>
-                    <option value="bx">Belgium</option>
-                    <option value="be">Belize</option>
+                    <option value="bx">Belgium (Dutch)</option>
+                    <option value="be">Belgium (French)</option>
                     <option value="ca">Canada (English)</option>
                     <option value="xf">Canada (French)</option>
                     <option value="cn">China</option>
@@ -46,8 +46,8 @@
                     <option value="pl">Poland</option>
                     <option value="sg">Singapore</option>
                     <option value="kr">South Korea</option>
-                    <option value="cx">Schweiz</option>
-                    <option value="ch">Switzerland</option>
+                    <option value="cx">Switzerland (German)</option>
+                    <option value="ch">Switzerland (French)</option>
                     <option value="tw">Taiwan</option>
                     <option value="uk">United Kingdom</option>
                     <option value="us">United States</option>
@@ -105,7 +105,7 @@
         function updateCsvPath() {
             var country = document.getElementById("countrySelector").value;
             var product = document.getElementById("productSelector").value;
-            var csvPath = "data\\" + country + "\\refurb_tracker_" + product + ".csv";
+            var csvPath = "data/" + country + "/refurb_tracker_" + product + ".csv";
             CsvToHtmlTable.update({
                 csv_path: csvPath,
                 element: "table-container",
@@ -123,8 +123,12 @@
             });
         }
 
+        // Auto-refresh the table when either selector changes
+        document.getElementById("countrySelector").addEventListener("change", updateCsvPath);
+        document.getElementById("productSelector").addEventListener("change", updateCsvPath);
+
         CsvToHtmlTable.init({
-            csv_path: "data\\es\\refurb_tracker_iphone.csv",
+            csv_path: "data/es/refurb_tracker_iphone.csv",
             element: "table-container",
             allow_download: true,
             csv_options: {
