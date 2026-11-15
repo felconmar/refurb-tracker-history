@@ -131,6 +131,7 @@
         .field.grow { flex: 1 1 260px; }
         .field input.search { width: 100%; }
         .field .hint { font-size: 11.5px; color: var(--faint); }
+        .field > label .kbd-hint { font-weight: 400; text-transform: none; letter-spacing: 0; }
 
         .price-field { flex-direction: row; align-items: center; gap: 6px; }
         .price-field input { width: 90px; }
@@ -238,7 +239,7 @@
         tr.detail td { background: var(--bg-soft); border-bottom: 1px solid var(--border); padding: 14px 18px 18px; }
         .detail-inner { display: flex; flex-wrap: wrap; gap: 18px 28px; align-items: flex-start; }
         .detail-head { font-size: 12px; text-transform: uppercase; letter-spacing: .06em; color: var(--faint); font-weight: 700; margin-bottom: 8px; }
-        .spark { display: flex; flex-direction: column; gap: 6px; }
+        .spark { display: flex; flex-direction: column; gap: 6px; min-width: 300px; }
         .spark svg { display: block; }
         .spark .caption { font-size: 12.5px; color: var(--muted); }
         .trend-down { color: var(--green); font-weight: 700; }
@@ -287,10 +288,57 @@
         footer.page a { color: var(--muted); text-decoration: none; }
         footer.page a:hover { color: var(--accent); }
 
+        /* ---------- small screens ---------- */
         @media (max-width: 720px) {
+            .wrap { padding: 18px 12px 44px; }
+            header.page { margin-bottom: 16px; }
             header.page h1 { font-size: 22px; }
-            .table-scroll { max-height: none; }
+            header.page p { font-size: 13px; }
+
+            /* controls become a compact two-column grid */
+            .controls { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; padding: 14px; align-items: stretch; }
+            .field.grow, .field-price, .field-view { grid-column: 1 / -1; }
+            .price-field input { width: auto; flex: 1 1 0; min-width: 0; }
+            .seg { display: flex; flex-wrap: wrap; width: 100%; }
+            .seg button { flex: 1 1 auto; }
+            .field-csv .btn { justify-content: center; }
+            .kbd-hint { display: none; }
+            /* 16px inputs stop iOS Safari from zooming the page on focus */
+            .field input, .field select { font-size: 16px; }
+
+            /* the wide table turns into stacked cards */
+            .table-scroll { max-height: none; overflow: hidden; }
+            table.grid { min-width: 0; }
+            table.grid thead { display: none; }
+            table.grid tbody tr.row {
+                display: flex; flex-wrap: wrap; align-items: center;
+                gap: 5px 10px; padding: 12px 14px 13px;
+                border-bottom: 1px solid var(--border-soft);
+            }
+            table.grid tbody tr.row:hover td { background: transparent; }
+            table.grid tbody td { display: block; padding: 0; border-bottom: 0; }
+            table.grid tbody tr:last-child td { border-bottom: 0; }
+
+            tr.row td.date-cell { order: -2; text-align: left; font-size: 12px; color: var(--faint); }
+            .date-cell .d, .date-cell .t { display: inline; color: inherit; font-size: inherit; }
+            .date-cell .t::before { content: "\00b7"; margin: 0 4px; }
+            tr.row td:nth-child(2) { order: 0; flex: 1 1 100%; margin-top: 1px; }
+            .item-link { overflow-wrap: anywhere; }
+            tr.row td:nth-child(3), tr.row td:nth-child(4) { order: 1; }
+            tr.row td.price-cell { order: 2; margin-left: auto; }
+            tr.row td:nth-child(6) { order: -1; margin-left: auto; }
+            .expander { width: 36px; height: 36px; }
+
+            tr.detail { display: block; }
+            tr.detail > td { display: block; width: 100%; padding: 12px 14px 16px; }
+            .detail-inner { gap: 14px 0; }
+            .spark { min-width: 0; }
+            .spark svg { max-width: 100%; height: auto; }
+            .hist-wrap { flex: 1 1 100%; max-height: 240px; }
+
             .pager .pages { margin-left: 0; }
+            .pager button { min-width: 36px; height: 34px; }
+            .state-box { padding: 40px 16px; }
         }
     </style>
     <script>
@@ -336,10 +384,10 @@
                 <select id="productSelector"></select>
             </div>
             <div class="field grow">
-                <label for="searchBox">Search <span style="font-weight:400;text-transform:none;letter-spacing:0">(press / to focus)</span></label>
+                <label for="searchBox">Search <span class="kbd-hint">(press / to focus)</span></label>
                 <input class="search" id="searchBox" type="search" placeholder="e.g. iphone 16 pro, or a model number like FLQG3QL/A" autocomplete="off">
             </div>
-            <div class="field">
+            <div class="field field-price">
                 <label for="minPrice">Price <span id="currencyLabel"></span></label>
                 <div class="price-field" style="display:flex">
                     <input id="minPrice" type="text" inputmode="decimal" placeholder="min">
@@ -347,7 +395,7 @@
                     <input id="maxPrice" type="text" inputmode="decimal" placeholder="max">
                 </div>
             </div>
-            <div class="field">
+            <div class="field field-view">
                 <label>View</label>
                 <div class="seg" id="viewSeg" role="tablist">
                     <button type="button" data-view="all" class="active">All snapshots <span class="count" id="countAll">&ndash;</span></button>
@@ -364,7 +412,7 @@
                     <option value="250">250</option>
                 </select>
             </div>
-            <div class="field">
+            <div class="field field-csv">
                 <label>&nbsp;</label>
                 <a class="btn" id="downloadBtn" title="Download the raw CSV for this selection">
                     &#8681; CSV
@@ -768,7 +816,7 @@
             const asc = group.slice().sort((a, b) => a.ts - b.ts);
             const withPrice = asc.filter(r => r.price != null);
             const cur = dataset.currency || '';
-            let html = `<td colspan="6"><div class="detail-inner"><div class="spark" style="min-width:300px">`;
+            let html = `<td colspan="6"><div class="detail-inner"><div class="spark">`;
             html += `<div class="detail-head">Price history &mdash; ${group.length} snapshot${group.length === 1 ? '' : 's'}</div>`;
             if (withPrice.length >= 2) {
                 const first = withPrice[0], last = withPrice[withPrice.length - 1];
