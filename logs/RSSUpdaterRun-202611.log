@@ -2200,3 +2200,13 @@ Country: pl, product: ipad --> new items: 1
 Country: cx, product: ipad --> new items: 1
 Country: ch, product: ipad --> new items: 1
 ------------------------------------------------------------
+Date: 2026/11/23 03:20:46
+Country: de, product: macbookpro --> new items: 1
+Country: de, product: macbookair --> new items: 1
+Country: hk, product: ipad --> new items: 4
+Country: at, product: macbookpro --> new items: 1
+Country: at, product: macbookair --> new items: 1
+Country: sg, product: ipad --> new items: 4
+Country: us, product: ipad --> new items: 1
+Country: us, product: macbookpro --> new items: 1
+------------------------------------------------------------
